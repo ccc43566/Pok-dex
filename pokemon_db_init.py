@@ -144,45 +144,4 @@ def insert_pokemon(self, pokemon_data):
 if __name__ == "__main__":
     # 创建数据库实例（自动创建所有表）
     db = PokemonDB()
-    
-    # # 插入示例数据：皮卡丘
-    # pikachu_data = {
-    #     "id": 25,
-    #     "name": "皮卡丘",
-    #     "jp_name": "ピカチュウ",
-    #     "en_name": "Pikachu",
-    #     "type1": "电",
-    #     "type2": None,
-    #     "hp": 35,
-    #     "attack": 55,
-    #     "defense": 40,
-    #     "sp_atk": 50,
-    #     "sp_def": 50,
-    #     "speed": 90,
-    #     "total": 320,
-    #     "description": "脸颊两边有着小小的电力袋。遇到危险时就会放电。"
-    # }
-    # db.insert_pokemon(pikachu_data)
-    
-    # 插入示例技能：十万伏特
-    # try:
-    #     cursor = db.conn.cursor()
-    #     cursor.execute("""
-    #     INSERT OR IGNORE INTO moves (id, name, type, category, power, accuracy, pp)
-    #     VALUES (1, '十万伏特', '电', '特殊', 90, 100, 15)
-    #     """)
-    #     db.conn.commit()
-    #     print("成功插入技能: 十万伏特")
-        
-    #     # 关联皮卡丘和十万伏特（25级学会）
-    #     cursor.execute("""
-    #     INSERT OR IGNORE INTO pokemon_moves (pokemon_id, move_id, level_learned)
-    #     VALUES (25, 1, 25)
-    #     """)
-    #     db.conn.commit()
-    #     print("成功关联皮卡丘和十万伏特技能")
-    # except Error as e:
-    #     print(f"插入技能/关联失败: {e}")
-    
-    # 关闭连接
     db.close()

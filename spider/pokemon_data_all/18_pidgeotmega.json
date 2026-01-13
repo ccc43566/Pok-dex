@@ -3,15 +3,17 @@
   "name": "Pidgeot-Mega",
   "type1": "Normal",
   "type2": "Flying",
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 83,
+  "attack": 80,
+  "defense": 80,
+  "sp_atk": 135,
+  "sp_def": 80,
+  "speed": 121,
+  "total": 579,
+  "abilities": [
+    "No Guard"
+  ],
+  "height": 2.2,
+  "weight": 50.5,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/pidgeotmega.gif"
 }

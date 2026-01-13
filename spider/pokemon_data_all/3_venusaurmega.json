@@ -1,0 +1,17 @@
+{
+  "id": 3,
+  "name": "Venusaur-Mega",
+  "type1": "Grass",
+  "type2": "Poison",
+  "hp": 0,
+  "attack": 0,
+  "defense": 0,
+  "sp_atk": 0,
+  "sp_def": 0,
+  "speed": 0,
+  "total": 0,
+  "abilities": [],
+  "height": 0,
+  "weight": 0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/venusaurmega.gif"
+}

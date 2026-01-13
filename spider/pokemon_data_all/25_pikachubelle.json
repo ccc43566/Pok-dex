@@ -1,0 +1,17 @@
+{
+  "id": 25,
+  "name": "Pikachu-Belle",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 0,
+  "attack": 0,
+  "defense": 0,
+  "sp_atk": 0,
+  "sp_def": 0,
+  "speed": 0,
+  "total": 0,
+  "abilities": [],
+  "height": 0,
+  "weight": 0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pikachubelle.gif"
+}

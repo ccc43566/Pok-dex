@@ -1,0 +1,18 @@
+{
+  "id": 18,
+  "name": "Pidgeot",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 0,
+  "attack": 0,
+  "defense": 0,
+  "sp_atk": 0,
+  "sp_def": 0,
+  "speed": 0,
+  "total": 0,
+  "abilities": [],
+  "height": 0,
+  "weight": 0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pidgeot.gif",
+  "image_path": "pokemon_images\\18_pidgeot.gif"
+}

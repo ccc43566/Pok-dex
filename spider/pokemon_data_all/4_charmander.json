@@ -3,20 +3,19 @@
   "name": "Charmander",
   "type1": "Fire",
   "type2": null,
-  "hp": 11,
-  "attack": 35,
-  "defense": 11,
-  "sp_atk": 40,
-  "sp_def": 44,
-  "speed": 25,
-  "total": 166,
+  "hp": 39,
+  "attack": 52,
+  "defense": 43,
+  "sp_atk": 60,
+  "sp_def": 50,
+  "speed": 65,
+  "total": 309,
   "abilities": [
     "Blaze",
-    "Cacophony",
     "Solar Power"
   ],
-  "height": 0,
-  "weight": 0,
+  "height": 0.6,
+  "weight": 8.5,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/charmander.gif",
-  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\4_charmander.gif"
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\4_charmander.gif"
 }

@@ -3,15 +3,17 @@
   "name": "Charizard-Mega-X",
   "type1": "Fire",
   "type2": "Dragon",
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 78,
+  "attack": 130,
+  "defense": 111,
+  "sp_atk": 130,
+  "sp_def": 85,
+  "speed": 100,
+  "total": 634,
+  "abilities": [
+    "Tough Claws"
+  ],
+  "height": 1.7,
+  "weight": 110.5,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/charizardmegax.gif"
 }

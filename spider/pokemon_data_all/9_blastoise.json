@@ -3,16 +3,19 @@
   "name": "Blastoise",
   "type1": "Water",
   "type2": null,
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 79,
+  "attack": 83,
+  "defense": 100,
+  "sp_atk": 85,
+  "sp_def": 105,
+  "speed": 78,
+  "total": 530,
+  "abilities": [
+    "Torrent",
+    "Rain Dish"
+  ],
+  "height": 1.6,
+  "weight": 85.5,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/blastoise.gif",
-  "image_path": "pokemon_images\\9_blastoise.gif"
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\9_blastoise.gif"
 }

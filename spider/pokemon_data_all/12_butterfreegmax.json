@@ -3,15 +3,18 @@
   "name": "Butterfree-Gmax",
   "type1": "Bug",
   "type2": "Flying",
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 60,
+  "attack": 45,
+  "defense": 50,
+  "sp_atk": 90,
+  "sp_def": 80,
+  "speed": 70,
+  "total": 395,
+  "abilities": [
+    "Compound Eyes",
+    "Tinted Lens"
+  ],
+  "height": 17.0,
+  "weight": 0.0,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/butterfreegmax.gif"
 }

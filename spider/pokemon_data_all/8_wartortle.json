@@ -3,16 +3,19 @@
   "name": "Wartortle",
   "type1": "Water",
   "type2": null,
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 59,
+  "attack": 63,
+  "defense": 80,
+  "sp_atk": 65,
+  "sp_def": 80,
+  "speed": 58,
+  "total": 405,
+  "abilities": [
+    "Torrent",
+    "Rain Dish"
+  ],
+  "height": 1.0,
+  "weight": 22.5,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/wartortle.gif",
-  "image_path": "pokemon_images\\8_wartortle.gif"
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\8_wartortle.gif"
 }

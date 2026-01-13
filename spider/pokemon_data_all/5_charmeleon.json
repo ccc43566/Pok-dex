@@ -3,16 +3,19 @@
   "name": "Charmeleon",
   "type1": "Fire",
   "type2": null,
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 58,
+  "attack": 64,
+  "defense": 58,
+  "sp_atk": 80,
+  "sp_def": 65,
+  "speed": 80,
+  "total": 405,
+  "abilities": [
+    "Blaze",
+    "Solar Power"
+  ],
+  "height": 1.1,
+  "weight": 19.0,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/charmeleon.gif",
-  "image_path": "pokemon_images\\5_charmeleon.gif"
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\5_charmeleon.gif"
 }

@@ -3,16 +3,19 @@
   "name": "Charizard",
   "type1": "Fire",
   "type2": "Flying",
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 78,
+  "attack": 84,
+  "defense": 78,
+  "sp_atk": 109,
+  "sp_def": 85,
+  "speed": 100,
+  "total": 534,
+  "abilities": [
+    "Blaze",
+    "Solar Power"
+  ],
+  "height": 1.7,
+  "weight": 90.5,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/charizard.gif",
-  "image_path": "pokemon_images\\6_charizard.gif"
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\6_charizard.gif"
 }

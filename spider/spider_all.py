@@ -23,14 +23,32 @@ os.makedirs(IMAGE_FOLDER, exist_ok=True)
 
 def extract_pokemon_data(js_content, pokemon_key):
     """从JavaScript内容中提取特定宝可梦的数据"""
-    # 查找特定的宝可梦数据
-    pattern = rf'{re.escape(pokemon_key)}:\s*{{([^}}]*?)}}'
-    match = re.search(pattern, js_content, re.DOTALL)
+    # 查找特定的宝可梦数据，使用平衡大括号匹配
+    start_pattern = rf'{re.escape(pokemon_key)}:\s*{{'
+    start_match = re.search(start_pattern, js_content)
 
-    if not match:
+    if not start_match:
         return None
 
-    pokemon_str = match.group(1)
+    start_pos = start_match.end() - 1  # 包含开头的{
+
+    # 从start_pos开始，计算大括号的平衡
+    brace_count = 0
+    end_pos = start_pos
+
+    for i in range(start_pos, len(js_content)):
+        if js_content[i] == '{':
+            brace_count += 1
+        elif js_content[i] == '}':
+            brace_count -= 1
+            if brace_count == 0:
+                end_pos = i + 1  # 包含结尾的}
+                break
+
+    if brace_count != 0:
+        return None
+
+    pokemon_str = js_content[start_pos:end_pos]
 
     # 手动解析JavaScript对象格式
     data = {}
@@ -69,7 +87,8 @@ def extract_pokemon_data(js_content, pokemon_key):
     if abilities_match:
         abilities_str = abilities_match.group(1)
         abilities = {}
-        ability_matches = re.findall(r'["\'](\d+|H)["\']\s*:\s*["\']([^"\']+)["\']', abilities_str)
+        # 处理两种格式: "0":"Overgrow" 和 H:"Chlorophyll"
+        ability_matches = re.findall(r'["\']?(\d+|H)["\']?\s*:\s*["\']([^"\']+)["\']', abilities_str)
         for key, value in ability_matches:
             abilities[key] = value
         data['abilities'] = abilities
@@ -159,32 +178,34 @@ def get_pokemon_stats_from_web(pokemon_name):
         if stats_table:
             # 解析表格中的统计数据
             rows = stats_table.find_all('tr')
-            print(f"  统计表格有 {len(rows)} 行")
 
-            # 查找包含"Level"的行（通常是种族值行）
+            # 查找包含种族值关键词的行
+            stat_names = ['HP:', 'Attack:', 'Defense:', 'Sp. Atk:', 'Sp. Def:', 'Speed:']
+            stat_values = []
+
             for row in rows:
                 cells = row.find_all(['td', 'th'])
-                cell_texts = [cell.get_text(strip=True) for cell in cells]
+                if not cells:
+                    continue
+                cell_text = cells[0].get_text(strip=True)
 
-                if 'Level' in cell_texts:
-                    print(f"  找到Level行: {cell_texts}")
+                for stat_name in stat_names:
+                    if cell_text.startswith(stat_name):
+                        # 提取冒号后的数字
+                        value_str = cell_text.split(':')[1]
+                        if value_str.isdigit():
+                            stat_values.append(int(value_str))
+                            break
 
-                    # 提取数值（通常从第2列开始是数值）
-                    stat_values = []
-                    for i in range(1, min(len(cells), 7)):  # 最多取6个值
-                        cell_text = cells[i].get_text(strip=True)
-                        if cell_text.isdigit():
-                            stat_values.append(int(cell_text))
-
-                    if len(stat_values) >= 6:
-                        stats_data['hp'] = stat_values[0]
-                        stats_data['attack'] = stat_values[1]
-                        stats_data['defense'] = stat_values[2]
-                        stats_data['sp_atk'] = stat_values[3]
-                        stats_data['sp_def'] = stat_values[4]
-                        stats_data['speed'] = stat_values[5]
-                        print(f"  成功提取种族值: {stat_values[:6]}")
-                        break
+            if len(stat_values) >= 6:
+                stats_data['hp'] = stat_values[0]
+                stats_data['attack'] = stat_values[1]
+                stats_data['defense'] = stat_values[2]
+                stats_data['sp_atk'] = stat_values[3]
+                stats_data['sp_def'] = stat_values[4]
+                stats_data['speed'] = stat_values[5]
+            else:
+                print(f"  未找到足够的统计值，只找到 {len(stat_values)} 个")
         else:
             print("  未找到统计数据表格")
 

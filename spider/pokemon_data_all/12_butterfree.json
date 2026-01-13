@@ -3,16 +3,19 @@
   "name": "Butterfree",
   "type1": "Bug",
   "type2": "Flying",
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 60,
+  "attack": 45,
+  "defense": 50,
+  "sp_atk": 90,
+  "sp_def": 80,
+  "speed": 70,
+  "total": 395,
+  "abilities": [
+    "Compound Eyes",
+    "Tinted Lens"
+  ],
+  "height": 1.1,
+  "weight": 32.0,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/butterfree.gif",
-  "image_path": "pokemon_images\\12_butterfree.gif"
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\12_butterfree.gif"
 }

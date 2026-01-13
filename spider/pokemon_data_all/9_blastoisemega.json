@@ -3,15 +3,17 @@
   "name": "Blastoise-Mega",
   "type1": "Water",
   "type2": null,
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 79,
+  "attack": 103,
+  "defense": 120,
+  "sp_atk": 135,
+  "sp_def": 115,
+  "speed": 78,
+  "total": 630,
+  "abilities": [
+    "Mega Launcher"
+  ],
+  "height": 1.6,
+  "weight": 101.1,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/blastoisemega.gif"
 }

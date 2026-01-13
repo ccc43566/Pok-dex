@@ -25,6 +25,12 @@ def test_bulbasaur():
 
     # 获取Bulbasaur的数据
     print("重新爬取Bulbasaur的数据...")
+
+    # 先测试extract_pokemon_data
+    from spider_all import extract_pokemon_data
+    pokemon_data = extract_pokemon_data(js_content, "bulbasaur")
+    print(f"extract_pokemon_data结果: {pokemon_data}")
+
     data = get_pokemon_data("bulbasaur", js_content)
 
     if data:
@@ -42,6 +48,7 @@ def test_bulbasaur():
 
         # 保存数据
         filename = f"{data['id']}_bulbasaur.json"
+        os.makedirs("pokemon_data_all", exist_ok=True)
         filepath = os.path.join("pokemon_data_all", filename)
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)

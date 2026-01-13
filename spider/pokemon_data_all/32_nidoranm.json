@@ -1,0 +1,22 @@
+{
+  "id": 32,
+  "name": "Nidoran-M",
+  "type1": "Poison",
+  "type2": null,
+  "hp": 46,
+  "attack": 57,
+  "defense": 40,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "speed": 50,
+  "total": 273,
+  "abilities": [
+    "Poison Point",
+    "Rivalry",
+    "Hustle"
+  ],
+  "height": 0.5,
+  "weight": 9.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/nidoranm.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\32_nidoranm.gif"
+}

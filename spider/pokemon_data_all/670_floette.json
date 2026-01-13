@@ -1,0 +1,21 @@
+{
+  "id": 670,
+  "name": "Floette",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 54,
+  "attack": 45,
+  "defense": 47,
+  "sp_atk": 75,
+  "sp_def": 98,
+  "speed": 52,
+  "total": 371,
+  "abilities": [
+    "Flower Veil",
+    "Symbiosis"
+  ],
+  "height": 0.2,
+  "weight": 0.9,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/floette.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\670_floette.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1018,
+  "name": "Archaludon",
+  "type1": "Steel",
+  "type2": "Dragon",
+  "hp": 90,
+  "attack": 105,
+  "defense": 130,
+  "sp_atk": 125,
+  "sp_def": 65,
+  "speed": 85,
+  "total": 600,
+  "abilities": [
+    "Stamina",
+    "Sturdy",
+    "Stalwart"
+  ],
+  "height": 2.0,
+  "weight": 60.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/archaludon.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\1018_archaludon.gif"
+}

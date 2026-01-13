@@ -1,0 +1,19 @@
+{
+  "id": 127,
+  "name": "Pinsir-Mega",
+  "type1": "Bug",
+  "type2": "Flying",
+  "hp": 65,
+  "attack": 155,
+  "defense": 120,
+  "sp_atk": 65,
+  "sp_def": 90,
+  "speed": 105,
+  "total": 600,
+  "abilities": [
+    "Aerilate"
+  ],
+  "height": 1.7,
+  "weight": 59.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pinsirmega.gif"
+}

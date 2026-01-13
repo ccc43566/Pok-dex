@@ -1,0 +1,19 @@
+{
+  "id": 774,
+  "name": "Minior-Meteor",
+  "type1": "Rock",
+  "type2": "Flying",
+  "hp": 60,
+  "attack": 60,
+  "defense": 100,
+  "sp_atk": 60,
+  "sp_def": 100,
+  "speed": 60,
+  "total": 440,
+  "abilities": [
+    "Shields Down"
+  ],
+  "height": 0.3,
+  "weight": 40.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/miniormeteor.gif"
+}

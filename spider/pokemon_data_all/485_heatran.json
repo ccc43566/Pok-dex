@@ -1,0 +1,21 @@
+{
+  "id": 485,
+  "name": "Heatran",
+  "type1": "Fire",
+  "type2": "Steel",
+  "hp": 91,
+  "attack": 90,
+  "defense": 106,
+  "sp_atk": 130,
+  "sp_def": 106,
+  "speed": 77,
+  "total": 600,
+  "abilities": [
+    "Flash Fire",
+    "Flame Body"
+  ],
+  "height": 1.7,
+  "weight": 430.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/heatran.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\485_heatran.gif"
+}

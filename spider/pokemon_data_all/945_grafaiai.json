@@ -1,0 +1,22 @@
+{
+  "id": 945,
+  "name": "Grafaiai",
+  "type1": "Poison",
+  "type2": "Normal",
+  "hp": 63,
+  "attack": 95,
+  "defense": 65,
+  "sp_atk": 80,
+  "sp_def": 72,
+  "speed": 110,
+  "total": 485,
+  "abilities": [
+    "Unburden",
+    "Poison Touch",
+    "Prankster"
+  ],
+  "height": 0.7,
+  "weight": 27.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/grafaiai.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\945_grafaiai.gif"
+}

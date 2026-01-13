@@ -1,0 +1,19 @@
+{
+  "id": 306,
+  "name": "Aggron-Mega",
+  "type1": "Steel",
+  "type2": null,
+  "hp": 70,
+  "attack": 140,
+  "defense": 230,
+  "sp_atk": 60,
+  "sp_def": 80,
+  "speed": 50,
+  "total": 630,
+  "abilities": [
+    "Filter"
+  ],
+  "height": 2.2,
+  "weight": 395.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/aggronmega.gif"
+}

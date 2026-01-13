@@ -1,0 +1,20 @@
+{
+  "id": 798,
+  "name": "Kartana",
+  "type1": "Grass",
+  "type2": "Steel",
+  "hp": 59,
+  "attack": 181,
+  "defense": 131,
+  "sp_atk": 59,
+  "sp_def": 31,
+  "speed": 109,
+  "total": 570,
+  "abilities": [
+    "Beast Boost"
+  ],
+  "height": 0.3,
+  "weight": 0.1,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/kartana.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\798_kartana.gif"
+}

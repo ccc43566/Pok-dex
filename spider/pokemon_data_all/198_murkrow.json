@@ -1,0 +1,22 @@
+{
+  "id": 198,
+  "name": "Murkrow",
+  "type1": "Dark",
+  "type2": "Flying",
+  "hp": 60,
+  "attack": 85,
+  "defense": 42,
+  "sp_atk": 85,
+  "sp_def": 42,
+  "speed": 91,
+  "total": 405,
+  "abilities": [
+    "Insomnia",
+    "Super Luck",
+    "Prankster"
+  ],
+  "height": 0.5,
+  "weight": 2.1,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/murkrow.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\198_murkrow.gif"
+}

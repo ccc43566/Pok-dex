@@ -1,0 +1,20 @@
+{
+  "id": 201,
+  "name": "Unown",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 48,
+  "attack": 72,
+  "defense": 48,
+  "sp_atk": 72,
+  "sp_def": 48,
+  "speed": 48,
+  "total": 336,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 0.5,
+  "weight": 5.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/unown.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\201_unown.gif"
+}

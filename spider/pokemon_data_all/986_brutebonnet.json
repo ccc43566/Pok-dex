@@ -1,0 +1,20 @@
+{
+  "id": 986,
+  "name": "Brute Bonnet",
+  "type1": "Grass",
+  "type2": "Dark",
+  "hp": 111,
+  "attack": 127,
+  "defense": 99,
+  "sp_atk": 79,
+  "sp_def": 99,
+  "speed": 55,
+  "total": 570,
+  "abilities": [
+    "Protosynthesis"
+  ],
+  "height": 1.2,
+  "weight": 21.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/brutebonnet.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\986_brutebonnet.gif"
+}

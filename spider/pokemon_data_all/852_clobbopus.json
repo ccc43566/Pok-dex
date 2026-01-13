@@ -1,0 +1,21 @@
+{
+  "id": 852,
+  "name": "Clobbopus",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 50,
+  "attack": 68,
+  "defense": 60,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "speed": 32,
+  "total": 310,
+  "abilities": [
+    "Limber",
+    "Technician"
+  ],
+  "height": 0.6,
+  "weight": 4.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/clobbopus.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\852_clobbopus.gif"
+}

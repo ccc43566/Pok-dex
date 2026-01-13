@@ -1,0 +1,21 @@
+{
+  "id": 460,
+  "name": "Abomasnow",
+  "type1": "Grass",
+  "type2": "Ice",
+  "hp": 90,
+  "attack": 92,
+  "defense": 75,
+  "sp_atk": 92,
+  "sp_def": 85,
+  "speed": 60,
+  "total": 494,
+  "abilities": [
+    "Snow Warning",
+    "Soundproof"
+  ],
+  "height": 2.2,
+  "weight": 135.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/abomasnow.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\460_abomasnow.gif"
+}

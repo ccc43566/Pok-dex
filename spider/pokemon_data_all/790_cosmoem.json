@@ -1,0 +1,20 @@
+{
+  "id": 790,
+  "name": "Cosmoem",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 43,
+  "attack": 29,
+  "defense": 131,
+  "sp_atk": 29,
+  "sp_def": 131,
+  "speed": 37,
+  "total": 400,
+  "abilities": [
+    "Sturdy"
+  ],
+  "height": 0.1,
+  "weight": 999.9,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/cosmoem.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\790_cosmoem.gif"
+}

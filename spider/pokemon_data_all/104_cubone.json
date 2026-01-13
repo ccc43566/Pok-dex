@@ -1,0 +1,22 @@
+{
+  "id": 104,
+  "name": "Cubone",
+  "type1": "Ground",
+  "type2": null,
+  "hp": 50,
+  "attack": 50,
+  "defense": 95,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "speed": 35,
+  "total": 320,
+  "abilities": [
+    "Rock Head",
+    "Lightning Rod",
+    "Battle Armor"
+  ],
+  "height": 0.4,
+  "weight": 6.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/cubone.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\104_cubone.gif"
+}

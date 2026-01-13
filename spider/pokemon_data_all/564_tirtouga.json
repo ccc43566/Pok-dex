@@ -1,0 +1,22 @@
+{
+  "id": 564,
+  "name": "Tirtouga",
+  "type1": "Water",
+  "type2": "Rock",
+  "hp": 54,
+  "attack": 78,
+  "defense": 103,
+  "sp_atk": 53,
+  "sp_def": 45,
+  "speed": 22,
+  "total": 355,
+  "abilities": [
+    "Solid Rock",
+    "Sturdy",
+    "Swift Swim"
+  ],
+  "height": 0.7,
+  "weight": 16.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/tirtouga.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\564_tirtouga.gif"
+}

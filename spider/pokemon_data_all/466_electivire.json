@@ -1,0 +1,21 @@
+{
+  "id": 466,
+  "name": "Electivire",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 75,
+  "attack": 123,
+  "defense": 67,
+  "sp_atk": 95,
+  "sp_def": 85,
+  "speed": 95,
+  "total": 540,
+  "abilities": [
+    "Motor Drive",
+    "Vital Spirit"
+  ],
+  "height": 1.8,
+  "weight": 138.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/electivire.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\466_electivire.gif"
+}

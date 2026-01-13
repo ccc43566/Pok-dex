@@ -1,0 +1,20 @@
+{
+  "id": 772,
+  "name": "Type: Null",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 95,
+  "attack": 95,
+  "defense": 95,
+  "sp_atk": 95,
+  "sp_def": 95,
+  "speed": 59,
+  "total": 534,
+  "abilities": [
+    "Battle Armor"
+  ],
+  "height": 1.9,
+  "weight": 120.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/typenull.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\772_typenull.gif"
+}

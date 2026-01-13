@@ -1,0 +1,19 @@
+{
+  "id": 1024,
+  "name": "Terapagos-Stellar",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 160,
+  "attack": 105,
+  "defense": 110,
+  "sp_atk": 130,
+  "sp_def": 110,
+  "speed": 85,
+  "total": 700,
+  "abilities": [
+    "Teraform Zero"
+  ],
+  "height": 1.7,
+  "weight": 77.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/terapagosstellar.gif"
+}

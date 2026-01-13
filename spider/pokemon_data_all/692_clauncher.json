@@ -1,0 +1,20 @@
+{
+  "id": 692,
+  "name": "Clauncher",
+  "type1": "Water",
+  "type2": null,
+  "hp": 50,
+  "attack": 53,
+  "defense": 62,
+  "sp_atk": 58,
+  "sp_def": 63,
+  "speed": 44,
+  "total": 330,
+  "abilities": [
+    "Mega Launcher"
+  ],
+  "height": 0.5,
+  "weight": 8.3,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/clauncher.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\692_clauncher.gif"
+}

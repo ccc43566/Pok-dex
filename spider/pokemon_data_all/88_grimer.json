@@ -1,0 +1,22 @@
+{
+  "id": 88,
+  "name": "Grimer",
+  "type1": "Poison",
+  "type2": null,
+  "hp": 80,
+  "attack": 80,
+  "defense": 50,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "speed": 25,
+  "total": 325,
+  "abilities": [
+    "Stench",
+    "Sticky Hold",
+    "Poison Touch"
+  ],
+  "height": 0.9,
+  "weight": 30.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/grimer.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\88_grimer.gif"
+}

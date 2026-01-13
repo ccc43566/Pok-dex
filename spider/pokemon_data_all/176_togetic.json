@@ -1,0 +1,22 @@
+{
+  "id": 176,
+  "name": "Togetic",
+  "type1": "Fairy",
+  "type2": "Flying",
+  "hp": 55,
+  "attack": 40,
+  "defense": 85,
+  "sp_atk": 80,
+  "sp_def": 105,
+  "speed": 40,
+  "total": 405,
+  "abilities": [
+    "Hustle",
+    "Serene Grace",
+    "Super Luck"
+  ],
+  "height": 0.6,
+  "weight": 3.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/togetic.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\176_togetic.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 328,
+  "name": "Trapinch",
+  "type1": "Ground",
+  "type2": null,
+  "hp": 45,
+  "attack": 100,
+  "defense": 45,
+  "sp_atk": 45,
+  "sp_def": 45,
+  "speed": 10,
+  "total": 290,
+  "abilities": [
+    "Hyper Cutter",
+    "Arena Trap",
+    "Sheer Force"
+  ],
+  "height": 0.7,
+  "weight": 15.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/trapinch.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\328_trapinch.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 604,
+  "name": "Eelektross-Mega",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 85,
+  "attack": 145,
+  "defense": 80,
+  "sp_atk": 135,
+  "sp_def": 90,
+  "speed": 80,
+  "total": 615,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 3.0,
+  "weight": 160.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/eelektrossmega.gif"
+}

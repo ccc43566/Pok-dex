@@ -1,0 +1,21 @@
+{
+  "id": 487,
+  "name": "Giratina",
+  "type1": "Ghost",
+  "type2": "Dragon",
+  "hp": 150,
+  "attack": 100,
+  "defense": 120,
+  "sp_atk": 100,
+  "sp_def": 120,
+  "speed": 90,
+  "total": 680,
+  "abilities": [
+    "Pressure",
+    "Telepathy"
+  ],
+  "height": 4.5,
+  "weight": 750.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/giratina.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\487_giratina.gif"
+}

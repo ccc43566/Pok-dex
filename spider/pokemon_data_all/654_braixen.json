@@ -1,0 +1,21 @@
+{
+  "id": 654,
+  "name": "Braixen",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 59,
+  "attack": 59,
+  "defense": 58,
+  "sp_atk": 90,
+  "sp_def": 70,
+  "speed": 73,
+  "total": 409,
+  "abilities": [
+    "Blaze",
+    "Magician"
+  ],
+  "height": 1.0,
+  "weight": 14.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/braixen.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\654_braixen.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 227,
+  "name": "Skarmory",
+  "type1": "Steel",
+  "type2": "Flying",
+  "hp": 65,
+  "attack": 80,
+  "defense": 140,
+  "sp_atk": 40,
+  "sp_def": 70,
+  "speed": 70,
+  "total": 465,
+  "abilities": [
+    "Keen Eye",
+    "Sturdy",
+    "Weak Armor"
+  ],
+  "height": 1.7,
+  "weight": 50.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/skarmory.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\227_skarmory.gif"
+}

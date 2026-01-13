@@ -1,0 +1,19 @@
+{
+  "id": 94,
+  "name": "Gengar-Mega",
+  "type1": "Ghost",
+  "type2": "Poison",
+  "hp": 60,
+  "attack": 65,
+  "defense": 80,
+  "sp_atk": 170,
+  "sp_def": 95,
+  "speed": 130,
+  "total": 600,
+  "abilities": [
+    "Shadow Tag"
+  ],
+  "height": 1.4,
+  "weight": 40.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gengarmega.gif"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 408,
+  "name": "Cranidos",
+  "type1": "Rock",
+  "type2": null,
+  "hp": 67,
+  "attack": 125,
+  "defense": 40,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "speed": 58,
+  "total": 350,
+  "abilities": [
+    "Mold Breaker",
+    "Sheer Force"
+  ],
+  "height": 0.9,
+  "weight": 31.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/cranidos.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\408_cranidos.gif"
+}

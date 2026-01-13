@@ -1,0 +1,22 @@
+{
+  "id": 508,
+  "name": "Stoutland",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 85,
+  "attack": 110,
+  "defense": 90,
+  "sp_atk": 45,
+  "sp_def": 90,
+  "speed": 80,
+  "total": 500,
+  "abilities": [
+    "Intimidate",
+    "Sand Rush",
+    "Scrappy"
+  ],
+  "height": 1.2,
+  "weight": 61.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/stoutland.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\508_stoutland.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 506,
+  "name": "Lillipup",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 45,
+  "attack": 60,
+  "defense": 45,
+  "sp_atk": 25,
+  "sp_def": 45,
+  "speed": 55,
+  "total": 275,
+  "abilities": [
+    "Vital Spirit",
+    "Pickup",
+    "Run Away"
+  ],
+  "height": 0.4,
+  "weight": 4.1,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/lillipup.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\506_lillipup.gif"
+}

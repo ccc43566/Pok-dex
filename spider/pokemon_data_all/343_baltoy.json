@@ -1,0 +1,20 @@
+{
+  "id": 343,
+  "name": "Baltoy",
+  "type1": "Ground",
+  "type2": "Psychic",
+  "hp": 40,
+  "attack": 40,
+  "defense": 55,
+  "sp_atk": 40,
+  "sp_def": 70,
+  "speed": 55,
+  "total": 300,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 0.5,
+  "weight": 21.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/baltoy.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\343_baltoy.gif"
+}

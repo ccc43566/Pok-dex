@@ -1,0 +1,21 @@
+{
+  "id": 780,
+  "name": "Drampa-Mega",
+  "type1": "Normal",
+  "type2": "Dragon",
+  "hp": 78,
+  "attack": 85,
+  "defense": 110,
+  "sp_atk": 160,
+  "sp_def": 116,
+  "speed": 36,
+  "total": 585,
+  "abilities": [
+    "Berserk",
+    "Sap Sipper",
+    "Cloud Nine"
+  ],
+  "height": 3.0,
+  "weight": 185.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/drampamega.gif"
+}

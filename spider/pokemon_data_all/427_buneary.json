@@ -1,0 +1,22 @@
+{
+  "id": 427,
+  "name": "Buneary",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 55,
+  "attack": 66,
+  "defense": 44,
+  "sp_atk": 44,
+  "sp_def": 56,
+  "speed": 85,
+  "total": 350,
+  "abilities": [
+    "Run Away",
+    "Klutz",
+    "Limber"
+  ],
+  "height": 0.4,
+  "weight": 5.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/buneary.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\427_buneary.gif"
+}

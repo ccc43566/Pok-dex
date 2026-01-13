@@ -1,0 +1,21 @@
+{
+  "id": 130,
+  "name": "Gyarados",
+  "type1": "Water",
+  "type2": "Flying",
+  "hp": 95,
+  "attack": 125,
+  "defense": 79,
+  "sp_atk": 60,
+  "sp_def": 100,
+  "speed": 81,
+  "total": 540,
+  "abilities": [
+    "Intimidate",
+    "Moxie"
+  ],
+  "height": 6.5,
+  "weight": 235.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gyarados.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\130_gyarados.gif"
+}

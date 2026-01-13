@@ -1,0 +1,22 @@
+{
+  "id": 521,
+  "name": "Unfezant",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 80,
+  "attack": 115,
+  "defense": 80,
+  "sp_atk": 65,
+  "sp_def": 55,
+  "speed": 93,
+  "total": 488,
+  "abilities": [
+    "Big Pecks",
+    "Super Luck",
+    "Rivalry"
+  ],
+  "height": 1.2,
+  "weight": 29.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/unfezant.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\521_unfezant.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 473,
+  "name": "Mamoswine",
+  "type1": "Ice",
+  "type2": "Ground",
+  "hp": 110,
+  "attack": 130,
+  "defense": 80,
+  "sp_atk": 70,
+  "sp_def": 60,
+  "speed": 80,
+  "total": 530,
+  "abilities": [
+    "Oblivious",
+    "Snow Cloak",
+    "Thick Fat"
+  ],
+  "height": 2.5,
+  "weight": 291.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/mamoswine.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\473_mamoswine.gif"
+}

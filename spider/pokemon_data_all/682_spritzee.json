@@ -1,0 +1,21 @@
+{
+  "id": 682,
+  "name": "Spritzee",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 78,
+  "attack": 52,
+  "defense": 60,
+  "sp_atk": 63,
+  "sp_def": 65,
+  "speed": 23,
+  "total": 341,
+  "abilities": [
+    "Healer",
+    "Aroma Veil"
+  ],
+  "height": 0.2,
+  "weight": 0.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/spritzee.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\682_spritzee.gif"
+}

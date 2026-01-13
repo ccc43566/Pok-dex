@@ -1,0 +1,21 @@
+{
+  "id": 710,
+  "name": "Pumpkaboo-Small",
+  "type1": "Ghost",
+  "type2": "Grass",
+  "hp": 44,
+  "attack": 66,
+  "defense": 70,
+  "sp_atk": 44,
+  "sp_def": 55,
+  "speed": 56,
+  "total": 335,
+  "abilities": [
+    "Pickup",
+    "Frisk",
+    "Insomnia"
+  ],
+  "height": 0.3,
+  "weight": 3.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pumpkaboosmall.gif"
+}

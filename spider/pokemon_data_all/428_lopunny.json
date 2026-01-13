@@ -1,0 +1,22 @@
+{
+  "id": 428,
+  "name": "Lopunny",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 65,
+  "attack": 76,
+  "defense": 84,
+  "sp_atk": 54,
+  "sp_def": 96,
+  "speed": 105,
+  "total": 480,
+  "abilities": [
+    "Cute Charm",
+    "Klutz",
+    "Limber"
+  ],
+  "height": 1.2,
+  "weight": 33.3,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/lopunny.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\428_lopunny.gif"
+}

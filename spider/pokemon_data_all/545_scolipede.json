@@ -1,0 +1,22 @@
+{
+  "id": 545,
+  "name": "Scolipede",
+  "type1": "Bug",
+  "type2": "Poison",
+  "hp": 60,
+  "attack": 100,
+  "defense": 89,
+  "sp_atk": 55,
+  "sp_def": 69,
+  "speed": 112,
+  "total": 485,
+  "abilities": [
+    "Poison Point",
+    "Swarm",
+    "Speed Boost"
+  ],
+  "height": 2.5,
+  "weight": 200.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/scolipede.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\545_scolipede.gif"
+}

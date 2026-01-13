@@ -1,0 +1,21 @@
+{
+  "id": 372,
+  "name": "Shelgon",
+  "type1": "Dragon",
+  "type2": null,
+  "hp": 65,
+  "attack": 95,
+  "defense": 100,
+  "sp_atk": 60,
+  "sp_def": 50,
+  "speed": 50,
+  "total": 420,
+  "abilities": [
+    "Rock Head",
+    "Overcoat"
+  ],
+  "height": 1.1,
+  "weight": 110.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/shelgon.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\372_shelgon.gif"
+}

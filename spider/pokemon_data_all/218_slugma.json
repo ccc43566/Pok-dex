@@ -1,0 +1,22 @@
+{
+  "id": 218,
+  "name": "Slugma",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 40,
+  "attack": 40,
+  "defense": 40,
+  "sp_atk": 70,
+  "sp_def": 40,
+  "speed": 20,
+  "total": 250,
+  "abilities": [
+    "Magma Armor",
+    "Flame Body",
+    "Weak Armor"
+  ],
+  "height": 0.7,
+  "weight": 35.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/slugma.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\218_slugma.gif"
+}

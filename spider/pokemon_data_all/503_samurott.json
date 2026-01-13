@@ -1,0 +1,21 @@
+{
+  "id": 503,
+  "name": "Samurott",
+  "type1": "Water",
+  "type2": null,
+  "hp": 95,
+  "attack": 100,
+  "defense": 85,
+  "sp_atk": 108,
+  "sp_def": 70,
+  "speed": 70,
+  "total": 528,
+  "abilities": [
+    "Torrent",
+    "Shell Armor"
+  ],
+  "height": 1.5,
+  "weight": 94.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/samurott.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\503_samurott.gif"
+}

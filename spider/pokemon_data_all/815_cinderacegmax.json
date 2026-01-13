@@ -1,0 +1,20 @@
+{
+  "id": 815,
+  "name": "Cinderace-Gmax",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 80,
+  "attack": 116,
+  "defense": 75,
+  "sp_atk": 65,
+  "sp_def": 75,
+  "speed": 119,
+  "total": 530,
+  "abilities": [
+    "Blaze",
+    "Libero"
+  ],
+  "height": 27.0,
+  "weight": 0.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/cinderacegmax.gif"
+}

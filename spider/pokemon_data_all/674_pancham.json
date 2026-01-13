@@ -1,0 +1,22 @@
+{
+  "id": 674,
+  "name": "Pancham",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 67,
+  "attack": 82,
+  "defense": 62,
+  "sp_atk": 46,
+  "sp_def": 48,
+  "speed": 43,
+  "total": 348,
+  "abilities": [
+    "Iron Fist",
+    "Mold Breaker",
+    "Scrappy"
+  ],
+  "height": 0.6,
+  "weight": 8.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pancham.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\674_pancham.gif"
+}

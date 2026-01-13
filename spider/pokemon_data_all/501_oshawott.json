@@ -1,0 +1,21 @@
+{
+  "id": 501,
+  "name": "Oshawott",
+  "type1": "Water",
+  "type2": null,
+  "hp": 55,
+  "attack": 55,
+  "defense": 45,
+  "sp_atk": 63,
+  "sp_def": 45,
+  "speed": 45,
+  "total": 308,
+  "abilities": [
+    "Torrent",
+    "Shell Armor"
+  ],
+  "height": 0.5,
+  "weight": 5.9,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/oshawott.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\501_oshawott.gif"
+}

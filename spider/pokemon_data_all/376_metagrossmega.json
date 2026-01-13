@@ -1,0 +1,19 @@
+{
+  "id": 376,
+  "name": "Metagross-Mega",
+  "type1": "Steel",
+  "type2": "Psychic",
+  "hp": 80,
+  "attack": 145,
+  "defense": 150,
+  "sp_atk": 105,
+  "sp_def": 110,
+  "speed": 110,
+  "total": 700,
+  "abilities": [
+    "Tough Claws"
+  ],
+  "height": 2.5,
+  "weight": 942.9,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/metagrossmega.gif"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 413,
+  "name": "Wormadam",
+  "type1": "Bug",
+  "type2": "Grass",
+  "hp": 60,
+  "attack": 59,
+  "defense": 85,
+  "sp_atk": 79,
+  "sp_def": 105,
+  "speed": 36,
+  "total": 424,
+  "abilities": [
+    "Anticipation",
+    "Overcoat"
+  ],
+  "height": 0.5,
+  "weight": 6.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/wormadam.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\413_wormadam.gif"
+}

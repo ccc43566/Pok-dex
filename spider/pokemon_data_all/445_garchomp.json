@@ -1,0 +1,21 @@
+{
+  "id": 445,
+  "name": "Garchomp",
+  "type1": "Dragon",
+  "type2": "Ground",
+  "hp": 108,
+  "attack": 130,
+  "defense": 95,
+  "sp_atk": 80,
+  "sp_def": 85,
+  "speed": 102,
+  "total": 600,
+  "abilities": [
+    "Sand Veil",
+    "Rough Skin"
+  ],
+  "height": 1.9,
+  "weight": 95.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/garchomp.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\445_garchomp.gif"
+}

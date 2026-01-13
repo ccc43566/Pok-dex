@@ -1,0 +1,22 @@
+{
+  "id": 740,
+  "name": "Crabominable",
+  "type1": "Fighting",
+  "type2": "Ice",
+  "hp": 97,
+  "attack": 132,
+  "defense": 77,
+  "sp_atk": 62,
+  "sp_def": 67,
+  "speed": 43,
+  "total": 478,
+  "abilities": [
+    "Hyper Cutter",
+    "Iron Fist",
+    "Anger Point"
+  ],
+  "height": 1.7,
+  "weight": 180.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/crabominable.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\740_crabominable.gif"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 497,
+  "name": "Serperior",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 75,
+  "attack": 75,
+  "defense": 95,
+  "sp_atk": 75,
+  "sp_def": 95,
+  "speed": 113,
+  "total": 528,
+  "abilities": [
+    "Overgrow",
+    "Contrary"
+  ],
+  "height": 3.3,
+  "weight": 63.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/serperior.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\497_serperior.gif"
+}

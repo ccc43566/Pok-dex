@@ -1,0 +1,21 @@
+{
+  "id": 965,
+  "name": "Varoom",
+  "type1": "Steel",
+  "type2": "Poison",
+  "hp": 45,
+  "attack": 70,
+  "defense": 63,
+  "sp_atk": 30,
+  "sp_def": 45,
+  "speed": 47,
+  "total": 300,
+  "abilities": [
+    "Overcoat",
+    "Slow Start"
+  ],
+  "height": 1.0,
+  "weight": 35.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/varoom.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\965_varoom.gif"
+}

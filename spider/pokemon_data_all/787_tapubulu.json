@@ -1,0 +1,21 @@
+{
+  "id": 787,
+  "name": "Tapu Bulu",
+  "type1": "Grass",
+  "type2": "Fairy",
+  "hp": 70,
+  "attack": 130,
+  "defense": 115,
+  "sp_atk": 85,
+  "sp_def": 95,
+  "speed": 75,
+  "total": 570,
+  "abilities": [
+    "Grassy Surge",
+    "Telepathy"
+  ],
+  "height": 1.9,
+  "weight": 45.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/tapubulu.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\787_tapubulu.gif"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 420,
+  "name": "Cherubi",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 45,
+  "attack": 35,
+  "defense": 45,
+  "sp_atk": 62,
+  "sp_def": 53,
+  "speed": 35,
+  "total": 275,
+  "abilities": [
+    "Chlorophyll"
+  ],
+  "height": 0.4,
+  "weight": 3.3,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/cherubi.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\420_cherubi.gif"
+}

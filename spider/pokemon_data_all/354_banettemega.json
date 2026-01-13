@@ -1,0 +1,19 @@
+{
+  "id": 354,
+  "name": "Banette-Mega",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 64,
+  "attack": 165,
+  "defense": 75,
+  "sp_atk": 93,
+  "sp_def": 83,
+  "speed": 75,
+  "total": 555,
+  "abilities": [
+    "Prankster"
+  ],
+  "height": 1.2,
+  "weight": 13.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/banettemega.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 350,
+  "name": "Milotic",
+  "type1": "Water",
+  "type2": null,
+  "hp": 95,
+  "attack": 60,
+  "defense": 79,
+  "sp_atk": 100,
+  "sp_def": 125,
+  "speed": 81,
+  "total": 540,
+  "abilities": [
+    "Marvel Scale",
+    "Competitive",
+    "Cute Charm"
+  ],
+  "height": 6.2,
+  "weight": 162.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/milotic.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\350_milotic.gif"
+}

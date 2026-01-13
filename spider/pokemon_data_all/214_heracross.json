@@ -1,0 +1,22 @@
+{
+  "id": 214,
+  "name": "Heracross",
+  "type1": "Bug",
+  "type2": "Fighting",
+  "hp": 80,
+  "attack": 125,
+  "defense": 75,
+  "sp_atk": 40,
+  "sp_def": 95,
+  "speed": 85,
+  "total": 500,
+  "abilities": [
+    "Swarm",
+    "Guts",
+    "Moxie"
+  ],
+  "height": 1.5,
+  "weight": 54.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/heracross.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\214_heracross.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 310,
+  "name": "Manectric-Mega",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 70,
+  "attack": 75,
+  "defense": 80,
+  "sp_atk": 135,
+  "sp_def": 80,
+  "speed": 135,
+  "total": 575,
+  "abilities": [
+    "Intimidate"
+  ],
+  "height": 1.8,
+  "weight": 44.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/manectricmega.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 475,
+  "name": "Gallade-Mega",
+  "type1": "Psychic",
+  "type2": "Fighting",
+  "hp": 68,
+  "attack": 165,
+  "defense": 95,
+  "sp_atk": 65,
+  "sp_def": 115,
+  "speed": 110,
+  "total": 618,
+  "abilities": [
+    "Inner Focus"
+  ],
+  "height": 1.6,
+  "weight": 56.4,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gallademega.gif"
+}

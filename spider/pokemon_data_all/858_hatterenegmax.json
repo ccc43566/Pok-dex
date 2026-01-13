@@ -1,0 +1,21 @@
+{
+  "id": 858,
+  "name": "Hatterene-Gmax",
+  "type1": "Psychic",
+  "type2": "Fairy",
+  "hp": 57,
+  "attack": 90,
+  "defense": 95,
+  "sp_atk": 136,
+  "sp_def": 103,
+  "speed": 29,
+  "total": 510,
+  "abilities": [
+    "Healer",
+    "Anticipation",
+    "Magic Bounce"
+  ],
+  "height": 26.0,
+  "weight": 0.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/hatterenegmax.gif"
+}

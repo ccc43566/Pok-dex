@@ -1,0 +1,22 @@
+{
+  "id": 210,
+  "name": "Granbull",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 90,
+  "attack": 120,
+  "defense": 75,
+  "sp_atk": 60,
+  "sp_def": 60,
+  "speed": 45,
+  "total": 450,
+  "abilities": [
+    "Intimidate",
+    "Quick Feet",
+    "Rattled"
+  ],
+  "height": 1.4,
+  "weight": 48.7,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/granbull.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\210_granbull.gif"
+}

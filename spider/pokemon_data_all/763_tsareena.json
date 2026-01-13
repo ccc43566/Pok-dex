@@ -1,0 +1,22 @@
+{
+  "id": 763,
+  "name": "Tsareena",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 72,
+  "attack": 120,
+  "defense": 98,
+  "sp_atk": 50,
+  "sp_def": 98,
+  "speed": 72,
+  "total": 510,
+  "abilities": [
+    "Leaf Guard",
+    "Queenly Majesty",
+    "Sweet Veil"
+  ],
+  "height": 1.2,
+  "weight": 21.4,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/tsareena.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\763_tsareena.gif"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 789,
+  "name": "Cosmog",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 43,
+  "attack": 29,
+  "defense": 31,
+  "sp_atk": 29,
+  "sp_def": 31,
+  "speed": 37,
+  "total": 200,
+  "abilities": [
+    "Unaware"
+  ],
+  "height": 0.2,
+  "weight": 0.1,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/cosmog.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\789_cosmog.gif"
+}

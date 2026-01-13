@@ -1,0 +1,20 @@
+{
+  "id": 1016,
+  "name": "Fezandipiti",
+  "type1": "Poison",
+  "type2": "Fairy",
+  "hp": 88,
+  "attack": 91,
+  "defense": 82,
+  "sp_atk": 70,
+  "sp_def": 125,
+  "speed": 99,
+  "total": 555,
+  "abilities": [
+    "Toxic Chain",
+    "Technician"
+  ],
+  "height": 1.4,
+  "weight": 30.1,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/fezandipiti.gif"
+}

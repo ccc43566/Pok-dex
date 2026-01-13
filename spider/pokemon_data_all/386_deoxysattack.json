@@ -1,0 +1,19 @@
+{
+  "id": 386,
+  "name": "Deoxys-Attack",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 50,
+  "attack": 180,
+  "defense": 20,
+  "sp_atk": 180,
+  "sp_def": 20,
+  "speed": 150,
+  "total": 600,
+  "abilities": [
+    "Pressure"
+  ],
+  "height": 1.7,
+  "weight": 60.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/deoxysattack.gif"
+}

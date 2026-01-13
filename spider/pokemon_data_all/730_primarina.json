@@ -1,0 +1,21 @@
+{
+  "id": 730,
+  "name": "Primarina",
+  "type1": "Water",
+  "type2": "Fairy",
+  "hp": 80,
+  "attack": 74,
+  "defense": 74,
+  "sp_atk": 126,
+  "sp_def": 116,
+  "speed": 60,
+  "total": 530,
+  "abilities": [
+    "Torrent",
+    "Liquid Voice"
+  ],
+  "height": 1.8,
+  "weight": 44.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/primarina.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\730_primarina.gif"
+}

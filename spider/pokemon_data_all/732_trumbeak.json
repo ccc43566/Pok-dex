@@ -1,0 +1,22 @@
+{
+  "id": 732,
+  "name": "Trumbeak",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 55,
+  "attack": 85,
+  "defense": 50,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "speed": 75,
+  "total": 355,
+  "abilities": [
+    "Keen Eye",
+    "Skill Link",
+    "Pickup"
+  ],
+  "height": 0.6,
+  "weight": 14.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/trumbeak.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\732_trumbeak.gif"
+}

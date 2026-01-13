@@ -1,0 +1,21 @@
+{
+  "id": 319,
+  "name": "Sharpedo",
+  "type1": "Water",
+  "type2": "Dark",
+  "hp": 70,
+  "attack": 120,
+  "defense": 40,
+  "sp_atk": 95,
+  "sp_def": 40,
+  "speed": 95,
+  "total": 460,
+  "abilities": [
+    "Rough Skin",
+    "Speed Boost"
+  ],
+  "height": 1.8,
+  "weight": 88.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/sharpedo.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\319_sharpedo.gif"
+}

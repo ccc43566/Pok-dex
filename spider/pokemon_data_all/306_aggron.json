@@ -1,0 +1,22 @@
+{
+  "id": 306,
+  "name": "Aggron",
+  "type1": "Steel",
+  "type2": "Rock",
+  "hp": 70,
+  "attack": 110,
+  "defense": 180,
+  "sp_atk": 60,
+  "sp_def": 60,
+  "speed": 50,
+  "total": 530,
+  "abilities": [
+    "Sturdy",
+    "Rock Head",
+    "Heavy Metal"
+  ],
+  "height": 2.1,
+  "weight": 360.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/aggron.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\306_aggron.gif"
+}

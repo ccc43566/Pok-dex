@@ -1,0 +1,21 @@
+{
+  "id": 254,
+  "name": "Sceptile",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 70,
+  "attack": 85,
+  "defense": 65,
+  "sp_atk": 105,
+  "sp_def": 85,
+  "speed": 120,
+  "total": 530,
+  "abilities": [
+    "Overgrow",
+    "Unburden"
+  ],
+  "height": 1.7,
+  "weight": 52.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/sceptile.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\254_sceptile.gif"
+}

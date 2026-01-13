@@ -1,0 +1,22 @@
+{
+  "id": 527,
+  "name": "Woobat",
+  "type1": "Psychic",
+  "type2": "Flying",
+  "hp": 65,
+  "attack": 45,
+  "defense": 43,
+  "sp_atk": 55,
+  "sp_def": 43,
+  "speed": 72,
+  "total": 323,
+  "abilities": [
+    "Unaware",
+    "Klutz",
+    "Simple"
+  ],
+  "height": 0.4,
+  "weight": 2.1,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/woobat.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\527_woobat.gif"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 337,
+  "name": "Lunatone",
+  "type1": "Rock",
+  "type2": "Psychic",
+  "hp": 90,
+  "attack": 55,
+  "defense": 65,
+  "sp_atk": 95,
+  "sp_def": 85,
+  "speed": 70,
+  "total": 460,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 1.0,
+  "weight": 168.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/lunatone.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\337_lunatone.gif"
+}

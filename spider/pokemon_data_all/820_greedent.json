@@ -1,0 +1,21 @@
+{
+  "id": 820,
+  "name": "Greedent",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 120,
+  "attack": 95,
+  "defense": 95,
+  "sp_atk": 55,
+  "sp_def": 75,
+  "speed": 20,
+  "total": 460,
+  "abilities": [
+    "Cheek Pouch",
+    "Gluttony"
+  ],
+  "height": 0.6,
+  "weight": 6.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/greedent.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\820_greedent.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 165,
+  "name": "Ledyba",
+  "type1": "Bug",
+  "type2": "Flying",
+  "hp": 40,
+  "attack": 20,
+  "defense": 30,
+  "sp_atk": 40,
+  "sp_def": 80,
+  "speed": 55,
+  "total": 265,
+  "abilities": [
+    "Swarm",
+    "Early Bird",
+    "Rattled"
+  ],
+  "height": 1.0,
+  "weight": 10.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/ledyba.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\165_ledyba.gif"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 636,
+  "name": "Larvesta",
+  "type1": "Bug",
+  "type2": "Fire",
+  "hp": 55,
+  "attack": 85,
+  "defense": 55,
+  "sp_atk": 50,
+  "sp_def": 55,
+  "speed": 60,
+  "total": 360,
+  "abilities": [
+    "Flame Body",
+    "Swarm"
+  ],
+  "height": 1.1,
+  "weight": 28.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/larvesta.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\636_larvesta.gif"
+}

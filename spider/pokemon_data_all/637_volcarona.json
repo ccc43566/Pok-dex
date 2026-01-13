@@ -1,0 +1,21 @@
+{
+  "id": 637,
+  "name": "Volcarona",
+  "type1": "Bug",
+  "type2": "Fire",
+  "hp": 85,
+  "attack": 60,
+  "defense": 65,
+  "sp_atk": 135,
+  "sp_def": 105,
+  "speed": 100,
+  "total": 550,
+  "abilities": [
+    "Flame Body",
+    "Swarm"
+  ],
+  "height": 1.6,
+  "weight": 46.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/volcarona.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\637_volcarona.gif"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 455,
+  "name": "Carnivine",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 74,
+  "attack": 100,
+  "defense": 72,
+  "sp_atk": 90,
+  "sp_def": 72,
+  "speed": 46,
+  "total": 454,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 1.4,
+  "weight": 27.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/carnivine.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\455_carnivine.gif"
+}

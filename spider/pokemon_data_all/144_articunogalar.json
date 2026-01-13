@@ -1,0 +1,19 @@
+{
+  "id": 144,
+  "name": "Articuno-Galar",
+  "type1": "Psychic",
+  "type2": "Flying",
+  "hp": 90,
+  "attack": 85,
+  "defense": 85,
+  "sp_atk": 125,
+  "sp_def": 100,
+  "speed": 95,
+  "total": 580,
+  "abilities": [
+    "Competitive"
+  ],
+  "height": 1.7,
+  "weight": 50.9,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/articunogalar.gif"
+}

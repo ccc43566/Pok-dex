@@ -1,0 +1,22 @@
+{
+  "id": 341,
+  "name": "Corphish",
+  "type1": "Water",
+  "type2": null,
+  "hp": 43,
+  "attack": 80,
+  "defense": 65,
+  "sp_atk": 50,
+  "sp_def": 35,
+  "speed": 35,
+  "total": 308,
+  "abilities": [
+    "Hyper Cutter",
+    "Shell Armor",
+    "Adaptability"
+  ],
+  "height": 0.6,
+  "weight": 11.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/corphish.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\341_corphish.gif"
+}

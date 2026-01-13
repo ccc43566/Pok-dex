@@ -3,16 +3,19 @@
   "name": "Spearow",
   "type1": "Normal",
   "type2": "Flying",
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 40,
+  "attack": 60,
+  "defense": 30,
+  "sp_atk": 31,
+  "sp_def": 31,
+  "speed": 70,
+  "total": 262,
+  "abilities": [
+    "Keen Eye",
+    "Sniper"
+  ],
+  "height": 0.3,
+  "weight": 2.0,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/spearow.gif",
-  "image_path": "pokemon_images\\21_spearow.gif"
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\21_spearow.gif"
 }

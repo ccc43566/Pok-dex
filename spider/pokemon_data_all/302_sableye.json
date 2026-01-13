@@ -1,0 +1,22 @@
+{
+  "id": 302,
+  "name": "Sableye",
+  "type1": "Dark",
+  "type2": "Ghost",
+  "hp": 50,
+  "attack": 75,
+  "defense": 75,
+  "sp_atk": 65,
+  "sp_def": 65,
+  "speed": 50,
+  "total": 380,
+  "abilities": [
+    "Keen Eye",
+    "Stall",
+    "Prankster"
+  ],
+  "height": 0.5,
+  "weight": 11.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/sableye.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\302_sableye.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 504,
+  "name": "Patrat",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 45,
+  "attack": 55,
+  "defense": 39,
+  "sp_atk": 35,
+  "sp_def": 39,
+  "speed": 42,
+  "total": 255,
+  "abilities": [
+    "Run Away",
+    "Keen Eye",
+    "Analytic"
+  ],
+  "height": 0.5,
+  "weight": 11.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/patrat.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\504_patrat.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 618,
+  "name": "Stunfisk-Galar",
+  "type1": "Ground",
+  "type2": "Steel",
+  "hp": 109,
+  "attack": 81,
+  "defense": 99,
+  "sp_atk": 66,
+  "sp_def": 84,
+  "speed": 32,
+  "total": 471,
+  "abilities": [
+    "Mimicry"
+  ],
+  "height": 0.7,
+  "weight": 20.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/stunfiskgalar.gif"
+}

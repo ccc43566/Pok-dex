@@ -1,0 +1,22 @@
+{
+  "id": 755,
+  "name": "Morelull",
+  "type1": "Grass",
+  "type2": "Fairy",
+  "hp": 40,
+  "attack": 35,
+  "defense": 55,
+  "sp_atk": 65,
+  "sp_def": 75,
+  "speed": 15,
+  "total": 285,
+  "abilities": [
+    "Illuminate",
+    "Effect Spore",
+    "Rain Dish"
+  ],
+  "height": 0.2,
+  "weight": 1.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/morelull.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\755_morelull.gif"
+}

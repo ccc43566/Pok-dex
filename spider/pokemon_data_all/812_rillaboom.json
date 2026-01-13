@@ -1,0 +1,21 @@
+{
+  "id": 812,
+  "name": "Rillaboom",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 100,
+  "attack": 125,
+  "defense": 90,
+  "sp_atk": 60,
+  "sp_def": 70,
+  "speed": 85,
+  "total": 530,
+  "abilities": [
+    "Overgrow",
+    "Grassy Surge"
+  ],
+  "height": 2.1,
+  "weight": 90.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/rillaboom.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\812_rillaboom.gif"
+}

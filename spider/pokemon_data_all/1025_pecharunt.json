@@ -1,0 +1,19 @@
+{
+  "id": 1025,
+  "name": "Pecharunt",
+  "type1": "Poison",
+  "type2": "Ghost",
+  "hp": 88,
+  "attack": 88,
+  "defense": 160,
+  "sp_atk": 88,
+  "sp_def": 88,
+  "speed": 88,
+  "total": 600,
+  "abilities": [
+    "Poison Puppeteer"
+  ],
+  "height": 0.3,
+  "weight": 0.3,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pecharunt.gif"
+}

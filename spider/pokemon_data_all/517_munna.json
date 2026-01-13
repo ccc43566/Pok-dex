@@ -1,0 +1,22 @@
+{
+  "id": 517,
+  "name": "Munna",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 76,
+  "attack": 25,
+  "defense": 45,
+  "sp_atk": 67,
+  "sp_def": 55,
+  "speed": 24,
+  "total": 292,
+  "abilities": [
+    "Forewarn",
+    "Synchronize",
+    "Telepathy"
+  ],
+  "height": 0.6,
+  "weight": 23.3,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/munna.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\517_munna.gif"
+}

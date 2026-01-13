@@ -1,0 +1,20 @@
+{
+  "id": 571,
+  "name": "Zoroark",
+  "type1": "Dark",
+  "type2": null,
+  "hp": 60,
+  "attack": 105,
+  "defense": 60,
+  "sp_atk": 120,
+  "sp_def": 60,
+  "speed": 105,
+  "total": 510,
+  "abilities": [
+    "Illusion"
+  ],
+  "height": 1.6,
+  "weight": 81.1,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/zoroark.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\571_zoroark.gif"
+}

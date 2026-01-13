@@ -1,0 +1,22 @@
+{
+  "id": 364,
+  "name": "Sealeo",
+  "type1": "Ice",
+  "type2": "Water",
+  "hp": 90,
+  "attack": 60,
+  "defense": 70,
+  "sp_atk": 75,
+  "sp_def": 70,
+  "speed": 45,
+  "total": 410,
+  "abilities": [
+    "Thick Fat",
+    "Ice Body",
+    "Oblivious"
+  ],
+  "height": 1.1,
+  "weight": 87.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/sealeo.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\364_sealeo.gif"
+}

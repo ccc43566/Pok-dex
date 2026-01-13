@@ -1,0 +1,22 @@
+{
+  "id": 226,
+  "name": "Mantine",
+  "type1": "Water",
+  "type2": "Flying",
+  "hp": 85,
+  "attack": 40,
+  "defense": 70,
+  "sp_atk": 80,
+  "sp_def": 140,
+  "speed": 70,
+  "total": 485,
+  "abilities": [
+    "Swift Swim",
+    "Water Absorb",
+    "Water Veil"
+  ],
+  "height": 2.1,
+  "weight": 220.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/mantine.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\226_mantine.gif"
+}

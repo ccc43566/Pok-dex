@@ -1,0 +1,21 @@
+{
+  "id": 699,
+  "name": "Aurorus",
+  "type1": "Rock",
+  "type2": "Ice",
+  "hp": 123,
+  "attack": 77,
+  "defense": 72,
+  "sp_atk": 99,
+  "sp_def": 92,
+  "speed": 58,
+  "total": 521,
+  "abilities": [
+    "Refrigerate",
+    "Snow Warning"
+  ],
+  "height": 2.7,
+  "weight": 225.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/aurorus.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\699_aurorus.gif"
+}

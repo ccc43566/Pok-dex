@@ -1,0 +1,22 @@
+{
+  "id": 316,
+  "name": "Gulpin",
+  "type1": "Poison",
+  "type2": null,
+  "hp": 70,
+  "attack": 43,
+  "defense": 53,
+  "sp_atk": 43,
+  "sp_def": 53,
+  "speed": 40,
+  "total": 302,
+  "abilities": [
+    "Liquid Ooze",
+    "Sticky Hold",
+    "Gluttony"
+  ],
+  "height": 0.4,
+  "weight": 10.3,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gulpin.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\316_gulpin.gif"
+}

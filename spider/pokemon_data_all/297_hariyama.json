@@ -1,0 +1,22 @@
+{
+  "id": 297,
+  "name": "Hariyama",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 144,
+  "attack": 120,
+  "defense": 60,
+  "sp_atk": 40,
+  "sp_def": 60,
+  "speed": 50,
+  "total": 474,
+  "abilities": [
+    "Thick Fat",
+    "Guts",
+    "Sheer Force"
+  ],
+  "height": 2.3,
+  "weight": 253.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/hariyama.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\297_hariyama.gif"
+}

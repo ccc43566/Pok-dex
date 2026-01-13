@@ -1,9 +1,10 @@
-import requests
+import aiohttp
 from bs4 import BeautifulSoup
 import json
 import os
 import re
-import time
+import asyncio
+import aiofiles
 
 # 设置请求头，避免被反爬
 headers = {
@@ -45,15 +46,15 @@ def extract_pokemon_data(js_content, pokemon_key):
 
     return data
 
-def get_all_pokemon_names():
+async def get_all_pokemon_names():
     """获取所有宝可梦的名称列表"""
     print("正在获取宝可梦列表...")
-    response = requests.get(DATA_URL)
-    if response.status_code != 200:
-        print(f"无法加载数据: {response.status_code}")
-        return []
-
-    js_content = response.text
+    async with aiohttp.ClientSession() as session:
+        async with session.get(DATA_URL) as response:
+            if response.status != 200:
+                print(f"无法加载数据: {response.status}")
+                return []
+            js_content = await response.text()
 
     # 提取所有宝可梦名称
     pokemon_names = []
@@ -85,78 +86,123 @@ def get_all_pokemon_names():
 
     return sorted_names
 
-def get_pokemon_description_from_52poke(pokemon_name_en):
+async def get_pokemon_description_from_52poke(pokemon_name_en, session):
     """从52poke获取宝可梦的中文描述"""
-    # 构造 URL（使用英文名）
-    url = f"https://wiki.52poke.com/wiki/{pokemon_name_en}"
+    # 处理 Alola 形态等特殊形态：使用基础名称构造 URL
+    base_name = pokemon_name_en.split('-')[0]  # 去掉 -Alola, -Mega 等后缀
 
-    try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.content, 'html.parser')
+    # 特殊处理：某些宝可梦的页面名称特殊
+    if base_name == "Nidoran":
+        # Nidoran有雌雄之分，需要根据完整名称判断
+        if "F" in pokemon_name_en:
+            base_name = "Nidoran♀"
+        elif "M" in pokemon_name_en:
+            base_name = "Nidoran♂"
 
-        # 找到正文容器
-        content_div = soup.find('div', id='mw-content-text')
-        if not content_div:
-            return "未找到描述"
+    # 对单引号进行URL编码
+    base_name = base_name.replace("'", "%27")
 
-        # 获取所有 <p> 标签
-        all_p_tags = content_div.find_all('p')
-        if len(all_p_tags) < 3:
-            return "描述信息不足"
+    url = f"https://wiki.52poke.com/wiki/{base_name}"
 
-        # 提取第1个第2个和第3个 <p> 标签的文本
-        descriptions = []
-        for i in range(min(3, len(all_p_tags))):
-            p_text = all_p_tags[i].get_text(strip=True)
-            if p_text and len(p_text) > 10:  # 确保有足够内容
-                descriptions.append(p_text)
+    # 重试机制：最多重试2次
+    for attempt in range(3):
+        try:
+            async with session.get(url, headers=headers, timeout=aiohttp.ClientTimeout(total=15)) as response:
+                if response.status != 200:
+                    if attempt == 2:  # 最后一次重试
+                        print(f"HTTP错误 {pokemon_name_en}: {response.status}")
+                    await asyncio.sleep(0.5 * (attempt + 1))  # 递增延迟
+                    continue
 
-        overview = "\n".join(descriptions)
-        return overview
+                content = await response.read()
+                soup = BeautifulSoup(content, 'html.parser')
 
-    except Exception as e:
-        print(f"获取描述失败 {pokemon_name_en}: {e}")
-        return "未找到描述"
+            # 找到正文容器
+            content_div = soup.find('div', id='mw-content-text')
+            if not content_div:
+                if attempt == 2:
+                    print(f"未找到内容容器 {pokemon_name_en}")
+                await asyncio.sleep(0.5 * (attempt + 1))
+                continue
 
-def get_pokemon_data(pokemon_name, js_content):
+            # 获取所有 <p> 标签
+            all_p_tags = content_div.find_all('p')
+
+            # 过滤掉不包含宝可梦描述的段落
+            valid_descriptions = []
+            for p_tag in all_p_tags:
+                p_text = p_tag.get_text(strip=True)
+                # 跳过太短的段落、包含特定关键词的段落
+                if (len(p_text) > 20 and  # 确保有足够内容
+                    not p_text.startswith('From ') and  # 跳过图片说明
+                    not p_text.startswith('这是一张') and  # 跳过图片说明
+                    not 'Category:' in p_text and  # 跳过分类链接
+                    not (p_text.startswith('(') and p_text.endswith(')')) and  # 跳过括号内容
+                    not any(skip_word in p_text.lower() for skip_word in ['see also', 'external links', 'references', 'navigation'])):  # 跳过导航内容
+                    valid_descriptions.append(p_text)
+                    if len(valid_descriptions) >= 3:  # 只取前3个有效段落
+                        break
+
+            if not valid_descriptions:
+                if attempt == 2:
+                    print(f"未找到有效描述段落 {pokemon_name_en}, 总共找到 {len(all_p_tags)} 个 <p> 标签")
+                await asyncio.sleep(0.5 * (attempt + 1))
+                continue
+
+            overview = "\n".join(valid_descriptions)
+            return overview
+
+        except asyncio.TimeoutError:
+            if attempt == 2:
+                print(f"请求超时 {pokemon_name_en}")
+            await asyncio.sleep(0.5 * (attempt + 1))
+        except Exception as e:
+            if attempt == 2:
+                print(f"获取描述失败 {pokemon_name_en}: {e}")
+            await asyncio.sleep(0.5 * (attempt + 1))
+
+    return "未找到描述"
+
+async def get_pokemon_data(pokemon_name, js_content, session, semaphore):
     """从预加载的数据中获取单个宝可梦的数据"""
-    pokemon_key = pokemon_name.lower()
+    async with semaphore:  # 限制并发数
+        pokemon_key = pokemon_name.lower()
 
-    # 提取宝可梦数据
-    pokemon = extract_pokemon_data(js_content, pokemon_key)
-    if not pokemon:
-        return None
+        # 提取宝可梦数据
+        pokemon = extract_pokemon_data(js_content, pokemon_key)
+        if not pokemon:
+            return None
 
-    data = {}
+        data = {}
 
-    # 1. 获取 ID 和名字
-    data['id'] = pokemon.get('num')
-    data['name_en'] = pokemon.get('name', '')
-    data['name'] = pokemon_name
+        # 1. 获取 ID 和名字
+        data['id'] = pokemon.get('num')
+        data['name_en'] = pokemon.get('name', '')
+        data['name'] = pokemon_name
 
-    # 2. 获取描述
-    desc = get_pokemon_description_from_52poke(data['name_en'])
-    data['description'] = desc if desc else "未找到描述"
+        # 2. 获取描述
+        desc = await get_pokemon_description_from_52poke(data['name_en'], session)
+        data['description'] = desc if desc else "未找到描述"
 
-    return data
+        return data
 
-def main():
+async def main():
     print("=" * 50)
     print("宝可梦描述数据批量爬虫")
     print("=" * 50)
 
     # 获取所有宝可梦名称
-    all_pokemon = get_all_pokemon_names()
+    all_pokemon = await get_all_pokemon_names()
     print(f"共找到 {len(all_pokemon)} 只宝可梦")
 
     # 预加载数据文件
     print("正在预加载宝可梦数据库...")
-    response = requests.get(DATA_URL)
-    if response.status_code != 200:
-        print(f"无法加载数据库: {response.status_code}")
-        return
-    js_content = response.text
+    async with aiohttp.ClientSession() as session:
+        async with session.get(DATA_URL) as response:
+            if response.status != 200:
+                print(f"无法加载数据库: {response.status}")
+                return
+            js_content = await response.text()
 
     # 用户选择范围（按宝可梦ID编号）
     print("\n请选择爬取范围 (按宝可梦全国图鉴编号):")
@@ -216,29 +262,33 @@ def main():
     successful = 0
     failed = 0
 
-    for i, pokemon_name in enumerate(selected_pokemon, 1):
+    # 限制并发数为5，避免过多的并发请求
+    semaphore = asyncio.Semaphore(5)
+
+    async def process_pokemon(pokemon_name):
+        nonlocal successful, failed
         try:
-            data = get_pokemon_data(pokemon_name, js_content)
-            if data:
-                # 保存单个宝可梦数据
-                filename = f"{data['id']}_{pokemon_name}.json"
-                filepath = os.path.join(OUTPUT_DIR, filename)
-                with open(filepath, 'w', encoding='utf-8') as f:
-                    json.dump(data, f, ensure_ascii=False, indent=2)
-
-                successful += 1
-            else:
-                failed += 1
-
+            async with aiohttp.ClientSession(headers=headers) as session:
+                data = await get_pokemon_data(pokemon_name, js_content, session, semaphore)
+                if data:
+                    # 保存单个宝可梦数据
+                    filename = f"{data['id']}_{pokemon_name}.json"
+                    filepath = os.path.join(OUTPUT_DIR, filename)
+                    async with aiofiles.open(filepath, 'w', encoding='utf-8') as f:
+                        await f.write(json.dumps(data, ensure_ascii=False, indent=2))
+                    successful += 1
+                    return True
+                else:
+                    failed += 1
+                    return False
         except Exception as e:
             print(f"爬取失败 {pokemon_name}: {e}")
             failed += 1
+            return False
 
-        # 显示进度
-        progress = (i / len(selected_pokemon)) * 100
-        print(f"\r进度: {i}/{len(selected_pokemon)} ({progress:.1f}%) - 成功:{successful} 失败:{failed}", end="", flush=True)
-
-        time.sleep(0.2)  # 避免请求过快
+    # 并发处理所有宝可梦
+    tasks = [process_pokemon(pokemon_name) for pokemon_name in selected_pokemon]
+    results = await asyncio.gather(*tasks, return_exceptions=True)
 
     print()  # 换行
 
@@ -247,38 +297,41 @@ def main():
     print(f"失败: {failed} 只")
     print(f"数据保存到: {OUTPUT_DIR}/")
 
-def test():
+async def test():
     """测试函数，自动爬取前3只宝可梦"""
     print("测试模式：爬取前3只宝可梦")
     print("正在获取宝可梦列表...")
-    all_pokemon = get_all_pokemon_names()
+    all_pokemon = await get_all_pokemon_names()
     print(f"共找到 {len(all_pokemon)} 只宝可梦")
 
     # 预加载数据文件
     print("正在预加载宝可梦数据库...")
-    response = requests.get(DATA_URL)
-    if response.status_code != 200:
-        print(f"无法加载数据库: {response.status_code}")
-        return
-    js_content = response.text
+    async with aiohttp.ClientSession() as session:
+        async with session.get(DATA_URL) as response:
+            if response.status != 200:
+                print(f"无法加载数据库: {response.status}")
+                return
+            js_content = await response.text()
 
     # 测试前3只宝可梦
     test_pokemon = all_pokemon[:3]  # bulbasaur, ivysaur, venusaur
 
     print("开始测试爬取...")
+    semaphore = asyncio.Semaphore(3)  # 测试时限制并发数为3
     for pokemon_name in test_pokemon:
-        data = get_pokemon_data(pokemon_name, js_content)
-        if data:
-            print(f"\n{pokemon_name}:")
-            print(f"  ID: {data['id']}")
-            print(f"  英文名: {data['name_en']}")
-            print(f"  描述: {data['description'][:200]}...")
-        else:
-            print(f"获取 {pokemon_name} 数据失败")
+        async with aiohttp.ClientSession(headers=headers) as session:
+            data = await get_pokemon_data(pokemon_name, js_content, session, semaphore)
+            if data:
+                print(f"\n{pokemon_name}:")
+                print(f"  ID: {data['id']}")
+                print(f"  英文名: {data['name_en']}")
+                print(f"  描述: {data['description'][:200]}...")
+            else:
+                print(f"获取 {pokemon_name} 数据失败")
 
 if __name__ == "__main__":
     import sys
     if len(sys.argv) > 1 and sys.argv[1] == "test":
-        test()
+        asyncio.run(test())
     else:
-        main()
+        asyncio.run(main())

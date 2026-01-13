@@ -1,0 +1,19 @@
+{
+  "id": 645,
+  "name": "Landorus-Therian",
+  "type1": "Ground",
+  "type2": "Flying",
+  "hp": 89,
+  "attack": 145,
+  "defense": 90,
+  "sp_atk": 105,
+  "sp_def": 80,
+  "speed": 91,
+  "total": 600,
+  "abilities": [
+    "Intimidate"
+  ],
+  "height": 1.3,
+  "weight": 68.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/landorustherian.gif"
+}

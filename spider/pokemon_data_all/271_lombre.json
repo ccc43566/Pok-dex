@@ -1,0 +1,22 @@
+{
+  "id": 271,
+  "name": "Lombre",
+  "type1": "Water",
+  "type2": "Grass",
+  "hp": 60,
+  "attack": 50,
+  "defense": 50,
+  "sp_atk": 60,
+  "sp_def": 70,
+  "speed": 50,
+  "total": 340,
+  "abilities": [
+    "Swift Swim",
+    "Rain Dish",
+    "Own Tempo"
+  ],
+  "height": 1.2,
+  "weight": 32.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/lombre.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\271_lombre.gif"
+}

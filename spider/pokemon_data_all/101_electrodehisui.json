@@ -1,0 +1,21 @@
+{
+  "id": 101,
+  "name": "Electrode-Hisui",
+  "type1": "Electric",
+  "type2": "Grass",
+  "hp": 60,
+  "attack": 50,
+  "defense": 70,
+  "sp_atk": 80,
+  "sp_def": 80,
+  "speed": 150,
+  "total": 490,
+  "abilities": [
+    "Soundproof",
+    "Static",
+    "Aftermath"
+  ],
+  "height": 1.2,
+  "weight": 71.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/electrodehisui.gif"
+}

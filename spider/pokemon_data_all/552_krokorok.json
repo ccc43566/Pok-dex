@@ -1,0 +1,22 @@
+{
+  "id": 552,
+  "name": "Krokorok",
+  "type1": "Ground",
+  "type2": "Dark",
+  "hp": 60,
+  "attack": 82,
+  "defense": 45,
+  "sp_atk": 45,
+  "sp_def": 45,
+  "speed": 74,
+  "total": 351,
+  "abilities": [
+    "Intimidate",
+    "Moxie",
+    "Anger Point"
+  ],
+  "height": 1.0,
+  "weight": 33.4,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/krokorok.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\552_krokorok.gif"
+}

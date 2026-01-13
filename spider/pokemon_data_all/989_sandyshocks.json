@@ -1,0 +1,20 @@
+{
+  "id": 989,
+  "name": "Sandy Shocks",
+  "type1": "Electric",
+  "type2": "Ground",
+  "hp": 85,
+  "attack": 81,
+  "defense": 97,
+  "sp_atk": 121,
+  "sp_def": 85,
+  "speed": 101,
+  "total": 570,
+  "abilities": [
+    "Protosynthesis"
+  ],
+  "height": 2.3,
+  "weight": 60.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/sandyshocks.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\989_sandyshocks.gif"
+}

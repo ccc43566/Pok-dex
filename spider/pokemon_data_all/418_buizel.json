@@ -1,0 +1,21 @@
+{
+  "id": 418,
+  "name": "Buizel",
+  "type1": "Water",
+  "type2": null,
+  "hp": 55,
+  "attack": 65,
+  "defense": 35,
+  "sp_atk": 60,
+  "sp_def": 30,
+  "speed": 85,
+  "total": 330,
+  "abilities": [
+    "Swift Swim",
+    "Water Veil"
+  ],
+  "height": 0.7,
+  "weight": 29.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/buizel.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\418_buizel.gif"
+}

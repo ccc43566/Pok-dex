@@ -1,0 +1,22 @@
+{
+  "id": 848,
+  "name": "Toxel",
+  "type1": "Electric",
+  "type2": "Poison",
+  "hp": 40,
+  "attack": 38,
+  "defense": 35,
+  "sp_atk": 54,
+  "sp_def": 35,
+  "speed": 40,
+  "total": 242,
+  "abilities": [
+    "Rattled",
+    "Static",
+    "Klutz"
+  ],
+  "height": 0.4,
+  "weight": 11.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/toxel.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\848_toxel.gif"
+}

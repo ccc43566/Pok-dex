@@ -1,0 +1,22 @@
+{
+  "id": 559,
+  "name": "Scraggy",
+  "type1": "Dark",
+  "type2": "Fighting",
+  "hp": 50,
+  "attack": 75,
+  "defense": 70,
+  "sp_atk": 35,
+  "sp_def": 70,
+  "speed": 48,
+  "total": 348,
+  "abilities": [
+    "Shed Skin",
+    "Moxie",
+    "Intimidate"
+  ],
+  "height": 0.6,
+  "weight": 11.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/scraggy.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\559_scraggy.gif"
+}

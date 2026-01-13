@@ -1,0 +1,22 @@
+{
+  "id": 664,
+  "name": "Scatterbug",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 38,
+  "attack": 35,
+  "defense": 40,
+  "sp_atk": 27,
+  "sp_def": 25,
+  "speed": 35,
+  "total": 200,
+  "abilities": [
+    "Shield Dust",
+    "Compound Eyes",
+    "Friend Guard"
+  ],
+  "height": 0.3,
+  "weight": 2.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/scatterbug.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\664_scatterbug.gif"
+}

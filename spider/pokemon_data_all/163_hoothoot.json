@@ -1,0 +1,22 @@
+{
+  "id": 163,
+  "name": "Hoothoot",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 60,
+  "attack": 30,
+  "defense": 30,
+  "sp_atk": 36,
+  "sp_def": 56,
+  "speed": 50,
+  "total": 262,
+  "abilities": [
+    "Insomnia",
+    "Keen Eye",
+    "Tinted Lens"
+  ],
+  "height": 0.7,
+  "weight": 21.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/hoothoot.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\163_hoothoot.gif"
+}

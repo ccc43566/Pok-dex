@@ -1,0 +1,21 @@
+{
+  "id": 691,
+  "name": "Dragalge-Mega",
+  "type1": "Poison",
+  "type2": "Dragon",
+  "hp": 65,
+  "attack": 85,
+  "defense": 105,
+  "sp_atk": 132,
+  "sp_def": 163,
+  "speed": 44,
+  "total": 594,
+  "abilities": [
+    "Poison Point",
+    "Poison Touch",
+    "Adaptability"
+  ],
+  "height": 2.1,
+  "weight": 100.3,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/dragalgemega.gif"
+}

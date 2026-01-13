@@ -1,0 +1,19 @@
+{
+  "id": 754,
+  "name": "Lurantis-Totem",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 70,
+  "attack": 105,
+  "defense": 90,
+  "sp_atk": 80,
+  "sp_def": 90,
+  "speed": 45,
+  "total": 480,
+  "abilities": [
+    "Leaf Guard"
+  ],
+  "height": 1.5,
+  "weight": 58.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/lurantistotem.gif"
+}

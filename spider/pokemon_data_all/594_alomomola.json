@@ -1,0 +1,22 @@
+{
+  "id": 594,
+  "name": "Alomomola",
+  "type1": "Water",
+  "type2": null,
+  "hp": 165,
+  "attack": 75,
+  "defense": 80,
+  "sp_atk": 40,
+  "sp_def": 45,
+  "speed": 65,
+  "total": 470,
+  "abilities": [
+    "Healer",
+    "Hydration",
+    "Regenerator"
+  ],
+  "height": 1.2,
+  "weight": 31.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/alomomola.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\594_alomomola.gif"
+}

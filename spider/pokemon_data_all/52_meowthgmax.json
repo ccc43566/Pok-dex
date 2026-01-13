@@ -1,0 +1,21 @@
+{
+  "id": 52,
+  "name": "Meowth-Gmax",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 40,
+  "attack": 45,
+  "defense": 35,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "speed": 90,
+  "total": 290,
+  "abilities": [
+    "Pickup",
+    "Technician",
+    "Unnerve"
+  ],
+  "height": 33.0,
+  "weight": 0.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/meowthgmax.gif"
+}

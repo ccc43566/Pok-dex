@@ -1,0 +1,21 @@
+{
+  "id": 159,
+  "name": "Croconaw",
+  "type1": "Water",
+  "type2": null,
+  "hp": 65,
+  "attack": 80,
+  "defense": 80,
+  "sp_atk": 59,
+  "sp_def": 63,
+  "speed": 58,
+  "total": 405,
+  "abilities": [
+    "Torrent",
+    "Sheer Force"
+  ],
+  "height": 1.1,
+  "weight": 25.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/croconaw.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\159_croconaw.gif"
+}

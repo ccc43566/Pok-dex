@@ -1,0 +1,21 @@
+{
+  "id": 711,
+  "name": "Gourgeist-Large",
+  "type1": "Ghost",
+  "type2": "Grass",
+  "hp": 75,
+  "attack": 95,
+  "defense": 122,
+  "sp_atk": 58,
+  "sp_def": 75,
+  "speed": 69,
+  "total": 494,
+  "abilities": [
+    "Pickup",
+    "Frisk",
+    "Insomnia"
+  ],
+  "height": 1.1,
+  "weight": 14.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gourgeistlarge.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 305,
+  "name": "Lairon",
+  "type1": "Steel",
+  "type2": "Rock",
+  "hp": 60,
+  "attack": 90,
+  "defense": 140,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "speed": 40,
+  "total": 430,
+  "abilities": [
+    "Sturdy",
+    "Rock Head",
+    "Heavy Metal"
+  ],
+  "height": 0.9,
+  "weight": 120.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/lairon.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\305_lairon.gif"
+}

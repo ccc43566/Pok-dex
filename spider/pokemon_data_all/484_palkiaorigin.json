@@ -1,0 +1,20 @@
+{
+  "id": 484,
+  "name": "Palkia-Origin",
+  "type1": "Water",
+  "type2": "Dragon",
+  "hp": 90,
+  "attack": 100,
+  "defense": 100,
+  "sp_atk": 150,
+  "sp_def": 120,
+  "speed": 120,
+  "total": 680,
+  "abilities": [
+    "Pressure",
+    "Telepathy"
+  ],
+  "height": 6.3,
+  "weight": 660.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/palkiaorigin.gif"
+}

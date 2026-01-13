@@ -1,0 +1,21 @@
+{
+  "id": 368,
+  "name": "Gorebyss",
+  "type1": "Water",
+  "type2": null,
+  "hp": 55,
+  "attack": 84,
+  "defense": 105,
+  "sp_atk": 114,
+  "sp_def": 75,
+  "speed": 52,
+  "total": 485,
+  "abilities": [
+    "Swift Swim",
+    "Hydration"
+  ],
+  "height": 1.8,
+  "weight": 22.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gorebyss.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\368_gorebyss.gif"
+}

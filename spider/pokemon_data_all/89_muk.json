@@ -1,0 +1,22 @@
+{
+  "id": 89,
+  "name": "Muk",
+  "type1": "Poison",
+  "type2": null,
+  "hp": 105,
+  "attack": 105,
+  "defense": 75,
+  "sp_atk": 65,
+  "sp_def": 100,
+  "speed": 50,
+  "total": 500,
+  "abilities": [
+    "Stench",
+    "Sticky Hold",
+    "Poison Touch"
+  ],
+  "height": 1.2,
+  "weight": 30.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/muk.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\89_muk.gif"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 393,
+  "name": "Piplup",
+  "type1": "Water",
+  "type2": null,
+  "hp": 53,
+  "attack": 51,
+  "defense": 53,
+  "sp_atk": 61,
+  "sp_def": 56,
+  "speed": 40,
+  "total": 314,
+  "abilities": [
+    "Torrent",
+    "Competitive"
+  ],
+  "height": 0.4,
+  "weight": 5.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/piplup.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\393_piplup.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 844,
+  "name": "Sandaconda",
+  "type1": "Ground",
+  "type2": null,
+  "hp": 72,
+  "attack": 107,
+  "defense": 125,
+  "sp_atk": 65,
+  "sp_def": 70,
+  "speed": 71,
+  "total": 510,
+  "abilities": [
+    "Sand Spit",
+    "Shed Skin",
+    "Sand Veil"
+  ],
+  "height": 3.8,
+  "weight": 65.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/sandaconda.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\844_sandaconda.gif"
+}

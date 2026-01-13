@@ -1,0 +1,22 @@
+{
+  "id": 535,
+  "name": "Tympole",
+  "type1": "Water",
+  "type2": null,
+  "hp": 50,
+  "attack": 50,
+  "defense": 40,
+  "sp_atk": 50,
+  "sp_def": 40,
+  "speed": 64,
+  "total": 294,
+  "abilities": [
+    "Swift Swim",
+    "Hydration",
+    "Water Absorb"
+  ],
+  "height": 0.5,
+  "weight": 4.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/tympole.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\535_tympole.gif"
+}

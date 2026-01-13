@@ -1,0 +1,22 @@
+{
+  "id": 620,
+  "name": "Mienshao",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 65,
+  "attack": 125,
+  "defense": 60,
+  "sp_atk": 95,
+  "sp_def": 60,
+  "speed": 105,
+  "total": 510,
+  "abilities": [
+    "Inner Focus",
+    "Regenerator",
+    "Reckless"
+  ],
+  "height": 1.4,
+  "weight": 35.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/mienshao.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\620_mienshao.gif"
+}

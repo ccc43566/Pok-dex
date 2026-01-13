@@ -1,0 +1,20 @@
+{
+  "id": 154,
+  "name": "Meganium-Mega",
+  "type1": "Grass",
+  "type2": "Fairy",
+  "hp": 80,
+  "attack": 92,
+  "defense": 115,
+  "sp_atk": 143,
+  "sp_def": 115,
+  "speed": 80,
+  "total": 625,
+  "abilities": [
+    "Overgrow",
+    "Leaf Guard"
+  ],
+  "height": 2.4,
+  "weight": 201.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/meganiummega.gif"
+}

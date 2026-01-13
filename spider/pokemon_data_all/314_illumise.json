@@ -1,0 +1,22 @@
+{
+  "id": 314,
+  "name": "Illumise",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 65,
+  "attack": 47,
+  "defense": 75,
+  "sp_atk": 73,
+  "sp_def": 85,
+  "speed": 85,
+  "total": 430,
+  "abilities": [
+    "Oblivious",
+    "Tinted Lens",
+    "Prankster"
+  ],
+  "height": 0.6,
+  "weight": 17.7,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/illumise.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\314_illumise.gif"
+}

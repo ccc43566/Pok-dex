@@ -1,0 +1,20 @@
+{
+  "id": 720,
+  "name": "Hoopa",
+  "type1": "Psychic",
+  "type2": "Ghost",
+  "hp": 80,
+  "attack": 110,
+  "defense": 60,
+  "sp_atk": 150,
+  "sp_def": 130,
+  "speed": 70,
+  "total": 600,
+  "abilities": [
+    "Magician"
+  ],
+  "height": 0.5,
+  "weight": 9.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/hoopa.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\720_hoopa.gif"
+}

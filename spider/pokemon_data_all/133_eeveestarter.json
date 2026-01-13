@@ -1,0 +1,21 @@
+{
+  "id": 133,
+  "name": "Eevee-Starter",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 65,
+  "attack": 75,
+  "defense": 70,
+  "sp_atk": 65,
+  "sp_def": 85,
+  "speed": 75,
+  "total": 435,
+  "abilities": [
+    "Run Away",
+    "Adaptability",
+    "Anticipation"
+  ],
+  "height": 0.3,
+  "weight": 6.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/eeveestarter.gif"
+}

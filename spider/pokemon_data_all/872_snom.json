@@ -1,0 +1,21 @@
+{
+  "id": 872,
+  "name": "Snom",
+  "type1": "Ice",
+  "type2": "Bug",
+  "hp": 30,
+  "attack": 25,
+  "defense": 35,
+  "sp_atk": 45,
+  "sp_def": 30,
+  "speed": 20,
+  "total": 185,
+  "abilities": [
+    "Shield Dust",
+    "Ice Scales"
+  ],
+  "height": 0.3,
+  "weight": 3.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/snom.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\872_snom.gif"
+}

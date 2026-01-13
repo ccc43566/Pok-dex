@@ -1,0 +1,20 @@
+{
+  "id": 649,
+  "name": "Genesect",
+  "type1": "Bug",
+  "type2": "Steel",
+  "hp": 71,
+  "attack": 120,
+  "defense": 95,
+  "sp_atk": 120,
+  "sp_def": 95,
+  "speed": 99,
+  "total": 600,
+  "abilities": [
+    "Download"
+  ],
+  "height": 1.5,
+  "weight": 82.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/genesect.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\649_genesect.gif"
+}

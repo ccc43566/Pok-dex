@@ -1,0 +1,20 @@
+{
+  "id": 1009,
+  "name": "Walking Wake",
+  "type1": "Water",
+  "type2": "Dragon",
+  "hp": 99,
+  "attack": 83,
+  "defense": 91,
+  "sp_atk": 125,
+  "sp_def": 83,
+  "speed": 109,
+  "total": 590,
+  "abilities": [
+    "Protosynthesis"
+  ],
+  "height": 3.5,
+  "weight": 280.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/walkingwake.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\1009_walkingwake.gif"
+}

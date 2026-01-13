@@ -1,0 +1,21 @@
+{
+  "id": 835,
+  "name": "Yamper",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 59,
+  "attack": 45,
+  "defense": 50,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "speed": 26,
+  "total": 270,
+  "abilities": [
+    "Ball Fetch",
+    "Rattled"
+  ],
+  "height": 0.3,
+  "weight": 13.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/yamper.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\835_yamper.gif"
+}

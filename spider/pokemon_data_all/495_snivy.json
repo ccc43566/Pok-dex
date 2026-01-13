@@ -1,0 +1,21 @@
+{
+  "id": 495,
+  "name": "Snivy",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 45,
+  "attack": 45,
+  "defense": 55,
+  "sp_atk": 45,
+  "sp_def": 55,
+  "speed": 63,
+  "total": 308,
+  "abilities": [
+    "Overgrow",
+    "Contrary"
+  ],
+  "height": 0.6,
+  "weight": 8.1,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/snivy.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\495_snivy.gif"
+}

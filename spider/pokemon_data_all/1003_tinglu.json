@@ -1,0 +1,19 @@
+{
+  "id": 1003,
+  "name": "Ting-Lu",
+  "type1": "Dark",
+  "type2": "Ground",
+  "hp": 155,
+  "attack": 110,
+  "defense": 125,
+  "sp_atk": 55,
+  "sp_def": 80,
+  "speed": 45,
+  "total": 570,
+  "abilities": [
+    "Vessel of Ruin"
+  ],
+  "height": 2.7,
+  "weight": 699.7,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/tinglu.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 531,
+  "name": "Audino-Mega",
+  "type1": "Normal",
+  "type2": "Fairy",
+  "hp": 103,
+  "attack": 60,
+  "defense": 126,
+  "sp_atk": 80,
+  "sp_def": 126,
+  "speed": 50,
+  "total": 545,
+  "abilities": [
+    "Healer"
+  ],
+  "height": 1.5,
+  "weight": 32.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/audinomega.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 675,
+  "name": "Pangoro",
+  "type1": "Fighting",
+  "type2": "Dark",
+  "hp": 95,
+  "attack": 124,
+  "defense": 78,
+  "sp_atk": 69,
+  "sp_def": 71,
+  "speed": 58,
+  "total": 495,
+  "abilities": [
+    "Iron Fist",
+    "Mold Breaker",
+    "Scrappy"
+  ],
+  "height": 2.1,
+  "weight": 136.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pangoro.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\675_pangoro.gif"
+}

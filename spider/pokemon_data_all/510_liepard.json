@@ -1,0 +1,22 @@
+{
+  "id": 510,
+  "name": "Liepard",
+  "type1": "Dark",
+  "type2": null,
+  "hp": 64,
+  "attack": 88,
+  "defense": 50,
+  "sp_atk": 88,
+  "sp_def": 50,
+  "speed": 106,
+  "total": 446,
+  "abilities": [
+    "Limber",
+    "Unburden",
+    "Prankster"
+  ],
+  "height": 1.1,
+  "weight": 37.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/liepard.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\510_liepard.gif"
+}

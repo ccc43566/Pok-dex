@@ -1,0 +1,22 @@
+{
+  "id": 533,
+  "name": "Gurdurr",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 85,
+  "attack": 105,
+  "defense": 85,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "speed": 40,
+  "total": 405,
+  "abilities": [
+    "Guts",
+    "Sheer Force",
+    "Iron Fist"
+  ],
+  "height": 1.2,
+  "weight": 40.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gurdurr.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\533_gurdurr.gif"
+}

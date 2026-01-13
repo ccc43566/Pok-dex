@@ -1,0 +1,22 @@
+{
+  "id": 110,
+  "name": "Weezing",
+  "type1": "Poison",
+  "type2": null,
+  "hp": 65,
+  "attack": 90,
+  "defense": 120,
+  "sp_atk": 85,
+  "sp_def": 70,
+  "speed": 60,
+  "total": 490,
+  "abilities": [
+    "Levitate",
+    "Neutralizing Gas",
+    "Stench"
+  ],
+  "height": 1.2,
+  "weight": 9.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/weezing.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\110_weezing.gif"
+}

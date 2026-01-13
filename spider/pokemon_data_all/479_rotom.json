@@ -1,0 +1,20 @@
+{
+  "id": 479,
+  "name": "Rotom",
+  "type1": "Electric",
+  "type2": "Ghost",
+  "hp": 50,
+  "attack": 50,
+  "defense": 77,
+  "sp_atk": 95,
+  "sp_def": 77,
+  "speed": 91,
+  "total": 440,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 0.3,
+  "weight": 0.3,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/rotom.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\479_rotom.gif"
+}

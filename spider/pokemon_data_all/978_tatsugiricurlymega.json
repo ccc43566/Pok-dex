@@ -1,0 +1,20 @@
+{
+  "id": 978,
+  "name": "Tatsugiri-Curly-Mega",
+  "type1": "Dragon",
+  "type2": "Water",
+  "hp": 68,
+  "attack": 65,
+  "defense": 90,
+  "sp_atk": 135,
+  "sp_def": 125,
+  "speed": 92,
+  "total": 575,
+  "abilities": [
+    "Commander",
+    "Storm Drain"
+  ],
+  "height": 0.3,
+  "weight": 8.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/tatsugiricurlymega.gif"
+}

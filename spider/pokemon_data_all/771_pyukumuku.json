@@ -1,0 +1,21 @@
+{
+  "id": 771,
+  "name": "Pyukumuku",
+  "type1": "Water",
+  "type2": null,
+  "hp": 55,
+  "attack": 60,
+  "defense": 130,
+  "sp_atk": 30,
+  "sp_def": 130,
+  "speed": 5,
+  "total": 410,
+  "abilities": [
+    "Innards Out",
+    "Unaware"
+  ],
+  "height": 0.3,
+  "weight": 1.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pyukumuku.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\771_pyukumuku.gif"
+}

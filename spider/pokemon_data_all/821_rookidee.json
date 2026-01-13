@@ -1,0 +1,22 @@
+{
+  "id": 821,
+  "name": "Rookidee",
+  "type1": "Flying",
+  "type2": null,
+  "hp": 38,
+  "attack": 47,
+  "defense": 35,
+  "sp_atk": 33,
+  "sp_def": 35,
+  "speed": 57,
+  "total": 245,
+  "abilities": [
+    "Keen Eye",
+    "Unnerve",
+    "Big Pecks"
+  ],
+  "height": 0.2,
+  "weight": 1.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/rookidee.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\821_rookidee.gif"
+}

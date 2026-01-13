@@ -1,0 +1,22 @@
+{
+  "id": 405,
+  "name": "Luxray",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 80,
+  "attack": 120,
+  "defense": 79,
+  "sp_atk": 95,
+  "sp_def": 79,
+  "speed": 70,
+  "total": 523,
+  "abilities": [
+    "Rivalry",
+    "Intimidate",
+    "Guts"
+  ],
+  "height": 1.4,
+  "weight": 42.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/luxray.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\405_luxray.gif"
+}

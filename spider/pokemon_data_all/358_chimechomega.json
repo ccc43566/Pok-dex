@@ -1,0 +1,19 @@
+{
+  "id": 358,
+  "name": "Chimecho-Mega",
+  "type1": "Psychic",
+  "type2": "Steel",
+  "hp": 75,
+  "attack": 50,
+  "defense": 110,
+  "sp_atk": 135,
+  "sp_def": 120,
+  "speed": 65,
+  "total": 555,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 1.2,
+  "weight": 8.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/chimechomega.gif"
+}

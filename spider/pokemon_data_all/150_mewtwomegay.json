@@ -1,0 +1,19 @@
+{
+  "id": 150,
+  "name": "Mewtwo-Mega-Y",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 106,
+  "attack": 150,
+  "defense": 70,
+  "sp_atk": 194,
+  "sp_def": 120,
+  "speed": 140,
+  "total": 780,
+  "abilities": [
+    "Insomnia"
+  ],
+  "height": 1.5,
+  "weight": 33.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/mewtwomegay.gif"
+}

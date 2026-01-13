@@ -1,0 +1,19 @@
+{
+  "id": 555,
+  "name": "Darmanitan-Zen",
+  "type1": "Fire",
+  "type2": "Psychic",
+  "hp": 105,
+  "attack": 30,
+  "defense": 105,
+  "sp_atk": 140,
+  "sp_def": 105,
+  "speed": 55,
+  "total": 540,
+  "abilities": [
+    "Zen Mode"
+  ],
+  "height": 1.3,
+  "weight": 92.9,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/darmanitanzen.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 67,
+  "name": "Machoke",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 80,
+  "attack": 100,
+  "defense": 70,
+  "sp_atk": 50,
+  "sp_def": 60,
+  "speed": 45,
+  "total": 405,
+  "abilities": [
+    "Guts",
+    "No Guard",
+    "Steadfast"
+  ],
+  "height": 1.5,
+  "weight": 70.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/machoke.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\67_machoke.gif"
+}

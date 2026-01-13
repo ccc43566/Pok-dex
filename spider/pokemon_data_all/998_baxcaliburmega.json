@@ -1,0 +1,20 @@
+{
+  "id": 998,
+  "name": "Baxcalibur-Mega",
+  "type1": "Dragon",
+  "type2": "Ice",
+  "hp": 115,
+  "attack": 175,
+  "defense": 117,
+  "sp_atk": 105,
+  "sp_def": 101,
+  "speed": 87,
+  "total": 700,
+  "abilities": [
+    "Thermal Exchange",
+    "Ice Body"
+  ],
+  "height": 2.1,
+  "weight": 315.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/baxcaliburmega.gif"
+}

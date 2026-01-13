@@ -1,0 +1,22 @@
+{
+  "id": 216,
+  "name": "Teddiursa",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 60,
+  "attack": 80,
+  "defense": 50,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "speed": 40,
+  "total": 330,
+  "abilities": [
+    "Pickup",
+    "Quick Feet",
+    "Honey Gather"
+  ],
+  "height": 0.6,
+  "weight": 8.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/teddiursa.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\216_teddiursa.gif"
+}

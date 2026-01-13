@@ -1,0 +1,21 @@
+{
+  "id": 499,
+  "name": "Pignite",
+  "type1": "Fire",
+  "type2": "Fighting",
+  "hp": 90,
+  "attack": 93,
+  "defense": 55,
+  "sp_atk": 70,
+  "sp_def": 55,
+  "speed": 55,
+  "total": 418,
+  "abilities": [
+    "Blaze",
+    "Thick Fat"
+  ],
+  "height": 1.0,
+  "weight": 55.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pignite.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\499_pignite.gif"
+}

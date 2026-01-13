@@ -1,0 +1,22 @@
+{
+  "id": 195,
+  "name": "Quagsire",
+  "type1": "Water",
+  "type2": "Ground",
+  "hp": 95,
+  "attack": 85,
+  "defense": 85,
+  "sp_atk": 65,
+  "sp_def": 65,
+  "speed": 35,
+  "total": 430,
+  "abilities": [
+    "Damp",
+    "Water Absorb",
+    "Unaware"
+  ],
+  "height": 1.4,
+  "weight": 75.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/quagsire.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\195_quagsire.gif"
+}

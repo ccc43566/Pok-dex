@@ -1,0 +1,22 @@
+{
+  "id": 885,
+  "name": "Dreepy",
+  "type1": "Dragon",
+  "type2": "Ghost",
+  "hp": 28,
+  "attack": 60,
+  "defense": 30,
+  "sp_atk": 40,
+  "sp_def": 30,
+  "speed": 82,
+  "total": 270,
+  "abilities": [
+    "Clear Body",
+    "Infiltrator",
+    "Cursed Body"
+  ],
+  "height": 0.5,
+  "weight": 2.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/dreepy.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\885_dreepy.gif"
+}

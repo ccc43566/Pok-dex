@@ -1,0 +1,21 @@
+{
+  "id": 916,
+  "name": "Oinkologne-F",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 115,
+  "attack": 90,
+  "defense": 70,
+  "sp_atk": 59,
+  "sp_def": 90,
+  "speed": 65,
+  "total": 489,
+  "abilities": [
+    "Aroma Veil",
+    "Gluttony",
+    "Thick Fat"
+  ],
+  "height": 1.0,
+  "weight": 120.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/oinkolognef.gif"
+}

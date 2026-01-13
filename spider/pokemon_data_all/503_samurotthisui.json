@@ -1,0 +1,20 @@
+{
+  "id": 503,
+  "name": "Samurott-Hisui",
+  "type1": "Water",
+  "type2": "Dark",
+  "hp": 90,
+  "attack": 108,
+  "defense": 80,
+  "sp_atk": 100,
+  "sp_def": 65,
+  "speed": 85,
+  "total": 528,
+  "abilities": [
+    "Torrent",
+    "Sharpness"
+  ],
+  "height": 1.5,
+  "weight": 58.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/samurotthisui.gif"
+}

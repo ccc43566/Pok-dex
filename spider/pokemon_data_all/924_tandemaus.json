@@ -1,0 +1,22 @@
+{
+  "id": 924,
+  "name": "Tandemaus",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 50,
+  "attack": 50,
+  "defense": 45,
+  "sp_atk": 40,
+  "sp_def": 45,
+  "speed": 75,
+  "total": 305,
+  "abilities": [
+    "Run Away",
+    "Pickup",
+    "Own Tempo"
+  ],
+  "height": 0.3,
+  "weight": 1.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/tandemaus.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\924_tandemaus.gif"
+}

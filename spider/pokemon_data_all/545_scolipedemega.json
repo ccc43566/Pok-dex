@@ -1,0 +1,21 @@
+{
+  "id": 545,
+  "name": "Scolipede-Mega",
+  "type1": "Bug",
+  "type2": "Poison",
+  "hp": 60,
+  "attack": 140,
+  "defense": 149,
+  "sp_atk": 75,
+  "sp_def": 99,
+  "speed": 62,
+  "total": 585,
+  "abilities": [
+    "Poison Point",
+    "Swarm",
+    "Speed Boost"
+  ],
+  "height": 3.2,
+  "weight": 230.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/scolipedemega.gif"
+}

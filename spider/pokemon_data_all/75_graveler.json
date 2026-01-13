@@ -1,0 +1,22 @@
+{
+  "id": 75,
+  "name": "Graveler",
+  "type1": "Rock",
+  "type2": "Ground",
+  "hp": 55,
+  "attack": 95,
+  "defense": 115,
+  "sp_atk": 45,
+  "sp_def": 45,
+  "speed": 35,
+  "total": 390,
+  "abilities": [
+    "Rock Head",
+    "Sturdy",
+    "Sand Veil"
+  ],
+  "height": 1.0,
+  "weight": 105.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/graveler.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\75_graveler.gif"
+}

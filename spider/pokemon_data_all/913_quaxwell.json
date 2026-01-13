@@ -1,0 +1,21 @@
+{
+  "id": 913,
+  "name": "Quaxwell",
+  "type1": "Water",
+  "type2": null,
+  "hp": 70,
+  "attack": 85,
+  "defense": 65,
+  "sp_atk": 65,
+  "sp_def": 60,
+  "speed": 65,
+  "total": 410,
+  "abilities": [
+    "Torrent",
+    "Moxie"
+  ],
+  "height": 1.2,
+  "weight": 21.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/quaxwell.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\913_quaxwell.gif"
+}

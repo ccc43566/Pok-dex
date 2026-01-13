@@ -1,0 +1,22 @@
+{
+  "id": 365,
+  "name": "Walrein",
+  "type1": "Ice",
+  "type2": "Water",
+  "hp": 110,
+  "attack": 80,
+  "defense": 90,
+  "sp_atk": 95,
+  "sp_def": 90,
+  "speed": 65,
+  "total": 530,
+  "abilities": [
+    "Thick Fat",
+    "Ice Body",
+    "Oblivious"
+  ],
+  "height": 1.4,
+  "weight": 150.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/walrein.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\365_walrein.gif"
+}

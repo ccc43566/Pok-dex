@@ -1,0 +1,21 @@
+{
+  "id": 947,
+  "name": "Brambleghast",
+  "type1": "Grass",
+  "type2": "Ghost",
+  "hp": 55,
+  "attack": 115,
+  "defense": 70,
+  "sp_atk": 80,
+  "sp_def": 70,
+  "speed": 90,
+  "total": 480,
+  "abilities": [
+    "Wind Rider",
+    "Infiltrator"
+  ],
+  "height": 1.2,
+  "weight": 6.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/brambleghast.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\947_brambleghast.gif"
+}

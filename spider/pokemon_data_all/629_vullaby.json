@@ -1,0 +1,22 @@
+{
+  "id": 629,
+  "name": "Vullaby",
+  "type1": "Dark",
+  "type2": "Flying",
+  "hp": 70,
+  "attack": 55,
+  "defense": 75,
+  "sp_atk": 45,
+  "sp_def": 65,
+  "speed": 60,
+  "total": 370,
+  "abilities": [
+    "Big Pecks",
+    "Overcoat",
+    "Weak Armor"
+  ],
+  "height": 0.5,
+  "weight": 9.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/vullaby.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\629_vullaby.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 560,
+  "name": "Scrafty",
+  "type1": "Dark",
+  "type2": "Fighting",
+  "hp": 65,
+  "attack": 90,
+  "defense": 115,
+  "sp_atk": 45,
+  "sp_def": 115,
+  "speed": 58,
+  "total": 488,
+  "abilities": [
+    "Shed Skin",
+    "Moxie",
+    "Intimidate"
+  ],
+  "height": 1.1,
+  "weight": 30.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/scrafty.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\560_scrafty.gif"
+}

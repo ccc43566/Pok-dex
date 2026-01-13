@@ -1,0 +1,21 @@
+{
+  "id": 936,
+  "name": "Armarouge",
+  "type1": "Fire",
+  "type2": "Psychic",
+  "hp": 85,
+  "attack": 60,
+  "defense": 100,
+  "sp_atk": 125,
+  "sp_def": 80,
+  "speed": 75,
+  "total": 525,
+  "abilities": [
+    "Flash Fire",
+    "Weak Armor"
+  ],
+  "height": 1.5,
+  "weight": 85.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/armarouge.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\936_armarouge.gif"
+}

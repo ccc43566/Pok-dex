@@ -1,0 +1,21 @@
+{
+  "id": 706,
+  "name": "Goodra-Hisui",
+  "type1": "Steel",
+  "type2": "Dragon",
+  "hp": 80,
+  "attack": 100,
+  "defense": 100,
+  "sp_atk": 110,
+  "sp_def": 150,
+  "speed": 60,
+  "total": 600,
+  "abilities": [
+    "Sap Sipper",
+    "Shell Armor",
+    "Gooey"
+  ],
+  "height": 1.7,
+  "weight": 334.1,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/goodrahisui.gif"
+}

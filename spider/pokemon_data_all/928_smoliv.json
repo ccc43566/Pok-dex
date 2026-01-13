@@ -1,0 +1,21 @@
+{
+  "id": 928,
+  "name": "Smoliv",
+  "type1": "Grass",
+  "type2": "Normal",
+  "hp": 41,
+  "attack": 35,
+  "defense": 45,
+  "sp_atk": 58,
+  "sp_def": 51,
+  "speed": 30,
+  "total": 260,
+  "abilities": [
+    "Early Bird",
+    "Harvest"
+  ],
+  "height": 0.3,
+  "weight": 6.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/smoliv.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\928_smoliv.gif"
+}

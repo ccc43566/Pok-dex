@@ -1,0 +1,22 @@
+{
+  "id": 586,
+  "name": "Sawsbuck",
+  "type1": "Normal",
+  "type2": "Grass",
+  "hp": 80,
+  "attack": 100,
+  "defense": 70,
+  "sp_atk": 60,
+  "sp_def": 70,
+  "speed": 95,
+  "total": 475,
+  "abilities": [
+    "Chlorophyll",
+    "Sap Sipper",
+    "Serene Grace"
+  ],
+  "height": 1.9,
+  "weight": 92.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/sawsbuck.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\586_sawsbuck.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 56,
+  "name": "Mankey",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 40,
+  "attack": 80,
+  "defense": 35,
+  "sp_atk": 35,
+  "sp_def": 45,
+  "speed": 70,
+  "total": 305,
+  "abilities": [
+    "Vital Spirit",
+    "Anger Point",
+    "Defiant"
+  ],
+  "height": 0.5,
+  "weight": 28.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/mankey.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\56_mankey.gif"
+}

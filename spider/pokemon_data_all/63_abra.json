@@ -1,0 +1,22 @@
+{
+  "id": 63,
+  "name": "Abra",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 25,
+  "attack": 20,
+  "defense": 15,
+  "sp_atk": 105,
+  "sp_def": 55,
+  "speed": 90,
+  "total": 310,
+  "abilities": [
+    "Synchronize",
+    "Inner Focus",
+    "Magic Guard"
+  ],
+  "height": 0.9,
+  "weight": 19.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/abra.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\63_abra.gif"
+}

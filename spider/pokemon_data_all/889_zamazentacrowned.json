@@ -1,0 +1,19 @@
+{
+  "id": 889,
+  "name": "Zamazenta-Crowned",
+  "type1": "Fighting",
+  "type2": "Steel",
+  "hp": 92,
+  "attack": 120,
+  "defense": 140,
+  "sp_atk": 80,
+  "sp_def": 140,
+  "speed": 128,
+  "total": 700,
+  "abilities": [
+    "Dauntless Shield"
+  ],
+  "height": 2.9,
+  "weight": 785.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/zamazentacrowned.gif"
+}

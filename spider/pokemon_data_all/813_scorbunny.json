@@ -1,0 +1,21 @@
+{
+  "id": 813,
+  "name": "Scorbunny",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 50,
+  "attack": 71,
+  "defense": 40,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "speed": 69,
+  "total": 310,
+  "abilities": [
+    "Blaze",
+    "Libero"
+  ],
+  "height": 0.3,
+  "weight": 4.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/scorbunny.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\813_scorbunny.gif"
+}

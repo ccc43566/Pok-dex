@@ -1,0 +1,19 @@
+{
+  "id": 999,
+  "name": "Gimmighoul-Roaming",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 45,
+  "attack": 30,
+  "defense": 25,
+  "sp_atk": 75,
+  "sp_def": 45,
+  "speed": 80,
+  "total": 300,
+  "abilities": [
+    "Run Away"
+  ],
+  "height": 0.1,
+  "weight": 0.1,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gimmighoulroaming.gif"
+}

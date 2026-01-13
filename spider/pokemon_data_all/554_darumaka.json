@@ -1,0 +1,21 @@
+{
+  "id": 554,
+  "name": "Darumaka",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 70,
+  "attack": 90,
+  "defense": 45,
+  "sp_atk": 15,
+  "sp_def": 45,
+  "speed": 50,
+  "total": 315,
+  "abilities": [
+    "Hustle",
+    "Inner Focus"
+  ],
+  "height": 0.6,
+  "weight": 37.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/darumaka.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\554_darumaka.gif"
+}

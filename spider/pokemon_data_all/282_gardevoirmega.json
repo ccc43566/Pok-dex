@@ -1,0 +1,19 @@
+{
+  "id": 282,
+  "name": "Gardevoir-Mega",
+  "type1": "Psychic",
+  "type2": "Fairy",
+  "hp": 68,
+  "attack": 85,
+  "defense": 65,
+  "sp_atk": 165,
+  "sp_def": 135,
+  "speed": 100,
+  "total": 618,
+  "abilities": [
+    "Pixilate"
+  ],
+  "height": 1.6,
+  "weight": 48.4,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gardevoirmega.gif"
+}

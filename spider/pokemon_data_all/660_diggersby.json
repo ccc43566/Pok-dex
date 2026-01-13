@@ -1,0 +1,22 @@
+{
+  "id": 660,
+  "name": "Diggersby",
+  "type1": "Normal",
+  "type2": "Ground",
+  "hp": 85,
+  "attack": 56,
+  "defense": 77,
+  "sp_atk": 50,
+  "sp_def": 77,
+  "speed": 78,
+  "total": 423,
+  "abilities": [
+    "Pickup",
+    "Cheek Pouch",
+    "Huge Power"
+  ],
+  "height": 1.0,
+  "weight": 42.4,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/diggersby.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\660_diggersby.gif"
+}

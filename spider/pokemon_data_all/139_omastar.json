@@ -1,0 +1,22 @@
+{
+  "id": 139,
+  "name": "Omastar",
+  "type1": "Rock",
+  "type2": "Water",
+  "hp": 70,
+  "attack": 60,
+  "defense": 125,
+  "sp_atk": 115,
+  "sp_def": 70,
+  "speed": 55,
+  "total": 495,
+  "abilities": [
+    "Swift Swim",
+    "Shell Armor",
+    "Weak Armor"
+  ],
+  "height": 1.0,
+  "weight": 35.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/omastar.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\139_omastar.gif"
+}

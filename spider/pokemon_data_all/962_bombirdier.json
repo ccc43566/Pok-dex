@@ -1,0 +1,22 @@
+{
+  "id": 962,
+  "name": "Bombirdier",
+  "type1": "Flying",
+  "type2": "Dark",
+  "hp": 70,
+  "attack": 103,
+  "defense": 85,
+  "sp_atk": 60,
+  "sp_def": 85,
+  "speed": 82,
+  "total": 485,
+  "abilities": [
+    "Big Pecks",
+    "Keen Eye",
+    "Rocky Payload"
+  ],
+  "height": 1.5,
+  "weight": 42.9,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/bombirdier.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\962_bombirdier.gif"
+}

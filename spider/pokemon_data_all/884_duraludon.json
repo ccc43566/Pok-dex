@@ -1,0 +1,22 @@
+{
+  "id": 884,
+  "name": "Duraludon",
+  "type1": "Steel",
+  "type2": "Dragon",
+  "hp": 70,
+  "attack": 95,
+  "defense": 115,
+  "sp_atk": 120,
+  "sp_def": 50,
+  "speed": 85,
+  "total": 535,
+  "abilities": [
+    "Light Metal",
+    "Heavy Metal",
+    "Stalwart"
+  ],
+  "height": 1.8,
+  "weight": 40.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/duraludon.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\884_duraludon.gif"
+}

@@ -3,16 +3,19 @@
   "name": "Fearow",
   "type1": "Normal",
   "type2": "Flying",
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 65,
+  "attack": 90,
+  "defense": 65,
+  "sp_atk": 61,
+  "sp_def": 61,
+  "speed": 100,
+  "total": 442,
+  "abilities": [
+    "Keen Eye",
+    "Sniper"
+  ],
+  "height": 1.2,
+  "weight": 38.0,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/fearow.gif",
-  "image_path": "pokemon_images\\22_fearow.gif"
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\22_fearow.gif"
 }

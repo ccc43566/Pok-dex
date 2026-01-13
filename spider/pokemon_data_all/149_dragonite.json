@@ -1,0 +1,21 @@
+{
+  "id": 149,
+  "name": "Dragonite",
+  "type1": "Dragon",
+  "type2": "Flying",
+  "hp": 91,
+  "attack": 134,
+  "defense": 95,
+  "sp_atk": 100,
+  "sp_def": 100,
+  "speed": 80,
+  "total": 600,
+  "abilities": [
+    "Inner Focus",
+    "Multiscale"
+  ],
+  "height": 2.2,
+  "weight": 210.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/dragonite.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\149_dragonite.gif"
+}

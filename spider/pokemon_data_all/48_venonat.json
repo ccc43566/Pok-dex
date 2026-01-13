@@ -1,0 +1,22 @@
+{
+  "id": 48,
+  "name": "Venonat",
+  "type1": "Bug",
+  "type2": "Poison",
+  "hp": 60,
+  "attack": 55,
+  "defense": 50,
+  "sp_atk": 40,
+  "sp_def": 55,
+  "speed": 45,
+  "total": 305,
+  "abilities": [
+    "Compound Eyes",
+    "Tinted Lens",
+    "Run Away"
+  ],
+  "height": 1.0,
+  "weight": 30.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/venonat.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\48_venonat.gif"
+}

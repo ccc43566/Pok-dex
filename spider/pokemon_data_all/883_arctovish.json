@@ -1,0 +1,22 @@
+{
+  "id": 883,
+  "name": "Arctovish",
+  "type1": "Water",
+  "type2": "Ice",
+  "hp": 90,
+  "attack": 90,
+  "defense": 100,
+  "sp_atk": 80,
+  "sp_def": 90,
+  "speed": 55,
+  "total": 505,
+  "abilities": [
+    "Water Absorb",
+    "Ice Body",
+    "Slush Rush"
+  ],
+  "height": 2.0,
+  "weight": 175.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/arctovish.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\883_arctovish.gif"
+}

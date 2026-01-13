@@ -1,0 +1,21 @@
+{
+  "id": 258,
+  "name": "Mudkip",
+  "type1": "Water",
+  "type2": null,
+  "hp": 50,
+  "attack": 70,
+  "defense": 50,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "speed": 40,
+  "total": 310,
+  "abilities": [
+    "Torrent",
+    "Damp"
+  ],
+  "height": 0.4,
+  "weight": 7.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/mudkip.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\258_mudkip.gif"
+}

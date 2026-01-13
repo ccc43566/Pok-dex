@@ -1,0 +1,21 @@
+{
+  "id": 143,
+  "name": "Snorlax-Gmax",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 160,
+  "attack": 110,
+  "defense": 65,
+  "sp_atk": 65,
+  "sp_def": 110,
+  "speed": 30,
+  "total": 540,
+  "abilities": [
+    "Immunity",
+    "Thick Fat",
+    "Gluttony"
+  ],
+  "height": 35.0,
+  "weight": 0.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/snorlaxgmax.gif"
+}

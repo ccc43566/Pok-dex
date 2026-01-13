@@ -1,0 +1,20 @@
+{
+  "id": 803,
+  "name": "Poipole",
+  "type1": "Poison",
+  "type2": null,
+  "hp": 67,
+  "attack": 73,
+  "defense": 67,
+  "sp_atk": 73,
+  "sp_def": 67,
+  "speed": 73,
+  "total": 420,
+  "abilities": [
+    "Beast Boost"
+  ],
+  "height": 0.6,
+  "weight": 1.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/poipole.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\803_poipole.gif"
+}

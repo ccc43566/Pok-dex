@@ -1,0 +1,22 @@
+{
+  "id": 747,
+  "name": "Mareanie",
+  "type1": "Poison",
+  "type2": "Water",
+  "hp": 50,
+  "attack": 53,
+  "defense": 62,
+  "sp_atk": 43,
+  "sp_def": 52,
+  "speed": 45,
+  "total": 305,
+  "abilities": [
+    "Merciless",
+    "Limber",
+    "Regenerator"
+  ],
+  "height": 0.4,
+  "weight": 8.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/mareanie.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\747_mareanie.gif"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 429,
+  "name": "Mismagius",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 60,
+  "attack": 60,
+  "defense": 60,
+  "sp_atk": 105,
+  "sp_def": 105,
+  "speed": 105,
+  "total": 495,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 0.9,
+  "weight": 4.4,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/mismagius.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\429_mismagius.gif"
+}

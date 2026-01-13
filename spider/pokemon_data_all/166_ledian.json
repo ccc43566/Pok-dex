@@ -1,0 +1,22 @@
+{
+  "id": 166,
+  "name": "Ledian",
+  "type1": "Bug",
+  "type2": "Flying",
+  "hp": 55,
+  "attack": 35,
+  "defense": 50,
+  "sp_atk": 55,
+  "sp_def": 110,
+  "speed": 85,
+  "total": 390,
+  "abilities": [
+    "Swarm",
+    "Early Bird",
+    "Iron Fist"
+  ],
+  "height": 1.4,
+  "weight": 35.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/ledian.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\166_ledian.gif"
+}

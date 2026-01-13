@@ -1,0 +1,19 @@
+{
+  "id": 359,
+  "name": "Absol-Mega-Z",
+  "type1": "Dark",
+  "type2": "Ghost",
+  "hp": 65,
+  "attack": 154,
+  "defense": 60,
+  "sp_atk": 75,
+  "sp_def": 60,
+  "speed": 151,
+  "total": 565,
+  "abilities": [
+    "Magic Bounce"
+  ],
+  "height": 1.2,
+  "weight": 49.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/absolmegaz.gif"
+}

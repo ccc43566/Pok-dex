@@ -1,0 +1,21 @@
+{
+  "id": 52,
+  "name": "Meowth-Alola",
+  "type1": "Dark",
+  "type2": null,
+  "hp": 40,
+  "attack": 35,
+  "defense": 35,
+  "sp_atk": 50,
+  "sp_def": 40,
+  "speed": 90,
+  "total": 290,
+  "abilities": [
+    "Pickup",
+    "Technician",
+    "Rattled"
+  ],
+  "height": 0.4,
+  "weight": 4.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/meowthalola.gif"
+}

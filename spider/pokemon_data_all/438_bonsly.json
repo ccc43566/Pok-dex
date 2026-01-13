@@ -1,0 +1,22 @@
+{
+  "id": 438,
+  "name": "Bonsly",
+  "type1": "Rock",
+  "type2": null,
+  "hp": 50,
+  "attack": 80,
+  "defense": 95,
+  "sp_atk": 10,
+  "sp_def": 45,
+  "speed": 10,
+  "total": 290,
+  "abilities": [
+    "Sturdy",
+    "Rock Head",
+    "Rattled"
+  ],
+  "height": 0.5,
+  "weight": 15.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/bonsly.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\438_bonsly.gif"
+}

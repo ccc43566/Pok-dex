@@ -1,0 +1,22 @@
+{
+  "id": 173,
+  "name": "Cleffa",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 50,
+  "attack": 25,
+  "defense": 28,
+  "sp_atk": 45,
+  "sp_def": 55,
+  "speed": 15,
+  "total": 218,
+  "abilities": [
+    "Cute Charm",
+    "Magic Guard",
+    "Friend Guard"
+  ],
+  "height": 0.3,
+  "weight": 3.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/cleffa.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\173_cleffa.gif"
+}

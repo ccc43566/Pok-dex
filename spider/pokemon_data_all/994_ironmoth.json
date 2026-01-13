@@ -1,0 +1,19 @@
+{
+  "id": 994,
+  "name": "Iron Moth",
+  "type1": "Fire",
+  "type2": "Poison",
+  "hp": 80,
+  "attack": 70,
+  "defense": 60,
+  "sp_atk": 140,
+  "sp_def": 110,
+  "speed": 110,
+  "total": 570,
+  "abilities": [
+    "Quark Drive"
+  ],
+  "height": 1.2,
+  "weight": 36.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/ironmoth.gif"
+}

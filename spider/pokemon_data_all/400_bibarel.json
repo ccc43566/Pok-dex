@@ -1,0 +1,22 @@
+{
+  "id": 400,
+  "name": "Bibarel",
+  "type1": "Normal",
+  "type2": "Water",
+  "hp": 79,
+  "attack": 85,
+  "defense": 60,
+  "sp_atk": 55,
+  "sp_def": 60,
+  "speed": 71,
+  "total": 410,
+  "abilities": [
+    "Simple",
+    "Unaware",
+    "Moody"
+  ],
+  "height": 1.0,
+  "weight": 31.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/bibarel.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\400_bibarel.gif"
+}

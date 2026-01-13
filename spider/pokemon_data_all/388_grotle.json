@@ -1,0 +1,21 @@
+{
+  "id": 388,
+  "name": "Grotle",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 75,
+  "attack": 89,
+  "defense": 85,
+  "sp_atk": 55,
+  "sp_def": 65,
+  "speed": 36,
+  "total": 405,
+  "abilities": [
+    "Overgrow",
+    "Shell Armor"
+  ],
+  "height": 1.1,
+  "weight": 97.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/grotle.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\388_grotle.gif"
+}

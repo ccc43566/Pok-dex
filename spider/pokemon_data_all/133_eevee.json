@@ -1,0 +1,22 @@
+{
+  "id": 133,
+  "name": "Eevee",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 55,
+  "attack": 55,
+  "defense": 50,
+  "sp_atk": 45,
+  "sp_def": 65,
+  "speed": 55,
+  "total": 325,
+  "abilities": [
+    "Run Away",
+    "Adaptability",
+    "Anticipation"
+  ],
+  "height": 0.3,
+  "weight": 6.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/eevee.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\133_eevee.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 82,
+  "name": "Magneton",
+  "type1": "Electric",
+  "type2": "Steel",
+  "hp": 50,
+  "attack": 60,
+  "defense": 95,
+  "sp_atk": 120,
+  "sp_def": 70,
+  "speed": 70,
+  "total": 465,
+  "abilities": [
+    "Magnet Pull",
+    "Sturdy",
+    "Analytic"
+  ],
+  "height": 1.0,
+  "weight": 60.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/magneton.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\82_magneton.gif"
+}

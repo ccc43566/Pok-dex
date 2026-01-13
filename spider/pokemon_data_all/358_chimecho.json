@@ -1,0 +1,20 @@
+{
+  "id": 358,
+  "name": "Chimecho",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 75,
+  "attack": 50,
+  "defense": 80,
+  "sp_atk": 95,
+  "sp_def": 90,
+  "speed": 65,
+  "total": 455,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 0.6,
+  "weight": 1.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/chimecho.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\358_chimecho.gif"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 793,
+  "name": "Nihilego",
+  "type1": "Rock",
+  "type2": "Poison",
+  "hp": 109,
+  "attack": 53,
+  "defense": 47,
+  "sp_atk": 127,
+  "sp_def": 131,
+  "speed": 103,
+  "total": 570,
+  "abilities": [
+    "Beast Boost"
+  ],
+  "height": 1.2,
+  "weight": 55.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/nihilego.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\793_nihilego.gif"
+}

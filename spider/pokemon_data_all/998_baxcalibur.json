@@ -1,0 +1,21 @@
+{
+  "id": 998,
+  "name": "Baxcalibur",
+  "type1": "Dragon",
+  "type2": "Ice",
+  "hp": 115,
+  "attack": 145,
+  "defense": 92,
+  "sp_atk": 75,
+  "sp_def": 86,
+  "speed": 87,
+  "total": 600,
+  "abilities": [
+    "Thermal Exchange",
+    "Ice Body"
+  ],
+  "height": 2.1,
+  "weight": 210.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/baxcalibur.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\998_baxcalibur.gif"
+}

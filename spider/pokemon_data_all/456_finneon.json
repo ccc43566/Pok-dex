@@ -1,0 +1,22 @@
+{
+  "id": 456,
+  "name": "Finneon",
+  "type1": "Water",
+  "type2": null,
+  "hp": 49,
+  "attack": 49,
+  "defense": 56,
+  "sp_atk": 49,
+  "sp_def": 61,
+  "speed": 66,
+  "total": 330,
+  "abilities": [
+    "Swift Swim",
+    "Storm Drain",
+    "Water Veil"
+  ],
+  "height": 0.4,
+  "weight": 7.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/finneon.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\456_finneon.gif"
+}

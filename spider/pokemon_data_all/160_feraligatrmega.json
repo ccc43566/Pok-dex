@@ -1,0 +1,20 @@
+{
+  "id": 160,
+  "name": "Feraligatr-Mega",
+  "type1": "Water",
+  "type2": "Dragon",
+  "hp": 85,
+  "attack": 160,
+  "defense": 125,
+  "sp_atk": 89,
+  "sp_def": 93,
+  "speed": 78,
+  "total": 630,
+  "abilities": [
+    "Torrent",
+    "Sheer Force"
+  ],
+  "height": 2.3,
+  "weight": 108.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/feraligatrmega.gif"
+}

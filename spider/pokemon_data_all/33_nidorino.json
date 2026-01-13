@@ -1,0 +1,22 @@
+{
+  "id": 33,
+  "name": "Nidorino",
+  "type1": "Poison",
+  "type2": null,
+  "hp": 61,
+  "attack": 72,
+  "defense": 57,
+  "sp_atk": 55,
+  "sp_def": 55,
+  "speed": 65,
+  "total": 365,
+  "abilities": [
+    "Poison Point",
+    "Rivalry",
+    "Hustle"
+  ],
+  "height": 0.9,
+  "weight": 19.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/nidorino.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\33_nidorino.gif"
+}

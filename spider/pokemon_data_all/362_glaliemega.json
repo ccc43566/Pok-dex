@@ -1,0 +1,19 @@
+{
+  "id": 362,
+  "name": "Glalie-Mega",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 80,
+  "attack": 120,
+  "defense": 80,
+  "sp_atk": 120,
+  "sp_def": 80,
+  "speed": 100,
+  "total": 580,
+  "abilities": [
+    "Refrigerate"
+  ],
+  "height": 2.1,
+  "weight": 350.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/glaliemega.gif"
+}

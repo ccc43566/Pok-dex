@@ -1,0 +1,22 @@
+{
+  "id": 588,
+  "name": "Karrablast",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 50,
+  "attack": 75,
+  "defense": 45,
+  "sp_atk": 40,
+  "sp_def": 45,
+  "speed": 60,
+  "total": 315,
+  "abilities": [
+    "Swarm",
+    "Shed Skin",
+    "No Guard"
+  ],
+  "height": 0.5,
+  "weight": 5.9,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/karrablast.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\588_karrablast.gif"
+}

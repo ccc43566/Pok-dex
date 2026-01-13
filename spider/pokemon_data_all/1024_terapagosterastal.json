@@ -1,0 +1,19 @@
+{
+  "id": 1024,
+  "name": "Terapagos-Terastal",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 95,
+  "attack": 95,
+  "defense": 110,
+  "sp_atk": 105,
+  "sp_def": 110,
+  "speed": 85,
+  "total": 600,
+  "abilities": [
+    "Tera Shell"
+  ],
+  "height": 0.3,
+  "weight": 16.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/terapagosterastal.gif"
+}

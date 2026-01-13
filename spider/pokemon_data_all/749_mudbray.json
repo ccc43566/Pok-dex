@@ -1,0 +1,22 @@
+{
+  "id": 749,
+  "name": "Mudbray",
+  "type1": "Ground",
+  "type2": null,
+  "hp": 70,
+  "attack": 100,
+  "defense": 70,
+  "sp_atk": 45,
+  "sp_def": 55,
+  "speed": 45,
+  "total": 385,
+  "abilities": [
+    "Own Tempo",
+    "Stamina",
+    "Inner Focus"
+  ],
+  "height": 1.0,
+  "weight": 110.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/mudbray.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\749_mudbray.gif"
+}

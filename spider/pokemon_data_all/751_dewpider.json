@@ -1,0 +1,21 @@
+{
+  "id": 751,
+  "name": "Dewpider",
+  "type1": "Water",
+  "type2": "Bug",
+  "hp": 38,
+  "attack": 40,
+  "defense": 52,
+  "sp_atk": 40,
+  "sp_def": 72,
+  "speed": 27,
+  "total": 269,
+  "abilities": [
+    "Water Bubble",
+    "Water Absorb"
+  ],
+  "height": 0.3,
+  "weight": 4.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/dewpider.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\751_dewpider.gif"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 745,
+  "name": "Lycanroc-Midnight",
+  "type1": "Rock",
+  "type2": null,
+  "hp": 85,
+  "attack": 115,
+  "defense": 75,
+  "sp_atk": 55,
+  "sp_def": 75,
+  "speed": 82,
+  "total": 487,
+  "abilities": [
+    "Keen Eye",
+    "Vital Spirit",
+    "No Guard"
+  ],
+  "height": 1.1,
+  "weight": 25.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/lycanrocmidnight.gif"
+}

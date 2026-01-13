@@ -1,0 +1,21 @@
+{
+  "id": 484,
+  "name": "Palkia",
+  "type1": "Water",
+  "type2": "Dragon",
+  "hp": 90,
+  "attack": 120,
+  "defense": 100,
+  "sp_atk": 150,
+  "sp_def": 120,
+  "speed": 100,
+  "total": 680,
+  "abilities": [
+    "Pressure",
+    "Telepathy"
+  ],
+  "height": 4.2,
+  "weight": 336.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/palkia.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\484_palkia.gif"
+}

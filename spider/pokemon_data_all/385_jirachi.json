@@ -1,0 +1,20 @@
+{
+  "id": 385,
+  "name": "Jirachi",
+  "type1": "Steel",
+  "type2": "Psychic",
+  "hp": 100,
+  "attack": 100,
+  "defense": 100,
+  "sp_atk": 100,
+  "sp_def": 100,
+  "speed": 100,
+  "total": 600,
+  "abilities": [
+    "Serene Grace"
+  ],
+  "height": 0.3,
+  "weight": 1.1,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/jirachi.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\385_jirachi.gif"
+}

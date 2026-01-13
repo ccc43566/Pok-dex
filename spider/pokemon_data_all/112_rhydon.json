@@ -1,0 +1,22 @@
+{
+  "id": 112,
+  "name": "Rhydon",
+  "type1": "Ground",
+  "type2": "Rock",
+  "hp": 105,
+  "attack": 130,
+  "defense": 120,
+  "sp_atk": 45,
+  "sp_def": 45,
+  "speed": 40,
+  "total": 485,
+  "abilities": [
+    "Lightning Rod",
+    "Rock Head",
+    "Reckless"
+  ],
+  "height": 1.9,
+  "weight": 120.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/rhydon.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\112_rhydon.gif"
+}

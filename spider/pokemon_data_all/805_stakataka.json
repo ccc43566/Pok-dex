@@ -1,0 +1,20 @@
+{
+  "id": 805,
+  "name": "Stakataka",
+  "type1": "Rock",
+  "type2": "Steel",
+  "hp": 61,
+  "attack": 131,
+  "defense": 211,
+  "sp_atk": 53,
+  "sp_def": 101,
+  "speed": 13,
+  "total": 570,
+  "abilities": [
+    "Beast Boost"
+  ],
+  "height": 5.5,
+  "weight": 820.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/stakataka.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\805_stakataka.gif"
+}

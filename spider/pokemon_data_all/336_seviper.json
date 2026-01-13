@@ -1,0 +1,21 @@
+{
+  "id": 336,
+  "name": "Seviper",
+  "type1": "Poison",
+  "type2": null,
+  "hp": 73,
+  "attack": 100,
+  "defense": 60,
+  "sp_atk": 100,
+  "sp_def": 60,
+  "speed": 65,
+  "total": 458,
+  "abilities": [
+    "Shed Skin",
+    "Infiltrator"
+  ],
+  "height": 2.7,
+  "weight": 52.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/seviper.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\336_seviper.gif"
+}

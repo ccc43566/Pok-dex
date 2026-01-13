@@ -1,0 +1,21 @@
+{
+  "id": 514,
+  "name": "Simisear",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 75,
+  "attack": 98,
+  "defense": 63,
+  "sp_atk": 98,
+  "sp_def": 63,
+  "speed": 101,
+  "total": 498,
+  "abilities": [
+    "Gluttony",
+    "Blaze"
+  ],
+  "height": 1.0,
+  "weight": 28.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/simisear.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\514_simisear.gif"
+}

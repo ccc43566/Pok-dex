@@ -1,0 +1,22 @@
+{
+  "id": 1019,
+  "name": "Hydrapple",
+  "type1": "Grass",
+  "type2": "Dragon",
+  "hp": 106,
+  "attack": 80,
+  "defense": 110,
+  "sp_atk": 120,
+  "sp_def": 80,
+  "speed": 44,
+  "total": 540,
+  "abilities": [
+    "Supersweet Syrup",
+    "Regenerator",
+    "Sticky Hold"
+  ],
+  "height": 1.8,
+  "weight": 93.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/hydrapple.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\1019_hydrapple.gif"
+}

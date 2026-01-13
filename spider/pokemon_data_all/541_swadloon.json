@@ -1,0 +1,22 @@
+{
+  "id": 541,
+  "name": "Swadloon",
+  "type1": "Bug",
+  "type2": "Grass",
+  "hp": 55,
+  "attack": 63,
+  "defense": 90,
+  "sp_atk": 50,
+  "sp_def": 80,
+  "speed": 42,
+  "total": 380,
+  "abilities": [
+    "Leaf Guard",
+    "Chlorophyll",
+    "Overcoat"
+  ],
+  "height": 0.5,
+  "weight": 7.3,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/swadloon.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\541_swadloon.gif"
+}

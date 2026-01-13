@@ -1,0 +1,22 @@
+{
+  "id": 689,
+  "name": "Barbaracle",
+  "type1": "Rock",
+  "type2": "Water",
+  "hp": 72,
+  "attack": 105,
+  "defense": 115,
+  "sp_atk": 54,
+  "sp_def": 86,
+  "speed": 68,
+  "total": 500,
+  "abilities": [
+    "Tough Claws",
+    "Sniper",
+    "Pickpocket"
+  ],
+  "height": 1.3,
+  "weight": 96.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/barbaracle.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\689_barbaracle.gif"
+}

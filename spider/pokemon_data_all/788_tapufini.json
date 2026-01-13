@@ -1,0 +1,21 @@
+{
+  "id": 788,
+  "name": "Tapu Fini",
+  "type1": "Water",
+  "type2": "Fairy",
+  "hp": 70,
+  "attack": 75,
+  "defense": 115,
+  "sp_atk": 95,
+  "sp_def": 130,
+  "speed": 85,
+  "total": 570,
+  "abilities": [
+    "Misty Surge",
+    "Telepathy"
+  ],
+  "height": 1.3,
+  "weight": 21.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/tapufini.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\788_tapufini.gif"
+}

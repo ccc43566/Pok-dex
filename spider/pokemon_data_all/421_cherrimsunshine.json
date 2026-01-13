@@ -1,0 +1,19 @@
+{
+  "id": 421,
+  "name": "Cherrim-Sunshine",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 70,
+  "attack": 60,
+  "defense": 70,
+  "sp_atk": 87,
+  "sp_def": 78,
+  "speed": 85,
+  "total": 450,
+  "abilities": [
+    "Flower Gift"
+  ],
+  "height": 0.5,
+  "weight": 9.3,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/cherrimsunshine.gif"
+}

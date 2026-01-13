@@ -1,0 +1,22 @@
+{
+  "id": 209,
+  "name": "Snubbull",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 60,
+  "attack": 80,
+  "defense": 50,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "speed": 30,
+  "total": 300,
+  "abilities": [
+    "Intimidate",
+    "Run Away",
+    "Rattled"
+  ],
+  "height": 0.6,
+  "weight": 7.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/snubbull.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\209_snubbull.gif"
+}

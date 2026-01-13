@@ -1,0 +1,22 @@
+{
+  "id": 127,
+  "name": "Pinsir",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 65,
+  "attack": 125,
+  "defense": 100,
+  "sp_atk": 55,
+  "sp_def": 70,
+  "speed": 85,
+  "total": 500,
+  "abilities": [
+    "Hyper Cutter",
+    "Mold Breaker",
+    "Moxie"
+  ],
+  "height": 1.5,
+  "weight": 55.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pinsir.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\127_pinsir.gif"
+}

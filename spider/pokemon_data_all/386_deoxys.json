@@ -1,0 +1,20 @@
+{
+  "id": 386,
+  "name": "Deoxys",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 50,
+  "attack": 150,
+  "defense": 50,
+  "sp_atk": 150,
+  "sp_def": 50,
+  "speed": 150,
+  "total": 600,
+  "abilities": [
+    "Pressure"
+  ],
+  "height": 1.7,
+  "weight": 60.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/deoxys.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\386_deoxys.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 768,
+  "name": "Golisopod-Mega",
+  "type1": "Bug",
+  "type2": "Steel",
+  "hp": 75,
+  "attack": 150,
+  "defense": 175,
+  "sp_atk": 70,
+  "sp_def": 120,
+  "speed": 40,
+  "total": 630,
+  "abilities": [
+    "Emergency Exit"
+  ],
+  "height": 2.3,
+  "weight": 148.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/golisopodmega.gif"
+}

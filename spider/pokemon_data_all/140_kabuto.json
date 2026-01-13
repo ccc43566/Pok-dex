@@ -1,0 +1,22 @@
+{
+  "id": 140,
+  "name": "Kabuto",
+  "type1": "Rock",
+  "type2": "Water",
+  "hp": 30,
+  "attack": 80,
+  "defense": 90,
+  "sp_atk": 55,
+  "sp_def": 45,
+  "speed": 55,
+  "total": 355,
+  "abilities": [
+    "Swift Swim",
+    "Battle Armor",
+    "Weak Armor"
+  ],
+  "height": 0.5,
+  "weight": 11.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/kabuto.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\140_kabuto.gif"
+}

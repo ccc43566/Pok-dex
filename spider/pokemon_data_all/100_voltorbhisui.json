@@ -1,0 +1,21 @@
+{
+  "id": 100,
+  "name": "Voltorb-Hisui",
+  "type1": "Electric",
+  "type2": "Grass",
+  "hp": 40,
+  "attack": 30,
+  "defense": 50,
+  "sp_atk": 55,
+  "sp_def": 55,
+  "speed": 100,
+  "total": 330,
+  "abilities": [
+    "Soundproof",
+    "Static",
+    "Aftermath"
+  ],
+  "height": 0.5,
+  "weight": 13.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/voltorbhisui.gif"
+}

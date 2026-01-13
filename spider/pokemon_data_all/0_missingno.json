@@ -1,0 +1,16 @@
+{
+  "id": 0,
+  "name": "MissingNo.",
+  "type1": "Bird",
+  "type2": "Normal",
+  "hp": 33,
+  "attack": 136,
+  "defense": 0,
+  "sp_atk": 6,
+  "sp_def": 6,
+  "speed": 29,
+  "total": 210,
+  "abilities": [],
+  "height": 3.0,
+  "weight": 1590.8
+}

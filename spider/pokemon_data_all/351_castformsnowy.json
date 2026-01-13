@@ -1,0 +1,19 @@
+{
+  "id": 351,
+  "name": "Castform-Snowy",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 70,
+  "attack": 70,
+  "defense": 70,
+  "sp_atk": 70,
+  "sp_def": 70,
+  "speed": 70,
+  "total": 420,
+  "abilities": [
+    "Forecast"
+  ],
+  "height": 0.3,
+  "weight": 0.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/castformsnowy.gif"
+}

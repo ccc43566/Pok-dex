@@ -1,0 +1,22 @@
+{
+  "id": 882,
+  "name": "Dracovish",
+  "type1": "Water",
+  "type2": "Dragon",
+  "hp": 90,
+  "attack": 90,
+  "defense": 100,
+  "sp_atk": 70,
+  "sp_def": 80,
+  "speed": 75,
+  "total": 505,
+  "abilities": [
+    "Water Absorb",
+    "Strong Jaw",
+    "Sand Rush"
+  ],
+  "height": 2.3,
+  "weight": 215.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/dracovish.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\882_dracovish.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 856,
+  "name": "Hatenna",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 42,
+  "attack": 30,
+  "defense": 45,
+  "sp_atk": 56,
+  "sp_def": 53,
+  "speed": 39,
+  "total": 265,
+  "abilities": [
+    "Healer",
+    "Anticipation",
+    "Magic Bounce"
+  ],
+  "height": 0.4,
+  "weight": 3.4,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/hatenna.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\856_hatenna.gif"
+}

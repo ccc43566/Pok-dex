@@ -1,0 +1,19 @@
+{
+  "id": 720,
+  "name": "Hoopa-Unbound",
+  "type1": "Psychic",
+  "type2": "Dark",
+  "hp": 80,
+  "attack": 160,
+  "defense": 60,
+  "sp_atk": 170,
+  "sp_def": 130,
+  "speed": 80,
+  "total": 680,
+  "abilities": [
+    "Magician"
+  ],
+  "height": 6.5,
+  "weight": 490.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/hoopaunbound.gif"
+}

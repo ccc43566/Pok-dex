@@ -1,0 +1,22 @@
+{
+  "id": 77,
+  "name": "Ponyta",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 50,
+  "attack": 85,
+  "defense": 55,
+  "sp_atk": 65,
+  "sp_def": 65,
+  "speed": 90,
+  "total": 410,
+  "abilities": [
+    "Run Away",
+    "Flash Fire",
+    "Flame Body"
+  ],
+  "height": 1.0,
+  "weight": 30.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/ponyta.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\77_ponyta.gif"
+}

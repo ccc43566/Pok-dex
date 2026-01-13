@@ -1,0 +1,21 @@
+{
+  "id": 389,
+  "name": "Torterra",
+  "type1": "Grass",
+  "type2": "Ground",
+  "hp": 95,
+  "attack": 109,
+  "defense": 105,
+  "sp_atk": 75,
+  "sp_def": 85,
+  "speed": 56,
+  "total": 525,
+  "abilities": [
+    "Overgrow",
+    "Shell Armor"
+  ],
+  "height": 2.2,
+  "weight": 310.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/torterra.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\389_torterra.gif"
+}

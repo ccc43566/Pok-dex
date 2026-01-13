@@ -1,0 +1,20 @@
+{
+  "id": 287,
+  "name": "Slakoth",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 60,
+  "attack": 60,
+  "defense": 60,
+  "sp_atk": 35,
+  "sp_def": 35,
+  "speed": 30,
+  "total": 280,
+  "abilities": [
+    "Truant"
+  ],
+  "height": 0.8,
+  "weight": 24.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/slakoth.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\287_slakoth.gif"
+}

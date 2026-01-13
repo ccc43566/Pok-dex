@@ -1,0 +1,19 @@
+{
+  "id": 1022,
+  "name": "Iron Boulder",
+  "type1": "Rock",
+  "type2": "Psychic",
+  "hp": 90,
+  "attack": 120,
+  "defense": 80,
+  "sp_atk": 68,
+  "sp_def": 108,
+  "speed": 124,
+  "total": 590,
+  "abilities": [
+    "Quark Drive"
+  ],
+  "height": 1.5,
+  "weight": 162.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/ironboulder.gif"
+}

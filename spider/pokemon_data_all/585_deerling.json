@@ -1,0 +1,22 @@
+{
+  "id": 585,
+  "name": "Deerling",
+  "type1": "Normal",
+  "type2": "Grass",
+  "hp": 60,
+  "attack": 60,
+  "defense": 50,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "speed": 75,
+  "total": 335,
+  "abilities": [
+    "Chlorophyll",
+    "Sap Sipper",
+    "Serene Grace"
+  ],
+  "height": 0.6,
+  "weight": 19.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/deerling.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\585_deerling.gif"
+}

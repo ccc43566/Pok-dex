@@ -1,0 +1,21 @@
+{
+  "id": 728,
+  "name": "Popplio",
+  "type1": "Water",
+  "type2": null,
+  "hp": 50,
+  "attack": 54,
+  "defense": 54,
+  "sp_atk": 66,
+  "sp_def": 56,
+  "speed": 40,
+  "total": 320,
+  "abilities": [
+    "Torrent",
+    "Liquid Voice"
+  ],
+  "height": 0.4,
+  "weight": 7.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/popplio.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\728_popplio.gif"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 367,
+  "name": "Huntail",
+  "type1": "Water",
+  "type2": null,
+  "hp": 55,
+  "attack": 104,
+  "defense": 105,
+  "sp_atk": 94,
+  "sp_def": 75,
+  "speed": 52,
+  "total": 485,
+  "abilities": [
+    "Swift Swim",
+    "Water Veil"
+  ],
+  "height": 1.7,
+  "weight": 27.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/huntail.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\367_huntail.gif"
+}

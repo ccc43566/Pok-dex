@@ -1,0 +1,22 @@
+{
+  "id": 632,
+  "name": "Durant",
+  "type1": "Bug",
+  "type2": "Steel",
+  "hp": 58,
+  "attack": 109,
+  "defense": 112,
+  "sp_atk": 48,
+  "sp_def": 48,
+  "speed": 109,
+  "total": 484,
+  "abilities": [
+    "Swarm",
+    "Hustle",
+    "Truant"
+  ],
+  "height": 0.3,
+  "weight": 33.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/durant.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\632_durant.gif"
+}

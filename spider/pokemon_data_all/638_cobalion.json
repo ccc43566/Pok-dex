@@ -1,0 +1,20 @@
+{
+  "id": 638,
+  "name": "Cobalion",
+  "type1": "Steel",
+  "type2": "Fighting",
+  "hp": 91,
+  "attack": 90,
+  "defense": 129,
+  "sp_atk": 90,
+  "sp_def": 72,
+  "speed": 108,
+  "total": 580,
+  "abilities": [
+    "Justified"
+  ],
+  "height": 2.1,
+  "weight": 250.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/cobalion.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\638_cobalion.gif"
+}

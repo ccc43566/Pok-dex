@@ -1,0 +1,21 @@
+{
+  "id": 240,
+  "name": "Magby",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 45,
+  "attack": 75,
+  "defense": 37,
+  "sp_atk": 70,
+  "sp_def": 55,
+  "speed": 83,
+  "total": 365,
+  "abilities": [
+    "Flame Body",
+    "Vital Spirit"
+  ],
+  "height": 0.7,
+  "weight": 21.4,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/magby.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\240_magby.gif"
+}

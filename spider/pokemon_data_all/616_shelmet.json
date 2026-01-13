@@ -1,0 +1,22 @@
+{
+  "id": 616,
+  "name": "Shelmet",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 50,
+  "attack": 40,
+  "defense": 85,
+  "sp_atk": 40,
+  "sp_def": 65,
+  "speed": 25,
+  "total": 305,
+  "abilities": [
+    "Hydration",
+    "Shell Armor",
+    "Overcoat"
+  ],
+  "height": 0.4,
+  "weight": 7.7,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/shelmet.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\616_shelmet.gif"
+}

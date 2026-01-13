@@ -1,0 +1,21 @@
+{
+  "id": 930,
+  "name": "Arboliva",
+  "type1": "Grass",
+  "type2": "Normal",
+  "hp": 78,
+  "attack": 69,
+  "defense": 90,
+  "sp_atk": 125,
+  "sp_def": 109,
+  "speed": 39,
+  "total": 510,
+  "abilities": [
+    "Seed Sower",
+    "Harvest"
+  ],
+  "height": 1.4,
+  "weight": 48.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/arboliva.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\930_arboliva.gif"
+}

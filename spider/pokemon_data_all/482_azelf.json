@@ -1,0 +1,20 @@
+{
+  "id": 482,
+  "name": "Azelf",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 75,
+  "attack": 125,
+  "defense": 70,
+  "sp_atk": 125,
+  "sp_def": 70,
+  "speed": 115,
+  "total": 580,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 0.3,
+  "weight": 0.3,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/azelf.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\482_azelf.gif"
+}

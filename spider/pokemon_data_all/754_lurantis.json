@@ -1,0 +1,21 @@
+{
+  "id": 754,
+  "name": "Lurantis",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 70,
+  "attack": 105,
+  "defense": 90,
+  "sp_atk": 80,
+  "sp_def": 90,
+  "speed": 45,
+  "total": 480,
+  "abilities": [
+    "Leaf Guard",
+    "Contrary"
+  ],
+  "height": 0.9,
+  "weight": 18.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/lurantis.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\754_lurantis.gif"
+}

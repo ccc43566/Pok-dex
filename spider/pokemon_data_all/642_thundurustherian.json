@@ -1,0 +1,19 @@
+{
+  "id": 642,
+  "name": "Thundurus-Therian",
+  "type1": "Electric",
+  "type2": "Flying",
+  "hp": 79,
+  "attack": 105,
+  "defense": 70,
+  "sp_atk": 145,
+  "sp_def": 80,
+  "speed": 101,
+  "total": 580,
+  "abilities": [
+    "Volt Absorb"
+  ],
+  "height": 3.0,
+  "weight": 61.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/thundurustherian.gif"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 891,
+  "name": "Kubfu",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 60,
+  "attack": 90,
+  "defense": 60,
+  "sp_atk": 53,
+  "sp_def": 50,
+  "speed": 72,
+  "total": 385,
+  "abilities": [
+    "Inner Focus"
+  ],
+  "height": 0.6,
+  "weight": 12.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/kubfu.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\891_kubfu.gif"
+}

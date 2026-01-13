@@ -1,0 +1,22 @@
+{
+  "id": 299,
+  "name": "Nosepass",
+  "type1": "Rock",
+  "type2": null,
+  "hp": 30,
+  "attack": 45,
+  "defense": 135,
+  "sp_atk": 45,
+  "sp_def": 90,
+  "speed": 30,
+  "total": 375,
+  "abilities": [
+    "Sturdy",
+    "Magnet Pull",
+    "Sand Force"
+  ],
+  "height": 1.0,
+  "weight": 97.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/nosepass.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\299_nosepass.gif"
+}

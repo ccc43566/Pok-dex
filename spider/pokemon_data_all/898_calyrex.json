@@ -1,0 +1,20 @@
+{
+  "id": 898,
+  "name": "Calyrex",
+  "type1": "Psychic",
+  "type2": "Grass",
+  "hp": 100,
+  "attack": 80,
+  "defense": 80,
+  "sp_atk": 80,
+  "sp_def": 80,
+  "speed": 80,
+  "total": 500,
+  "abilities": [
+    "Unnerve"
+  ],
+  "height": 1.1,
+  "weight": 7.7,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/calyrex.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\898_calyrex.gif"
+}

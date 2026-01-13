@@ -1,0 +1,19 @@
+{
+  "id": 905,
+  "name": "Enamorus-Therian",
+  "type1": "Fairy",
+  "type2": "Flying",
+  "hp": 74,
+  "attack": 115,
+  "defense": 110,
+  "sp_atk": 135,
+  "sp_def": 100,
+  "speed": 46,
+  "total": 580,
+  "abilities": [
+    "Overcoat"
+  ],
+  "height": 1.6,
+  "weight": 48.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/enamorustherian.gif"
+}

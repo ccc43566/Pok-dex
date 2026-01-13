@@ -1,0 +1,19 @@
+{
+  "id": 964,
+  "name": "Palafin-Hero",
+  "type1": "Water",
+  "type2": null,
+  "hp": 100,
+  "attack": 160,
+  "defense": 97,
+  "sp_atk": 106,
+  "sp_def": 87,
+  "speed": 100,
+  "total": 650,
+  "abilities": [
+    "Zero to Hero"
+  ],
+  "height": 1.8,
+  "weight": 97.4,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/palafinhero.gif"
+}

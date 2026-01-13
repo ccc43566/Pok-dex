@@ -1,0 +1,21 @@
+{
+  "id": 211,
+  "name": "Qwilfish-Hisui",
+  "type1": "Dark",
+  "type2": "Poison",
+  "hp": 65,
+  "attack": 95,
+  "defense": 85,
+  "sp_atk": 55,
+  "sp_def": 55,
+  "speed": 85,
+  "total": 440,
+  "abilities": [
+    "Poison Point",
+    "Swift Swim",
+    "Intimidate"
+  ],
+  "height": 0.5,
+  "weight": 3.9,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/qwilfishhisui.gif"
+}

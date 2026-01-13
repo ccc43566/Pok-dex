@@ -1,0 +1,21 @@
+{
+  "id": 416,
+  "name": "Vespiquen",
+  "type1": "Bug",
+  "type2": "Flying",
+  "hp": 70,
+  "attack": 80,
+  "defense": 102,
+  "sp_atk": 80,
+  "sp_def": 102,
+  "speed": 40,
+  "total": 474,
+  "abilities": [
+    "Pressure",
+    "Unnerve"
+  ],
+  "height": 1.2,
+  "weight": 38.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/vespiquen.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\416_vespiquen.gif"
+}

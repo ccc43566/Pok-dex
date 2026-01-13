@@ -1,0 +1,22 @@
+{
+  "id": 542,
+  "name": "Leavanny",
+  "type1": "Bug",
+  "type2": "Grass",
+  "hp": 75,
+  "attack": 103,
+  "defense": 80,
+  "sp_atk": 70,
+  "sp_def": 80,
+  "speed": 92,
+  "total": 500,
+  "abilities": [
+    "Swarm",
+    "Chlorophyll",
+    "Overcoat"
+  ],
+  "height": 1.2,
+  "weight": 20.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/leavanny.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\542_leavanny.gif"
+}

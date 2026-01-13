@@ -1,0 +1,20 @@
+{
+  "id": 381,
+  "name": "Latios",
+  "type1": "Dragon",
+  "type2": "Psychic",
+  "hp": 80,
+  "attack": 90,
+  "defense": 80,
+  "sp_atk": 130,
+  "sp_def": 110,
+  "speed": 110,
+  "total": 600,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 2.0,
+  "weight": 60.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/latios.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\381_latios.gif"
+}

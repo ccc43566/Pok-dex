@@ -1,0 +1,21 @@
+{
+  "id": 555,
+  "name": "Darmanitan",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 105,
+  "attack": 140,
+  "defense": 55,
+  "sp_atk": 30,
+  "sp_def": 55,
+  "speed": 95,
+  "total": 480,
+  "abilities": [
+    "Sheer Force",
+    "Zen Mode"
+  ],
+  "height": 1.3,
+  "weight": 92.9,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/darmanitan.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\555_darmanitan.gif"
+}

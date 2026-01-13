@@ -1,0 +1,21 @@
+{
+  "id": 818,
+  "name": "Inteleon",
+  "type1": "Water",
+  "type2": null,
+  "hp": 70,
+  "attack": 85,
+  "defense": 65,
+  "sp_atk": 125,
+  "sp_def": 65,
+  "speed": 120,
+  "total": 530,
+  "abilities": [
+    "Torrent",
+    "Sniper"
+  ],
+  "height": 1.9,
+  "weight": 45.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/inteleon.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\818_inteleon.gif"
+}

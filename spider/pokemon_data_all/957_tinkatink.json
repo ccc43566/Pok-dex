@@ -1,0 +1,22 @@
+{
+  "id": 957,
+  "name": "Tinkatink",
+  "type1": "Fairy",
+  "type2": "Steel",
+  "hp": 50,
+  "attack": 45,
+  "defense": 45,
+  "sp_atk": 35,
+  "sp_def": 64,
+  "speed": 58,
+  "total": 297,
+  "abilities": [
+    "Mold Breaker",
+    "Own Tempo",
+    "Pickpocket"
+  ],
+  "height": 0.4,
+  "weight": 8.9,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/tinkatink.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\957_tinkatink.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 877,
+  "name": "Morpeko-Hangry",
+  "type1": "Electric",
+  "type2": "Dark",
+  "hp": 58,
+  "attack": 95,
+  "defense": 58,
+  "sp_atk": 70,
+  "sp_def": 58,
+  "speed": 97,
+  "total": 436,
+  "abilities": [
+    "Hunger Switch"
+  ],
+  "height": 0.3,
+  "weight": 3.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/morpekohangry.gif"
+}

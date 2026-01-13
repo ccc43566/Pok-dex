@@ -1,0 +1,21 @@
+{
+  "id": 345,
+  "name": "Lileep",
+  "type1": "Rock",
+  "type2": "Grass",
+  "hp": 66,
+  "attack": 41,
+  "defense": 77,
+  "sp_atk": 61,
+  "sp_def": 87,
+  "speed": 23,
+  "total": 355,
+  "abilities": [
+    "Suction Cups",
+    "Storm Drain"
+  ],
+  "height": 1.0,
+  "weight": 23.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/lileep.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\345_lileep.gif"
+}

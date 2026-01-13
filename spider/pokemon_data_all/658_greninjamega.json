@@ -1,0 +1,20 @@
+{
+  "id": 658,
+  "name": "Greninja-Mega",
+  "type1": "Water",
+  "type2": "Dark",
+  "hp": 72,
+  "attack": 125,
+  "defense": 77,
+  "sp_atk": 133,
+  "sp_def": 81,
+  "speed": 142,
+  "total": 630,
+  "abilities": [
+    "Torrent",
+    "Protean"
+  ],
+  "height": 1.5,
+  "weight": 40.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/greninjamega.gif"
+}

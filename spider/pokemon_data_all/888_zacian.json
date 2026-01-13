@@ -1,0 +1,20 @@
+{
+  "id": 888,
+  "name": "Zacian",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 92,
+  "attack": 120,
+  "defense": 115,
+  "sp_atk": 80,
+  "sp_def": 115,
+  "speed": 138,
+  "total": 660,
+  "abilities": [
+    "Intrepid Sword"
+  ],
+  "height": 2.8,
+  "weight": 110.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/zacian.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\888_zacian.gif"
+}

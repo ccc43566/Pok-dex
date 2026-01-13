@@ -1,0 +1,22 @@
+{
+  "id": 546,
+  "name": "Cottonee",
+  "type1": "Grass",
+  "type2": "Fairy",
+  "hp": 40,
+  "attack": 27,
+  "defense": 60,
+  "sp_atk": 37,
+  "sp_def": 50,
+  "speed": 66,
+  "total": 280,
+  "abilities": [
+    "Prankster",
+    "Infiltrator",
+    "Chlorophyll"
+  ],
+  "height": 0.3,
+  "weight": 0.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/cottonee.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\546_cottonee.gif"
+}

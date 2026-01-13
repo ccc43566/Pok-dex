@@ -1,0 +1,22 @@
+{
+  "id": 761,
+  "name": "Bounsweet",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 42,
+  "attack": 30,
+  "defense": 38,
+  "sp_atk": 30,
+  "sp_def": 38,
+  "speed": 32,
+  "total": 210,
+  "abilities": [
+    "Leaf Guard",
+    "Oblivious",
+    "Sweet Veil"
+  ],
+  "height": 0.3,
+  "weight": 3.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/bounsweet.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\761_bounsweet.gif"
+}

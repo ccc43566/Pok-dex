@@ -1,0 +1,21 @@
+{
+  "id": 395,
+  "name": "Empoleon",
+  "type1": "Water",
+  "type2": "Steel",
+  "hp": 84,
+  "attack": 86,
+  "defense": 88,
+  "sp_atk": 111,
+  "sp_def": 101,
+  "speed": 60,
+  "total": 530,
+  "abilities": [
+    "Torrent",
+    "Competitive"
+  ],
+  "height": 1.7,
+  "weight": 84.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/empoleon.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\395_empoleon.gif"
+}

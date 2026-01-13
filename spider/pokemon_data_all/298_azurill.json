@@ -1,0 +1,22 @@
+{
+  "id": 298,
+  "name": "Azurill",
+  "type1": "Normal",
+  "type2": "Fairy",
+  "hp": 50,
+  "attack": 20,
+  "defense": 40,
+  "sp_atk": 20,
+  "sp_def": 40,
+  "speed": 20,
+  "total": 190,
+  "abilities": [
+    "Thick Fat",
+    "Huge Power",
+    "Sap Sipper"
+  ],
+  "height": 0.2,
+  "weight": 2.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/azurill.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\298_azurill.gif"
+}

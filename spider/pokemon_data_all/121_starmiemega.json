@@ -1,0 +1,21 @@
+{
+  "id": 121,
+  "name": "Starmie-Mega",
+  "type1": "Water",
+  "type2": "Psychic",
+  "hp": 60,
+  "attack": 140,
+  "defense": 105,
+  "sp_atk": 130,
+  "sp_def": 105,
+  "speed": 120,
+  "total": 660,
+  "abilities": [
+    "Illuminate",
+    "Natural Cure",
+    "Analytic"
+  ],
+  "height": 2.3,
+  "weight": 80.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/starmiemega.gif"
+}

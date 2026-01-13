@@ -1,0 +1,19 @@
+{
+  "id": 214,
+  "name": "Heracross-Mega",
+  "type1": "Bug",
+  "type2": "Fighting",
+  "hp": 80,
+  "attack": 185,
+  "defense": 115,
+  "sp_atk": 40,
+  "sp_def": 105,
+  "speed": 75,
+  "total": 600,
+  "abilities": [
+    "Skill Link"
+  ],
+  "height": 1.7,
+  "weight": 62.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/heracrossmega.gif"
+}

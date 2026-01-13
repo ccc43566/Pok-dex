@@ -1,0 +1,19 @@
+{
+  "id": 212,
+  "name": "Scizor-Mega",
+  "type1": "Bug",
+  "type2": "Steel",
+  "hp": 70,
+  "attack": 150,
+  "defense": 140,
+  "sp_atk": 65,
+  "sp_def": 100,
+  "speed": 75,
+  "total": 600,
+  "abilities": [
+    "Technician"
+  ],
+  "height": 2.0,
+  "weight": 125.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/scizormega.gif"
+}

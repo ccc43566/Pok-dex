@@ -1,0 +1,21 @@
+{
+  "id": 50,
+  "name": "Diglett-Alola",
+  "type1": "Ground",
+  "type2": "Steel",
+  "hp": 10,
+  "attack": 55,
+  "defense": 30,
+  "sp_atk": 35,
+  "sp_def": 45,
+  "speed": 90,
+  "total": 265,
+  "abilities": [
+    "Sand Veil",
+    "Tangling Hair",
+    "Sand Force"
+  ],
+  "height": 0.2,
+  "weight": 1.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/diglettalola.gif"
+}

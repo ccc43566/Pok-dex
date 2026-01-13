@@ -1,0 +1,20 @@
+{
+  "id": 500,
+  "name": "Emboar-Mega",
+  "type1": "Fire",
+  "type2": "Fighting",
+  "hp": 110,
+  "attack": 148,
+  "defense": 75,
+  "sp_atk": 110,
+  "sp_def": 110,
+  "speed": 75,
+  "total": 628,
+  "abilities": [
+    "Blaze",
+    "Reckless"
+  ],
+  "height": 1.8,
+  "weight": 180.3,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/emboarmega.gif"
+}

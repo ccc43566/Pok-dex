@@ -1,0 +1,22 @@
+{
+  "id": 942,
+  "name": "Maschiff",
+  "type1": "Dark",
+  "type2": null,
+  "hp": 60,
+  "attack": 78,
+  "defense": 60,
+  "sp_atk": 40,
+  "sp_def": 51,
+  "speed": 51,
+  "total": 340,
+  "abilities": [
+    "Intimidate",
+    "Run Away",
+    "Stakeout"
+  ],
+  "height": 0.5,
+  "weight": 16.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/maschiff.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\942_maschiff.gif"
+}

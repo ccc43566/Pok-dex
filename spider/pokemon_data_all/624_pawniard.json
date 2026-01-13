@@ -1,0 +1,22 @@
+{
+  "id": 624,
+  "name": "Pawniard",
+  "type1": "Dark",
+  "type2": "Steel",
+  "hp": 45,
+  "attack": 85,
+  "defense": 70,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "speed": 60,
+  "total": 340,
+  "abilities": [
+    "Defiant",
+    "Inner Focus",
+    "Pressure"
+  ],
+  "height": 0.5,
+  "weight": 10.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pawniard.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\624_pawniard.gif"
+}

@@ -3,16 +3,20 @@
   "name": "Pidgey",
   "type1": "Normal",
   "type2": "Flying",
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 40,
+  "attack": 45,
+  "defense": 40,
+  "sp_atk": 35,
+  "sp_def": 35,
+  "speed": 56,
+  "total": 251,
+  "abilities": [
+    "Keen Eye",
+    "Tangled Feet",
+    "Big Pecks"
+  ],
+  "height": 0.3,
+  "weight": 1.8,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/pidgey.gif",
-  "image_path": "pokemon_images\\16_pidgey.gif"
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\16_pidgey.gif"
 }

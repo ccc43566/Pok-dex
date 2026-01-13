@@ -1,0 +1,19 @@
+{
+  "id": 995,
+  "name": "Iron Thorns",
+  "type1": "Rock",
+  "type2": "Electric",
+  "hp": 100,
+  "attack": 134,
+  "defense": 110,
+  "sp_atk": 70,
+  "sp_def": 84,
+  "speed": 72,
+  "total": 570,
+  "abilities": [
+    "Quark Drive"
+  ],
+  "height": 1.6,
+  "weight": 303.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/ironthorns.gif"
+}

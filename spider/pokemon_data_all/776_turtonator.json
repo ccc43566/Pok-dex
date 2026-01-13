@@ -1,0 +1,20 @@
+{
+  "id": 776,
+  "name": "Turtonator",
+  "type1": "Fire",
+  "type2": "Dragon",
+  "hp": 60,
+  "attack": 78,
+  "defense": 135,
+  "sp_atk": 91,
+  "sp_def": 85,
+  "speed": 36,
+  "total": 485,
+  "abilities": [
+    "Shell Armor"
+  ],
+  "height": 2.0,
+  "weight": 212.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/turtonator.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\776_turtonator.gif"
+}

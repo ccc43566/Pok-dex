@@ -1,0 +1,21 @@
+{
+  "id": 642,
+  "name": "Thundurus",
+  "type1": "Electric",
+  "type2": "Flying",
+  "hp": 79,
+  "attack": 115,
+  "defense": 70,
+  "sp_atk": 125,
+  "sp_def": 80,
+  "speed": 111,
+  "total": 580,
+  "abilities": [
+    "Prankster",
+    "Defiant"
+  ],
+  "height": 1.5,
+  "weight": 61.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/thundurus.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\642_thundurus.gif"
+}

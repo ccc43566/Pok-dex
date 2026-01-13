@@ -1,0 +1,22 @@
+{
+  "id": 708,
+  "name": "Phantump",
+  "type1": "Ghost",
+  "type2": "Grass",
+  "hp": 43,
+  "attack": 70,
+  "defense": 48,
+  "sp_atk": 50,
+  "sp_def": 60,
+  "speed": 38,
+  "total": 309,
+  "abilities": [
+    "Natural Cure",
+    "Frisk",
+    "Harvest"
+  ],
+  "height": 0.4,
+  "weight": 7.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/phantump.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\708_phantump.gif"
+}

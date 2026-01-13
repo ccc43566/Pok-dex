@@ -1,0 +1,19 @@
+{
+  "id": 1008,
+  "name": "Miraidon",
+  "type1": "Electric",
+  "type2": "Dragon",
+  "hp": 100,
+  "attack": 85,
+  "defense": 100,
+  "sp_atk": 135,
+  "sp_def": 115,
+  "speed": 135,
+  "total": 670,
+  "abilities": [
+    "Hadron Engine"
+  ],
+  "height": 3.5,
+  "weight": 240.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/miraidon.gif"
+}

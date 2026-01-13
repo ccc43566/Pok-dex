@@ -1,0 +1,21 @@
+{
+  "id": 811,
+  "name": "Thwackey",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 70,
+  "attack": 85,
+  "defense": 70,
+  "sp_atk": 55,
+  "sp_def": 60,
+  "speed": 80,
+  "total": 420,
+  "abilities": [
+    "Overgrow",
+    "Grassy Surge"
+  ],
+  "height": 0.7,
+  "weight": 14.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/thwackey.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\811_thwackey.gif"
+}

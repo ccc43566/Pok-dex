@@ -1,0 +1,22 @@
+{
+  "id": 57,
+  "name": "Primeape",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 65,
+  "attack": 105,
+  "defense": 60,
+  "sp_atk": 60,
+  "sp_def": 70,
+  "speed": 95,
+  "total": 455,
+  "abilities": [
+    "Vital Spirit",
+    "Anger Point",
+    "Defiant"
+  ],
+  "height": 1.0,
+  "weight": 32.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/primeape.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\57_primeape.gif"
+}

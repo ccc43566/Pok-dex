@@ -1,0 +1,22 @@
+{
+  "id": 46,
+  "name": "Paras",
+  "type1": "Bug",
+  "type2": "Grass",
+  "hp": 35,
+  "attack": 70,
+  "defense": 55,
+  "sp_atk": 45,
+  "sp_def": 55,
+  "speed": 25,
+  "total": 285,
+  "abilities": [
+    "Effect Spore",
+    "Dry Skin",
+    "Damp"
+  ],
+  "height": 0.3,
+  "weight": 5.4,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/paras.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\46_paras.gif"
+}

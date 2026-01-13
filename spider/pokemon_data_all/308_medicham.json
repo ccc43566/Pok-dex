@@ -1,0 +1,21 @@
+{
+  "id": 308,
+  "name": "Medicham",
+  "type1": "Fighting",
+  "type2": "Psychic",
+  "hp": 60,
+  "attack": 60,
+  "defense": 75,
+  "sp_atk": 60,
+  "sp_def": 75,
+  "speed": 80,
+  "total": 410,
+  "abilities": [
+    "Pure Power",
+    "Telepathy"
+  ],
+  "height": 1.3,
+  "weight": 31.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/medicham.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\308_medicham.gif"
+}

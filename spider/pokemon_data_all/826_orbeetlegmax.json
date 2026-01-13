@@ -1,0 +1,21 @@
+{
+  "id": 826,
+  "name": "Orbeetle-Gmax",
+  "type1": "Bug",
+  "type2": "Psychic",
+  "hp": 60,
+  "attack": 45,
+  "defense": 110,
+  "sp_atk": 80,
+  "sp_def": 120,
+  "speed": 90,
+  "total": 505,
+  "abilities": [
+    "Swarm",
+    "Frisk",
+    "Telepathy"
+  ],
+  "height": 14.0,
+  "weight": 0.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/orbeetlegmax.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1024,
+  "name": "Terapagos",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 90,
+  "attack": 65,
+  "defense": 85,
+  "sp_atk": 65,
+  "sp_def": 85,
+  "speed": 60,
+  "total": 450,
+  "abilities": [
+    "Tera Shift"
+  ],
+  "height": 0.2,
+  "weight": 6.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/terapagos.gif"
+}

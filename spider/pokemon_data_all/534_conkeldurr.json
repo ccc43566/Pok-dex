@@ -1,0 +1,22 @@
+{
+  "id": 534,
+  "name": "Conkeldurr",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 105,
+  "attack": 140,
+  "defense": 95,
+  "sp_atk": 55,
+  "sp_def": 65,
+  "speed": 45,
+  "total": 505,
+  "abilities": [
+    "Guts",
+    "Sheer Force",
+    "Iron Fist"
+  ],
+  "height": 1.4,
+  "weight": 87.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/conkeldurr.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\534_conkeldurr.gif"
+}

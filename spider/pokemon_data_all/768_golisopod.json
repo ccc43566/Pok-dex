@@ -1,0 +1,20 @@
+{
+  "id": 768,
+  "name": "Golisopod",
+  "type1": "Bug",
+  "type2": "Water",
+  "hp": 75,
+  "attack": 125,
+  "defense": 140,
+  "sp_atk": 60,
+  "sp_def": 90,
+  "speed": 40,
+  "total": 530,
+  "abilities": [
+    "Emergency Exit"
+  ],
+  "height": 2.0,
+  "weight": 108.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/golisopod.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\768_golisopod.gif"
+}

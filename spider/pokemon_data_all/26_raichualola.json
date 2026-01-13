@@ -3,15 +3,17 @@
   "name": "Raichu-Alola",
   "type1": "Electric",
   "type2": "Psychic",
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 60,
+  "attack": 85,
+  "defense": 50,
+  "sp_atk": 95,
+  "sp_def": 85,
+  "speed": 110,
+  "total": 485,
+  "abilities": [
+    "Surge Surfer"
+  ],
+  "height": 0.7,
+  "weight": 21.0,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/raichualola.gif"
 }

@@ -1,0 +1,21 @@
+{
+  "id": 68,
+  "name": "Machamp-Gmax",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 90,
+  "attack": 130,
+  "defense": 80,
+  "sp_atk": 65,
+  "sp_def": 85,
+  "speed": 55,
+  "total": 505,
+  "abilities": [
+    "Guts",
+    "No Guard",
+    "Steadfast"
+  ],
+  "height": 25.0,
+  "weight": 0.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/machampgmax.gif"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 876,
+  "name": "Indeedee-F",
+  "type1": "Psychic",
+  "type2": "Normal",
+  "hp": 70,
+  "attack": 55,
+  "defense": 65,
+  "sp_atk": 95,
+  "sp_def": 105,
+  "speed": 85,
+  "total": 475,
+  "abilities": [
+    "Own Tempo",
+    "Synchronize",
+    "Psychic Surge"
+  ],
+  "height": 0.9,
+  "weight": 28.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/indeedeef.gif"
+}

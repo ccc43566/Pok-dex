@@ -1,0 +1,22 @@
+{
+  "id": 186,
+  "name": "Politoed",
+  "type1": "Water",
+  "type2": null,
+  "hp": 90,
+  "attack": 75,
+  "defense": 75,
+  "sp_atk": 90,
+  "sp_def": 100,
+  "speed": 70,
+  "total": 500,
+  "abilities": [
+    "Water Absorb",
+    "Damp",
+    "Drizzle"
+  ],
+  "height": 1.1,
+  "weight": 33.9,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/politoed.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\186_politoed.gif"
+}

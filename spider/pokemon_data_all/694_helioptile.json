@@ -1,0 +1,22 @@
+{
+  "id": 694,
+  "name": "Helioptile",
+  "type1": "Electric",
+  "type2": "Normal",
+  "hp": 44,
+  "attack": 38,
+  "defense": 33,
+  "sp_atk": 61,
+  "sp_def": 43,
+  "speed": 70,
+  "total": 289,
+  "abilities": [
+    "Dry Skin",
+    "Sand Veil",
+    "Solar Power"
+  ],
+  "height": 0.5,
+  "weight": 6.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/helioptile.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\694_helioptile.gif"
+}

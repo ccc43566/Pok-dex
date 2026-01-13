@@ -1,0 +1,22 @@
+{
+  "id": 529,
+  "name": "Drilbur",
+  "type1": "Ground",
+  "type2": null,
+  "hp": 60,
+  "attack": 85,
+  "defense": 40,
+  "sp_atk": 30,
+  "sp_def": 45,
+  "speed": 68,
+  "total": 328,
+  "abilities": [
+    "Sand Rush",
+    "Sand Force",
+    "Mold Breaker"
+  ],
+  "height": 0.3,
+  "weight": 8.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/drilbur.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\529_drilbur.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 340,
+  "name": "Whiscash",
+  "type1": "Water",
+  "type2": "Ground",
+  "hp": 110,
+  "attack": 78,
+  "defense": 73,
+  "sp_atk": 76,
+  "sp_def": 71,
+  "speed": 60,
+  "total": 468,
+  "abilities": [
+    "Oblivious",
+    "Anticipation",
+    "Hydration"
+  ],
+  "height": 0.9,
+  "weight": 23.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/whiscash.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\340_whiscash.gif"
+}

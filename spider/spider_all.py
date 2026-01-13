@@ -1,9 +1,10 @@
-import requests
+import aiohttp
 from bs4 import BeautifulSoup
 import json
 import os
 import re
-import time
+import asyncio
+import aiofiles
 
 # 设置请求头，避免被反爬
 headers = {
@@ -104,15 +105,15 @@ def extract_pokemon_data(js_content, pokemon_key):
 
     return data
 
-def get_all_pokemon_names():
+async def get_all_pokemon_names():
     """获取所有宝可梦的名称列表"""
     print("正在获取宝可梦列表...")
-    response = requests.get(DATA_URL)
-    if response.status_code != 200:
-        print(f"无法加载数据: {response.status_code}")
-        return []
-
-    js_content = response.text
+    async with aiohttp.ClientSession() as session:
+        async with session.get(DATA_URL) as response:
+            if response.status != 200:
+                print(f"无法加载数据: {response.status}")
+                return []
+            js_content = await response.text()
 
     # 提取所有宝可梦名称
     pokemon_names = []
@@ -144,16 +145,17 @@ def get_all_pokemon_names():
 
     return sorted_names
 
-def get_pokemon_stats_from_web(pokemon_name):
+async def get_pokemon_stats_from_web(pokemon_name, session):
     """从Bulbapedia网页上抓取宝可梦的详细数据"""
     # 将宝可梦名称转换为URL格式
     url_name = pokemon_name.replace(' ', '_')
     url = f"https://bulbapedia.bulbagarden.net/wiki/{url_name}_(Pok%C3%A9mon)"
 
     try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.content, 'html.parser')
+        async with session.get(url, headers=headers) as response:
+            response.raise_for_status()
+            content = await response.read()
+            soup = BeautifulSoup(content, 'html.parser')
 
         stats_data = {}
 
@@ -233,105 +235,107 @@ def get_pokemon_stats_from_web(pokemon_name):
         print(f"  从Bulbapedia抓取数据失败 {pokemon_name}: {e}")
         return {}
 
-def get_pokemon_data(pokemon_name, js_content):
+async def get_pokemon_data(pokemon_name, js_content, session, semaphore):
     """从预加载的数据中获取单个宝可梦的数据，如果JS数据不完整则从网页补充"""
-    pokemon_key = pokemon_name.lower()
+    async with semaphore:  # 限制并发数
+        pokemon_key = pokemon_name.lower()
 
-    # 提取JS数据作为基础数据
-    pokemon = extract_pokemon_data(js_content, pokemon_key)
-    if not pokemon:
-        return None
+        # 提取JS数据作为基础数据
+        pokemon = extract_pokemon_data(js_content, pokemon_key)
+        if not pokemon:
+            return None
 
-    data = {}
+        data = {}
 
-    # 1. 获取 ID 和名字（从JS数据）
-    data['id'] = pokemon.get('num')
-    data['name'] = pokemon.get('name', '')
+        # 1. 获取 ID 和名字（从JS数据）
+        data['id'] = pokemon.get('num')
+        data['name'] = pokemon.get('name', '')
 
-    # 2. 获取属性（type1, type2）（从JS数据）
-    types = pokemon.get('types', [])
-    data['type1'] = types[0] if types else None
-    data['type2'] = types[1] if len(types) > 1 else None
+        # 2. 获取属性（type1, type2）（从JS数据）
+        types = pokemon.get('types', [])
+        data['type1'] = types[0] if types else None
+        data['type2'] = types[1] if len(types) > 1 else None
 
-    # 3. 获取种族值（优先使用JS数据，其次从网页抓取）
-    base_stats = pokemon.get('baseStats', {})
-    has_base_stats = bool(base_stats)
+        # 3. 获取种族值（优先使用JS数据，其次从网页抓取）
+        base_stats = pokemon.get('baseStats', {})
+        has_base_stats = bool(base_stats)
 
-    data['hp'] = base_stats.get('hp', 0)
-    data['attack'] = base_stats.get('atk', 0)
-    data['defense'] = base_stats.get('def', 0)
-    data['sp_atk'] = base_stats.get('spa', 0)
-    data['sp_def'] = base_stats.get('spd', 0)
-    data['speed'] = base_stats.get('spe', 0)
+        data['hp'] = base_stats.get('hp', 0)
+        data['attack'] = base_stats.get('atk', 0)
+        data['defense'] = base_stats.get('def', 0)
+        data['sp_atk'] = base_stats.get('spa', 0)
+        data['sp_def'] = base_stats.get('spd', 0)
+        data['speed'] = base_stats.get('spe', 0)
 
-    # 如果JS数据中没有baseStats，从网页抓取
-    if not has_base_stats:
-        print(f"JS数据不完整，从网页补充 {pokemon_name} 的数据...")
-        web_data = get_pokemon_stats_from_web(pokemon_name)
-        if web_data.get('hp'):
-            data['hp'] = web_data['hp']
-            data['attack'] = web_data['attack']
-            data['defense'] = web_data['defense']
-            data['sp_atk'] = web_data['sp_atk']
-            data['sp_def'] = web_data['sp_def']
-            data['speed'] = web_data['speed']
-            print(f"网页数据补充成功: HP={data['hp']}, Attack={data['attack']}")
+        # 如果JS数据中没有baseStats，从网页抓取
+        if not has_base_stats:
+            print(f"JS数据不完整，从网页补充 {pokemon_name} 的数据...")
+            web_data = await get_pokemon_stats_from_web(pokemon_name, session)
+            if web_data.get('hp'):
+                data['hp'] = web_data['hp']
+                data['attack'] = web_data['attack']
+                data['defense'] = web_data['defense']
+                data['sp_atk'] = web_data['sp_atk']
+                data['sp_def'] = web_data['sp_def']
+                data['speed'] = web_data['speed']
+                print(f"网页数据补充成功: HP={data['hp']}, Attack={data['attack']}")
 
-    data['total'] = sum(data.get(stat, 0) for stat in ['hp', 'attack', 'defense', 'sp_atk', 'sp_def', 'speed'])
+        data['total'] = sum(data.get(stat, 0) for stat in ['hp', 'attack', 'defense', 'sp_atk', 'sp_def', 'speed'])
 
-    # 4. 获取特性（优先使用JS数据，其次从网页抓取）
-    abilities = pokemon.get('abilities', {})
-    has_abilities = bool(abilities)
+        # 4. 获取特性（优先使用JS数据，其次从网页抓取）
+        abilities = pokemon.get('abilities', {})
+        has_abilities = bool(abilities)
 
-    data['abilities'] = [name for name in abilities.values() if name]
+        data['abilities'] = [name for name in abilities.values() if name]
 
-    # 如果JS数据中没有abilities，从网页抓取
-    if not has_abilities:
-        if 'web_data' not in locals():
-            web_data = get_pokemon_stats_from_web(pokemon_name)
-        if web_data.get('abilities'):
-            data['abilities'] = web_data['abilities']
-            print(f"网页数据补充特性: {data['abilities']}")
+        # 如果JS数据中没有abilities，从网页抓取
+        if not has_abilities:
+            web_data = await get_pokemon_stats_from_web(pokemon_name, session)
+            if web_data.get('abilities'):
+                data['abilities'] = web_data['abilities']
+                print(f"网页数据补充特性: {data['abilities']}")
 
-    # 5. 获取身高体重（从JS数据）
-    data['height'] = pokemon.get('heightm', 0)
-    data['weight'] = pokemon.get('weightkg', 0)
+        # 5. 获取身高体重（从JS数据）
+        data['height'] = pokemon.get('heightm', 0)
+        data['weight'] = pokemon.get('weightkg', 0)
 
-    # 6. 获取图片 URL（构造Pokemon Showdown的图片URL）
-    if data['id']:
-        sprite_url = f"https://play.pokemonshowdown.com/sprites/ani/{pokemon_key}.gif"
-        data['image_url'] = sprite_url
+        # 6. 获取图片 URL（构造Pokemon Showdown的图片URL）
+        if data['id']:
+            sprite_url = f"https://play.pokemonshowdown.com/sprites/ani/{pokemon_key}.gif"
+            data['image_url'] = sprite_url
 
-        # 下载图片并保存
-        filename = f"{data['id']}_{pokemon_key}.gif"
-        filepath = os.path.join(IMAGE_FOLDER, filename)
-        try:
-            img_response = requests.get(sprite_url, timeout=10)
-            if img_response.status_code == 200:
-                with open(filepath, 'wb') as f:
-                    f.write(img_response.content)
-                data['image_path'] = filepath
-        except Exception as e:
-            print(f"下载图片失败 {pokemon_name}: {e}")
+            # 下载图片并保存
+            filename = f"{data['id']}_{pokemon_key}.gif"
+            filepath = os.path.join(IMAGE_FOLDER, filename)
+            try:
+                async with session.get(sprite_url, timeout=aiohttp.ClientTimeout(total=10)) as img_response:
+                    if img_response.status == 200:
+                        content = await img_response.read()
+                        async with aiofiles.open(filepath, 'wb') as f:
+                            await f.write(content)
+                        data['image_path'] = filepath
+            except Exception as e:
+                print(f"下载图片失败 {pokemon_name}: {e}")
 
-    return data
+        return data
 
-def main():
+async def main():
     print("=" * 50)
     print("宝可梦数据批量爬虫")
     print("=" * 50)
 
     # 获取所有宝可梦名称
-    all_pokemon = get_all_pokemon_names()
+    all_pokemon = await get_all_pokemon_names()
     print(f"共找到 {len(all_pokemon)} 只宝可梦")
 
     # 预加载数据文件
     print("正在预加载宝可梦数据库...")
-    response = requests.get(DATA_URL)
-    if response.status_code != 200:
-        print(f"无法加载数据库: {response.status_code}")
-        return
-    js_content = response.text
+    async with aiohttp.ClientSession() as session:
+        async with session.get(DATA_URL) as response:
+            if response.status != 200:
+                print(f"无法加载数据库: {response.status}")
+                return
+            js_content = await response.text()
 
     # 用户选择范围（按宝可梦ID编号）
     print("\n请选择爬取范围 (按宝可梦全国图鉴编号):")
@@ -391,29 +395,33 @@ def main():
     successful = 0
     failed = 0
 
-    for i, pokemon_name in enumerate(selected_pokemon, 1):
+    # 限制并发数为10，避免过多的并发请求
+    semaphore = asyncio.Semaphore(10)
+
+    async def process_pokemon(pokemon_name):
+        nonlocal successful, failed
         try:
-            data = get_pokemon_data(pokemon_name, js_content)
-            if data:
-                # 保存单个宝可梦数据
-                filename = f"{data['id']}_{pokemon_name}.json"
-                filepath = os.path.join(OUTPUT_DIR, filename)
-                with open(filepath, 'w', encoding='utf-8') as f:
-                    json.dump(data, f, ensure_ascii=False, indent=2)
-
-                successful += 1
-            else:
-                failed += 1
-
+            async with aiohttp.ClientSession(headers=headers) as session:
+                data = await get_pokemon_data(pokemon_name, js_content, session, semaphore)
+                if data:
+                    # 保存单个宝可梦数据
+                    filename = f"{data['id']}_{pokemon_name}.json"
+                    filepath = os.path.join(OUTPUT_DIR, filename)
+                    async with aiofiles.open(filepath, 'w', encoding='utf-8') as f:
+                        await f.write(json.dumps(data, ensure_ascii=False, indent=2))
+                    successful += 1
+                    return True
+                else:
+                    failed += 1
+                    return False
         except Exception as e:
             print(f"爬取失败 {pokemon_name}: {e}")
             failed += 1
+            return False
 
-        # 显示进度
-        progress = (i / len(selected_pokemon)) * 100
-        print(f"\r进度: {i}/{len(selected_pokemon)} ({progress:.1f}%) - 成功:{successful} 失败:{failed}", end="", flush=True)
-
-        time.sleep(0.1)  # 避免请求过快
+    # 并发处理所有宝可梦
+    tasks = [process_pokemon(pokemon_name) for pokemon_name in selected_pokemon]
+    results = await asyncio.gather(*tasks, return_exceptions=True)
 
     print()  # 换行
 
@@ -424,4 +432,4 @@ def main():
     print(f"图片保存到: {IMAGE_FOLDER}/")
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())

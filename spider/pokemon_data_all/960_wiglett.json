@@ -1,0 +1,22 @@
+{
+  "id": 960,
+  "name": "Wiglett",
+  "type1": "Water",
+  "type2": null,
+  "hp": 10,
+  "attack": 55,
+  "defense": 25,
+  "sp_atk": 35,
+  "sp_def": 25,
+  "speed": 95,
+  "total": 245,
+  "abilities": [
+    "Gooey",
+    "Rattled",
+    "Sand Veil"
+  ],
+  "height": 1.2,
+  "weight": 1.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/wiglett.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\960_wiglett.gif"
+}

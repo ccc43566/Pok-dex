@@ -1,0 +1,19 @@
+{
+  "id": 990,
+  "name": "Iron Treads",
+  "type1": "Ground",
+  "type2": "Steel",
+  "hp": 90,
+  "attack": 112,
+  "defense": 120,
+  "sp_atk": 72,
+  "sp_def": 70,
+  "speed": 106,
+  "total": 570,
+  "abilities": [
+    "Quark Drive"
+  ],
+  "height": 0.9,
+  "weight": 240.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/irontreads.gif"
+}

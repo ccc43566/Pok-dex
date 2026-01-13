@@ -1,0 +1,20 @@
+{
+  "id": 648,
+  "name": "Meloetta",
+  "type1": "Normal",
+  "type2": "Psychic",
+  "hp": 100,
+  "attack": 77,
+  "defense": 77,
+  "sp_atk": 128,
+  "sp_def": 128,
+  "speed": 90,
+  "total": 600,
+  "abilities": [
+    "Serene Grace"
+  ],
+  "height": 0.6,
+  "weight": 6.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/meloetta.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\648_meloetta.gif"
+}

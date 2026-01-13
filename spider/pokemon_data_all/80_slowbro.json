@@ -1,0 +1,22 @@
+{
+  "id": 80,
+  "name": "Slowbro",
+  "type1": "Water",
+  "type2": "Psychic",
+  "hp": 95,
+  "attack": 75,
+  "defense": 110,
+  "sp_atk": 100,
+  "sp_def": 80,
+  "speed": 30,
+  "total": 490,
+  "abilities": [
+    "Oblivious",
+    "Own Tempo",
+    "Regenerator"
+  ],
+  "height": 1.6,
+  "weight": 78.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/slowbro.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\80_slowbro.gif"
+}

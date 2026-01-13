@@ -1,0 +1,21 @@
+{
+  "id": 908,
+  "name": "Meowscarada",
+  "type1": "Grass",
+  "type2": "Dark",
+  "hp": 76,
+  "attack": 110,
+  "defense": 70,
+  "sp_atk": 81,
+  "sp_def": 70,
+  "speed": 123,
+  "total": 530,
+  "abilities": [
+    "Overgrow",
+    "Protean"
+  ],
+  "height": 1.5,
+  "weight": 31.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/meowscarada.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\908_meowscarada.gif"
+}

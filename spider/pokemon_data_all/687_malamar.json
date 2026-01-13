@@ -1,0 +1,22 @@
+{
+  "id": 687,
+  "name": "Malamar",
+  "type1": "Dark",
+  "type2": "Psychic",
+  "hp": 86,
+  "attack": 92,
+  "defense": 88,
+  "sp_atk": 68,
+  "sp_def": 75,
+  "speed": 73,
+  "total": 482,
+  "abilities": [
+    "Contrary",
+    "Suction Cups",
+    "Infiltrator"
+  ],
+  "height": 1.5,
+  "weight": 47.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/malamar.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\687_malamar.gif"
+}

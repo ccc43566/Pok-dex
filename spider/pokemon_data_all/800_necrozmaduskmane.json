@@ -1,0 +1,19 @@
+{
+  "id": 800,
+  "name": "Necrozma-Dusk-Mane",
+  "type1": "Psychic",
+  "type2": "Steel",
+  "hp": 97,
+  "attack": 157,
+  "defense": 127,
+  "sp_atk": 113,
+  "sp_def": 109,
+  "speed": 77,
+  "total": 680,
+  "abilities": [
+    "Prism Armor"
+  ],
+  "height": 3.8,
+  "weight": 460.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/necrozmaduskmane.gif"
+}

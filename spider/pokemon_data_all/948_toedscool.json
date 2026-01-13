@@ -1,0 +1,20 @@
+{
+  "id": 948,
+  "name": "Toedscool",
+  "type1": "Ground",
+  "type2": "Grass",
+  "hp": 40,
+  "attack": 40,
+  "defense": 35,
+  "sp_atk": 50,
+  "sp_def": 100,
+  "speed": 70,
+  "total": 335,
+  "abilities": [
+    "Mycelium Might"
+  ],
+  "height": 0.9,
+  "weight": 33.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/toedscool.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\948_toedscool.gif"
+}

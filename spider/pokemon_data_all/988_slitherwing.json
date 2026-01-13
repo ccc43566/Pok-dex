@@ -1,0 +1,20 @@
+{
+  "id": 988,
+  "name": "Slither Wing",
+  "type1": "Bug",
+  "type2": "Fighting",
+  "hp": 85,
+  "attack": 135,
+  "defense": 79,
+  "sp_atk": 85,
+  "sp_def": 105,
+  "speed": 81,
+  "total": 570,
+  "abilities": [
+    "Protosynthesis"
+  ],
+  "height": 3.2,
+  "weight": 92.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/slitherwing.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\988_slitherwing.gif"
+}

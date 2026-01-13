@@ -1,0 +1,22 @@
+{
+  "id": 322,
+  "name": "Numel",
+  "type1": "Fire",
+  "type2": "Ground",
+  "hp": 60,
+  "attack": 60,
+  "defense": 40,
+  "sp_atk": 65,
+  "sp_def": 45,
+  "speed": 35,
+  "total": 305,
+  "abilities": [
+    "Oblivious",
+    "Simple",
+    "Own Tempo"
+  ],
+  "height": 0.7,
+  "weight": 24.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/numel.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\322_numel.gif"
+}

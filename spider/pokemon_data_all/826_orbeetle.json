@@ -1,0 +1,22 @@
+{
+  "id": 826,
+  "name": "Orbeetle",
+  "type1": "Bug",
+  "type2": "Psychic",
+  "hp": 60,
+  "attack": 45,
+  "defense": 110,
+  "sp_atk": 80,
+  "sp_def": 120,
+  "speed": 90,
+  "total": 505,
+  "abilities": [
+    "Swarm",
+    "Frisk",
+    "Telepathy"
+  ],
+  "height": 0.4,
+  "weight": 40.8,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/orbeetle.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\826_orbeetle.gif"
+}

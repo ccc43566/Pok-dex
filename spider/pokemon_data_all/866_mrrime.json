@@ -1,0 +1,22 @@
+{
+  "id": 866,
+  "name": "Mr. Rime",
+  "type1": "Ice",
+  "type2": "Psychic",
+  "hp": 80,
+  "attack": 85,
+  "defense": 75,
+  "sp_atk": 110,
+  "sp_def": 100,
+  "speed": 70,
+  "total": 520,
+  "abilities": [
+    "Tangled Feet",
+    "Screen Cleaner",
+    "Ice Body"
+  ],
+  "height": 1.5,
+  "weight": 58.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/mrrime.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\866_mrrime.gif"
+}

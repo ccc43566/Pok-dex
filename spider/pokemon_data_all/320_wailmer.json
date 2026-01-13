@@ -1,0 +1,22 @@
+{
+  "id": 320,
+  "name": "Wailmer",
+  "type1": "Water",
+  "type2": null,
+  "hp": 130,
+  "attack": 70,
+  "defense": 35,
+  "sp_atk": 70,
+  "sp_def": 35,
+  "speed": 60,
+  "total": 400,
+  "abilities": [
+    "Water Veil",
+    "Oblivious",
+    "Pressure"
+  ],
+  "height": 2.0,
+  "weight": 130.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/wailmer.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\320_wailmer.gif"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1000,
+  "name": "Gholdengo",
+  "type1": "Steel",
+  "type2": "Ghost",
+  "hp": 87,
+  "attack": 60,
+  "defense": 95,
+  "sp_atk": 133,
+  "sp_def": 91,
+  "speed": 84,
+  "total": 550,
+  "abilities": [
+    "Good as Gold"
+  ],
+  "height": 1.2,
+  "weight": 30.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gholdengo.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\1000_gholdengo.gif"
+}

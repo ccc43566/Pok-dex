@@ -1,0 +1,19 @@
+{
+  "id": 888,
+  "name": "Zacian-Crowned",
+  "type1": "Fairy",
+  "type2": "Steel",
+  "hp": 92,
+  "attack": 150,
+  "defense": 115,
+  "sp_atk": 80,
+  "sp_def": 115,
+  "speed": 148,
+  "total": 700,
+  "abilities": [
+    "Intrepid Sword"
+  ],
+  "height": 2.8,
+  "weight": 355.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/zaciancrowned.gif"
+}

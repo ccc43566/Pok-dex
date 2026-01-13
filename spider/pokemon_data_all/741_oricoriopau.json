@@ -1,0 +1,19 @@
+{
+  "id": 741,
+  "name": "Oricorio-Pa",
+  "type1": "Psychic",
+  "type2": "Flying",
+  "hp": 75,
+  "attack": 70,
+  "defense": 70,
+  "sp_atk": 98,
+  "sp_def": 70,
+  "speed": 93,
+  "total": 476,
+  "abilities": [
+    "Dancer"
+  ],
+  "height": 0.6,
+  "weight": 3.4,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/oricoriopau.gif"
+}

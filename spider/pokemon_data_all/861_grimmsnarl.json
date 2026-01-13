@@ -1,0 +1,22 @@
+{
+  "id": 861,
+  "name": "Grimmsnarl",
+  "type1": "Dark",
+  "type2": "Fairy",
+  "hp": 95,
+  "attack": 120,
+  "defense": 65,
+  "sp_atk": 95,
+  "sp_def": 75,
+  "speed": 60,
+  "total": 510,
+  "abilities": [
+    "Prankster",
+    "Frisk",
+    "Pickpocket"
+  ],
+  "height": 1.5,
+  "weight": 61.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/grimmsnarl.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\861_grimmsnarl.gif"
+}

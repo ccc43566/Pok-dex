@@ -1,0 +1,22 @@
+{
+  "id": 62,
+  "name": "Poliwrath",
+  "type1": "Water",
+  "type2": "Fighting",
+  "hp": 90,
+  "attack": 95,
+  "defense": 95,
+  "sp_atk": 70,
+  "sp_def": 90,
+  "speed": 70,
+  "total": 510,
+  "abilities": [
+    "Water Absorb",
+    "Damp",
+    "Swift Swim"
+  ],
+  "height": 1.3,
+  "weight": 54.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/poliwrath.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\62_poliwrath.gif"
+}

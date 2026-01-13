@@ -1,0 +1,21 @@
+{
+  "id": 259,
+  "name": "Marshtomp",
+  "type1": "Water",
+  "type2": "Ground",
+  "hp": 70,
+  "attack": 85,
+  "defense": 70,
+  "sp_atk": 60,
+  "sp_def": 70,
+  "speed": 50,
+  "total": 405,
+  "abilities": [
+    "Torrent",
+    "Damp"
+  ],
+  "height": 0.7,
+  "weight": 28.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/marshtomp.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\259_marshtomp.gif"
+}

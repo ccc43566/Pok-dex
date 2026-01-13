@@ -1,0 +1,22 @@
+{
+  "id": 236,
+  "name": "Tyrogue",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 35,
+  "attack": 35,
+  "defense": 35,
+  "sp_atk": 35,
+  "sp_def": 35,
+  "speed": 35,
+  "total": 210,
+  "abilities": [
+    "Guts",
+    "Steadfast",
+    "Vital Spirit"
+  ],
+  "height": 0.7,
+  "weight": 21.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/tyrogue.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\236_tyrogue.gif"
+}

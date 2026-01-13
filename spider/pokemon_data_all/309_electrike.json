@@ -1,0 +1,22 @@
+{
+  "id": 309,
+  "name": "Electrike",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 40,
+  "attack": 45,
+  "defense": 40,
+  "sp_atk": 65,
+  "sp_def": 40,
+  "speed": 65,
+  "total": 295,
+  "abilities": [
+    "Static",
+    "Lightning Rod",
+    "Minus"
+  ],
+  "height": 0.6,
+  "weight": 15.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/electrike.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\309_electrike.gif"
+}

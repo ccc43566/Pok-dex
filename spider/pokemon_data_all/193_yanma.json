@@ -1,0 +1,22 @@
+{
+  "id": 193,
+  "name": "Yanma",
+  "type1": "Bug",
+  "type2": "Flying",
+  "hp": 65,
+  "attack": 65,
+  "defense": 45,
+  "sp_atk": 75,
+  "sp_def": 45,
+  "speed": 95,
+  "total": 390,
+  "abilities": [
+    "Speed Boost",
+    "Compound Eyes",
+    "Frisk"
+  ],
+  "height": 1.2,
+  "weight": 38.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/yanma.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\193_yanma.gif"
+}

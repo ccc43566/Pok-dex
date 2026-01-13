@@ -1,0 +1,19 @@
+{
+  "id": 380,
+  "name": "Latias-Mega",
+  "type1": "Dragon",
+  "type2": "Psychic",
+  "hp": 80,
+  "attack": 100,
+  "defense": 120,
+  "sp_atk": 140,
+  "sp_def": 150,
+  "speed": 110,
+  "total": 700,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 1.8,
+  "weight": 52.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/latiasmega.gif"
+}

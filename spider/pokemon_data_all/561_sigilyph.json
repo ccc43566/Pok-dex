@@ -1,0 +1,22 @@
+{
+  "id": 561,
+  "name": "Sigilyph",
+  "type1": "Psychic",
+  "type2": "Flying",
+  "hp": 72,
+  "attack": 58,
+  "defense": 80,
+  "sp_atk": 103,
+  "sp_def": 80,
+  "speed": 97,
+  "total": 490,
+  "abilities": [
+    "Wonder Skin",
+    "Magic Guard",
+    "Tinted Lens"
+  ],
+  "height": 1.4,
+  "weight": 14.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/sigilyph.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\561_sigilyph.gif"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 71,
+  "name": "Victreebel",
+  "type1": "Grass",
+  "type2": "Poison",
+  "hp": 80,
+  "attack": 105,
+  "defense": 65,
+  "sp_atk": 100,
+  "sp_def": 70,
+  "speed": 70,
+  "total": 490,
+  "abilities": [
+    "Chlorophyll",
+    "Gluttony"
+  ],
+  "height": 1.7,
+  "weight": 15.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/victreebel.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\71_victreebel.gif"
+}

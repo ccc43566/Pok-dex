@@ -1,0 +1,22 @@
+{
+  "id": 739,
+  "name": "Crabrawler",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 47,
+  "attack": 82,
+  "defense": 57,
+  "sp_atk": 42,
+  "sp_def": 47,
+  "speed": 63,
+  "total": 338,
+  "abilities": [
+    "Hyper Cutter",
+    "Iron Fist",
+    "Anger Point"
+  ],
+  "height": 0.6,
+  "weight": 7.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/crabrawler.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\739_crabrawler.gif"
+}

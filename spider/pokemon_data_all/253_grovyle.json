@@ -1,0 +1,21 @@
+{
+  "id": 253,
+  "name": "Grovyle",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 50,
+  "attack": 65,
+  "defense": 45,
+  "sp_atk": 85,
+  "sp_def": 65,
+  "speed": 95,
+  "total": 405,
+  "abilities": [
+    "Overgrow",
+    "Unburden"
+  ],
+  "height": 0.9,
+  "weight": 21.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/grovyle.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\253_grovyle.gif"
+}

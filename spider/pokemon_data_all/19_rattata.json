@@ -3,16 +3,20 @@
   "name": "Rattata",
   "type1": "Normal",
   "type2": null,
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 30,
+  "attack": 56,
+  "defense": 35,
+  "sp_atk": 25,
+  "sp_def": 35,
+  "speed": 72,
+  "total": 253,
+  "abilities": [
+    "Run Away",
+    "Guts",
+    "Hustle"
+  ],
+  "height": 0.3,
+  "weight": 3.5,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/rattata.gif",
-  "image_path": "pokemon_images\\19_rattata.gif"
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\19_rattata.gif"
 }

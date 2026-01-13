@@ -1,0 +1,22 @@
+{
+  "id": 712,
+  "name": "Bergmite",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 55,
+  "attack": 69,
+  "defense": 85,
+  "sp_atk": 32,
+  "sp_def": 35,
+  "speed": 28,
+  "total": 304,
+  "abilities": [
+    "Own Tempo",
+    "Ice Body",
+    "Sturdy"
+  ],
+  "height": 1.0,
+  "weight": 99.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/bergmite.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\712_bergmite.gif"
+}

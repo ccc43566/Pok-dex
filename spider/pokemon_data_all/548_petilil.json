@@ -1,0 +1,22 @@
+{
+  "id": 548,
+  "name": "Petilil",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 45,
+  "attack": 35,
+  "defense": 50,
+  "sp_atk": 70,
+  "sp_def": 50,
+  "speed": 30,
+  "total": 280,
+  "abilities": [
+    "Chlorophyll",
+    "Own Tempo",
+    "Leaf Guard"
+  ],
+  "height": 0.5,
+  "weight": 6.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/petilil.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\548_petilil.gif"
+}

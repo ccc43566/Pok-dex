@@ -1,0 +1,21 @@
+{
+  "id": 841,
+  "name": "Flapple-Gmax",
+  "type1": "Grass",
+  "type2": "Dragon",
+  "hp": 70,
+  "attack": 110,
+  "defense": 80,
+  "sp_atk": 95,
+  "sp_def": 60,
+  "speed": 70,
+  "total": 485,
+  "abilities": [
+    "Ripen",
+    "Gluttony",
+    "Hustle"
+  ],
+  "height": 24.0,
+  "weight": 0.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/flapplegmax.gif"
+}

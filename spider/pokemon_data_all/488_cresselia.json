@@ -1,0 +1,20 @@
+{
+  "id": 488,
+  "name": "Cresselia",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 120,
+  "attack": 70,
+  "defense": 110,
+  "sp_atk": 75,
+  "sp_def": 120,
+  "speed": 85,
+  "total": 580,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 1.5,
+  "weight": 85.6,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/cresselia.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\488_cresselia.gif"
+}

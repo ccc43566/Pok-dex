@@ -1,0 +1,19 @@
+{
+  "id": 487,
+  "name": "Giratina-Origin",
+  "type1": "Ghost",
+  "type2": "Dragon",
+  "hp": 150,
+  "attack": 120,
+  "defense": 100,
+  "sp_atk": 120,
+  "sp_def": 100,
+  "speed": 90,
+  "total": 680,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 6.9,
+  "weight": 650.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/giratinaorigin.gif"
+}

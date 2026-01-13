@@ -1,0 +1,21 @@
+{
+  "id": 76,
+  "name": "Golem-Alola",
+  "type1": "Rock",
+  "type2": "Electric",
+  "hp": 80,
+  "attack": 120,
+  "defense": 130,
+  "sp_atk": 55,
+  "sp_def": 65,
+  "speed": 45,
+  "total": 495,
+  "abilities": [
+    "Magnet Pull",
+    "Sturdy",
+    "Galvanize"
+  ],
+  "height": 1.7,
+  "weight": 316.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/golemalola.gif"
+}

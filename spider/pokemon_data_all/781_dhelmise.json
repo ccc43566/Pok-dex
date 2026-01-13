@@ -1,0 +1,20 @@
+{
+  "id": 781,
+  "name": "Dhelmise",
+  "type1": "Ghost",
+  "type2": "Grass",
+  "hp": 70,
+  "attack": 131,
+  "defense": 100,
+  "sp_atk": 86,
+  "sp_def": 90,
+  "speed": 40,
+  "total": 517,
+  "abilities": [
+    "Steelworker"
+  ],
+  "height": 3.9,
+  "weight": 210.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/dhelmise.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\781_dhelmise.gif"
+}

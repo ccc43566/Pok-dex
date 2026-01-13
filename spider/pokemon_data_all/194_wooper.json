@@ -1,0 +1,22 @@
+{
+  "id": 194,
+  "name": "Wooper",
+  "type1": "Water",
+  "type2": "Ground",
+  "hp": 55,
+  "attack": 45,
+  "defense": 45,
+  "sp_atk": 25,
+  "sp_def": 25,
+  "speed": 15,
+  "total": 210,
+  "abilities": [
+    "Damp",
+    "Water Absorb",
+    "Unaware"
+  ],
+  "height": 0.4,
+  "weight": 8.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/wooper.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\194_wooper.gif"
+}

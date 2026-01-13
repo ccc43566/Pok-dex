@@ -1,0 +1,22 @@
+{
+  "id": 199,
+  "name": "Slowking",
+  "type1": "Water",
+  "type2": "Psychic",
+  "hp": 95,
+  "attack": 75,
+  "defense": 80,
+  "sp_atk": 100,
+  "sp_def": 110,
+  "speed": 30,
+  "total": 490,
+  "abilities": [
+    "Oblivious",
+    "Own Tempo",
+    "Regenerator"
+  ],
+  "height": 2.0,
+  "weight": 79.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/slowking.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\199_slowking.gif"
+}

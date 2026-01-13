@@ -1,0 +1,22 @@
+{
+  "id": 282,
+  "name": "Gardevoir",
+  "type1": "Psychic",
+  "type2": "Fairy",
+  "hp": 68,
+  "attack": 65,
+  "defense": 65,
+  "sp_atk": 125,
+  "sp_def": 115,
+  "speed": 80,
+  "total": 518,
+  "abilities": [
+    "Synchronize",
+    "Trace",
+    "Telepathy"
+  ],
+  "height": 1.6,
+  "weight": 48.4,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gardevoir.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\282_gardevoir.gif"
+}

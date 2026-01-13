@@ -3,15 +3,17 @@
   "name": "Raticate-Alola-Totem",
   "type1": "Dark",
   "type2": "Normal",
-  "hp": 0,
-  "attack": 0,
-  "defense": 0,
-  "sp_atk": 0,
-  "sp_def": 0,
-  "speed": 0,
-  "total": 0,
-  "abilities": [],
-  "height": 0,
-  "weight": 0,
+  "hp": 75,
+  "attack": 71,
+  "defense": 70,
+  "sp_atk": 40,
+  "sp_def": 80,
+  "speed": 77,
+  "total": 413,
+  "abilities": [
+    "Thick Fat"
+  ],
+  "height": 1.4,
+  "weight": 105.0,
   "image_url": "https://play.pokemonshowdown.com/sprites/ani/raticatealolatotem.gif"
 }

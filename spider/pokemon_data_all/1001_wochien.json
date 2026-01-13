@@ -1,0 +1,19 @@
+{
+  "id": 1001,
+  "name": "Wo-Chien",
+  "type1": "Dark",
+  "type2": "Grass",
+  "hp": 85,
+  "attack": 85,
+  "defense": 100,
+  "sp_atk": 95,
+  "sp_def": 135,
+  "speed": 70,
+  "total": 570,
+  "abilities": [
+    "Tablets of Ruin"
+  ],
+  "height": 1.5,
+  "weight": 74.2,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/wochien.gif"
+}

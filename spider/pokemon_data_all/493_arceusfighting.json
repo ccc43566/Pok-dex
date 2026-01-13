@@ -1,0 +1,19 @@
+{
+  "id": 493,
+  "name": "Arceus-Fighting",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 120,
+  "attack": 120,
+  "defense": 120,
+  "sp_atk": 120,
+  "sp_def": 120,
+  "speed": 120,
+  "total": 720,
+  "abilities": [
+    "Multitype"
+  ],
+  "height": 3.2,
+  "weight": 320.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/arceusfighting.gif"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 403,
+  "name": "Shinx",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 45,
+  "attack": 65,
+  "defense": 34,
+  "sp_atk": 40,
+  "sp_def": 34,
+  "speed": 45,
+  "total": 263,
+  "abilities": [
+    "Rivalry",
+    "Intimidate",
+    "Guts"
+  ],
+  "height": 0.5,
+  "weight": 9.5,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/shinx.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\403_shinx.gif"
+}

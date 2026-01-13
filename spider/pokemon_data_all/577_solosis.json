@@ -1,0 +1,22 @@
+{
+  "id": 577,
+  "name": "Solosis",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 45,
+  "attack": 30,
+  "defense": 40,
+  "sp_atk": 105,
+  "sp_def": 50,
+  "speed": 20,
+  "total": 290,
+  "abilities": [
+    "Overcoat",
+    "Magic Guard",
+    "Regenerator"
+  ],
+  "height": 0.3,
+  "weight": 1.0,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/solosis.gif",
+  "image_path": "d:\\baizhan_program\\my_pokedex\\Pok-dex\\spider\\pokemon_images\\577_solosis.gif"
+}

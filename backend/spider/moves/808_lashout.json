@@ -1,0 +1,13 @@
+{
+  "id": 808,
+  "name": "Lash Out",
+  "num": 808,
+  "accuracy": 100,
+  "basePower": 75,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Power doubles if the user had a stat stage lowered this turn.",
+  "shortDesc": "2x power if the user had a stat lowered this turn."
+}

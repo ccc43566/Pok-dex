@@ -1,0 +1,13 @@
+{
+  "id": 365,
+  "name": "Pluck",
+  "num": 365,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Flying",
+  "pp": 20,
+  "priority": 0,
+  "desc": "If this move is successful and the user has not fainted, it steals the target",
+  "shortDesc": "User steals and eats the target"
+}

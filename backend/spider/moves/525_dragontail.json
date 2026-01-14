@@ -1,0 +1,13 @@
+{
+  "id": 525,
+  "name": "Dragon Tail",
+  "num": 525,
+  "accuracy": 90,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Dragon",
+  "pp": 10,
+  "priority": -6,
+  "desc": "If both the user and the target have not fainted, the target is forced to switch out and be replaced with a random unfainted ally. This effect fails if the target used Ingrain previously, has the Suction Cups Ability, or this move hit a substitute.",
+  "shortDesc": "Forces the target to switch to a random ally."
+}

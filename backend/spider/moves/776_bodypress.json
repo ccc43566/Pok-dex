@@ -1,0 +1,13 @@
+{
+  "id": 776,
+  "name": "Body Press",
+  "num": 776,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Damage is calculated using the user",
+  "shortDesc": "Uses user"
+}

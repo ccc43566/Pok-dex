@@ -1,0 +1,13 @@
+{
+  "id": 732,
+  "name": "Pika Papow",
+  "num": 732,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Special",
+  "type": "Electric",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Power is equal to the greater of (user",
+  "shortDesc": "Max happiness: 102 power. Can"
+}

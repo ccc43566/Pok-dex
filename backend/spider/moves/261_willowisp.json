@@ -1,0 +1,13 @@
+{
+  "id": 261,
+  "name": "Will-O-Wisp",
+  "num": 261,
+  "accuracy": 85,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fire",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Burns the target.",
+  "shortDesc": "Burns the target."
+}

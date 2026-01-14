@@ -1,0 +1,13 @@
+{
+  "id": 777,
+  "name": "Decorate",
+  "num": 777,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fairy",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Raises the target",
+  "shortDesc": "Raises the target"
+}

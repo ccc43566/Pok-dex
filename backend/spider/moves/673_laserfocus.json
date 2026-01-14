@@ -1,0 +1,13 @@
+{
+  "id": 673,
+  "name": "Laser Focus",
+  "num": 673,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 30,
+  "priority": 0,
+  "desc": "Until the end of the next turn, the user",
+  "shortDesc": "Until the end of the next turn, user"
+}

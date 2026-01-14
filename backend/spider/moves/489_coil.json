@@ -1,0 +1,13 @@
+{
+  "id": 489,
+  "name": "Coil",
+  "num": 489,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Poison",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises user"
+}

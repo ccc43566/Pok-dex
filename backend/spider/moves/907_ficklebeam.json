@@ -1,0 +1,13 @@
+{
+  "id": 907,
+  "name": "Fickle Beam",
+  "num": 907,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Dragon",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 30% chance this move",
+  "shortDesc": "Has a 30% chance this move"
+}

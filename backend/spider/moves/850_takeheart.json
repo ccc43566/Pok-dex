@@ -1,0 +1,13 @@
+{
+  "id": 850,
+  "name": "Take Heart",
+  "num": 850,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 15,
+  "priority": 0,
+  "desc": "The user cures its non-volatile status condition. Raises the user",
+  "shortDesc": "Cures user"
+}

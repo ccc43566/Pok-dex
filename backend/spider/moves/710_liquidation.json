@@ -1,0 +1,13 @@
+{
+  "id": 710,
+  "name": "Liquidation",
+  "num": 710,
+  "accuracy": 100,
+  "basePower": 85,
+  "category": "Physical",
+  "type": "Water",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 20% chance to lower the target",
+  "shortDesc": "20% chance to lower the target"
+}

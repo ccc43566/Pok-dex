@@ -1,0 +1,13 @@
+{
+  "id": 619,
+  "name": "Precipice Blades",
+  "num": 619,
+  "accuracy": 85,
+  "basePower": 120,
+  "category": "Physical",
+  "type": "Ground",
+  "pp": 10,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect. Hits adjacent foes."
+}

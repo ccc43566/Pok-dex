@@ -1,0 +1,13 @@
+{
+  "id": 354,
+  "name": "Psycho Boost",
+  "num": 354,
+  "accuracy": 90,
+  "basePower": 140,
+  "category": "Special",
+  "type": "Psychic",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Lowers the user"
+}

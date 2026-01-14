@@ -1,0 +1,13 @@
+{
+  "id": 13,
+  "name": "Razor Wind",
+  "num": 13,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a higher chance for a critical hit. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb, the move completes in one turn.",
+  "shortDesc": "Charges, then hits foe(s) turn 2. High crit ratio."
+}

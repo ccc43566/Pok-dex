@@ -1,0 +1,13 @@
+{
+  "id": 867,
+  "name": "Doodle",
+  "num": 867,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The user and its ally",
+  "shortDesc": "User and ally"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 524,
+  "name": "Frost Breath",
+  "num": 524,
+  "accuracy": 90,
+  "basePower": 60,
+  "category": "Special",
+  "type": "Ice",
+  "pp": 10,
+  "priority": 0,
+  "desc": "This move is always a critical hit unless the target is under the effect of Lucky Chant or has the Battle Armor or Shell Armor Abilities.",
+  "shortDesc": "Always results in a critical hit."
+}

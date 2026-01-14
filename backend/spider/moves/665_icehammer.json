@@ -1,0 +1,13 @@
+{
+  "id": 665,
+  "name": "Ice Hammer",
+  "num": 665,
+  "accuracy": 90,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Ice",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Lowers the user"
+}

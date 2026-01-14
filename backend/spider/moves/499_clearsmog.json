@@ -1,0 +1,13 @@
+{
+  "id": 499,
+  "name": "Clear Smog",
+  "num": 499,
+  "accuracy": true,
+  "basePower": 50,
+  "category": "Special",
+  "type": "Poison",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Resets all of the target",
+  "shortDesc": "Resets all of the target"
+}

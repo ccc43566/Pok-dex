@@ -1,0 +1,13 @@
+{
+  "id": 738,
+  "name": "Sappy Seed",
+  "num": 738,
+  "accuracy": 90,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Grass",
+  "pp": 10,
+  "priority": 0,
+  "desc": "This move summons Leech Seed on the foe.",
+  "shortDesc": "Summons Leech Seed."
+}

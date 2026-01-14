@@ -1,0 +1,13 @@
+{
+  "id": 362,
+  "name": "Brine",
+  "num": 362,
+  "accuracy": 100,
+  "basePower": 65,
+  "category": "Special",
+  "type": "Water",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Power doubles if the target has less than or equal to half of its maximum HP remaining.",
+  "shortDesc": "Power doubles if the target"
+}

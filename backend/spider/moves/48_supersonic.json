@@ -1,0 +1,13 @@
+{
+  "id": 48,
+  "name": "Supersonic",
+  "num": 48,
+  "accuracy": 55,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Causes the target to become confused.",
+  "shortDesc": "Causes the target to become confused."
+}

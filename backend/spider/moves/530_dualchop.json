@@ -1,0 +1,13 @@
+{
+  "id": 530,
+  "name": "Dual Chop",
+  "num": 530,
+  "accuracy": 90,
+  "basePower": 40,
+  "category": "Physical",
+  "type": "Dragon",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Hits twice. If the first hit breaks the target",
+  "shortDesc": "Hits 2 times in one turn."
+}

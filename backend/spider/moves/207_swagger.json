@@ -1,0 +1,13 @@
+{
+  "id": 207,
+  "name": "Swagger",
+  "num": 207,
+  "accuracy": 85,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Raises the target",
+  "shortDesc": "Raises the target"
+}

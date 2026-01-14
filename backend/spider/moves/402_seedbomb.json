@@ -1,0 +1,13 @@
+{
+  "id": 402,
+  "name": "Seed Bomb",
+  "num": 402,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Grass",
+  "pp": 15,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

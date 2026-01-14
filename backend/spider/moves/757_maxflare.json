@@ -1,0 +1,13 @@
+{
+  "id": 757,
+  "name": "Max Flare",
+  "num": 757,
+  "accuracy": true,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Fire",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Base move affects power. Starts Sunny Day."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 800,
+  "name": "Meteor Beam",
+  "num": 800,
+  "accuracy": 90,
+  "basePower": 120,
+  "category": "Special",
+  "type": "Rock",
+  "pp": 10,
+  "priority": 0,
+  "desc": "This attack charges on the first turn and executes on the second. Raises the user",
+  "shortDesc": "Raises user"
+}

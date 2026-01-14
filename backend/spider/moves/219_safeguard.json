@@ -1,0 +1,13 @@
+{
+  "id": 219,
+  "name": "Safeguard",
+  "num": 219,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 25,
+  "priority": 0,
+  "desc": "For 5 turns, the user and its party members cannot have non-volatile status conditions or confusion inflicted on them by other Pokemon. Pokemon on the user",
+  "shortDesc": "For 5 turns, protects user"
+}

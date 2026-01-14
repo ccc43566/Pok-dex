@@ -1,0 +1,13 @@
+{
+  "id": 527,
+  "name": "Electroweb",
+  "num": 527,
+  "accuracy": 95,
+  "basePower": 55,
+  "category": "Special",
+  "type": "Electric",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 100% chance to lower the target",
+  "shortDesc": "100% chance to lower the foe(s) Speed by 1."
+}

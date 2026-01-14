@@ -1,0 +1,13 @@
+{
+  "id": 270,
+  "name": "Helping Hand",
+  "num": 270,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 5,
+  "desc": "The power of the target",
+  "shortDesc": "One adjacent ally"
+}

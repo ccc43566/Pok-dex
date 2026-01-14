@@ -1,0 +1,13 @@
+{
+  "id": 433,
+  "name": "Trick Room",
+  "num": 433,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 5,
+  "priority": -7,
+  "desc": "For 5 turns, the Speed of every Pokemon is recalculated for the purposes of determining turn order. During the effect, each Pokemon",
+  "shortDesc": "Goes last. For 5 turns, turn order is reversed."
+}

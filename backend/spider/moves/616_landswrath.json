@@ -1,0 +1,13 @@
+{
+  "id": 616,
+  "name": "Land",
+  "num": 616,
+  "accuracy": 100,
+  "basePower": 90,
+  "category": "Physical",
+  "type": "Ground",
+  "pp": 10,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect. Hits adjacent foes."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 89,
+  "name": "Earthquake",
+  "num": 89,
+  "accuracy": 100,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Ground",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Damage doubles if the target is using Dig.",
+  "shortDesc": "Hits adjacent Pokemon. Double damage on Dig."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 835,
+  "name": "Chloroblast",
+  "num": 835,
+  "accuracy": 95,
+  "basePower": 150,
+  "category": "Special",
+  "type": "Grass",
+  "pp": 5,
+  "priority": 0,
+  "desc": "If this move is successful, the user loses 1/2 of its maximum HP, rounded up, unless the user has the Magic Guard or Rock Head Abilities.",
+  "shortDesc": "User loses 50% max HP."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 875,
+  "name": "Psyblade",
+  "num": 875,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Psychic",
+  "pp": 15,
+  "priority": 0,
+  "desc": "If the current terrain is Electric Terrain, this move",
+  "shortDesc": "During Electric Terrain: 1.5x power."
+}

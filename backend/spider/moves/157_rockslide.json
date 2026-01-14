@@ -1,0 +1,13 @@
+{
+  "id": 157,
+  "name": "Rock Slide",
+  "num": 157,
+  "accuracy": 90,
+  "basePower": 75,
+  "category": "Physical",
+  "type": "Rock",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 30% chance to make the target flinch.",
+  "shortDesc": "30% chance to make the foe(s) flinch."
+}

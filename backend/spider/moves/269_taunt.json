@@ -1,0 +1,13 @@
+{
+  "id": 269,
+  "name": "Taunt",
+  "num": 269,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Dark",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Prevents the target from using non-damaging moves for its next three turns. Pokemon with the Oblivious Ability or protected by the Aroma Veil Ability are immune.",
+  "shortDesc": "Target can"
+}

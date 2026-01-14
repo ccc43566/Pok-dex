@@ -1,0 +1,13 @@
+{
+  "id": 737,
+  "name": "Baddy Bad",
+  "num": 737,
+  "accuracy": 95,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Dark",
+  "pp": 15,
+  "priority": 0,
+  "desc": "This move summons Reflect for 5 turns upon use.",
+  "shortDesc": "Summons Reflect."
+}

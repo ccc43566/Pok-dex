@@ -1,0 +1,13 @@
+{
+  "id": 252,
+  "name": "Fake Out",
+  "num": 252,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 3,
+  "desc": "Has a 100% chance to make the target flinch. Fails unless it is the user",
+  "shortDesc": "Hits first. First turn out only. 100% flinch chance."
+}

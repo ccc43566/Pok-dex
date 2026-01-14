@@ -1,0 +1,13 @@
+{
+  "id": 6,
+  "name": "Pay Day",
+  "num": 6,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "Scatters coins."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 422,
+  "name": "Thunder Fang",
+  "num": 422,
+  "accuracy": 95,
+  "basePower": 65,
+  "category": "Physical",
+  "type": "Electric",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 10% chance to paralyze the target and a 10% chance to make it flinch.",
+  "shortDesc": "10% chance to paralyze. 10% chance to flinch."
+}

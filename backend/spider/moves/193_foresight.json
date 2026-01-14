@@ -1,0 +1,13 @@
+{
+  "id": 193,
+  "name": "Foresight",
+  "num": 193,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 40,
+  "priority": 0,
+  "desc": "As long as the target remains active, its evasiveness stat stage is ignored during accuracy checks against it if it is greater than 0, and Normal- and Fighting-type attacks can hit the target if it is a Ghost type. Fails if the target is already affected, or affected by Miracle Eye or Odor Sleuth.",
+  "shortDesc": "Fighting, Normal hit Ghost. Evasiveness ignored."
+}

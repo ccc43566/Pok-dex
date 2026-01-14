@@ -1,0 +1,13 @@
+{
+  "id": 401,
+  "name": "Aqua Tail",
+  "num": 401,
+  "accuracy": 90,
+  "basePower": 90,
+  "category": "Physical",
+  "type": "Water",
+  "pp": 10,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

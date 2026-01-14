@@ -1,0 +1,13 @@
+{
+  "id": 334,
+  "name": "Iron Defense",
+  "num": 334,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Steel",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises the user"
+}

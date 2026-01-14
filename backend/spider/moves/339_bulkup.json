@@ -1,0 +1,13 @@
+{
+  "id": 339,
+  "name": "Bulk Up",
+  "num": 339,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fighting",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises the user"
+}

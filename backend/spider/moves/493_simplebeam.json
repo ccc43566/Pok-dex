@@ -1,0 +1,13 @@
+{
+  "id": 493,
+  "name": "Simple Beam",
+  "num": 493,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Causes the target",
+  "shortDesc": "The target"
+}

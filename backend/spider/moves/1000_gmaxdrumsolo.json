@@ -1,0 +1,13 @@
+{
+  "id": 1000,
+  "name": "G-Max Drum Solo",
+  "num": 1000,
+  "accuracy": true,
+  "basePower": 160,
+  "category": "Physical",
+  "type": "Grass",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Power is 160 regardless of the base move",
+  "shortDesc": "Always 160 power. Ignores Abilities."
+}

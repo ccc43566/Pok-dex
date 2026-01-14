@@ -1,0 +1,13 @@
+{
+  "id": 709,
+  "name": "Accelerock",
+  "num": 709,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Physical",
+  "type": "Rock",
+  "pp": 20,
+  "priority": 1,
+  "desc": "No additional effect.",
+  "shortDesc": "Usually goes first."
+}

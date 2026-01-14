@@ -1,0 +1,13 @@
+{
+  "id": 314,
+  "name": "Air Cutter",
+  "num": 314,
+  "accuracy": 95,
+  "basePower": 60,
+  "category": "Special",
+  "type": "Flying",
+  "pp": 25,
+  "priority": 0,
+  "desc": "Has a higher chance for a critical hit.",
+  "shortDesc": "High critical hit ratio. Hits adjacent foes."
+}

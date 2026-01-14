@@ -1,0 +1,13 @@
+{
+  "id": 694,
+  "name": "Aurora Veil",
+  "num": 694,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Ice",
+  "pp": 20,
+  "priority": 0,
+  "desc": "For 5 turns, the user and its party members take 0.5x damage from physical and special attacks, or 0.66x damage if in a Double Battle; does not reduce damage further with Reflect or Light Screen. Critical hits ignore this protection. It is removed from the user",
+  "shortDesc": "For 5 turns, damage to allies halved. Snow only."
+}

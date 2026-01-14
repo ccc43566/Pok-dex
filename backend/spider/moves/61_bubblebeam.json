@@ -1,0 +1,13 @@
+{
+  "id": 61,
+  "name": "Bubble Beam",
+  "num": 61,
+  "accuracy": 100,
+  "basePower": 65,
+  "category": "Special",
+  "type": "Water",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Has a 10% chance to lower the target",
+  "shortDesc": "10% chance to lower the target"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 174,
+  "name": "Curse",
+  "num": 174,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Ghost",
+  "pp": 10,
+  "priority": 0,
+  "desc": "If the user is not a Ghost type, lowers the user",
+  "shortDesc": "Curses if Ghost, else -1 Spe, +1 Atk, +1 Def."
+}

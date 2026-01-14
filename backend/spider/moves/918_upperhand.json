@@ -1,0 +1,13 @@
+{
+  "id": 918,
+  "name": "Upper Hand",
+  "num": 918,
+  "accuracy": 100,
+  "basePower": 65,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 15,
+  "priority": 3,
+  "desc": "Has a 100% chance to make the target flinch. Fails if the target did not select a priority move for use this turn, or if the target moves before the user.",
+  "shortDesc": "100% flinch. Fails unless target using priority."
+}

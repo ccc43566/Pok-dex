@@ -1,0 +1,13 @@
+{
+  "id": 713,
+  "name": "Sunsteel Strike",
+  "num": 713,
+  "accuracy": 100,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Steel",
+  "pp": 5,
+  "priority": 0,
+  "desc": "This move and its effects ignore the Abilities of other Pokemon.",
+  "shortDesc": "Ignores the Abilities of other Pokemon."
+}

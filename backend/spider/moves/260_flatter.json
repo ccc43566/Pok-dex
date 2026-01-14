@@ -1,0 +1,13 @@
+{
+  "id": 260,
+  "name": "Flatter",
+  "num": 260,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Dark",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Raises the target",
+  "shortDesc": "Raises the target"
+}

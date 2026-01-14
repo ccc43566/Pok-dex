@@ -1,0 +1,13 @@
+{
+  "id": 399,
+  "name": "Dark Pulse",
+  "num": 399,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Dark",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 20% chance to make the target flinch.",
+  "shortDesc": "20% chance to make the target flinch."
+}

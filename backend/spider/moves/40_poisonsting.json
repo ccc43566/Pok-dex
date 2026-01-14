@@ -1,0 +1,13 @@
+{
+  "id": 40,
+  "name": "Poison Sting",
+  "num": 40,
+  "accuracy": 100,
+  "basePower": 15,
+  "category": "Physical",
+  "type": "Poison",
+  "pp": 35,
+  "priority": 0,
+  "desc": "Has a 30% chance to poison the target.",
+  "shortDesc": "30% chance to poison the target."
+}

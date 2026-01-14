@@ -1,0 +1,13 @@
+{
+  "id": 885,
+  "name": "Trailblaze",
+  "num": 885,
+  "accuracy": 100,
+  "basePower": 50,
+  "category": "Physical",
+  "type": "Grass",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Has a 100% chance to raise the user",
+  "shortDesc": "100% chance to raise the user"
+}

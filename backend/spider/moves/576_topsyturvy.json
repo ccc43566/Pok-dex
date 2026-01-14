@@ -1,0 +1,13 @@
+{
+  "id": 576,
+  "name": "Topsy-Turvy",
+  "num": 576,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Dark",
+  "pp": 20,
+  "priority": 0,
+  "desc": "The target",
+  "shortDesc": "Inverts the target"
+}

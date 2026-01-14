@@ -1,0 +1,13 @@
+{
+  "id": 90,
+  "name": "Fissure",
+  "num": 90,
+  "accuracy": 30,
+  "basePower": 0,
+  "category": "Physical",
+  "type": "Ground",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Deals damage to the target equal to the target",
+  "shortDesc": "OHKOs the target. Fails if user is a lower level."
+}

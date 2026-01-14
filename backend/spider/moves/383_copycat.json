@@ -1,0 +1,13 @@
+{
+  "id": 383,
+  "name": "Copycat",
+  "num": 383,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "The user uses the last move used by any Pokemon, including itself. Fails if no move has been used, or if the last move used was Assist, Baneful Bunker, Beak Blast, Behemoth Bash, Behemoth Blade, Belch, Bestow, Blazing Torque, Celebrate, Chatter, Circle Throw, Combat Torque, Copycat, Counter, Covet, Destiny Bond, Detect, Dragon Tail, Dynamax Cannon, Endure, Feint, Focus Punch, Follow Me, Helping Hand, Hold Hands, King",
+  "shortDesc": "Uses the last move used in the battle."
+}

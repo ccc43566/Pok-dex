@@ -1,0 +1,13 @@
+{
+  "id": 63,
+  "name": "Hyper Beam",
+  "num": 63,
+  "accuracy": 90,
+  "basePower": 150,
+  "category": "Special",
+  "type": "Normal",
+  "pp": 5,
+  "priority": 0,
+  "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+  "shortDesc": "User cannot move next turn."
+}

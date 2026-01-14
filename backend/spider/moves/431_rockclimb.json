@@ -1,0 +1,13 @@
+{
+  "id": 431,
+  "name": "Rock Climb",
+  "num": 431,
+  "accuracy": 85,
+  "basePower": 90,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Has a 20% chance to confuse the target.",
+  "shortDesc": "20% chance to confuse the target."
+}

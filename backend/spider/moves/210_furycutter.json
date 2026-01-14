@@ -1,0 +1,13 @@
+{
+  "id": 210,
+  "name": "Fury Cutter",
+  "num": 210,
+  "accuracy": 95,
+  "basePower": 40,
+  "category": "Physical",
+  "type": "Bug",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Power doubles with each successful hit, up to a maximum of 160 power. The power is reset if this move misses or another move is used.",
+  "shortDesc": "Power doubles with each hit, up to 160."
+}

@@ -1,0 +1,9 @@
+{
+  "id": 933,
+  "name": "naclstack",
+  "evolution_chain": [
+    "nacli",
+    "naclstack",
+    "Garganacl"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 297,
+  "name": "Feather Dance",
+  "num": 297,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Flying",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the target"
+}

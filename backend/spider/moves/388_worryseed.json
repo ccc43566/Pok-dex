@@ -1,0 +1,13 @@
+{
+  "id": 388,
+  "name": "Worry Seed",
+  "num": 388,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Grass",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Causes the target",
+  "shortDesc": "The target"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 781,
+  "name": "Behemoth Blade",
+  "num": 781,
+  "accuracy": 100,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Steel",
+  "pp": 5,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

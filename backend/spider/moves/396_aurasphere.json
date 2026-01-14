@@ -1,0 +1,13 @@
+{
+  "id": 396,
+  "name": "Aura Sphere",
+  "num": 396,
+  "accuracy": true,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Fighting",
+  "pp": 20,
+  "priority": 0,
+  "desc": "This move does not check accuracy.",
+  "shortDesc": "This move does not check accuracy."
+}

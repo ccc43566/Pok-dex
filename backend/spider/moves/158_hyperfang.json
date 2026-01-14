@@ -1,0 +1,13 @@
+{
+  "id": 158,
+  "name": "Hyper Fang",
+  "num": 158,
+  "accuracy": 90,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 10% chance to make the target flinch.",
+  "shortDesc": "10% chance to make the target flinch."
+}

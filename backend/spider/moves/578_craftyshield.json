@@ -1,0 +1,13 @@
+{
+  "id": 578,
+  "name": "Crafty Shield",
+  "num": 578,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fairy",
+  "pp": 10,
+  "priority": 3,
+  "desc": "The user and its party members are protected from non-damaging attacks made by other Pokemon, including allies, during this turn. Fails if the user moves last this turn or if this move is already in effect for the user",
+  "shortDesc": "Protects allies from Status moves this turn."
+}

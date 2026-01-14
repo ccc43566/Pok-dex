@@ -1,0 +1,13 @@
+{
+  "id": 56,
+  "name": "Hydro Pump",
+  "num": 56,
+  "accuracy": 80,
+  "basePower": 110,
+  "category": "Special",
+  "type": "Water",
+  "pp": 5,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 313,
+  "name": "Fake Tears",
+  "num": 313,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Dark",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the target"
+}

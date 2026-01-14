@@ -1,0 +1,13 @@
+{
+  "id": 636,
+  "name": "Never-Ending Nightmare",
+  "num": 636,
+  "accuracy": true,
+  "basePower": 1,
+  "category": "Physical",
+  "type": "Ghost",
+  "pp": 1,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Power is equal to the base move"
+}

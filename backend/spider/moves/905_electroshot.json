@@ -1,0 +1,13 @@
+{
+  "id": 905,
+  "name": "Electro Shot",
+  "num": 905,
+  "accuracy": 100,
+  "basePower": 130,
+  "category": "Special",
+  "type": "Electric",
+  "pp": 10,
+  "priority": 0,
+  "desc": "This attack charges on the first turn and executes on the second. Raises the user",
+  "shortDesc": "Raises Sp. Atk by 1, hits turn 2. Rain: no charge."
+}

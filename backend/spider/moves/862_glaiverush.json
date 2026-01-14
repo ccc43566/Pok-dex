@@ -1,0 +1,13 @@
+{
+  "id": 862,
+  "name": "Glaive Rush",
+  "num": 862,
+  "accuracy": 100,
+  "basePower": 120,
+  "category": "Physical",
+  "type": "Dragon",
+  "pp": 5,
+  "priority": 0,
+  "desc": "If this move is successful, moves targeted at the user deal double damage and do not check accuracy until the user",
+  "shortDesc": "User takes sure-hit 2x damage until its next turn."
+}

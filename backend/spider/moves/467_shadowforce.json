@@ -1,0 +1,13 @@
+{
+  "id": 467,
+  "name": "Shadow Force",
+  "num": 467,
+  "accuracy": 100,
+  "basePower": 120,
+  "category": "Physical",
+  "type": "Ghost",
+  "pp": 5,
+  "priority": 0,
+  "desc": "If this move is successful, it breaks through the target",
+  "shortDesc": "Disappears turn 1. Hits turn 2. Breaks protection."
+}

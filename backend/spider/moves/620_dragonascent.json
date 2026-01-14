@@ -1,0 +1,13 @@
+{
+  "id": 620,
+  "name": "Dragon Ascent",
+  "num": 620,
+  "accuracy": 100,
+  "basePower": 120,
+  "category": "Physical",
+  "type": "Flying",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Lowers the user"
+}

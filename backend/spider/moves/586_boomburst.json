@@ -1,0 +1,13 @@
+{
+  "id": 586,
+  "name": "Boomburst",
+  "num": 586,
+  "accuracy": 100,
+  "basePower": 140,
+  "category": "Special",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect. Hits adjacent Pokemon."
+}

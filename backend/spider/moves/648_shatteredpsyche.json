@@ -1,0 +1,13 @@
+{
+  "id": 648,
+  "name": "Shattered Psyche",
+  "num": 648,
+  "accuracy": true,
+  "basePower": 1,
+  "category": "Physical",
+  "type": "Psychic",
+  "pp": 1,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Power is equal to the base move"
+}

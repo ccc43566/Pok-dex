@@ -1,0 +1,13 @@
+{
+  "id": 515,
+  "name": "Final Gambit",
+  "num": 515,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Special",
+  "type": "Fighting",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Deals damage to the target equal to the user",
+  "shortDesc": "Does damage equal to the user"
+}

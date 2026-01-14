@@ -1,0 +1,8 @@
+{
+  "id": 101,
+  "name": "electrode",
+  "evolution_chain": [
+    "voltorb",
+    "electrode"
+  ]
+}

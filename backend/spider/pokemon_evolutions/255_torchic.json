@@ -1,0 +1,9 @@
+{
+  "id": 255,
+  "name": "torchic",
+  "evolution_chain": [
+    "torchic",
+    "Combusken",
+    "Blaziken"
+  ]
+}

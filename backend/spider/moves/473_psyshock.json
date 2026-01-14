@@ -1,0 +1,13 @@
+{
+  "id": 473,
+  "name": "Psyshock",
+  "num": 473,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Deals damage to the target based on its Defense instead of Special Defense.",
+  "shortDesc": "Damages target based on Defense, not Sp. Def."
+}

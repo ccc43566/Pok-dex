@@ -1,0 +1,13 @@
+{
+  "id": 716,
+  "name": "Zing Zap",
+  "num": 716,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Electric",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 30% chance to make the target flinch.",
+  "shortDesc": "30% chance to make the target flinch."
+}

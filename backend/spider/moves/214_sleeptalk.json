@@ -1,0 +1,13 @@
+{
+  "id": 214,
+  "name": "Sleep Talk",
+  "num": 214,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "One of the user",
+  "shortDesc": "User must be asleep. Uses another known move."
+}

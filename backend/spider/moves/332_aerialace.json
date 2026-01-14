@@ -1,0 +1,13 @@
+{
+  "id": 332,
+  "name": "Aerial Ace",
+  "num": 332,
+  "accuracy": true,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Flying",
+  "pp": 20,
+  "priority": 0,
+  "desc": "This move does not check accuracy.",
+  "shortDesc": "This move does not check accuracy."
+}

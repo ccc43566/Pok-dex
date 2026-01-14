@@ -1,0 +1,9 @@
+{
+  "id": 6,
+  "name": "charizard",
+  "evolution_chain": [
+    "charmander",
+    "charmeleon",
+    "charizard"
+  ]
+}

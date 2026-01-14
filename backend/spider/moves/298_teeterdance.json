@@ -1,0 +1,13 @@
+{
+  "id": 298,
+  "name": "Teeter Dance",
+  "num": 298,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Causes the target to become confused.",
+  "shortDesc": "Confuses adjacent Pokemon."
+}

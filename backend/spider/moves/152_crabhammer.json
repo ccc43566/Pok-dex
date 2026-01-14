@@ -1,0 +1,13 @@
+{
+  "id": 152,
+  "name": "Crabhammer",
+  "num": 152,
+  "accuracy": 90,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Water",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a higher chance for a critical hit.",
+  "shortDesc": "High critical hit ratio."
+}

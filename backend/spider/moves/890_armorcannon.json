@@ -1,0 +1,13 @@
+{
+  "id": 890,
+  "name": "Armor Cannon",
+  "num": 890,
+  "accuracy": 100,
+  "basePower": 120,
+  "category": "Special",
+  "type": "Fire",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Lowers the user"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 125,
+  "name": "Bone Club",
+  "num": 125,
+  "accuracy": 85,
+  "basePower": 65,
+  "category": "Physical",
+  "type": "Ground",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Has a 10% chance to make the target flinch.",
+  "shortDesc": "10% chance to make the target flinch."
+}

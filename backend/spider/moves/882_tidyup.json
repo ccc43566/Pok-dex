@@ -1,0 +1,13 @@
+{
+  "id": 882,
+  "name": "Tidy Up",
+  "num": 882,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "User +1 Atk, Spe. Clears all substitutes/hazards."
+}

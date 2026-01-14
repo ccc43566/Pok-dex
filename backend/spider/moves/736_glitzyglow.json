@@ -1,0 +1,13 @@
+{
+  "id": 736,
+  "name": "Glitzy Glow",
+  "num": 736,
+  "accuracy": 95,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Psychic",
+  "pp": 15,
+  "priority": 0,
+  "desc": "This move summons Light Screen for 5 turns upon use.",
+  "shortDesc": "Summons Light Screen."
+}

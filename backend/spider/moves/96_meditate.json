@@ -1,0 +1,13 @@
+{
+  "id": 96,
+  "name": "Meditate",
+  "num": 96,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 40,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises the user"
+}

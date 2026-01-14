@@ -1,0 +1,13 @@
+{
+  "id": 59,
+  "name": "Blizzard",
+  "num": 59,
+  "accuracy": 70,
+  "basePower": 110,
+  "category": "Special",
+  "type": "Ice",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 10% chance to freeze the target. If the weather is Snow, this move does not check accuracy.",
+  "shortDesc": "10% chance to freeze foe(s). Can"
+}

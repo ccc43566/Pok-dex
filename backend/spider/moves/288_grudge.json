@@ -1,0 +1,13 @@
+{
+  "id": 288,
+  "name": "Grudge",
+  "num": 288,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Ghost",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Until the user",
+  "shortDesc": "If the user faints, the attack used loses all its PP."
+}

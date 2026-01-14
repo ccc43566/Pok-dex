@@ -1,0 +1,13 @@
+{
+  "id": 88,
+  "name": "Rock Throw",
+  "num": 88,
+  "accuracy": 90,
+  "basePower": 50,
+  "category": "Physical",
+  "type": "Rock",
+  "pp": 15,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

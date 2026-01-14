@@ -1,0 +1,13 @@
+{
+  "id": 299,
+  "name": "Blaze Kick",
+  "num": 299,
+  "accuracy": 90,
+  "basePower": 85,
+  "category": "Physical",
+  "type": "Fire",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 10% chance to burn the target and a higher chance for a critical hit.",
+  "shortDesc": "High critical hit ratio. 10% chance to burn."
+}

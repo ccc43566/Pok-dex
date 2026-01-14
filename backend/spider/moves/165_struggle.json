@@ -1,0 +1,13 @@
+{
+  "id": 165,
+  "name": "Struggle",
+  "num": 165,
+  "accuracy": true,
+  "basePower": 50,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 1,
+  "priority": 0,
+  "desc": "Deals typeless damage to a random opposing Pokemon. If this move was successful, the user loses 1/4 of its maximum HP, rounded half up, and the Rock Head Ability does not prevent this. This move is automatically used if none of the user",
+  "shortDesc": "User loses 1/4 of its max HP."
+}

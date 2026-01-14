@@ -1,0 +1,13 @@
+{
+  "id": 769,
+  "name": "Max Mindstorm",
+  "num": 769,
+  "accuracy": true,
+  "basePower": 10,
+  "category": "Physical",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Base move affects power. Starts Psychic Terrain."
+}

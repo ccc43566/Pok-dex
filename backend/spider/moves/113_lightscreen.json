@@ -1,0 +1,13 @@
+{
+  "id": 113,
+  "name": "Light Screen",
+  "num": 113,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 30,
+  "priority": 0,
+  "desc": "For 5 turns, the user and its party members take 0.5x damage from special attacks, or 0.66x damage if in a Double Battle. Damage is not reduced further with Aurora Veil. Critical hits ignore this effect. It is removed from the user",
+  "shortDesc": "For 5 turns, special damage to allies is halved."
+}

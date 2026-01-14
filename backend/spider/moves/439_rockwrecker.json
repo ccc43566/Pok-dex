@@ -1,0 +1,13 @@
+{
+  "id": 439,
+  "name": "Rock Wrecker",
+  "num": 439,
+  "accuracy": 90,
+  "basePower": 150,
+  "category": "Physical",
+  "type": "Rock",
+  "pp": 5,
+  "priority": 0,
+  "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+  "shortDesc": "User cannot move next turn."
+}

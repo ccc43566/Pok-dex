@@ -1,0 +1,13 @@
+{
+  "id": 575,
+  "name": "Parting Shot",
+  "num": 575,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Dark",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers target"
+}

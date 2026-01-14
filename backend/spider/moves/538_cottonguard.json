@@ -1,0 +1,13 @@
+{
+  "id": 538,
+  "name": "Cotton Guard",
+  "num": 538,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Grass",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises the user"
+}

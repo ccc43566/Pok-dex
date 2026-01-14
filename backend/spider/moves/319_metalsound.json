@@ -1,0 +1,13 @@
+{
+  "id": 319,
+  "name": "Metal Sound",
+  "num": 319,
+  "accuracy": 85,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Steel",
+  "pp": 40,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the target"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 458,
+  "name": "Double Hit",
+  "num": 458,
+  "accuracy": 90,
+  "basePower": 35,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Hits twice. If the first hit breaks the target",
+  "shortDesc": "Hits 2 times in one turn."
+}

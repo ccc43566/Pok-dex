@@ -1,0 +1,13 @@
+{
+  "id": 754,
+  "name": "Bolt Beak",
+  "num": 754,
+  "accuracy": 100,
+  "basePower": 85,
+  "category": "Physical",
+  "type": "Electric",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Power doubles if the user moves before the target.",
+  "shortDesc": "Power doubles if user moves before the target."
+}

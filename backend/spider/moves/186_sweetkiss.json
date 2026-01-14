@@ -1,0 +1,13 @@
+{
+  "id": 186,
+  "name": "Sweet Kiss",
+  "num": 186,
+  "accuracy": 75,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fairy",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Causes the target to become confused.",
+  "shortDesc": "Causes the target to become confused."
+}

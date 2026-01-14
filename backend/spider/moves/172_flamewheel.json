@@ -1,0 +1,13 @@
+{
+  "id": 172,
+  "name": "Flame Wheel",
+  "num": 172,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Fire",
+  "pp": 25,
+  "priority": 0,
+  "desc": "Has a 10% chance to burn the target.",
+  "shortDesc": "10% chance to burn the target. Thaws user."
+}

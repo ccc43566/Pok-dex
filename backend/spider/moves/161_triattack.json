@@ -1,0 +1,13 @@
+{
+  "id": 161,
+  "name": "Tri Attack",
+  "num": 161,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 20% chance to either burn, freeze, or paralyze the target.",
+  "shortDesc": "20% chance to paralyze or burn or freeze target."
+}

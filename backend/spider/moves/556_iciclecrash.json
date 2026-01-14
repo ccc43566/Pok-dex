@@ -1,0 +1,13 @@
+{
+  "id": 556,
+  "name": "Icicle Crash",
+  "num": 556,
+  "accuracy": 90,
+  "basePower": 85,
+  "category": "Physical",
+  "type": "Ice",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 30% chance to make the target flinch.",
+  "shortDesc": "30% chance to make the target flinch."
+}

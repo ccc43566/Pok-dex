@@ -1,0 +1,13 @@
+{
+  "id": 813,
+  "name": "Triple Axel",
+  "num": 813,
+  "accuracy": 90,
+  "basePower": 20,
+  "category": "Physical",
+  "type": "Ice",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Hits three times. Power increases to 40 for the second hit and 60 for the third. This move checks accuracy for each hit, and the attack ends if the target avoids a hit. If one of the hits breaks the target",
+  "shortDesc": "Hits 3 times. Each hit can miss, but power rises."
+}

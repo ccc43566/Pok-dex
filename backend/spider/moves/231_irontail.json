@@ -1,0 +1,13 @@
+{
+  "id": 231,
+  "name": "Iron Tail",
+  "num": 231,
+  "accuracy": 75,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Steel",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 30% chance to lower the target",
+  "shortDesc": "30% chance to lower the target"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 259,
+  "name": "Torment",
+  "num": 259,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Dark",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Prevents the target from selecting the same move for use two turns in a row. This effect ends when the target is no longer active.",
+  "shortDesc": "Target can"
+}

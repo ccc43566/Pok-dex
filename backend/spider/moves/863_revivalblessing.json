@@ -1,0 +1,13 @@
+{
+  "id": 863,
+  "name": "Revival Blessing",
+  "num": 863,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 1,
+  "priority": 0,
+  "desc": "A fainted party member is selected and revived with 1/2 its max HP, rounded down. Fails if there are no fainted party members.",
+  "shortDesc": "Revives a fainted Pokemon to 50% HP."
+}

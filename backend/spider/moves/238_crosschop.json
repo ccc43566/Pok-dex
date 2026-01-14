@@ -1,0 +1,13 @@
+{
+  "id": 238,
+  "name": "Cross Chop",
+  "num": 238,
+  "accuracy": 80,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a higher chance for a critical hit.",
+  "shortDesc": "High critical hit ratio."
+}

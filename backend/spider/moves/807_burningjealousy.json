@@ -1,0 +1,13 @@
+{
+  "id": 807,
+  "name": "Burning Jealousy",
+  "num": 807,
+  "accuracy": 100,
+  "basePower": 70,
+  "category": "Special",
+  "type": "Fire",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 100% chance to burn the target if it had a stat stage raised this turn.",
+  "shortDesc": "100% burns a target that had a stat rise this turn."
+}

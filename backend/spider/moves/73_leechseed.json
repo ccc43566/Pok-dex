@@ -1,0 +1,13 @@
+{
+  "id": 73,
+  "name": "Leech Seed",
+  "num": 73,
+  "accuracy": 90,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Grass",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The Pokemon at the user",
+  "shortDesc": "1/8 of target"
+}

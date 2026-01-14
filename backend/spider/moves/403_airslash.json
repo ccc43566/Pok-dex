@@ -1,0 +1,13 @@
+{
+  "id": 403,
+  "name": "Air Slash",
+  "num": 403,
+  "accuracy": 95,
+  "basePower": 75,
+  "category": "Special",
+  "type": "Flying",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 30% chance to make the target flinch.",
+  "shortDesc": "30% chance to make the target flinch."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 864,
+  "name": "Salt Cure",
+  "num": 864,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Physical",
+  "type": "Rock",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Causes damage to the target equal to 1/8 of its maximum HP (1/4 if the target is Steel or Water type), rounded down, at the end of each turn during effect. This effect ends when the target is no longer active.",
+  "shortDesc": "Deals 1/8 max HP each turn; 1/4 on Steel, Water."
+}

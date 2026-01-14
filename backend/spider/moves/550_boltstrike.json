@@ -1,0 +1,13 @@
+{
+  "id": 550,
+  "name": "Bolt Strike",
+  "num": 550,
+  "accuracy": 85,
+  "basePower": 130,
+  "category": "Physical",
+  "type": "Electric",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 20% chance to paralyze the target.",
+  "shortDesc": "20% chance to paralyze the target."
+}

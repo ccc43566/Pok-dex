@@ -1,0 +1,13 @@
+{
+  "id": 187,
+  "name": "Belly Drum",
+  "num": 187,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "User loses 50% max HP. Maximizes Attack."
+}

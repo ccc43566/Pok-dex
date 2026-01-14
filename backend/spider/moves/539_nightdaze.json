@@ -1,0 +1,13 @@
+{
+  "id": 539,
+  "name": "Night Daze",
+  "num": 539,
+  "accuracy": 95,
+  "basePower": 85,
+  "category": "Special",
+  "type": "Dark",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 40% chance to lower the target",
+  "shortDesc": "40% chance to lower the target"
+}

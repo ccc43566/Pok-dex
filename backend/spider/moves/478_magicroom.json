@@ -1,0 +1,13 @@
+{
+  "id": 478,
+  "name": "Magic Room",
+  "num": 478,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "For 5 turns, the held items of all active Pokemon have no effect. An item",
+  "shortDesc": "For 5 turns, all held items have no effect."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 177,
+  "name": "Aeroblast",
+  "num": 177,
+  "accuracy": 95,
+  "basePower": 100,
+  "category": "Special",
+  "type": "Flying",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a higher chance for a critical hit.",
+  "shortDesc": "High critical hit ratio."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 712,
+  "name": "Spectral Thief",
+  "num": 712,
+  "accuracy": 100,
+  "basePower": 90,
+  "category": "Physical",
+  "type": "Ghost",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The target",
+  "shortDesc": "Steals target"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 607,
+  "name": "Hold Hands",
+  "num": 607,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 40,
+  "priority": 0,
+  "desc": "No competitive use. Fails if there is no ally adjacent to the user.",
+  "shortDesc": "No competitive use."
+}

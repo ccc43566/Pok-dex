@@ -1,0 +1,13 @@
+{
+  "id": 49,
+  "name": "Sonic Boom",
+  "num": 49,
+  "accuracy": 90,
+  "basePower": 0,
+  "category": "Special",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Deals 20 HP of damage to the target.",
+  "shortDesc": "Always does 20 HP of damage."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 828,
+  "name": "Psyshield Bash",
+  "num": 828,
+  "accuracy": 90,
+  "basePower": 70,
+  "category": "Physical",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 100% chance to raise the user",
+  "shortDesc": "100% chance to raise the user"
+}

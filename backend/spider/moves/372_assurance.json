@@ -1,0 +1,13 @@
+{
+  "id": 372,
+  "name": "Assurance",
+  "num": 372,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Power doubles if the target has already taken damage this turn, other than direct damage from Belly Drum, confusion, Curse, or Pain Split.",
+  "shortDesc": "Power doubles if target was damaged this turn."
+}

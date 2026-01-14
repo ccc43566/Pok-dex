@@ -1,0 +1,13 @@
+{
+  "id": 117,
+  "name": "Bide",
+  "num": 117,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 1,
+  "desc": "The user spends two turns locked into this move and then, on the second turn after using this move, the user attacks the last Pokemon that hit it, inflicting double the damage in HP it lost to attacks during the two turns. If the last Pokemon that hit it is no longer active, the user attacks a random opposing Pokemon instead. If the user is prevented from moving during this move",
+  "shortDesc": "Waits 2 turns; deals double the damage taken."
+}

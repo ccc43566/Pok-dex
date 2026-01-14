@@ -1,0 +1,13 @@
+{
+  "id": 51,
+  "name": "Acid",
+  "num": 51,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Special",
+  "type": "Poison",
+  "pp": 30,
+  "priority": 0,
+  "desc": "Has a 10% chance to lower the target",
+  "shortDesc": "10% chance to lower the foe(s) Sp. Def by 1."
+}

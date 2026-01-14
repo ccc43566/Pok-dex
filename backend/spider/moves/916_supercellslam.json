@@ -1,0 +1,13 @@
+{
+  "id": 916,
+  "name": "Supercell Slam",
+  "num": 916,
+  "accuracy": 95,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Electric",
+  "pp": 15,
+  "priority": 0,
+  "desc": "If this attack is not successful, the user loses half of its maximum HP, rounded down, as crash damage. Pokemon with the Magic Guard Ability are unaffected by crash damage. Damage doubles and no accuracy check is done if the target has used Minimize while active.",
+  "shortDesc": "User is hurt by 50% of its max HP if it misses."
+}

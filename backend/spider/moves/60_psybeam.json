@@ -1,0 +1,13 @@
+{
+  "id": 60,
+  "name": "Psybeam",
+  "num": 60,
+  "accuracy": 100,
+  "basePower": 65,
+  "category": "Special",
+  "type": "Psychic",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Has a 10% chance to confuse the target.",
+  "shortDesc": "10% chance to confuse the target."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 33,
+  "name": "Tackle",
+  "num": 33,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 35,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

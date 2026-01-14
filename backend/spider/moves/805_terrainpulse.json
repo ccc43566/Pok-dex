@@ -1,0 +1,13 @@
+{
+  "id": 805,
+  "name": "Terrain Pulse",
+  "num": 805,
+  "accuracy": 100,
+  "basePower": 50,
+  "category": "Special",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Power doubles if the user is grounded and a terrain is active, and this move",
+  "shortDesc": "User on terrain: power doubles, type varies."
+}

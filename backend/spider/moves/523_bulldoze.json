@@ -1,0 +1,13 @@
+{
+  "id": 523,
+  "name": "Bulldoze",
+  "num": 523,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Ground",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Has a 100% chance to lower the target",
+  "shortDesc": "100% chance lower adjacent Pkmn Speed by 1."
+}

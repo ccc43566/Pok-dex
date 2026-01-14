@@ -1,0 +1,13 @@
+{
+  "id": 597,
+  "name": "Aromatic Mist",
+  "num": 597,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fairy",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Raises the target",
+  "shortDesc": "Raises an ally"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 487,
+  "name": "Soak",
+  "num": 487,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Water",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Causes the target to become a Water type. Fails if the target is an Arceus or a Silvally, if the target is already purely Water type, or if the target is Terastallized.",
+  "shortDesc": "Changes the target"
+}

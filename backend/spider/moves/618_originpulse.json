@@ -1,0 +1,13 @@
+{
+  "id": 618,
+  "name": "Origin Pulse",
+  "num": 618,
+  "accuracy": 85,
+  "basePower": 110,
+  "category": "Special",
+  "type": "Water",
+  "pp": 10,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect. Hits adjacent foes."
+}

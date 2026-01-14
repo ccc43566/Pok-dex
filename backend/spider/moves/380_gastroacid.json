@@ -1,0 +1,13 @@
+{
+  "id": 380,
+  "name": "Gastro Acid",
+  "num": 380,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Poison",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Causes the target",
+  "shortDesc": "Nullifies the target"
+}

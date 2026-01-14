@@ -1,0 +1,13 @@
+{
+  "id": 526,
+  "name": "Work Up",
+  "num": 526,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 30,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises the user"
+}

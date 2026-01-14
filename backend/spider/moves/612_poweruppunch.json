@@ -1,0 +1,13 @@
+{
+  "id": 612,
+  "name": "Power-Up Punch",
+  "num": 612,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Has a 100% chance to raise the user",
+  "shortDesc": "100% chance to raise the user"
+}

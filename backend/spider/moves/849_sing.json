@@ -1,0 +1,13 @@
+{
+  "id": 849,
+  "name": "Lunar Blessing",
+  "num": 849,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Each Pokemon on the user",
+  "shortDesc": "User and allies: healed 1/4 max HP, status cured."
+}

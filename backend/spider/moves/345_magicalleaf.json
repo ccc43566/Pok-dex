@@ -1,0 +1,13 @@
+{
+  "id": 345,
+  "name": "Magical Leaf",
+  "num": 345,
+  "accuracy": true,
+  "basePower": 60,
+  "category": "Special",
+  "type": "Grass",
+  "pp": 20,
+  "priority": 0,
+  "desc": "This move does not check accuracy.",
+  "shortDesc": "This move does not check accuracy."
+}

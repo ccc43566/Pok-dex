@@ -1,0 +1,13 @@
+{
+  "id": 441,
+  "name": "Gunk Shot",
+  "num": 441,
+  "accuracy": 80,
+  "basePower": 120,
+  "category": "Physical",
+  "type": "Poison",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 30% chance to poison the target.",
+  "shortDesc": "30% chance to poison the target."
+}

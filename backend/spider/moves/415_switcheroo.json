@@ -1,0 +1,13 @@
+{
+  "id": 415,
+  "name": "Switcheroo",
+  "num": 415,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Dark",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The user swaps its held item with the target",
+  "shortDesc": "User switches its held item with the target"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 591,
+  "name": "Diamond Storm",
+  "num": 591,
+  "accuracy": 95,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Rock",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 50% chance to raise the user",
+  "shortDesc": "50% chance to raise user"
+}

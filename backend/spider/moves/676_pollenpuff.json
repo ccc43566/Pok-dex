@@ -1,0 +1,13 @@
+{
+  "id": 676,
+  "name": "Pollen Puff",
+  "num": 676,
+  "accuracy": 100,
+  "basePower": 90,
+  "category": "Special",
+  "type": "Bug",
+  "pp": 15,
+  "priority": 0,
+  "desc": "If the target is an ally, this move restores 1/2 of its maximum HP, rounded down, instead of dealing damage.",
+  "shortDesc": "If the target is an ally, heals 50% of its max HP."
+}

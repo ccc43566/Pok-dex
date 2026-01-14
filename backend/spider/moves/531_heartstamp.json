@@ -1,0 +1,13 @@
+{
+  "id": 531,
+  "name": "Heart Stamp",
+  "num": 531,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Psychic",
+  "pp": 25,
+  "priority": 0,
+  "desc": "Has a 30% chance to make the target flinch.",
+  "shortDesc": "30% chance to make the target flinch."
+}

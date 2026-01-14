@@ -1,0 +1,13 @@
+{
+  "id": 408,
+  "name": "Power Gem",
+  "num": 408,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Rock",
+  "pp": 20,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

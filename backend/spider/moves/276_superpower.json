@@ -1,0 +1,13 @@
+{
+  "id": 276,
+  "name": "Superpower",
+  "num": 276,
+  "accuracy": 100,
+  "basePower": 120,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Lowers the user"
+}

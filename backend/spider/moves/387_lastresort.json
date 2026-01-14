@@ -1,0 +1,13 @@
+{
+  "id": 387,
+  "name": "Last Resort",
+  "num": 387,
+  "accuracy": 100,
+  "basePower": 140,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 5,
+  "priority": 0,
+  "desc": "This move fails unless the user knows this move and at least one other move, and has used all the other moves it knows at least once each since it became active or Transformed.",
+  "shortDesc": "Fails unless each known move has been used."
+}

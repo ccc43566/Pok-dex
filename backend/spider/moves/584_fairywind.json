@@ -1,0 +1,13 @@
+{
+  "id": 584,
+  "name": "Fairy Wind",
+  "num": 584,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Special",
+  "type": "Fairy",
+  "pp": 30,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

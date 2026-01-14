@@ -1,0 +1,13 @@
+{
+  "id": 233,
+  "name": "Vital Throw",
+  "num": 233,
+  "accuracy": true,
+  "basePower": 70,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 10,
+  "priority": -1,
+  "desc": "This move does not check accuracy.",
+  "shortDesc": "This move does not check accuracy. Goes last."
+}

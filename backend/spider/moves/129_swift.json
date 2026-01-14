@@ -1,0 +1,13 @@
+{
+  "id": 129,
+  "name": "Swift",
+  "num": 129,
+  "accuracy": true,
+  "basePower": 60,
+  "category": "Special",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "This move does not check accuracy.",
+  "shortDesc": "This move does not check accuracy. Hits foes."
+}

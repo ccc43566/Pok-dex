@@ -1,0 +1,13 @@
+{
+  "id": 283,
+  "name": "Endeavor",
+  "num": 283,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Deals damage to the target equal to (target",
+  "shortDesc": "Lowers the target"
+}

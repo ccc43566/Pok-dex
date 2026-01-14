@@ -1,0 +1,13 @@
+{
+  "id": 27,
+  "name": "Rolling Kick",
+  "num": 27,
+  "accuracy": 85,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 30% chance to make the target flinch.",
+  "shortDesc": "30% chance to make the target flinch."
+}

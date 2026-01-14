@@ -1,0 +1,13 @@
+{
+  "id": 871,
+  "name": "Torch Song",
+  "num": 871,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Fire",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 100% chance to raise the user",
+  "shortDesc": "100% chance to raise the user"
+}

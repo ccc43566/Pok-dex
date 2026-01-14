@@ -1,0 +1,13 @@
+{
+  "id": 705,
+  "name": "Fleur Cannon",
+  "num": 705,
+  "accuracy": 90,
+  "basePower": 130,
+  "category": "Special",
+  "type": "Fairy",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Lowers the user"
+}

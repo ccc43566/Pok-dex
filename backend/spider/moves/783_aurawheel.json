@@ -1,0 +1,13 @@
+{
+  "id": 783,
+  "name": "Aura Wheel",
+  "num": 783,
+  "accuracy": 100,
+  "basePower": 110,
+  "category": "Physical",
+  "type": "Electric",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 100% chance to raise the user",
+  "shortDesc": "Morpeko: Electric; Hangry: Dark; 100% +1 Spe."
+}

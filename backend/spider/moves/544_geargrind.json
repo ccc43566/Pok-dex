@@ -1,0 +1,13 @@
+{
+  "id": 544,
+  "name": "Gear Grind",
+  "num": 544,
+  "accuracy": 85,
+  "basePower": 50,
+  "category": "Physical",
+  "type": "Steel",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Hits twice. If the first hit breaks the target",
+  "shortDesc": "Hits 2 times in one turn."
+}

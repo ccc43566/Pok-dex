@@ -1,0 +1,13 @@
+{
+  "id": 448,
+  "name": "Chatter",
+  "num": 448,
+  "accuracy": 100,
+  "basePower": 65,
+  "category": "Special",
+  "type": "Flying",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Has a 100% chance to confuse the target.",
+  "shortDesc": "100% chance to confuse the target."
+}

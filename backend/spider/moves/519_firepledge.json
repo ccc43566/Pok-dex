@@ -1,0 +1,13 @@
+{
+  "id": 519,
+  "name": "Fire Pledge",
+  "num": 519,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Fire",
+  "pp": 10,
+  "priority": 0,
+  "desc": "If one of the user",
+  "shortDesc": "Use with Grass or Water Pledge for added effect."
+}

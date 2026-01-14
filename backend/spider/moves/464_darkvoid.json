@@ -1,0 +1,13 @@
+{
+  "id": 464,
+  "name": "Dark Void",
+  "num": 464,
+  "accuracy": 50,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Dark",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Causes the target to fall asleep. This move cannot be used successfully unless the user",
+  "shortDesc": "Darkrai: Causes the foe(s) to fall asleep."
+}

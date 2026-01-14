@@ -1,0 +1,13 @@
+{
+  "id": 81,
+  "name": "String Shot",
+  "num": 81,
+  "accuracy": 95,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Bug",
+  "pp": 40,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the foe(s) Speed by 2."
+}

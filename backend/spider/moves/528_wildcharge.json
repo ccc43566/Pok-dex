@@ -1,0 +1,13 @@
+{
+  "id": 528,
+  "name": "Wild Charge",
+  "num": 528,
+  "accuracy": 100,
+  "basePower": 90,
+  "category": "Physical",
+  "type": "Electric",
+  "pp": 15,
+  "priority": 0,
+  "desc": "If the target lost HP, the user takes recoil damage equal to 1/4 the HP lost by the target, rounded half up, but not less than 1 HP.",
+  "shortDesc": "Has 1/4 recoil."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 773,
+  "name": "Max Overgrowth",
+  "num": 773,
+  "accuracy": true,
+  "basePower": 10,
+  "category": "Physical",
+  "type": "Grass",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Base move affects power. Starts Grassy Terrain."
+}

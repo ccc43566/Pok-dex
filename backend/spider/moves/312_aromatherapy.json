@@ -1,0 +1,13 @@
+{
+  "id": 312,
+  "name": "Aromatherapy",
+  "num": 312,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Grass",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Every Pokemon in the user",
+  "shortDesc": "Cures the user"
+}

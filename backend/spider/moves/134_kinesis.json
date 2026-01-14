@@ -1,0 +1,13 @@
+{
+  "id": 134,
+  "name": "Kinesis",
+  "num": 134,
+  "accuracy": 80,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the target"
+}

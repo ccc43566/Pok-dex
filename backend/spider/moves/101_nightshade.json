@@ -1,0 +1,13 @@
+{
+  "id": 101,
+  "name": "Night Shade",
+  "num": 101,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Special",
+  "type": "Ghost",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Deals damage to the target equal to the user",
+  "shortDesc": "Does damage equal to the user"
+}

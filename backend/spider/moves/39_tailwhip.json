@@ -1,0 +1,13 @@
+{
+  "id": 39,
+  "name": "Tail Whip",
+  "num": 39,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 30,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the foe(s) Defense by 1."
+}

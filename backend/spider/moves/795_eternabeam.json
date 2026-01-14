@@ -1,0 +1,13 @@
+{
+  "id": 795,
+  "name": "Eternabeam",
+  "num": 795,
+  "accuracy": 90,
+  "basePower": 160,
+  "category": "Special",
+  "type": "Dragon",
+  "pp": 5,
+  "priority": 0,
+  "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+  "shortDesc": "User cannot move next turn."
+}

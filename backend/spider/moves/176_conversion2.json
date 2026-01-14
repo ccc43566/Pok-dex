@@ -1,0 +1,13 @@
+{
+  "id": 176,
+  "name": "Conversion 2",
+  "num": 176,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 30,
+  "priority": 0,
+  "desc": "The user",
+  "shortDesc": "Changes user"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 546,
+  "name": "Techno Blast",
+  "num": 546,
+  "accuracy": 100,
+  "basePower": 120,
+  "category": "Special",
+  "type": "Normal",
+  "pp": 5,
+  "priority": 0,
+  "desc": "This move",
+  "shortDesc": "Type varies based on the held Drive."
+}

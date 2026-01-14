@@ -1,0 +1,13 @@
+{
+  "id": 740,
+  "name": "Sparkly Swirl",
+  "num": 740,
+  "accuracy": 85,
+  "basePower": 120,
+  "category": "Special",
+  "type": "Fairy",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Every Pokemon in the user",
+  "shortDesc": "Cures the user"
+}

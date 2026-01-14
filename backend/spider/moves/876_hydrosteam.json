@@ -1,0 +1,13 @@
+{
+  "id": 876,
+  "name": "Hydro Steam",
+  "num": 876,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Water",
+  "pp": 15,
+  "priority": 0,
+  "desc": "If the current weather is Sunny Day and the user is not holding Utility Umbrella, this move",
+  "shortDesc": "During Sunny Day: 1.5x damage instead of half."
+}

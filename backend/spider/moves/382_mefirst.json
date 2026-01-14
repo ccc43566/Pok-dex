@@ -1,0 +1,13 @@
+{
+  "id": 382,
+  "name": "Me First",
+  "num": 382,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "The user uses the move the target chose for use this turn against it, if possible, with its power multiplied by 1.5. The move must be a damaging move other than Beak Blast, Belch, Blazing Torque, Combat Torque, Comeuppance, Counter, Covet, Focus Punch, Magical Torque, Me First, Metal Burst, Mirror Coat, Noxious Torque, Shell Trap, Struggle, Thief, or Wicked Torque. Fails if the target moves before the user. Ignores the target",
+  "shortDesc": "Copies a foe at 1.5x power. User must be faster."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 761,
+  "name": "Max Knuckle",
+  "num": 761,
+  "accuracy": true,
+  "basePower": 10,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Boosts the user and its allies",
+  "shortDesc": "Base move affects power. Allies: +1 Attack."
+}

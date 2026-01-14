@@ -1,0 +1,13 @@
+{
+  "id": 917,
+  "name": "Psychic Noise",
+  "num": 917,
+  "accuracy": 100,
+  "basePower": 75,
+  "category": "Special",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "For 2 turns, the target is prevented from restoring any HP as long as it remains active. During the effect, healing and draining moves are unusable, and Abilities and items that grant healing will not heal the user. If an affected Pokemon uses Baton Pass, the replacement will remain unable to restore its HP. Pain Split and the Regenerator Ability are unaffected.",
+  "shortDesc": "For 2 turns, the target is prevented from healing."
+}

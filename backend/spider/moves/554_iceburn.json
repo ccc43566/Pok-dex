@@ -1,0 +1,13 @@
+{
+  "id": 554,
+  "name": "Ice Burn",
+  "num": 554,
+  "accuracy": 90,
+  "basePower": 140,
+  "category": "Special",
+  "type": "Ice",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 30% chance to burn the target. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb, the move completes in one turn.",
+  "shortDesc": "Charges turn 1. Hits turn 2. 30% burn."
+}

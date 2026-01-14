@@ -1,0 +1,13 @@
+{
+  "id": 410,
+  "name": "Vacuum Wave",
+  "num": 410,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Special",
+  "type": "Fighting",
+  "pp": 30,
+  "priority": 1,
+  "desc": "No additional effect.",
+  "shortDesc": "Usually goes first."
+}

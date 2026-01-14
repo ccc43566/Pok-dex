@@ -1,0 +1,13 @@
+{
+  "id": 675,
+  "name": "Throat Chop",
+  "num": 675,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 15,
+  "priority": 0,
+  "desc": "For 2 turns, the target cannot use sound-based moves.",
+  "shortDesc": "For 2 turns, the target cannot use sound moves."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 504,
+  "name": "Shell Smash",
+  "num": 504,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Lowers Def, SpD by 1; raises Atk, SpA, Spe by 2."
+}

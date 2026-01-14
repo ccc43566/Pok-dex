@@ -1,0 +1,13 @@
+{
+  "id": 242,
+  "name": "Crunch",
+  "num": 242,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 20% chance to lower the target",
+  "shortDesc": "20% chance to lower the target"
+}

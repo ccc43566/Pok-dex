@@ -1,0 +1,13 @@
+{
+  "id": 844,
+  "name": "Infernal Parade",
+  "num": 844,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Special",
+  "type": "Ghost",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 30% chance to burn the target. Power doubles if the target has a non-volatile status condition.",
+  "shortDesc": "30% burn. 2x power if target is already statused."
+}

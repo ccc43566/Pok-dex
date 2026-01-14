@@ -1,0 +1,13 @@
+{
+  "id": 670,
+  "name": "Leafage",
+  "num": 670,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Physical",
+  "type": "Grass",
+  "pp": 40,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

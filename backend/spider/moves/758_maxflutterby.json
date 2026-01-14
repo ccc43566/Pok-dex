@@ -1,0 +1,13 @@
+{
+  "id": 758,
+  "name": "Max Flutterby",
+  "num": 758,
+  "accuracy": true,
+  "basePower": 10,
+  "category": "Physical",
+  "type": "Bug",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Base move affects power. Foes: -1 Sp. Atk."
+}

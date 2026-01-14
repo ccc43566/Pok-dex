@@ -1,0 +1,13 @@
+{
+  "id": 148,
+  "name": "Flash",
+  "num": 148,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the target"
+}

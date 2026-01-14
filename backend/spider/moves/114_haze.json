@@ -1,0 +1,13 @@
+{
+  "id": 114,
+  "name": "Haze",
+  "num": 114,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Ice",
+  "pp": 30,
+  "priority": 0,
+  "desc": "Resets the stat stages of all active Pokemon to 0.",
+  "shortDesc": "Eliminates all stat changes."
+}

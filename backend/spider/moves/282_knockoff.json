@@ -1,0 +1,13 @@
+{
+  "id": 282,
+  "name": "Knock Off",
+  "num": 282,
+  "accuracy": 100,
+  "basePower": 65,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 20,
+  "priority": 0,
+  "desc": "If the target is holding an item that can be removed from it, ignoring the Sticky Hold Ability, this move",
+  "shortDesc": "1.5x damage if foe holds an item. Removes item."
+}

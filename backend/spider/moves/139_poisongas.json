@@ -1,0 +1,13 @@
+{
+  "id": 139,
+  "name": "Poison Gas",
+  "num": 139,
+  "accuracy": 90,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Poison",
+  "pp": 40,
+  "priority": 0,
+  "desc": "Poisons the target.",
+  "shortDesc": "Poisons the foe(s)."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 508,
+  "name": "Shift Gear",
+  "num": 508,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Steel",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises the user"
+}

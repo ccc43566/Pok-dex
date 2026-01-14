@@ -1,0 +1,13 @@
+{
+  "id": 355,
+  "name": "Roost",
+  "num": 355,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Flying",
+  "pp": 5,
+  "priority": 0,
+  "desc": "The user restores 1/2 of its maximum HP, rounded half up. If the user is not Terastallized, until the end of the turn Flying-type users lose their Flying type and pure Flying-type users become Normal type. Does nothing if the user",
+  "shortDesc": "Heals 50% HP. Flying-type removed "
+}

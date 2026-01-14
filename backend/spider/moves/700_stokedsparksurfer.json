@@ -1,0 +1,13 @@
+{
+  "id": 700,
+  "name": "Stoked Sparksurfer",
+  "num": 700,
+  "accuracy": true,
+  "basePower": 175,
+  "category": "Special",
+  "type": "Electric",
+  "pp": 1,
+  "priority": 0,
+  "desc": "Has a 100% chance to paralyze the target.",
+  "shortDesc": "100% chance to paralyze the target."
+}

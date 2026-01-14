@@ -1,0 +1,13 @@
+{
+  "id": 286,
+  "name": "Imprison",
+  "num": 286,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The user prevents all opposing Pokemon from using any moves that the user also knows as long as the user remains active.",
+  "shortDesc": "No foe can use any move known by the user."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 364,
+  "name": "Feint",
+  "num": 364,
+  "accuracy": 100,
+  "basePower": 30,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 2,
+  "desc": "If this move is successful, it breaks through the target",
+  "shortDesc": "Nullifies Detect, Protect, and Quick/Wide Guard."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 817,
+  "name": "Wicked Blow",
+  "num": 817,
+  "accuracy": 100,
+  "basePower": 75,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 5,
+  "priority": 0,
+  "desc": "This move is always a critical hit unless the target is under the effect of Lucky Chant or has the Battle Armor or Shell Armor Abilities.",
+  "shortDesc": "Always results in a critical hit."
+}

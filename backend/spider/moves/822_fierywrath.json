@@ -1,0 +1,13 @@
+{
+  "id": 822,
+  "name": "Fiery Wrath",
+  "num": 822,
+  "accuracy": 100,
+  "basePower": 90,
+  "category": "Special",
+  "type": "Dark",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 20% chance to make the target flinch.",
+  "shortDesc": "20% chance to make the foe(s) flinch."
+}

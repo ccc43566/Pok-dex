@@ -1,0 +1,13 @@
+{
+  "id": 247,
+  "name": "Shadow Ball",
+  "num": 247,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Ghost",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 20% chance to lower the target",
+  "shortDesc": "20% chance to lower the target"
+}

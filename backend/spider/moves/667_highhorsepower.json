@@ -1,0 +1,13 @@
+{
+  "id": 667,
+  "name": "High Horsepower",
+  "num": 667,
+  "accuracy": 95,
+  "basePower": 95,
+  "category": "Physical",
+  "type": "Ground",
+  "pp": 10,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

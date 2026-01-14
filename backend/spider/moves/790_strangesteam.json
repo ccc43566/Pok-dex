@@ -1,0 +1,13 @@
+{
+  "id": 790,
+  "name": "Strange Steam",
+  "num": 790,
+  "accuracy": 95,
+  "basePower": 90,
+  "category": "Special",
+  "type": "Fairy",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 20% chance to confuse the target.",
+  "shortDesc": "20% chance to confuse the target."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 516,
+  "name": "Bestow",
+  "num": 516,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 15,
+  "priority": 0,
+  "desc": "The target receives the user",
+  "shortDesc": "User passes its held item to the target."
+}

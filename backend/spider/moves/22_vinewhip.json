@@ -1,0 +1,13 @@
+{
+  "id": 22,
+  "name": "Vine Whip",
+  "num": 22,
+  "accuracy": 100,
+  "basePower": 45,
+  "category": "Physical",
+  "type": "Grass",
+  "pp": 25,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

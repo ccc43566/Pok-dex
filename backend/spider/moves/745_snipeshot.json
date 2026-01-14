@@ -1,0 +1,13 @@
+{
+  "id": 745,
+  "name": "Snipe Shot",
+  "num": 745,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Water",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a higher chance for a critical hit. This move cannot be redirected to a different target by any effect.",
+  "shortDesc": "High critical hit ratio. Cannot be redirected."
+}

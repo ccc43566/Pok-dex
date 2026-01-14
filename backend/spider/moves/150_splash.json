@@ -1,0 +1,13 @@
+{
+  "id": 150,
+  "name": "Splash",
+  "num": 150,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 40,
+  "priority": 0,
+  "desc": "No competitive use.",
+  "shortDesc": "No competitive use."
+}

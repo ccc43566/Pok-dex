@@ -1,0 +1,13 @@
+{
+  "id": 272,
+  "name": "Role Play",
+  "num": 272,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The user",
+  "shortDesc": "User replaces its Ability with the target"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 695,
+  "name": "Sinister Arrow Raid",
+  "num": 695,
+  "accuracy": true,
+  "basePower": 180,
+  "category": "Physical",
+  "type": "Ghost",
+  "pp": 1,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

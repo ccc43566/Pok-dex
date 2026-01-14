@@ -1,0 +1,13 @@
+{
+  "id": 155,
+  "name": "Bonemerang",
+  "num": 155,
+  "accuracy": 90,
+  "basePower": 50,
+  "category": "Physical",
+  "type": "Ground",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Hits twice. If the first hit breaks the target",
+  "shortDesc": "Hits 2 times in one turn."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 911,
+  "name": "Tachyon Cutter",
+  "num": 911,
+  "accuracy": true,
+  "basePower": 50,
+  "category": "Special",
+  "type": "Steel",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Hits twice. If the first hit breaks the target",
+  "shortDesc": "Hits twice. This move does not check accuracy."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 341,
+  "name": "Mud Shot",
+  "num": 341,
+  "accuracy": 95,
+  "basePower": 55,
+  "category": "Special",
+  "type": "Ground",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 100% chance to lower the target",
+  "shortDesc": "100% chance to lower the target"
+}

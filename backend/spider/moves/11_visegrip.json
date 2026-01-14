@@ -1,0 +1,13 @@
+{
+  "id": 11,
+  "name": "Vise Grip",
+  "num": 11,
+  "accuracy": 100,
+  "basePower": 55,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 30,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

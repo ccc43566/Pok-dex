@@ -1,0 +1,13 @@
+{
+  "id": 858,
+  "name": "Spicy Extract",
+  "num": 858,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Grass",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Raises the target",
+  "shortDesc": "Raises target"
+}

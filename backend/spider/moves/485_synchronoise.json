@@ -1,0 +1,13 @@
+{
+  "id": 485,
+  "name": "Synchronoise",
+  "num": 485,
+  "accuracy": 100,
+  "basePower": 120,
+  "category": "Special",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The target is immune if it does not share a type with the user.",
+  "shortDesc": "Hits adjacent Pokemon sharing the user"
+}

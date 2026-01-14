@@ -1,0 +1,13 @@
+{
+  "id": 317,
+  "name": "Rock Tomb",
+  "num": 317,
+  "accuracy": 95,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Rock",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 100% chance to lower the target",
+  "shortDesc": "100% chance to lower the target"
+}

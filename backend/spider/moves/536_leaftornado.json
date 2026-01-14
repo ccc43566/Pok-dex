@@ -1,0 +1,13 @@
+{
+  "id": 536,
+  "name": "Leaf Tornado",
+  "num": 536,
+  "accuracy": 90,
+  "basePower": 65,
+  "category": "Special",
+  "type": "Grass",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 50% chance to lower the target",
+  "shortDesc": "50% chance to lower the target"
+}

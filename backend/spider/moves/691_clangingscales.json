@@ -1,0 +1,13 @@
+{
+  "id": 691,
+  "name": "Clanging Scales",
+  "num": 691,
+  "accuracy": 100,
+  "basePower": 110,
+  "category": "Special",
+  "type": "Dragon",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Lowers the user"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 465,
+  "name": "Seed Flare",
+  "num": 465,
+  "accuracy": 85,
+  "basePower": 120,
+  "category": "Special",
+  "type": "Grass",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 40% chance to lower the target",
+  "shortDesc": "40% chance to lower the target"
+}

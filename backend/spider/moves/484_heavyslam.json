@@ -1,0 +1,13 @@
+{
+  "id": 484,
+  "name": "Heavy Slam",
+  "num": 484,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Physical",
+  "type": "Steel",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The power of this move depends on (user",
+  "shortDesc": "More power the heavier the user than the target."
+}

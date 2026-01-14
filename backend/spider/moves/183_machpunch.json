@@ -1,0 +1,13 @@
+{
+  "id": 183,
+  "name": "Mach Punch",
+  "num": 183,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 30,
+  "priority": 1,
+  "desc": "No additional effect.",
+  "shortDesc": "Usually goes first."
+}

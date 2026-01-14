@@ -1,0 +1,13 @@
+{
+  "id": 223,
+  "name": "Dynamic Punch",
+  "num": 223,
+  "accuracy": 50,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 100% chance to confuse the target.",
+  "shortDesc": "100% chance to confuse the target."
+}

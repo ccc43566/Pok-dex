@@ -1,0 +1,13 @@
+{
+  "id": 389,
+  "name": "Sucker Punch",
+  "num": 389,
+  "accuracy": 100,
+  "basePower": 70,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 5,
+  "priority": 1,
+  "desc": "Fails if the target did not select a physical attack, special attack, or Me First for use this turn, or if the target moves before the user.",
+  "shortDesc": "Usually goes first. Fails if target is not attacking."
+}

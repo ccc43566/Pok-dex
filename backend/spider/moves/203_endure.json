@@ -1,0 +1,13 @@
+{
+  "id": 203,
+  "name": "Endure",
+  "num": 203,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 4,
+  "desc": "The user will survive attacks made by other Pokemon during this turn with at least 1 HP. This move has a 1/X chance of being successful, where X starts at 1 and triples each time this move is successfully used. X resets to 1 if this move fails, if the user",
+  "shortDesc": "User survives attacks this turn with at least 1 HP."
+}

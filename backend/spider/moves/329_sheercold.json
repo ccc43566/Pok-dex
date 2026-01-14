@@ -1,0 +1,13 @@
+{
+  "id": 329,
+  "name": "Sheer Cold",
+  "num": 329,
+  "accuracy": 30,
+  "basePower": 0,
+  "category": "Special",
+  "type": "Ice",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Deals damage to the target equal to the target",
+  "shortDesc": "OHKOs non-Ice targets. Fails if user"
+}

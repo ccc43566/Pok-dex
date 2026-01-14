@@ -1,0 +1,13 @@
+{
+  "id": 226,
+  "name": "Baton Pass",
+  "num": 226,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 40,
+  "priority": 0,
+  "desc": "The user is replaced with another Pokemon in its party. The selected Pokemon has the user",
+  "shortDesc": "User switches, passing stat changes and more."
+}

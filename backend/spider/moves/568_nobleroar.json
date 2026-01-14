@@ -1,0 +1,13 @@
+{
+  "id": 568,
+  "name": "Noble Roar",
+  "num": 568,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 30,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the target"
+}

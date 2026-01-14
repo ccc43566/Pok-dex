@@ -1,0 +1,13 @@
+{
+  "id": 702,
+  "name": "Extreme Evoboost",
+  "num": 702,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 1,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises user"
+}

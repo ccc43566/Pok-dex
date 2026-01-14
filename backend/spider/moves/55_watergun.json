@@ -1,0 +1,13 @@
+{
+  "id": 55,
+  "name": "Water Gun",
+  "num": 55,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Special",
+  "type": "Water",
+  "pp": 25,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

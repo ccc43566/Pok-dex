@@ -1,0 +1,13 @@
+{
+  "id": 232,
+  "name": "Metal Claw",
+  "num": 232,
+  "accuracy": 95,
+  "basePower": 50,
+  "category": "Physical",
+  "type": "Steel",
+  "pp": 35,
+  "priority": 0,
+  "desc": "Has a 10% chance to raise the user",
+  "shortDesc": "10% chance to raise the user"
+}

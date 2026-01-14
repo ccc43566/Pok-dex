@@ -1,0 +1,13 @@
+{
+  "id": 359,
+  "name": "Hammer Arm",
+  "num": 359,
+  "accuracy": 90,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Lowers the user"
+}

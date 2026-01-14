@@ -1,0 +1,13 @@
+{
+  "id": 302,
+  "name": "Needle Arm",
+  "num": 302,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Grass",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 30% chance to make the target flinch.",
+  "shortDesc": "30% chance to make the target flinch."
+}

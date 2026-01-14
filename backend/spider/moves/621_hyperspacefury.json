@@ -1,0 +1,13 @@
+{
+  "id": 621,
+  "name": "Hyperspace Fury",
+  "num": 621,
+  "accuracy": true,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Hoopa-U: Lowers user"
+}

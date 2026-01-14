@@ -1,0 +1,13 @@
+{
+  "id": 668,
+  "name": "Strength Sap",
+  "num": 668,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Grass",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "User heals HP=target"
+}

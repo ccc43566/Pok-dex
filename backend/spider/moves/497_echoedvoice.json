@@ -1,0 +1,13 @@
+{
+  "id": 497,
+  "name": "Echoed Voice",
+  "num": 497,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Special",
+  "type": "Normal",
+  "pp": 15,
+  "priority": 0,
+  "desc": "For every consecutive turn that this move is used by at least one Pokemon, this move",
+  "shortDesc": "Power increases when used on consecutive turns."
+}

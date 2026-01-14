@@ -1,0 +1,13 @@
+{
+  "id": 1000,
+  "name": "G-Max Chi Strike",
+  "num": 1000,
+  "accuracy": true,
+  "basePower": 10,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Base move affects power. Allies: Crit Ratio +1."
+}

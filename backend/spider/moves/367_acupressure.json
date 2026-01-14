@@ -1,0 +1,13 @@
+{
+  "id": 367,
+  "name": "Acupressure",
+  "num": 367,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 30,
+  "priority": 0,
+  "desc": "Raises a random stat by 2 stages as long as the stat is not already at stage 6. The user can choose to use this move on itself or an adjacent ally. Fails if no stat stage can be raised or if used on an ally with a substitute.",
+  "shortDesc": "Raises a random stat of the user or an ally by 2."
+}

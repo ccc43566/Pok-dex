@@ -1,0 +1,13 @@
+{
+  "id": 582,
+  "name": "Electrify",
+  "num": 582,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Electric",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Causes the target",
+  "shortDesc": "Changes the target"
+}

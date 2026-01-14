@@ -1,0 +1,13 @@
+{
+  "id": 375,
+  "name": "Psycho Shift",
+  "num": 375,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The user",
+  "shortDesc": "Transfers the user"
+}

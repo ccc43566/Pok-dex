@@ -1,0 +1,13 @@
+{
+  "id": 28,
+  "name": "Sand Attack",
+  "num": 28,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Ground",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the target"
+}

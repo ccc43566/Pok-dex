@@ -1,0 +1,13 @@
+{
+  "id": 913,
+  "name": "Dragon Cheer",
+  "num": 913,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Dragon",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Raises the target",
+  "shortDesc": "Ally: Crit ratio +1, or +2 if ally is Dragon type."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 666,
+  "name": "Floral Healing",
+  "num": 666,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fairy",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The target restores 1/2 of its maximum HP, rounded half up. If the terrain is Grassy Terrain, the target instead restores 2/3 of its maximum HP, rounded half down.",
+  "shortDesc": "Heals the target by 50% of its max HP."
+}

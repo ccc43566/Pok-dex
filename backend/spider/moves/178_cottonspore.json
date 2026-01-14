@@ -1,0 +1,13 @@
+{
+  "id": 178,
+  "name": "Cotton Spore",
+  "num": 178,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Grass",
+  "pp": 40,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the target"
+}

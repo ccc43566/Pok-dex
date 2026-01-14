@@ -1,0 +1,13 @@
+{
+  "id": 753,
+  "name": "Octolock",
+  "num": 753,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fighting",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Prevents the target from switching out. At the end of each turn during effect, the target",
+  "shortDesc": "Traps target, lowers Def and SpD by 1 each turn."
+}

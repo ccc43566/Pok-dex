@@ -1,0 +1,13 @@
+{
+  "id": 569,
+  "name": "Ion Deluge",
+  "num": 569,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Electric",
+  "pp": 25,
+  "priority": 1,
+  "desc": "Causes Normal-type moves to become Electric type this turn. The effect happens after other effects that change a move",
+  "shortDesc": "Normal moves become Electric type this turn."
+}

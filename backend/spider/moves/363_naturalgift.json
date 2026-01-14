@@ -1,0 +1,13 @@
+{
+  "id": 363,
+  "name": "Natural Gift",
+  "num": 363,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 15,
+  "priority": 0,
+  "desc": "The type and power of this move depend on the user",
+  "shortDesc": "Power and type depends on the user"
+}

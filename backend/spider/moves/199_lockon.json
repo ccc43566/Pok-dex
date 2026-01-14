@@ -1,0 +1,13 @@
+{
+  "id": 199,
+  "name": "Lock-On",
+  "num": 199,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Until the end of the next turn, the target cannot avoid the user",
+  "shortDesc": "User"
+}

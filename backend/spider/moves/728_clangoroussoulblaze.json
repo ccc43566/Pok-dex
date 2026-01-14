@@ -1,0 +1,13 @@
+{
+  "id": 728,
+  "name": "Clangorous Soulblaze",
+  "num": 728,
+  "accuracy": true,
+  "basePower": 185,
+  "category": "Special",
+  "type": "Dragon",
+  "pp": 1,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises the user"
+}

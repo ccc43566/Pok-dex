@@ -1,0 +1,13 @@
+{
+  "id": 658,
+  "name": "Catastropika",
+  "num": 658,
+  "accuracy": true,
+  "basePower": 210,
+  "category": "Physical",
+  "type": "Electric",
+  "pp": 1,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

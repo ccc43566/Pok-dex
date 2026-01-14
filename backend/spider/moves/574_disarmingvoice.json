@@ -1,0 +1,13 @@
+{
+  "id": 574,
+  "name": "Disarming Voice",
+  "num": 574,
+  "accuracy": true,
+  "basePower": 40,
+  "category": "Special",
+  "type": "Fairy",
+  "pp": 15,
+  "priority": 0,
+  "desc": "This move does not check accuracy.",
+  "shortDesc": "This move does not check accuracy. Hits foes."
+}

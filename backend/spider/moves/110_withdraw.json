@@ -1,0 +1,13 @@
+{
+  "id": 110,
+  "name": "Withdraw",
+  "num": 110,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Water",
+  "pp": 40,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises the user"
+}

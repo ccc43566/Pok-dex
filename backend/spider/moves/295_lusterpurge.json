@@ -1,0 +1,13 @@
+{
+  "id": 295,
+  "name": "Luster Purge",
+  "num": 295,
+  "accuracy": 100,
+  "basePower": 95,
+  "category": "Special",
+  "type": "Psychic",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 50% chance to lower the target",
+  "shortDesc": "50% chance to lower the target"
+}

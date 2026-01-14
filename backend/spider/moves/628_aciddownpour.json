@@ -1,0 +1,13 @@
+{
+  "id": 628,
+  "name": "Acid Downpour",
+  "num": 628,
+  "accuracy": true,
+  "basePower": 1,
+  "category": "Physical",
+  "type": "Poison",
+  "pp": 1,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Power is equal to the base move"
+}

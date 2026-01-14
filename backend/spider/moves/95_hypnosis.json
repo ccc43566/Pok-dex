@@ -1,0 +1,13 @@
+{
+  "id": 95,
+  "name": "Hypnosis",
+  "num": 95,
+  "accuracy": 60,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Causes the target to fall asleep.",
+  "shortDesc": "Causes the target to fall asleep."
+}

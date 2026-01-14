@@ -1,0 +1,13 @@
+{
+  "id": 184,
+  "name": "Scary Face",
+  "num": 184,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the target"
+}

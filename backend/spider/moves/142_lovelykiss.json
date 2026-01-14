@@ -1,0 +1,13 @@
+{
+  "id": 142,
+  "name": "Lovely Kiss",
+  "num": 142,
+  "accuracy": 75,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Causes the target to fall asleep.",
+  "shortDesc": "Causes the target to fall asleep."
+}

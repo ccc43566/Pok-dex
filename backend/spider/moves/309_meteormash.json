@@ -1,0 +1,13 @@
+{
+  "id": 309,
+  "name": "Meteor Mash",
+  "num": 309,
+  "accuracy": 90,
+  "basePower": 90,
+  "category": "Physical",
+  "type": "Steel",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 20% chance to raise the user",
+  "shortDesc": "20% chance to raise the user"
+}

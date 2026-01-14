@@ -1,0 +1,13 @@
+{
+  "id": 411,
+  "name": "Focus Blast",
+  "num": 411,
+  "accuracy": 70,
+  "basePower": 120,
+  "category": "Special",
+  "type": "Fighting",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 10% chance to lower the target",
+  "shortDesc": "10% chance to lower the target"
+}

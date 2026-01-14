@@ -1,0 +1,13 @@
+{
+  "id": 180,
+  "name": "Spite",
+  "num": 180,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Ghost",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Causes the target",
+  "shortDesc": "Lowers the PP of the target"
+}

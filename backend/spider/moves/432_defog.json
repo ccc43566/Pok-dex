@@ -1,0 +1,13 @@
+{
+  "id": 432,
+  "name": "Defog",
+  "num": 432,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Flying",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "-1 evasion; ends user and target hazards/terrain."
+}

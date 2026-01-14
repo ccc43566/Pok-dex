@@ -1,0 +1,13 @@
+{
+  "id": 897,
+  "name": "Wicked Torque",
+  "num": 897,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 10% chance to cause the target to fall asleep.",
+  "shortDesc": "10% chance to cause the target to fall asleep."
+}

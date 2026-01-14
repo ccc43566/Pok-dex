@@ -1,0 +1,13 @@
+{
+  "id": 561,
+  "name": "Mat Block",
+  "num": 561,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fighting",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The user and its party members are protected from damaging attacks made by other Pokemon, including allies, during this turn. Fails unless it is the user",
+  "shortDesc": "Protects allies from damaging attacks. Turn 1 only."
+}

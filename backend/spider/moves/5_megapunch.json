@@ -1,0 +1,13 @@
+{
+  "id": 5,
+  "name": "Mega Punch",
+  "num": 5,
+  "accuracy": 85,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

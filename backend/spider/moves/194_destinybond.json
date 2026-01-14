@@ -1,0 +1,13 @@
+{
+  "id": 194,
+  "name": "Destiny Bond",
+  "num": 194,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Ghost",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Until the user",
+  "shortDesc": "If an opponent knocks out the user, it also faints."
+}

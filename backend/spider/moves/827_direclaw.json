@@ -1,0 +1,13 @@
+{
+  "id": 827,
+  "name": "Dire Claw",
+  "num": 827,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Poison",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 50% chance to cause the target to either fall asleep, become poisoned, or become paralyzed.",
+  "shortDesc": "50% chance to sleep, poison, or paralyze target."
+}

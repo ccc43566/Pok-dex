@@ -1,0 +1,13 @@
+{
+  "id": 674,
+  "name": "Gear Up",
+  "num": 674,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Steel",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Raises the Attack and Special Attack of Pokemon on the user",
+  "shortDesc": "Raises Atk, Sp. Atk of allies with Plus/Minus by 1."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 880,
+  "name": "Shed Tail",
+  "num": 880,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The user takes 1/2 of its maximum HP, rounded up, and creates a substitute that has 1/4 of the user",
+  "shortDesc": "User takes 1/2 its max HP to pass a substitute."
+}

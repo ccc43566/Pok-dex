@@ -1,0 +1,13 @@
+{
+  "id": 775,
+  "name": "Clangorous Soul",
+  "num": 775,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Dragon",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "User loses 33% of its max HP. +1 to all stats."
+}

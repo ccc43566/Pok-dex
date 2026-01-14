@@ -1,0 +1,13 @@
+{
+  "id": 780,
+  "name": "Pyro Ball",
+  "num": 780,
+  "accuracy": 90,
+  "basePower": 120,
+  "category": "Physical",
+  "type": "Fire",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 10% chance to burn the target.",
+  "shortDesc": "10% chance to burn the target. Thaws user."
+}

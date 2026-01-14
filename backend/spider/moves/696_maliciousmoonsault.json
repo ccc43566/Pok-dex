@@ -1,0 +1,13 @@
+{
+  "id": 696,
+  "name": "Malicious Moonsault",
+  "num": 696,
+  "accuracy": true,
+  "basePower": 180,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 1,
+  "priority": 0,
+  "desc": "Damage doubles and no accuracy check is done if the target has used Minimize while active.",
+  "shortDesc": "Damage doubles if the target used Minimize."
+}

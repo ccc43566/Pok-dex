@@ -1,0 +1,13 @@
+{
+  "id": 343,
+  "name": "Covet",
+  "num": 343,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 25,
+  "priority": 0,
+  "desc": "If this attack was successful and the user has not fainted, it steals the target",
+  "shortDesc": "If the user has no item, it steals the target"
+}

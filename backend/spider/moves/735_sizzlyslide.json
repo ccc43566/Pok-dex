@@ -1,0 +1,13 @@
+{
+  "id": 735,
+  "name": "Sizzly Slide",
+  "num": 735,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Fire",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Has a 100% chance to burn the foe.",
+  "shortDesc": "100% chance to burn the foe."
+}

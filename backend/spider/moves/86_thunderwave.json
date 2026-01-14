@@ -1,0 +1,13 @@
+{
+  "id": 86,
+  "name": "Thunder Wave",
+  "num": 86,
+  "accuracy": 90,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Electric",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Paralyzes the target. This move does not ignore type immunity.",
+  "shortDesc": "Paralyzes the target."
+}

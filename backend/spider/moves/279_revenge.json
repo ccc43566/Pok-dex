@@ -1,0 +1,13 @@
+{
+  "id": 279,
+  "name": "Revenge",
+  "num": 279,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 10,
+  "priority": -4,
+  "desc": "Power doubles if the user was hit by the target this turn.",
+  "shortDesc": "Power doubles if user is damaged by the target."
+}

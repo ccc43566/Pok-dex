@@ -1,0 +1,13 @@
+{
+  "id": 534,
+  "name": "Razor Shell",
+  "num": 534,
+  "accuracy": 95,
+  "basePower": 75,
+  "category": "Physical",
+  "type": "Water",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 50% chance to lower the target",
+  "shortDesc": "50% chance to lower the target"
+}

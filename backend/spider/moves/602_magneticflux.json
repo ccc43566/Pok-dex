@@ -1,0 +1,13 @@
+{
+  "id": 602,
+  "name": "Magnetic Flux",
+  "num": 602,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Electric",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Raises the Defense and Special Defense of Pokemon on the user",
+  "shortDesc": "Raises Def, Sp. Def of allies with Plus/Minus by 1."
+}

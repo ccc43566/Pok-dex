@@ -1,0 +1,13 @@
+{
+  "id": 4,
+  "name": "Comet Punch",
+  "num": 4,
+  "accuracy": 85,
+  "basePower": 18,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target",
+  "shortDesc": "Hits 2-5 times in one turn."
+}

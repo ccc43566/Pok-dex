@@ -1,0 +1,13 @@
+{
+  "id": 791,
+  "name": "Life Dew",
+  "num": 791,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Water",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Each Pokemon on the user",
+  "shortDesc": "Heals the user and its allies by 1/4 their max HP."
+}

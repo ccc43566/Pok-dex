@@ -1,0 +1,13 @@
+{
+  "id": 65,
+  "name": "Drill Peck",
+  "num": 65,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Flying",
+  "pp": 20,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

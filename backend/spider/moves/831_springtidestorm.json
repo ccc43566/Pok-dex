@@ -1,0 +1,13 @@
+{
+  "id": 831,
+  "name": "Springtide Storm",
+  "num": 831,
+  "accuracy": 80,
+  "basePower": 100,
+  "category": "Special",
+  "type": "Fairy",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 30% chance to lower the target",
+  "shortDesc": "30% chance to lower the foe(s) Attack by 1."
+}

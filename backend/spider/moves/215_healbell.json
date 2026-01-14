@@ -1,0 +1,13 @@
+{
+  "id": 215,
+  "name": "Heal Bell",
+  "num": 215,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Every Pokemon in the user",
+  "shortDesc": "Cures the user"
+}

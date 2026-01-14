@@ -1,0 +1,13 @@
+{
+  "id": 192,
+  "name": "Zap Cannon",
+  "num": 192,
+  "accuracy": 50,
+  "basePower": 120,
+  "category": "Special",
+  "type": "Electric",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 100% chance to paralyze the target.",
+  "shortDesc": "100% chance to paralyze the target."
+}

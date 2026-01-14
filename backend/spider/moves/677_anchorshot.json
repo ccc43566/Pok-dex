@@ -1,0 +1,13 @@
+{
+  "id": 677,
+  "name": "Anchor Shot",
+  "num": 677,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Steel",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Prevents the target from switching out. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field.",
+  "shortDesc": "Prevents the target from switching out."
+}

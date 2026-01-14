@@ -1,0 +1,13 @@
+{
+  "id": 683,
+  "name": "Speed Swap",
+  "num": 683,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The user swaps its Speed stat with the target. Stat stage changes are unaffected.",
+  "shortDesc": "Swaps Speed stat with target."
+}

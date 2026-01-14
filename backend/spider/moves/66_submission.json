@@ -1,0 +1,13 @@
+{
+  "id": 66,
+  "name": "Submission",
+  "num": 66,
+  "accuracy": 80,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 20,
+  "priority": 0,
+  "desc": "If the target lost HP, the user takes recoil damage equal to 1/4 the HP lost by the target, rounded half up, but not less than 1 HP.",
+  "shortDesc": "Has 1/4 recoil."
+}

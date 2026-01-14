@@ -1,0 +1,13 @@
+{
+  "id": 221,
+  "name": "Sacred Fire",
+  "num": 221,
+  "accuracy": 95,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Fire",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 50% chance to burn the target.",
+  "shortDesc": "50% chance to burn the target. Thaws user."
+}

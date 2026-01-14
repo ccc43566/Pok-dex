@@ -1,0 +1,13 @@
+{
+  "id": 583,
+  "name": "Play Rough",
+  "num": 583,
+  "accuracy": 90,
+  "basePower": 90,
+  "category": "Physical",
+  "type": "Fairy",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 10% chance to lower the target",
+  "shortDesc": "10% chance to lower the target"
+}

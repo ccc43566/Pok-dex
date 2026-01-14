@@ -1,0 +1,13 @@
+{
+  "id": 127,
+  "name": "Waterfall",
+  "num": 127,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Water",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 20% chance to make the target flinch.",
+  "shortDesc": "20% chance to make the target flinch."
+}

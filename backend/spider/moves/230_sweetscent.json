@@ -1,0 +1,13 @@
+{
+  "id": 230,
+  "name": "Sweet Scent",
+  "num": 230,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the foe(s) evasiveness by 2."
+}

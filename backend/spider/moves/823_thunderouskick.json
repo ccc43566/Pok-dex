@@ -1,0 +1,13 @@
+{
+  "id": 823,
+  "name": "Thunderous Kick",
+  "num": 823,
+  "accuracy": 100,
+  "basePower": 90,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 100% chance to lower the target",
+  "shortDesc": "100% chance to lower the target"
+}

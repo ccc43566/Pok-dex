@@ -1,0 +1,13 @@
+{
+  "id": 801,
+  "name": "Shell Side Arm",
+  "num": 801,
+  "accuracy": 100,
+  "basePower": 90,
+  "category": "Special",
+  "type": "Poison",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 20% chance to poison the target. This move becomes a physical attack that makes contact if the value of ((((2 * the user",
+  "shortDesc": "20% psn. Physical+contact if it would be stronger."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 560,
+  "name": "Flying Press",
+  "num": 560,
+  "accuracy": 95,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 10,
+  "priority": 0,
+  "desc": "This move combines Flying in its type effectiveness against the target. Damage doubles and no accuracy check is done if the target has used Minimize while active.",
+  "shortDesc": "Combines Flying in its type effectiveness."
+}

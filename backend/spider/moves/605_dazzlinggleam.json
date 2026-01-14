@@ -1,0 +1,13 @@
+{
+  "id": 605,
+  "name": "Dazzling Gleam",
+  "num": 605,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Fairy",
+  "pp": 10,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect. Hits adjacent foes."
+}

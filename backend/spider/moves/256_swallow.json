@@ -1,0 +1,13 @@
+{
+  "id": 256,
+  "name": "Swallow",
+  "num": 256,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The user restores its HP based on its Stockpile count. Restores 1/4 of its maximum HP if it",
+  "shortDesc": "Heals the user based on uses of Stockpile."
+}

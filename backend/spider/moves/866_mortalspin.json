@@ -1,0 +1,13 @@
+{
+  "id": 866,
+  "name": "Mortal Spin",
+  "num": 866,
+  "accuracy": 100,
+  "basePower": 30,
+  "category": "Physical",
+  "type": "Poison",
+  "pp": 15,
+  "priority": 0,
+  "desc": "If this move is successful and the user has not fainted, the effects of Leech Seed and binding moves end for the user, and all hazards are removed from the user",
+  "shortDesc": "Poisons foes, frees user from hazards/bind/leech."
+}

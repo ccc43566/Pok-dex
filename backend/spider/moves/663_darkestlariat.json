@@ -1,0 +1,13 @@
+{
+  "id": 663,
+  "name": "Darkest Lariat",
+  "num": 663,
+  "accuracy": 100,
+  "basePower": 85,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Ignores the target",
+  "shortDesc": "Ignores the target"
+}

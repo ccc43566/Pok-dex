@@ -1,0 +1,13 @@
+{
+  "id": 190,
+  "name": "Octazooka",
+  "num": 190,
+  "accuracy": 85,
+  "basePower": 65,
+  "category": "Special",
+  "type": "Water",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 50% chance to lower the target",
+  "shortDesc": "50% chance to lower the target"
+}

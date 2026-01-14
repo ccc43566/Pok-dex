@@ -1,0 +1,13 @@
+{
+  "id": 456,
+  "name": "Heal Order",
+  "num": 456,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Bug",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The user restores 1/2 of its maximum HP, rounded half up.",
+  "shortDesc": "Heals the user by 50% of its max HP."
+}

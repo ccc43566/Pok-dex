@@ -1,0 +1,13 @@
+{
+  "id": 799,
+  "name": "Scale Shot",
+  "num": 799,
+  "accuracy": 90,
+  "basePower": 25,
+  "category": "Physical",
+  "type": "Dragon",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Hits two to five times. Lowers the user",
+  "shortDesc": "Hits 2-5 times. User: -1 Def, +1 Spe after last hit."
+}

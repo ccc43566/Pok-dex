@@ -1,0 +1,13 @@
+{
+  "id": 251,
+  "name": "Beat Up",
+  "num": 251,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Hits one time for the user and one time for each unfainted Pokemon without a non-volatile status condition in the user",
+  "shortDesc": "All healthy allies aid in damaging the target."
+}

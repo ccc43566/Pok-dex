@@ -1,0 +1,13 @@
+{
+  "id": 294,
+  "name": "Tail Glow",
+  "num": 294,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Bug",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises the user"
+}

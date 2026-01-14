@@ -1,0 +1,13 @@
+{
+  "id": 703,
+  "name": "Genesis Supernova",
+  "num": 703,
+  "accuracy": true,
+  "basePower": 185,
+  "category": "Special",
+  "type": "Psychic",
+  "pp": 1,
+  "priority": 0,
+  "desc": "If this move is successful, the terrain becomes Psychic Terrain.",
+  "shortDesc": "Summons Psychic Terrain."
+}

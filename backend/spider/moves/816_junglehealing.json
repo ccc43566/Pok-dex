@@ -1,0 +1,13 @@
+{
+  "id": 816,
+  "name": "Jungle Healing",
+  "num": 816,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Grass",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Each Pokemon on the user",
+  "shortDesc": "User and allies: healed 1/4 max HP, status cured."
+}

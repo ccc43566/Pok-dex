@@ -1,0 +1,13 @@
+{
+  "id": 903,
+  "name": "Syrup Bomb",
+  "num": 903,
+  "accuracy": 85,
+  "basePower": 60,
+  "category": "Special",
+  "type": "Grass",
+  "pp": 10,
+  "priority": 0,
+  "desc": "If this move is successful, it causes the target",
+  "shortDesc": "Target"
+}

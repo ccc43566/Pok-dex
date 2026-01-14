@@ -1,0 +1,13 @@
+{
+  "id": 358,
+  "name": "Wake-Up Slap",
+  "num": 358,
+  "accuracy": 100,
+  "basePower": 70,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Power doubles if the target is asleep. If the user has not fainted, the target wakes up.",
+  "shortDesc": "Power doubles if target is asleep, and wakes it."
+}

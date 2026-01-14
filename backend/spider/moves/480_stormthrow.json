@@ -1,0 +1,13 @@
+{
+  "id": 480,
+  "name": "Storm Throw",
+  "num": 480,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 10,
+  "priority": 0,
+  "desc": "This move is always a critical hit unless the target is under the effect of Lucky Chant or has the Battle Armor or Shell Armor Abilities.",
+  "shortDesc": "Always results in a critical hit."
+}

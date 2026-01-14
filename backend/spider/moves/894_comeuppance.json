@@ -1,0 +1,13 @@
+{
+  "id": 894,
+  "name": "Comeuppance",
+  "num": 894,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Deals damage to the last opposing Pokemon to hit the user with a physical or special attack this turn equal to 1.5 times the HP lost by the user from that attack, rounded down. If the user did not lose HP from that attack, this move deals 1 HP of damage instead. If that opposing Pokemon",
+  "shortDesc": "If hit by an attack, returns 1.5x damage."
+}

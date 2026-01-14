@@ -1,0 +1,13 @@
+{
+  "id": 865,
+  "name": "Triple Dive",
+  "num": 865,
+  "accuracy": 95,
+  "basePower": 30,
+  "category": "Physical",
+  "type": "Water",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Hits three times.",
+  "shortDesc": "Hits 3 times."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 501,
+  "name": "Quick Guard",
+  "num": 501,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fighting",
+  "pp": 15,
+  "priority": 3,
+  "desc": "The user and its party members are protected from attacks with original or altered priority greater than 0 made by other Pokemon, including allies, during this turn. This move modifies the same 1/X chance of being successful used by other protection moves, where X starts at 1 and triples each time this move is successfully used, but does not use the chance to check for failure. X resets to 1 if this move fails, if the user",
+  "shortDesc": "Protects allies from priority attacks this turn."
+}

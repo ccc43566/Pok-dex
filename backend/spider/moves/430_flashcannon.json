@@ -1,0 +1,13 @@
+{
+  "id": 430,
+  "name": "Flash Cannon",
+  "num": 430,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Steel",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 10% chance to lower the target",
+  "shortDesc": "10% chance to lower the target"
+}

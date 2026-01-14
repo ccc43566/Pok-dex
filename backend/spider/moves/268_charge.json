@@ -1,0 +1,13 @@
+{
+  "id": 268,
+  "name": "Charge",
+  "num": 268,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Electric",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "+1 SpD, user"
+}

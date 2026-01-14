@@ -1,0 +1,13 @@
+{
+  "id": 483,
+  "name": "Quiver Dance",
+  "num": 483,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Bug",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises the user"
+}

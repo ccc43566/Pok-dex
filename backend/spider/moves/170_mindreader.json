@@ -1,0 +1,13 @@
+{
+  "id": 170,
+  "name": "Mind Reader",
+  "num": 170,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Until the end of the next turn, the target cannot avoid the user",
+  "shortDesc": "User"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 535,
+  "name": "Heat Crash",
+  "num": 535,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Physical",
+  "type": "Fire",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The power of this move depends on (user",
+  "shortDesc": "More power the heavier the user than the target."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 912,
+  "name": "Hard Press",
+  "num": 912,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Physical",
+  "type": "Steel",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Power is equal to 100 * (target",
+  "shortDesc": "More power the more HP the target has left."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 428,
+  "name": "Zen Headbutt",
+  "num": 428,
+  "accuracy": 90,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Psychic",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 20% chance to make the target flinch.",
+  "shortDesc": "20% chance to make the target flinch."
+}

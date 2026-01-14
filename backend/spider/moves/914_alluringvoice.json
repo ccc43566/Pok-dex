@@ -1,0 +1,13 @@
+{
+  "id": 914,
+  "name": "Alluring Voice",
+  "num": 914,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Fairy",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 100% chance to confuse the target if it had a stat stage raised this turn.",
+  "shortDesc": "100% confuse target that had a stat rise this turn."
+}

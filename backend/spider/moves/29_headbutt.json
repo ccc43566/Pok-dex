@@ -1,0 +1,13 @@
+{
+  "id": 29,
+  "name": "Headbutt",
+  "num": 29,
+  "accuracy": 100,
+  "basePower": 70,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 30% chance to make the target flinch.",
+  "shortDesc": "30% chance to make the target flinch."
+}

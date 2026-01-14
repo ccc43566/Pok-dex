@@ -1,0 +1,13 @@
+{
+  "id": 811,
+  "name": "Coaching",
+  "num": 811,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fighting",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Raises the target",
+  "shortDesc": "Raises an ally"
+}

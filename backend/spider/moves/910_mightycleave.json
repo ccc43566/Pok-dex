@@ -1,0 +1,13 @@
+{
+  "id": 910,
+  "name": "Mighty Cleave",
+  "num": 910,
+  "accuracy": 100,
+  "basePower": 95,
+  "category": "Physical",
+  "type": "Rock",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Bypasses protection without breaking it.",
+  "shortDesc": "Bypasses protection without breaking it."
+}

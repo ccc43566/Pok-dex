@@ -1,0 +1,13 @@
+{
+  "id": 32,
+  "name": "Horn Drill",
+  "num": 32,
+  "accuracy": 30,
+  "basePower": 0,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Deals damage to the target equal to the target",
+  "shortDesc": "OHKOs the target. Fails if user is a lower level."
+}

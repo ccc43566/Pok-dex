@@ -1,0 +1,13 @@
+{
+  "id": 498,
+  "name": "Chip Away",
+  "num": 498,
+  "accuracy": 100,
+  "basePower": 70,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Ignores the target",
+  "shortDesc": "Ignores the target"
+}

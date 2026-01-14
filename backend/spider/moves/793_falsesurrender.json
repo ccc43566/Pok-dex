@@ -1,0 +1,13 @@
+{
+  "id": 793,
+  "name": "False Surrender",
+  "num": 793,
+  "accuracy": true,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 10,
+  "priority": 0,
+  "desc": "This move does not check accuracy.",
+  "shortDesc": "This move does not check accuracy."
+}

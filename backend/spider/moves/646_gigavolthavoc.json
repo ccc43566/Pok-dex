@@ -1,0 +1,13 @@
+{
+  "id": 646,
+  "name": "Gigavolt Havoc",
+  "num": 646,
+  "accuracy": true,
+  "basePower": 1,
+  "category": "Physical",
+  "type": "Electric",
+  "pp": 1,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Power is equal to the base move"
+}

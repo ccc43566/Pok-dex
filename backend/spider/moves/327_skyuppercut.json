@@ -1,0 +1,13 @@
+{
+  "id": 327,
+  "name": "Sky Uppercut",
+  "num": 327,
+  "accuracy": 90,
+  "basePower": 85,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 15,
+  "priority": 0,
+  "desc": "This move can hit a target using Bounce, Fly, or Sky Drop, or is under the effect of Sky Drop.",
+  "shortDesc": "Can hit Pokemon using Bounce, Fly, or Sky Drop."
+}

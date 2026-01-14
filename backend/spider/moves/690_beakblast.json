@@ -1,0 +1,13 @@
+{
+  "id": 690,
+  "name": "Beak Blast",
+  "num": 690,
+  "accuracy": 100,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Flying",
+  "pp": 15,
+  "priority": -3,
+  "desc": "If the user is hit by a contact move this turn before it can execute this move, the attacker is burned.",
+  "shortDesc": "Burns on contact with the user before it moves."
+}

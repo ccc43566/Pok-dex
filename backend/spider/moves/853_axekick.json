@@ -1,0 +1,13 @@
+{
+  "id": 853,
+  "name": "Axe Kick",
+  "num": 853,
+  "accuracy": 90,
+  "basePower": 120,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 30% chance to confuse the target. If this attack is not successful, the user loses half of its maximum HP, rounded down, as crash damage. Pokemon with the Magic Guard Ability are unaffected by crash damage.",
+  "shortDesc": "30% confusion. User loses 50% max HP if miss."
+}

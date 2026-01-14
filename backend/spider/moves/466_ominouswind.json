@@ -1,0 +1,13 @@
+{
+  "id": 466,
+  "name": "Ominous Wind",
+  "num": 466,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Special",
+  "type": "Ghost",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 10% chance to raise the user",
+  "shortDesc": "10% chance to raise all stats by 1 (not acc/eva)."
+}

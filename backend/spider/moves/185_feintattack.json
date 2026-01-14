@@ -1,0 +1,13 @@
+{
+  "id": 185,
+  "name": "Feint Attack",
+  "num": 185,
+  "accuracy": true,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 20,
+  "priority": 0,
+  "desc": "This move does not check accuracy.",
+  "shortDesc": "This move does not check accuracy."
+}

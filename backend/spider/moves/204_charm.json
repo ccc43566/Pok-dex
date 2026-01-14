@@ -1,0 +1,13 @@
+{
+  "id": 204,
+  "name": "Charm",
+  "num": 204,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fairy",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the target"
+}

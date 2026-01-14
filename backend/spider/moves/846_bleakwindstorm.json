@@ -1,0 +1,13 @@
+{
+  "id": 846,
+  "name": "Bleakwind Storm",
+  "num": 846,
+  "accuracy": 80,
+  "basePower": 100,
+  "category": "Special",
+  "type": "Flying",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 30% chance to lower the target",
+  "shortDesc": "30% to lower foe(s) Speed by 1. Rain: can"
+}

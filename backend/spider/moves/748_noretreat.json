@@ -1,0 +1,13 @@
+{
+  "id": 748,
+  "name": "No Retreat",
+  "num": 748,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fighting",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises all stats by 1 (not acc/eva). Traps user."
+}

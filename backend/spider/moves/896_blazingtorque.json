@@ -1,0 +1,13 @@
+{
+  "id": 896,
+  "name": "Blazing Torque",
+  "num": 896,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Physical",
+  "type": "Fire",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 30% chance to burn the target.",
+  "shortDesc": "30% chance to burn the target."
+}

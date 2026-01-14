@@ -1,0 +1,13 @@
+{
+  "id": 771,
+  "name": "Max Quake",
+  "num": 771,
+  "accuracy": true,
+  "basePower": 10,
+  "category": "Physical",
+  "type": "Ground",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Base move affects power. Allies: +1 Sp. Def."
+}

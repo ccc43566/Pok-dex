@@ -1,0 +1,13 @@
+{
+  "id": 15,
+  "name": "Cut",
+  "num": 15,
+  "accuracy": 95,
+  "basePower": 50,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 30,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

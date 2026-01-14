@@ -1,0 +1,13 @@
+{
+  "id": 517,
+  "name": "Inferno",
+  "num": 517,
+  "accuracy": 50,
+  "basePower": 100,
+  "category": "Special",
+  "type": "Fire",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 100% chance to burn the target.",
+  "shortDesc": "100% chance to burn the target."
+}

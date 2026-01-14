@@ -1,0 +1,13 @@
+{
+  "id": 685,
+  "name": "Purify",
+  "num": 685,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Poison",
+  "pp": 20,
+  "priority": 0,
+  "desc": "The target is cured if it has a non-volatile status condition. If the target was cured, the user restores 1/2 of its maximum HP, rounded down.",
+  "shortDesc": "Cures target"
+}

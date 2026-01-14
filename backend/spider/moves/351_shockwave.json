@@ -1,0 +1,13 @@
+{
+  "id": 351,
+  "name": "Shock Wave",
+  "num": 351,
+  "accuracy": true,
+  "basePower": 60,
+  "category": "Special",
+  "type": "Electric",
+  "pp": 20,
+  "priority": 0,
+  "desc": "This move does not check accuracy.",
+  "shortDesc": "This move does not check accuracy."
+}

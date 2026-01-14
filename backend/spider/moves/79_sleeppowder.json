@@ -1,0 +1,13 @@
+{
+  "id": 79,
+  "name": "Sleep Powder",
+  "num": 79,
+  "accuracy": 75,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Grass",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Causes the target to fall asleep.",
+  "shortDesc": "Causes the target to fall asleep."
+}

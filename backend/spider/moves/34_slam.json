@@ -1,0 +1,13 @@
+{
+  "id": 34,
+  "name": "Body Slam",
+  "num": 34,
+  "accuracy": 100,
+  "basePower": 85,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 30% chance to paralyze the target. Damage doubles and no accuracy check is done if the target has used Minimize while active.",
+  "shortDesc": "30% chance to paralyze the target."
+}

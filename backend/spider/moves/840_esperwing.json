@@ -1,0 +1,13 @@
+{
+  "id": 840,
+  "name": "Esper Wing",
+  "num": 840,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 100% chance to raise the user",
+  "shortDesc": "100% chance to raise user Speed by 1. High crit."
+}

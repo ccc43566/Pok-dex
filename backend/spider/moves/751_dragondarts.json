@@ -1,0 +1,13 @@
+{
+  "id": 751,
+  "name": "Dragon Darts",
+  "num": 751,
+  "accuracy": 100,
+  "basePower": 50,
+  "category": "Physical",
+  "type": "Dragon",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Hits twice. If the first hit breaks the target",
+  "shortDesc": "Hits twice. Doubles: Tries to hit each foe once."
+}

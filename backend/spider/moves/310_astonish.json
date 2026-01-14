@@ -1,0 +1,13 @@
+{
+  "id": 310,
+  "name": "Astonish",
+  "num": 310,
+  "accuracy": 100,
+  "basePower": 30,
+  "category": "Physical",
+  "type": "Ghost",
+  "pp": 15,
+  "priority": 0,
+  "desc": "Has a 30% chance to make the target flinch.",
+  "shortDesc": "30% chance to make the target flinch."
+}

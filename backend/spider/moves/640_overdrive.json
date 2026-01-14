@@ -1,0 +1,13 @@
+{
+  "id": 640,
+  "name": "Inferno Overdrive",
+  "num": 640,
+  "accuracy": true,
+  "basePower": 1,
+  "category": "Physical",
+  "type": "Fire",
+  "pp": 1,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Power is equal to the base move"
+}

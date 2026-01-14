@@ -1,0 +1,13 @@
+{
+  "id": 460,
+  "name": "Spacial Rend",
+  "num": 460,
+  "accuracy": 95,
+  "basePower": 100,
+  "category": "Special",
+  "type": "Dragon",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a higher chance for a critical hit.",
+  "shortDesc": "High critical hit ratio."
+}

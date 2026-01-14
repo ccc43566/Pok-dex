@@ -1,0 +1,13 @@
+{
+  "id": 832,
+  "name": "Mystical Power",
+  "num": 832,
+  "accuracy": 90,
+  "basePower": 70,
+  "category": "Special",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 100% chance to raise the user",
+  "shortDesc": "100% chance to raise the user"
+}

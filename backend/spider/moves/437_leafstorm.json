@@ -1,0 +1,13 @@
+{
+  "id": 437,
+  "name": "Leaf Storm",
+  "num": 437,
+  "accuracy": 90,
+  "basePower": 130,
+  "category": "Special",
+  "type": "Grass",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Lowers the user"
+}

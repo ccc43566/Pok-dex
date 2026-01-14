@@ -1,0 +1,13 @@
+{
+  "id": 412,
+  "name": "Energy Ball",
+  "num": 412,
+  "accuracy": 100,
+  "basePower": 90,
+  "category": "Special",
+  "type": "Grass",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 10% chance to lower the target",
+  "shortDesc": "10% chance to lower the target"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 838,
+  "name": "Headlong Rush",
+  "num": 838,
+  "accuracy": 100,
+  "basePower": 120,
+  "category": "Physical",
+  "type": "Ground",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Lowers the user"
+}

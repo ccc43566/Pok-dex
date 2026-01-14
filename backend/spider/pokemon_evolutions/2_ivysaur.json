@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "name": "ivysaur",
+  "evolution_chain": [
+    "bulbasaur",
+    "ivysaur",
+    "Venusaur"
+  ]
+}

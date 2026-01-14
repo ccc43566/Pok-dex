@@ -1,0 +1,13 @@
+{
+  "id": 25,
+  "name": "Mega Kick",
+  "num": 25,
+  "accuracy": 75,
+  "basePower": 120,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 5,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

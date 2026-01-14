@@ -1,0 +1,13 @@
+{
+  "id": 599,
+  "name": "Venom Drench",
+  "num": 599,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Poison",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers Atk/Sp. Atk/Speed of poisoned foes by 1."
+}

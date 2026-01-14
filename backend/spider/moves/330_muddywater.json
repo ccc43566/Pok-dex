@@ -1,0 +1,13 @@
+{
+  "id": 330,
+  "name": "Muddy Water",
+  "num": 330,
+  "accuracy": 85,
+  "basePower": 90,
+  "category": "Special",
+  "type": "Water",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 30% chance to lower the target",
+  "shortDesc": "30% chance to lower the foe(s) accuracy by 1."
+}

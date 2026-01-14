@@ -1,0 +1,13 @@
+{
+  "id": 318,
+  "name": "Silver Wind",
+  "num": 318,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Special",
+  "type": "Bug",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 10% chance to raise the user",
+  "shortDesc": "10% chance to raise all stats by 1 (not acc/eva)."
+}

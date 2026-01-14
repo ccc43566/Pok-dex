@@ -1,0 +1,13 @@
+{
+  "id": 601,
+  "name": "Geomancy",
+  "num": 601,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Fairy",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Charges, then raises SpA, SpD, Spe by 2 turn 2."
+}

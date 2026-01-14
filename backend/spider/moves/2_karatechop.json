@@ -1,0 +1,13 @@
+{
+  "id": 2,
+  "name": "Karate Chop",
+  "num": 2,
+  "accuracy": 100,
+  "basePower": 50,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 25,
+  "priority": 0,
+  "desc": "Has a higher chance for a critical hit.",
+  "shortDesc": "High critical hit ratio."
+}

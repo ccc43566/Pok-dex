@@ -1,0 +1,13 @@
+{
+  "id": 593,
+  "name": "Hyperspace Hole",
+  "num": 593,
+  "accuracy": true,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Psychic",
+  "pp": 5,
+  "priority": 0,
+  "desc": "If this move is successful, it breaks through the target",
+  "shortDesc": "Breaks the target"
+}

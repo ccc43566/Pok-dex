@@ -1,0 +1,13 @@
+{
+  "id": 843,
+  "name": "Triple Arrows",
+  "num": 843,
+  "accuracy": 100,
+  "basePower": 90,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 50% chance to lower the target",
+  "shortDesc": "High crit. Target: 50% -1 Defense, 30% flinch."
+}

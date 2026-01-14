@@ -1,0 +1,13 @@
+{
+  "id": 739,
+  "name": "Freezy Frost",
+  "num": 739,
+  "accuracy": 90,
+  "basePower": 100,
+  "category": "Special",
+  "type": "Ice",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Resets the stat stages of all active Pokemon to 0.",
+  "shortDesc": "Eliminates all stat changes."
+}

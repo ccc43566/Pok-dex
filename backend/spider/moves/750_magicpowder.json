@@ -1,0 +1,13 @@
+{
+  "id": 750,
+  "name": "Magic Powder",
+  "num": 750,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Causes the target to become a Psychic type. Fails if the target is an Arceus or a Silvally, if the target is already purely Psychic type, or if the target is Terastallized.",
+  "shortDesc": "Changes the target"
+}

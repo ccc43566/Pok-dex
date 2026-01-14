@@ -1,0 +1,13 @@
+{
+  "id": 78,
+  "name": "Stun Spore",
+  "num": 78,
+  "accuracy": 75,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Grass",
+  "pp": 30,
+  "priority": 0,
+  "desc": "Paralyzes the target.",
+  "shortDesc": "Paralyzes the target."
+}

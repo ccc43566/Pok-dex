@@ -1,0 +1,13 @@
+{
+  "id": 392,
+  "name": "Aqua Ring",
+  "num": 392,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Water",
+  "pp": 20,
+  "priority": 0,
+  "desc": "The user has 1/16 of its maximum HP, rounded down, restored at the end of each turn while it remains active. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down. If the user uses Baton Pass, the replacement will receive the healing effect.",
+  "shortDesc": "User recovers 1/16 max HP per turn."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 17,
+  "name": "Wing Attack",
+  "num": 17,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Flying",
+  "pp": 35,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

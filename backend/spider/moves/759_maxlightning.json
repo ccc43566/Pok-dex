@@ -1,0 +1,13 @@
+{
+  "id": 759,
+  "name": "Max Lightning",
+  "num": 759,
+  "accuracy": true,
+  "basePower": 10,
+  "category": "Physical",
+  "type": "Electric",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Base move affects power. Starts Electric Terrain."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 687,
+  "name": "Core Enforcer",
+  "num": 687,
+  "accuracy": 100,
+  "basePower": 100,
+  "category": "Special",
+  "type": "Dragon",
+  "pp": 10,
+  "priority": 0,
+  "desc": "If the user moves after the target, the target",
+  "shortDesc": "Nullifies the foe(s) Ability if the foe(s) move first."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 900,
+  "name": "Magical Torque",
+  "num": 900,
+  "accuracy": 100,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Fairy",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 30% chance to confuse the target.",
+  "shortDesc": "30% chance to confuse the target."
+}

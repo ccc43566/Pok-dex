@@ -1,0 +1,9 @@
+{
+  "id": 42,
+  "name": "golbat",
+  "evolution_chain": [
+    "zubat",
+    "golbat",
+    "Crobat"
+  ]
+}

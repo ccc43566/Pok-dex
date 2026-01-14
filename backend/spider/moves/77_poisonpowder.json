@@ -1,0 +1,13 @@
+{
+  "id": 77,
+  "name": "Poison Powder",
+  "num": 77,
+  "accuracy": 75,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Poison",
+  "pp": 35,
+  "priority": 0,
+  "desc": "Poisons the target.",
+  "shortDesc": "Poisons the target."
+}

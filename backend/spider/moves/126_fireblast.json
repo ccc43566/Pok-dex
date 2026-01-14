@@ -1,0 +1,13 @@
+{
+  "id": 126,
+  "name": "Fire Blast",
+  "num": 126,
+  "accuracy": 85,
+  "basePower": 110,
+  "category": "Special",
+  "type": "Fire",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Has a 10% chance to burn the target.",
+  "shortDesc": "10% chance to burn the target."
+}

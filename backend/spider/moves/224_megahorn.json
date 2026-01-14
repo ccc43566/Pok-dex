@@ -1,0 +1,13 @@
+{
+  "id": 224,
+  "name": "Megahorn",
+  "num": 224,
+  "accuracy": 85,
+  "basePower": 120,
+  "category": "Physical",
+  "type": "Bug",
+  "pp": 10,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

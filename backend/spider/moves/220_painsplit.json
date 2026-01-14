@@ -1,0 +1,13 @@
+{
+  "id": 220,
+  "name": "Pain Split",
+  "num": 220,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "The user and the target",
+  "shortDesc": "Shares HP of user and target equally."
+}

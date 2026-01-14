@@ -1,0 +1,13 @@
+{
+  "id": 206,
+  "name": "False Swipe",
+  "num": 206,
+  "accuracy": 100,
+  "basePower": 40,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 40,
+  "priority": 0,
+  "desc": "Leaves the target with at least 1 HP.",
+  "shortDesc": "Always leaves the target with at least 1 HP."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 426,
+  "name": "Mud Bomb",
+  "num": 426,
+  "accuracy": 85,
+  "basePower": 65,
+  "category": "Special",
+  "type": "Ground",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 30% chance to lower the target",
+  "shortDesc": "30% chance to lower the target"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 726,
+  "name": "Let",
+  "num": 726,
+  "accuracy": true,
+  "basePower": 190,
+  "category": "Physical",
+  "type": "Fairy",
+  "pp": 1,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

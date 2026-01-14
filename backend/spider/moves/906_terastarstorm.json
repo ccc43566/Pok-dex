@@ -1,0 +1,13 @@
+{
+  "id": 906,
+  "name": "Tera Starstorm",
+  "num": 906,
+  "accuracy": 100,
+  "basePower": 120,
+  "category": "Special",
+  "type": "Normal",
+  "pp": 5,
+  "priority": 0,
+  "desc": "If the user is a Terapagos in Stellar Form, this move",
+  "shortDesc": "Terapagos-Stellar: Stellar type, hits both foes."
+}

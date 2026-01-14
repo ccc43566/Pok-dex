@@ -1,0 +1,13 @@
+{
+  "id": 455,
+  "name": "Defend Order",
+  "num": 455,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Bug",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises the user"
+}

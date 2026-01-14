@@ -1,0 +1,13 @@
+{
+  "id": 352,
+  "name": "Water Pulse",
+  "num": 352,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Special",
+  "type": "Water",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Has a 20% chance to confuse the target.",
+  "shortDesc": "20% chance to confuse the target."
+}

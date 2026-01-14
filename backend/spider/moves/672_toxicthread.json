@@ -1,0 +1,13 @@
+{
+  "id": 672,
+  "name": "Toxic Thread",
+  "num": 672,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Poison",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the target"
+}

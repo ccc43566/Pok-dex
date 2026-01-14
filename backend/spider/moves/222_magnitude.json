@@ -1,0 +1,13 @@
+{
+  "id": 222,
+  "name": "Magnitude",
+  "num": 222,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Physical",
+  "type": "Ground",
+  "pp": 30,
+  "priority": 0,
+  "desc": "The power of this move varies; 5% chances for 10 and 150 power, 10% chances for 30 and 110 power, 20% chances for 50 and 90 power, and 30% chance for 70 power. Damage doubles if the target is using Dig.",
+  "shortDesc": "Hits adjacent Pokemon. Power varies; 2x on Dig."
+}

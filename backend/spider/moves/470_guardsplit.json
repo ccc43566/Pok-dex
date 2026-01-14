@@ -1,0 +1,13 @@
+{
+  "id": 470,
+  "name": "Guard Split",
+  "num": 470,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The user and the target have their Defense and Special Defense stats set to be equal to the average of the user and the target",
+  "shortDesc": "Averages Defense and Sp. Def stats with target."
+}

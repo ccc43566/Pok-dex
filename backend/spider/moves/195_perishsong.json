@@ -1,0 +1,13 @@
+{
+  "id": 195,
+  "name": "Perish Song",
+  "num": 195,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Each active Pokemon receives a perish count of 4 if it doesn",
+  "shortDesc": "All active Pokemon will faint in 3 turns."
+}

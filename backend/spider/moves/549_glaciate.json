@@ -1,0 +1,13 @@
+{
+  "id": 549,
+  "name": "Glaciate",
+  "num": 549,
+  "accuracy": 95,
+  "basePower": 65,
+  "category": "Special",
+  "type": "Ice",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 100% chance to lower the target",
+  "shortDesc": "100% chance to lower the foe(s) Speed by 1."
+}

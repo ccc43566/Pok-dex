@@ -1,0 +1,13 @@
+{
+  "id": 384,
+  "name": "Power Swap",
+  "num": 384,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "The user swaps its Attack and Special Attack stat stage changes with the target.",
+  "shortDesc": "Swaps Attack and Sp. Atk stat stages with target."
+}

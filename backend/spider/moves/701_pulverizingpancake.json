@@ -1,0 +1,13 @@
+{
+  "id": 701,
+  "name": "Pulverizing Pancake",
+  "num": 701,
+  "accuracy": true,
+  "basePower": 210,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 1,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

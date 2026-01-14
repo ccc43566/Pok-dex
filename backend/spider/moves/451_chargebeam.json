@@ -1,0 +1,13 @@
+{
+  "id": 451,
+  "name": "Charge Beam",
+  "num": 451,
+  "accuracy": 90,
+  "basePower": 50,
+  "category": "Special",
+  "type": "Electric",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 70% chance to raise the user",
+  "shortDesc": "70% chance to raise the user"
+}

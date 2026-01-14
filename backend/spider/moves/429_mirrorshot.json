@@ -1,0 +1,13 @@
+{
+  "id": 429,
+  "name": "Mirror Shot",
+  "num": 429,
+  "accuracy": 85,
+  "basePower": 65,
+  "category": "Special",
+  "type": "Steel",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 30% chance to lower the target",
+  "shortDesc": "30% chance to lower the target"
+}

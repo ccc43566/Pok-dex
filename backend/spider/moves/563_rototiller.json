@@ -1,0 +1,13 @@
+{
+  "id": 563,
+  "name": "Rototiller",
+  "num": 563,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Ground",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Raises the Attack and Special Attack of all grounded Grass-type Pokemon on the field by 1 stage.",
+  "shortDesc": "Raises Atk/Sp. Atk of grounded Grass types by 1."
+}

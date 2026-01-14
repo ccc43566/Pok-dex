@@ -1,0 +1,13 @@
+{
+  "id": 839,
+  "name": "Barb Barrage",
+  "num": 839,
+  "accuracy": 100,
+  "basePower": 60,
+  "category": "Physical",
+  "type": "Poison",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 50% chance to poison the target. Power doubles if the target is already poisoned.",
+  "shortDesc": "50% psn. 2x power if target already poisoned."
+}

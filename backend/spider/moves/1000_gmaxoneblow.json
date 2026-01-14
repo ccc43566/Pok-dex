@@ -1,0 +1,13 @@
+{
+  "id": 1000,
+  "name": "G-Max One Blow",
+  "num": 1000,
+  "accuracy": true,
+  "basePower": 10,
+  "category": "Physical",
+  "type": "Dark",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Base move affects power. Bypasses Max Guard."
+}

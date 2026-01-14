@@ -1,0 +1,13 @@
+{
+  "id": 75,
+  "name": "Razor Leaf",
+  "num": 75,
+  "accuracy": 95,
+  "basePower": 55,
+  "category": "Physical",
+  "type": "Grass",
+  "pp": 25,
+  "priority": 0,
+  "desc": "Has a higher chance for a critical hit.",
+  "shortDesc": "High critical hit ratio. Hits adjacent foes."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 870,
+  "name": "Flower Trick",
+  "num": 870,
+  "accuracy": true,
+  "basePower": 70,
+  "category": "Physical",
+  "type": "Grass",
+  "pp": 10,
+  "priority": 0,
+  "desc": "This move is always a critical hit unless the target is under the effect of Lucky Chant or has the Battle Armor or Shell Armor Abilities. This move does not check accuracy.",
+  "shortDesc": "Always results in a critical hit; no accuracy check."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 274,
+  "name": "Assist",
+  "num": 274,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "A random move among those known by the user",
+  "shortDesc": "Uses a random move known by a team member."
+}

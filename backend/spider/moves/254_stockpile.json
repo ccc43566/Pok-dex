@@ -1,0 +1,13 @@
+{
+  "id": 254,
+  "name": "Stockpile",
+  "num": 254,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises user"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 326,
+  "name": "Extrasensory",
+  "num": 326,
+  "accuracy": 100,
+  "basePower": 80,
+  "category": "Special",
+  "type": "Psychic",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Has a 10% chance to make the target flinch.",
+  "shortDesc": "10% chance to make the target flinch."
+}

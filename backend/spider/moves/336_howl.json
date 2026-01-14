@@ -1,0 +1,13 @@
+{
+  "id": 336,
+  "name": "Howl",
+  "num": 336,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 40,
+  "priority": 0,
+  "desc": "Raises the Attack of the user and all allies 1 stage.",
+  "shortDesc": "Raises the user"
+}

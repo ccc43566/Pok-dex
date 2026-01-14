@@ -1,0 +1,13 @@
+{
+  "id": 708,
+  "name": "Shadow Bone",
+  "num": 708,
+  "accuracy": 100,
+  "basePower": 85,
+  "category": "Physical",
+  "type": "Ghost",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 20% chance to lower the target",
+  "shortDesc": "20% chance to lower the target"
+}

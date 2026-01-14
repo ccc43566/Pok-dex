@@ -1,0 +1,13 @@
+{
+  "id": 718,
+  "name": "Multi-Attack",
+  "num": 718,
+  "accuracy": 100,
+  "basePower": 120,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "This move",
+  "shortDesc": "Type varies based on the held Memory."
+}

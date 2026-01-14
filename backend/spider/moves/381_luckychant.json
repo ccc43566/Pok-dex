@@ -1,0 +1,13 @@
+{
+  "id": 381,
+  "name": "Lucky Chant",
+  "num": 381,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 30,
+  "priority": 0,
+  "desc": "For 5 turns, the user and its party members cannot be struck by a critical hit. Fails if the effect is already active on the user",
+  "shortDesc": "For 5 turns, shields user"
+}

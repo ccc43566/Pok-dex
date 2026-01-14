@@ -1,0 +1,13 @@
+{
+  "id": 571,
+  "name": "Forest",
+  "num": 571,
+  "accuracy": 100,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Grass",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Causes the Grass type to be added to the target, effectively making it have two or three types. Fails if the target is already a Grass type. If Trick-or-Treat adds a type to the target, it replaces the type added by this move and vice versa.",
+  "shortDesc": "Adds Grass to the target"
+}

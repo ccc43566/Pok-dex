@@ -1,0 +1,13 @@
+{
+  "id": 904,
+  "name": "Ivy Cudgel",
+  "num": 904,
+  "accuracy": 100,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Grass",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a higher chance for a critical hit. If the user is an Ogerpon, this move",
+  "shortDesc": "High critical hit ratio. Type depends on user"
+}

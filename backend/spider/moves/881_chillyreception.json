@@ -1,0 +1,13 @@
+{
+  "id": 881,
+  "name": "Chilly Reception",
+  "num": 881,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Ice",
+  "pp": 10,
+  "priority": 0,
+  "desc": "For 5 turns, the weather becomes Snow. The user switches out even if it is trapped and is replaced immediately by a selected party member. The user does not switch out if there are no unfainted party members.",
+  "shortDesc": "Starts Snow. User switches out."
+}

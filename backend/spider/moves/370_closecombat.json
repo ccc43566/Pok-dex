@@ -1,0 +1,13 @@
+{
+  "id": 370,
+  "name": "Close Combat",
+  "num": 370,
+  "accuracy": 100,
+  "basePower": 120,
+  "category": "Physical",
+  "type": "Fighting",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Lowers the user"
+}

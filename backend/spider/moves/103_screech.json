@@ -1,0 +1,13 @@
+{
+  "id": 103,
+  "name": "Screech",
+  "num": 103,
+  "accuracy": 85,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 40,
+  "priority": 0,
+  "desc": "Lowers the target",
+  "shortDesc": "Lowers the target"
+}

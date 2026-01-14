@@ -1,0 +1,13 @@
+{
+  "id": 347,
+  "name": "Calm Mind",
+  "num": 347,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Psychic",
+  "pp": 20,
+  "priority": 0,
+  "desc": "Raises the user",
+  "shortDesc": "Raises the user"
+}

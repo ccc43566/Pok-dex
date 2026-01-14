@@ -1,0 +1,13 @@
+{
+  "id": 706,
+  "name": "Psychic Fangs",
+  "num": 706,
+  "accuracy": 100,
+  "basePower": 85,
+  "category": "Physical",
+  "type": "Psychic",
+  "pp": 10,
+  "priority": 0,
+  "desc": "If this attack does not miss, the effects of Reflect, Light Screen, and Aurora Veil end for the target",
+  "shortDesc": "Destroys screens, unless the target is immune."
+}

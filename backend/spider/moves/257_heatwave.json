@@ -1,0 +1,13 @@
+{
+  "id": 257,
+  "name": "Heat Wave",
+  "num": 257,
+  "accuracy": 90,
+  "basePower": 95,
+  "category": "Special",
+  "type": "Fire",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 10% chance to burn the target.",
+  "shortDesc": "10% chance to burn the foe(s)."
+}

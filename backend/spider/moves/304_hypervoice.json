@@ -1,0 +1,13 @@
+{
+  "id": 304,
+  "name": "Hyper Voice",
+  "num": 304,
+  "accuracy": 100,
+  "basePower": 90,
+  "category": "Special",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect. Hits adjacent foes."
+}

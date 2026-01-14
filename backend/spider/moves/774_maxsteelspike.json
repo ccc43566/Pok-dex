@@ -1,0 +1,13 @@
+{
+  "id": 774,
+  "name": "Max Steelspike",
+  "num": 774,
+  "accuracy": true,
+  "basePower": 10,
+  "category": "Physical",
+  "type": "Steel",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Power is equal to the base move",
+  "shortDesc": "Base move affects power. Allies: +1 Defense."
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14,
+  "name": "kakuna",
+  "level_up": [
+    "harden"
+  ],
+  "egg_moves": [],
+  "tm_moves": [],
+  "tutor_moves": [
+    "bugbite",
+    "electroweb",
+    "irondefense",
+    "stringshot"
+  ]
+}

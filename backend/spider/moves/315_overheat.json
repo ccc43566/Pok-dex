@@ -1,0 +1,13 @@
+{
+  "id": 315,
+  "name": "Overheat",
+  "num": 315,
+  "accuracy": 90,
+  "basePower": 130,
+  "category": "Special",
+  "type": "Fire",
+  "pp": 5,
+  "priority": 0,
+  "desc": "Lowers the user",
+  "shortDesc": "Lowers the user"
+}

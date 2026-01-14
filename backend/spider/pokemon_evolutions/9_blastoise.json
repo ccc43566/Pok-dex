@@ -1,0 +1,9 @@
+{
+  "id": 9,
+  "name": "blastoise",
+  "evolution_chain": [
+    "squirtle",
+    "wartortle",
+    "blastoise"
+  ]
+}

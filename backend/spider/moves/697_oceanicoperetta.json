@@ -1,0 +1,13 @@
+{
+  "id": 697,
+  "name": "Oceanic Operetta",
+  "num": 697,
+  "accuracy": true,
+  "basePower": 195,
+  "category": "Special",
+  "type": "Water",
+  "pp": 1,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

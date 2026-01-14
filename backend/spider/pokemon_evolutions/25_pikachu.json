@@ -1,0 +1,10 @@
+{
+  "id": 25,
+  "name": "pikachu",
+  "evolution_chain": [
+    "pichu",
+    "pikachu",
+    "Raichu",
+    "Raichu-Alola"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 293,
+  "name": "Camouflage",
+  "num": 293,
+  "accuracy": true,
+  "basePower": 0,
+  "category": "Status",
+  "type": "Normal",
+  "pp": 20,
+  "priority": 0,
+  "desc": "The user",
+  "shortDesc": "Changes user"
+}

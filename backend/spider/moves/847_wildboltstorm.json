@@ -1,0 +1,13 @@
+{
+  "id": 847,
+  "name": "Wildbolt Storm",
+  "num": 847,
+  "accuracy": 80,
+  "basePower": 100,
+  "category": "Special",
+  "type": "Electric",
+  "pp": 10,
+  "priority": 0,
+  "desc": "Has a 20% chance to paralyze the target. If the weather is Primordial Sea or Rain Dance, this move does not check accuracy. If this move is used against a Pokemon holding Utility Umbrella, this move",
+  "shortDesc": "20% chance to paralyze foe(s). Rain: can"
+}

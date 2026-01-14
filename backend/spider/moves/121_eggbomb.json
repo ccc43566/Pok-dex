@@ -1,0 +1,13 @@
+{
+  "id": 121,
+  "name": "Egg Bomb",
+  "num": 121,
+  "accuracy": 75,
+  "basePower": 100,
+  "category": "Physical",
+  "type": "Normal",
+  "pp": 10,
+  "priority": 0,
+  "desc": "No additional effect.",
+  "shortDesc": "No additional effect."
+}

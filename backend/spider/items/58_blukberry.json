@@ -1,0 +1,12 @@
+{
+  "id": 58,
+  "name": "Bluk Berry",
+  "english": "blukberry",
+  "category": "道具",
+  "num": 58,
+  "spritenum": 44,
+  "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "gen": 3,
+  "isPokeball": false
+}

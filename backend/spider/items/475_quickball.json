@@ -1,0 +1,12 @@
+{
+  "id": 475,
+  "name": "Quick Ball",
+  "english": "quickball",
+  "category": "道具",
+  "num": 475,
+  "spritenum": 372,
+  "desc": "A Poke Ball that provides a better catch rate at the start of a wild encounter.",
+  "shortDesc": "A Poke Ball that provides a better catch rate at the start of a wild encounter.",
+  "gen": 4,
+  "isPokeball": true
+}

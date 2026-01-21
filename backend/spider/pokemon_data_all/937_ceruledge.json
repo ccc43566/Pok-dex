@@ -1,0 +1,27 @@
+{
+  "id": 937,
+  "name": "Ceruledge",
+  "type1": "Fire",
+  "type2": "Ghost",
+  "hp": 75,
+  "attack": 125,
+  "defense": 80,
+  "sp_atk": 60,
+  "sp_def": 100,
+  "speed": 85,
+  "total": 525,
+  "abilities": [
+    "Flash Fire",
+    "Weak Armor"
+  ],
+  "height": 1.6,
+  "weight": 62.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Charcadet",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Malicious Armor",
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/ceruledge.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\937_ceruledge.gif"
+}

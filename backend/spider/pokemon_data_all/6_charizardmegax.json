@@ -1,0 +1,29 @@
+{
+  "id": 6,
+  "name": "Charizard-Mega-X",
+  "type1": "Fire",
+  "type2": "Dragon",
+  "hp": 78,
+  "attack": 130,
+  "defense": 111,
+  "sp_atk": 130,
+  "sp_def": 85,
+  "speed": 100,
+  "total": 634,
+  "abilities": [
+    "Tough Claws"
+  ],
+  "height": 1.7,
+  "weight": 110.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/charizard-megax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\6_charizard-megax.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 117,
+  "name": "Damp Rock",
+  "english": "damprock",
+  "category": "道具",
+  "num": 117,
+  "spritenum": 88,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

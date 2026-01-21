@@ -1,0 +1,12 @@
+{
+  "id": 429,
+  "name": "Pinap Berry",
+  "english": "pinapberry",
+  "category": "道具",
+  "num": 429,
+  "spritenum": 337,
+  "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "gen": 3,
+  "isPokeball": false
+}

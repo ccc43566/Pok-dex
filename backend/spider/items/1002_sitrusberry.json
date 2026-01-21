@@ -1,0 +1,12 @@
+{
+  "id": 1002,
+  "name": "文柚果",
+  "english": "Sitrus Berry",
+  "category": "树果",
+  "num": 1002,
+  "spritenum": 1002,
+  "desc": "让宝可梦携带后，可以回复少量ＨＰ。",
+  "shortDesc": "让宝可梦携带后，可以回复少量ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

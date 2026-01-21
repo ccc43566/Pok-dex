@@ -1,0 +1,12 @@
+{
+  "id": 320,
+  "name": "冰之宝石",
+  "english": "Ice Gem",
+  "category": "道具",
+  "num": 320,
+  "spritenum": 320,
+  "desc": "冰属性的宝石。携带后，冰属性的招式威力仅会增强１次。",
+  "shortDesc": "冰属性的宝石。携带后，冰属性的招式威力仅会增强１次。",
+  "gen": 1,
+  "isPokeball": false
+}

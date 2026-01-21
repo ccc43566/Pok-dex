@@ -1,0 +1,30 @@
+{
+  "id": 96,
+  "name": "Drowzee",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 60,
+  "attack": 48,
+  "defense": 45,
+  "sp_atk": 43,
+  "sp_def": 90,
+  "speed": 42,
+  "total": 328,
+  "abilities": [
+    "Insomnia",
+    "Forewarn",
+    "Inner Focus"
+  ],
+  "height": 1.0,
+  "weight": 32.4,
+  "gender_ratio": {},
+  "evos": [
+    "Hypno"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/drowzee.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\96_drowzee.gif"
+}

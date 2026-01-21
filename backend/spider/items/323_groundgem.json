@@ -1,0 +1,12 @@
+{
+  "id": 323,
+  "name": "地面宝石",
+  "english": "Ground Gem",
+  "category": "道具",
+  "num": 323,
+  "spritenum": 323,
+  "desc": "地面属性的宝石。携带后，地面属性的招式威力仅会增强１次。",
+  "shortDesc": "地面属性的宝石。携带后，地面属性的招式威力仅会增强１次。",
+  "gen": 1,
+  "isPokeball": false
+}

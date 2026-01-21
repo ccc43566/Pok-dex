@@ -1,0 +1,12 @@
+{
+  "id": 1245,
+  "name": "化妆包",
+  "english": "Makeup Bag",
+  "category": "重要物品",
+  "num": 1245,
+  "spritenum": 1245,
+  "desc": "可以存放唇膏的精美小包包。",
+  "shortDesc": "可以存放唇膏的精美小包包。",
+  "gen": 1,
+  "isPokeball": false
+}

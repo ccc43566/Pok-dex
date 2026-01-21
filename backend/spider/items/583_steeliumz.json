@@ -1,0 +1,12 @@
+{
+  "id": 583,
+  "name": "Steelium Z",
+  "english": "steeliumz",
+  "category": "道具",
+  "num": 583,
+  "spritenum": 647,
+  "desc": "If holder has a Steel move, this item allows it to use a Steel Z-Move.",
+  "shortDesc": "If holder has a Steel move, this item allows it to use a Steel Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

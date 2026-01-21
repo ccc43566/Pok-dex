@@ -1,0 +1,12 @@
+{
+  "id": 309,
+  "name": "Lax Incense",
+  "english": "laxincense",
+  "category": "道具",
+  "num": 309,
+  "spritenum": 240,
+  "desc": "The accuracy of attacks against the holder is 0.9x.",
+  "shortDesc": "The accuracy of attacks against the holder is 0.9x.",
+  "gen": 3,
+  "isPokeball": false
+}

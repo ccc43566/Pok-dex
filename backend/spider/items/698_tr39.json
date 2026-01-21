@@ -1,0 +1,12 @@
+{
+  "id": 698,
+  "name": "TR39",
+  "english": "tr39",
+  "category": "道具",
+  "num": 698,
+  "spritenum": 722,
+  "desc": "Teaches certain Pokemon the move Superpower. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Superpower. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

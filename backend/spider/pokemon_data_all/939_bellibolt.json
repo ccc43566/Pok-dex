@@ -1,0 +1,28 @@
+{
+  "id": 939,
+  "name": "Bellibolt",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 109,
+  "attack": 64,
+  "defense": 91,
+  "sp_atk": 103,
+  "sp_def": 83,
+  "speed": 45,
+  "total": 495,
+  "abilities": [
+    "Electromorphosis",
+    "Static",
+    "Damp"
+  ],
+  "height": 1.2,
+  "weight": 113.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Tadbulb",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Thunder Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/bellibolt.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\939_bellibolt.gif"
+}

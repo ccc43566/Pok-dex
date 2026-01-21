@@ -1,0 +1,30 @@
+{
+  "id": 710,
+  "name": "Pumpkaboo-Large",
+  "type1": "Ghost",
+  "type2": "Grass",
+  "hp": 54,
+  "attack": 66,
+  "defense": 70,
+  "sp_atk": 44,
+  "sp_def": 55,
+  "speed": 46,
+  "total": 335,
+  "abilities": [
+    "Pickup",
+    "Frisk",
+    "Insomnia"
+  ],
+  "height": 0.5,
+  "weight": 7.5,
+  "gender_ratio": {},
+  "evos": [
+    "Gourgeist-Large"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pumpkaboo-large.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\710_pumpkaboo-large.gif"
+}

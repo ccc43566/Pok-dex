@@ -1,0 +1,27 @@
+{
+  "id": 132,
+  "name": "Ditto",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 48,
+  "attack": 48,
+  "defense": 48,
+  "sp_atk": 48,
+  "sp_def": 48,
+  "speed": 48,
+  "total": 288,
+  "abilities": [
+    "Limber",
+    "Imposter"
+  ],
+  "height": 0.3,
+  "weight": 4.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ditto.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\132_ditto.gif"
+}

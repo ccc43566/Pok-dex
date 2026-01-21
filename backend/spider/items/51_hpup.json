@@ -1,0 +1,12 @@
+{
+  "id": 51,
+  "name": "ＨＰ增强剂",
+  "english": "HP Up",
+  "category": "道具",
+  "num": 51,
+  "spritenum": 51,
+  "desc": "宝可梦的营养饮料。能提高１只宝可梦的ＨＰ的基础点数。",
+  "shortDesc": "宝可梦的营养饮料。能提高１只宝可梦的ＨＰ的基础点数。",
+  "gen": 1,
+  "isPokeball": false
+}

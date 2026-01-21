@@ -1,0 +1,28 @@
+{
+  "id": 569,
+  "name": "Garbodor-Gmax",
+  "type1": "Poison",
+  "type2": null,
+  "hp": 80,
+  "attack": 95,
+  "defense": 82,
+  "sp_atk": 60,
+  "sp_def": 82,
+  "speed": 75,
+  "total": 474,
+  "abilities": [
+    "Stench",
+    "Weak Armor",
+    "Aftermath"
+  ],
+  "height": 21.0,
+  "weight": 0.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/garbodor-gmax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\569_garbodor-gmax.gif"
+}

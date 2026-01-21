@@ -1,0 +1,12 @@
+{
+  "id": 460,
+  "name": "宝可梦的糖果*",
+  "english": "Pokémon Candy",
+  "category": "阿罗拉",
+  "num": 460,
+  "spritenum": 460,
+  "desc": "充满能量的糖果。能让特定宝可梦的所有能力上升。",
+  "shortDesc": "充满能量的糖果。能让特定宝可梦的所有能力上升。",
+  "gen": 1,
+  "isPokeball": false
+}

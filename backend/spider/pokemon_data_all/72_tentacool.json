@@ -1,0 +1,30 @@
+{
+  "id": 72,
+  "name": "Tentacool",
+  "type1": "Water",
+  "type2": "Poison",
+  "hp": 40,
+  "attack": 40,
+  "defense": 35,
+  "sp_atk": 50,
+  "sp_def": 100,
+  "speed": 70,
+  "total": 335,
+  "abilities": [
+    "Clear Body",
+    "Liquid Ooze",
+    "Rain Dish"
+  ],
+  "height": 0.9,
+  "weight": 45.5,
+  "gender_ratio": {},
+  "evos": [
+    "Tentacruel"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/tentacool.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\72_tentacool.gif"
+}

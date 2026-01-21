@@ -1,0 +1,28 @@
+{
+  "id": 219,
+  "name": "Magcargo",
+  "type1": "Fire",
+  "type2": "Rock",
+  "hp": 60,
+  "attack": 50,
+  "defense": 120,
+  "sp_atk": 90,
+  "sp_def": 80,
+  "speed": 30,
+  "total": 430,
+  "abilities": [
+    "Magma Armor",
+    "Flame Body",
+    "Weak Armor"
+  ],
+  "height": 0.8,
+  "weight": 55.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Slugma",
+  "evo_level": 38,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/magcargo.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\219_magcargo.gif"
+}

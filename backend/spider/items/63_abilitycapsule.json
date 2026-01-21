@@ -1,0 +1,12 @@
+{
+  "id": 63,
+  "name": "特性胶囊",
+  "english": "Ability Capsule",
+  "category": "道具",
+  "num": 63,
+  "spritenum": 63,
+  "desc": "如果用于有着２种特性的宝可梦，就能令其现有特性变为另一种的胶囊。",
+  "shortDesc": "如果用于有着２种特性的宝可梦，就能令其现有特性变为另一种的胶囊。",
+  "gen": 1,
+  "isPokeball": false
+}

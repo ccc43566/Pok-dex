@@ -1,0 +1,12 @@
+{
+  "id": 594,
+  "name": "化石鸟",
+  "english": "Fossilized Bird",
+  "category": "道具",
+  "num": 594,
+  "spritenum": 594,
+  "desc": "远古时代的宝可梦化石残片。它曾翱翔于天空，本来面目至今仍是未解之谜。",
+  "shortDesc": "远古时代的宝可梦化石残片。它曾翱翔于天空，本来面目至今仍是未解之谜。",
+  "gen": 1,
+  "isPokeball": false
+}

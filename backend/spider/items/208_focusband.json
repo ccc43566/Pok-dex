@@ -1,0 +1,12 @@
+{
+  "id": 208,
+  "name": "Focus Band",
+  "english": "focusband",
+  "category": "道具",
+  "num": 208,
+  "spritenum": 150,
+  "desc": "Holder has a 10% chance to survive an attack that would KO it with 1 HP.",
+  "shortDesc": "Holder has a 10% chance to survive an attack that would KO it with 1 HP.",
+  "gen": 2,
+  "isPokeball": false
+}

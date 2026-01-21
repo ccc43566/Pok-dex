@@ -1,0 +1,12 @@
+{
+  "id": 218,
+  "name": "Fossilized Fish",
+  "english": "fossilizedfish",
+  "category": "道具",
+  "num": 218,
+  "spritenum": 701,
+  "desc": "Can revive into Dracovish with Fossilized Drake or Arctovish with Fossilized Dino.",
+  "shortDesc": "Can revive into Dracovish with Fossilized Drake or Arctovish with Fossilized Dino.",
+  "gen": 8,
+  "isPokeball": false
+}

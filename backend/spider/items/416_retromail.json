@@ -1,0 +1,12 @@
+{
+  "id": 416,
+  "name": "复古邮件",
+  "english": "Retro Mail",
+  "category": "道具",
+  "num": 416,
+  "spritenum": 416,
+  "desc": "印有三种宝可梦的信纸，可以讓宝可梦携带。",
+  "shortDesc": "印有三种宝可梦的信纸，可以讓宝可梦携带。",
+  "gen": 1,
+  "isPokeball": false
+}

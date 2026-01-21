@@ -1,0 +1,29 @@
+{
+  "id": 669,
+  "name": "Flabébé",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 44,
+  "attack": 38,
+  "defense": 39,
+  "sp_atk": 61,
+  "sp_def": 79,
+  "speed": 42,
+  "total": 303,
+  "abilities": [
+    "Flower Veil",
+    "Symbiosis"
+  ],
+  "height": 0.1,
+  "weight": 0.1,
+  "gender_ratio": {},
+  "evos": [
+    "Floette"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/flabebe.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\669_flabebe.gif"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 52,
+  "name": "Meowth-Alola",
+  "type1": "Dark",
+  "type2": null,
+  "hp": 40,
+  "attack": 35,
+  "defense": 35,
+  "sp_atk": 50,
+  "sp_def": 40,
+  "speed": 90,
+  "total": 290,
+  "abilities": [
+    "Pickup",
+    "Technician",
+    "Rattled"
+  ],
+  "height": 0.4,
+  "weight": 4.2,
+  "gender_ratio": {},
+  "evos": [
+    "Persian-Alola"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/meowth-alola.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\52_meowth-alola.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 875,
+  "name": "PRZ Cure Berry",
+  "english": "przcureberry",
+  "category": "道具",
+  "num": 875,
+  "spritenum": 63,
+  "desc": "(Gen 2) Holder cures itself if it is paralyzed. Single use.",
+  "shortDesc": "(Gen 2) Holder cures itself if it is paralyzed. Single use.",
+  "gen": 2,
+  "isPokeball": false
+}

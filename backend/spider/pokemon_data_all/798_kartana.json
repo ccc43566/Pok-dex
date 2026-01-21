@@ -1,0 +1,26 @@
+{
+  "id": 798,
+  "name": "Kartana",
+  "type1": "Grass",
+  "type2": "Steel",
+  "hp": 59,
+  "attack": 181,
+  "defense": 131,
+  "sp_atk": 59,
+  "sp_def": 31,
+  "speed": 109,
+  "total": 570,
+  "abilities": [
+    "Beast Boost"
+  ],
+  "height": 0.3,
+  "weight": 0.1,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/kartana.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\798_kartana.gif"
+}

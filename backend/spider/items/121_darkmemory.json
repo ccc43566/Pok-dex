@@ -1,0 +1,12 @@
+{
+  "id": 121,
+  "name": "Dark Memory",
+  "english": "darkmemory",
+  "category": "道具",
+  "num": 121,
+  "spritenum": 683,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

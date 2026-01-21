@@ -1,0 +1,12 @@
+{
+  "id": 236,
+  "name": "Ghost Memory",
+  "english": "ghostmemory",
+  "category": "道具",
+  "num": 236,
+  "spritenum": 674,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

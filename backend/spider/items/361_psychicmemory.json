@@ -1,0 +1,12 @@
+{
+  "id": 361,
+  "name": "精神存储碟",
+  "english": "Psychic Memory",
+  "category": "道具",
+  "num": 361,
+  "spritenum": 361,
+  "desc": "装有超能力属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "shortDesc": "装有超能力属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "gen": 1,
+  "isPokeball": false
+}

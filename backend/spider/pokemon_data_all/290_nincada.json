@@ -1,0 +1,30 @@
+{
+  "id": 290,
+  "name": "Nincada",
+  "type1": "Bug",
+  "type2": "Ground",
+  "hp": 31,
+  "attack": 45,
+  "defense": 90,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "speed": 40,
+  "total": 266,
+  "abilities": [
+    "Compound Eyes",
+    "Run Away"
+  ],
+  "height": 0.5,
+  "weight": 5.5,
+  "gender_ratio": {},
+  "evos": [
+    "Ninjask",
+    "Shedinja"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/nincada.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\290_nincada.gif"
+}

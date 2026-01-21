@@ -1,0 +1,12 @@
+{
+  "id": 1038,
+  "name": "番荔果",
+  "english": "Yache Berry",
+  "category": "树果",
+  "num": 1038,
+  "spritenum": 1038,
+  "desc": "让宝可梦携带后，在受到效果绝佳的冰属性招式攻击时，能令其威力减弱。",
+  "shortDesc": "让宝可梦携带后，在受到效果绝佳的冰属性招式攻击时，能令其威力减弱。",
+  "gen": 1,
+  "isPokeball": false
+}

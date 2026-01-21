@@ -1,0 +1,12 @@
+{
+  "id": 233,
+  "name": "Gengarite",
+  "english": "gengarite",
+  "category": "道具",
+  "num": 233,
+  "spritenum": 588,
+  "desc": "If held by a Gengar, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Gengar, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

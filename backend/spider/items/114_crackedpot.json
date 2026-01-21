@@ -1,0 +1,12 @@
+{
+  "id": 114,
+  "name": "Cracked Pot",
+  "english": "crackedpot",
+  "category": "道具",
+  "num": 114,
+  "spritenum": 719,
+  "desc": "Evolves Sinistea into Polteageist when used.",
+  "shortDesc": "Evolves Sinistea into Polteageist when used.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 21,
+  "name": "兰紫色花蜜",
+  "english": "Purple Nectar",
+  "category": "道具",
+  "num": 21,
+  "spritenum": 21,
+  "desc": "兰紫色花的花蜜。可以改变特定宝可梦的样子。",
+  "shortDesc": "兰紫色花的花蜜。可以改变特定宝可梦的样子。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 433,
+  "name": "询问邮件",
+  "english": "Inquiry Mail",
+  "category": "道具",
+  "num": 433,
+  "spritenum": 433,
+  "desc": "方便写询问对方这类邮件的信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "shortDesc": "方便写询问对方这类邮件的信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "gen": 1,
+  "isPokeball": false
+}

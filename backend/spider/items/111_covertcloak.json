@@ -1,0 +1,12 @@
+{
+  "id": 111,
+  "name": "Covert Cloak",
+  "english": "covertcloak",
+  "category": "道具",
+  "num": 111,
+  "spritenum": 750,
+  "desc": "The holder is not affected by the secondary effect of another Pokemon",
+  "shortDesc": "Holder is not affected by the secondary effect of another Pokemon",
+  "gen": 9,
+  "isPokeball": false
+}

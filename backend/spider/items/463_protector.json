@@ -1,0 +1,12 @@
+{
+  "id": 463,
+  "name": "Protector",
+  "english": "protector",
+  "category": "道具",
+  "num": 463,
+  "spritenum": 367,
+  "desc": "Evolves Rhydon into Rhyperior when traded.",
+  "shortDesc": "Evolves Rhydon into Rhyperior when traded.",
+  "gen": 4,
+  "isPokeball": false
+}

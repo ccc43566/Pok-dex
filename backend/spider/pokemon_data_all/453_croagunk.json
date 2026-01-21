@@ -1,0 +1,30 @@
+{
+  "id": 453,
+  "name": "Croagunk",
+  "type1": "Poison",
+  "type2": "Fighting",
+  "hp": 48,
+  "attack": 61,
+  "defense": 40,
+  "sp_atk": 61,
+  "sp_def": 40,
+  "speed": 50,
+  "total": 300,
+  "abilities": [
+    "Anticipation",
+    "Dry Skin",
+    "Poison Touch"
+  ],
+  "height": 0.7,
+  "weight": 23.0,
+  "gender_ratio": {},
+  "evos": [
+    "Toxicroak"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/croagunk.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\453_croagunk.gif"
+}

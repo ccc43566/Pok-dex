@@ -1,0 +1,32 @@
+{
+  "id": 391,
+  "name": "Monferno",
+  "type1": "Fire",
+  "type2": "Fighting",
+  "hp": 64,
+  "attack": 78,
+  "defense": 52,
+  "sp_atk": 78,
+  "sp_def": 52,
+  "speed": 81,
+  "total": 405,
+  "abilities": [
+    "Blaze",
+    "Iron Fist"
+  ],
+  "height": 0.9,
+  "weight": 22.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Infernape"
+  ],
+  "prevo": "Chimchar",
+  "evo_level": 14,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/monferno.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\391_monferno.gif"
+}

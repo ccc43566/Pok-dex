@@ -1,0 +1,12 @@
+{
+  "id": 31,
+  "name": "极巨结晶",
+  "english": "Dynamax Crystal",
+  "category": "道具",
+  "num": 31,
+  "spritenum": 31,
+  "desc": "使用后的当天，旷野地带的瞭望塔巨巢中会出现【宝可梦的名字】。",
+  "shortDesc": "使用后的当天，旷野地带的瞭望塔巨巢中会出现【宝可梦的名字】。",
+  "gen": 1,
+  "isPokeball": false
+}

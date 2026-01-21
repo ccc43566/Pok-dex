@@ -1,0 +1,30 @@
+{
+  "id": 52,
+  "name": "Meowth-Galar",
+  "type1": "Steel",
+  "type2": null,
+  "hp": 50,
+  "attack": 65,
+  "defense": 55,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "speed": 40,
+  "total": 290,
+  "abilities": [
+    "Pickup",
+    "Tough Claws",
+    "Unnerve"
+  ],
+  "height": 0.4,
+  "weight": 7.5,
+  "gender_ratio": {},
+  "evos": [
+    "Perrserker"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/meowth-galar.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\52_meowth-galar.gif"
+}

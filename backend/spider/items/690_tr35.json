@@ -1,0 +1,12 @@
+{
+  "id": 690,
+  "name": "TR35",
+  "english": "tr35",
+  "category": "道具",
+  "num": 690,
+  "spritenum": 721,
+  "desc": "Teaches certain Pokemon the move Uproar. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Uproar. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

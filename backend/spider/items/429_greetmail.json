@@ -1,0 +1,12 @@
+{
+  "id": 429,
+  "name": "初次邮件",
+  "english": "Greet Mail",
+  "category": "道具",
+  "num": 429,
+  "spritenum": 429,
+  "desc": "方便写初次见面这类寒暄语的信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "shortDesc": "方便写初次见面这类寒暄语的信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "gen": 1,
+  "isPokeball": false
+}

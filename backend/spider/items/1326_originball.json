@@ -1,0 +1,12 @@
+{
+  "id": 1326,
+  "name": "起源球",
+  "english": "Origin Ball",
+  "category": "重要物品",
+  "num": 1326,
+  "spritenum": 1326,
+  "desc": "独一无二的特殊精灵球。能够捕捉在神奥神殿狂暴大闹的宝可梦。",
+  "shortDesc": "独一无二的特殊精灵球。能够捕捉在神奥神殿狂暴大闹的宝可梦。",
+  "gen": 1,
+  "isPokeball": false
+}

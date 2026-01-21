@@ -1,0 +1,27 @@
+{
+  "id": 873,
+  "name": "Frosmoth",
+  "type1": "Ice",
+  "type2": "Bug",
+  "hp": 70,
+  "attack": 65,
+  "defense": 60,
+  "sp_atk": 125,
+  "sp_def": 90,
+  "speed": 65,
+  "total": 475,
+  "abilities": [
+    "Shield Dust",
+    "Ice Scales"
+  ],
+  "height": 1.3,
+  "weight": 42.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Snom",
+  "evo_level": null,
+  "evo_type": "levelFriendship",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/frosmoth.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\873_frosmoth.gif"
+}

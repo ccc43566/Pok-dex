@@ -1,0 +1,12 @@
+{
+  "id": 26,
+  "name": "黄金香水",
+  "english": "Max Lure",
+  "category": "道具",
+  "num": 26,
+  "spritenum": 26,
+  "desc": "使用该香水后，稀有宝可梦会更容易出现。效果比白银香水更持久。",
+  "shortDesc": "使用该香水后，稀有宝可梦会更容易出现。效果比白银香水更持久。",
+  "gen": 1,
+  "isPokeball": false
+}

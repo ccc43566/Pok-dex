@@ -1,0 +1,27 @@
+{
+  "id": 181,
+  "name": "Ampharos",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 90,
+  "attack": 75,
+  "defense": 85,
+  "sp_atk": 115,
+  "sp_def": 90,
+  "speed": 55,
+  "total": 510,
+  "abilities": [
+    "Static",
+    "Plus"
+  ],
+  "height": 1.4,
+  "weight": 61.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Flaaffy",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ampharos.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\181_ampharos.gif"
+}

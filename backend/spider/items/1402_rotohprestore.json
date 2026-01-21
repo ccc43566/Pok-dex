@@ -1,0 +1,12 @@
+{
+  "id": 1402,
+  "name": "ＨＰ回复碰碰",
+  "english": "Roto HP Restore",
+  "category": "道具",
+  "num": 1402,
+  "spritenum": 1402,
+  "desc": "洛托姆之力的一种，正在战斗的我方宝可梦的ＨＰ会全部回复。",
+  "shortDesc": "洛托姆之力的一种，正在战斗的我方宝可梦的ＨＰ会全部回复。",
+  "gen": 1,
+  "isPokeball": false
+}

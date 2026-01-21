@@ -1,0 +1,12 @@
+{
+  "id": 451,
+  "name": "Power Lens",
+  "english": "powerlens",
+  "category": "道具",
+  "num": 451,
+  "spritenum": 359,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

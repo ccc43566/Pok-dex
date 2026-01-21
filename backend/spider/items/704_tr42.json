@@ -1,0 +1,12 @@
+{
+  "id": 704,
+  "name": "TR42",
+  "english": "tr42",
+  "category": "道具",
+  "num": 704,
+  "spritenum": 721,
+  "desc": "Teaches certain Pokemon the move Hyper Voice. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Hyper Voice. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 25,
+  "name": "Pikachu-Starter",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 45,
+  "attack": 80,
+  "defense": 50,
+  "sp_atk": 75,
+  "sp_def": 60,
+  "speed": 120,
+  "total": 430,
+  "abilities": [
+    "Static",
+    "Lightning Rod"
+  ],
+  "height": 0.4,
+  "weight": 6.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/pikachustarter.png"
+}

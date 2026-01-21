@@ -1,0 +1,12 @@
+{
+  "id": 567,
+  "name": "古代王冠",
+  "english": "Relic Crown",
+  "category": "宝物",
+  "num": 567,
+  "spritenum": 567,
+  "desc": "约３０００年前的文明制造的王冠。",
+  "shortDesc": "约３０００年前的文明制造的王冠。",
+  "gen": 1,
+  "isPokeball": false
+}

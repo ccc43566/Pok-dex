@@ -1,0 +1,12 @@
+{
+  "id": 18,
+  "name": "朱红色花蜜",
+  "english": "Red Nectar",
+  "category": "道具",
+  "num": 18,
+  "spritenum": 18,
+  "desc": "朱红色花的花蜜。可以改变特定宝可梦的样子。",
+  "shortDesc": "朱红色花的花蜜。可以改变特定宝可梦的样子。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 682,
+  "name": "TR31",
+  "english": "tr31",
+  "category": "道具",
+  "num": 682,
+  "spritenum": 729,
+  "desc": "Teaches certain Pokemon the move Iron Tail. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Iron Tail. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

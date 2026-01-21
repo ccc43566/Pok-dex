@@ -1,0 +1,12 @@
+{
+  "id": 488,
+  "name": "碎铁",
+  "english": "Iron Chunk",
+  "category": "道具",
+  "num": 488,
+  "spritenum": 488,
+  "desc": "天然的金属片。可加工成锁扣等零件，在制作各种精灵球时使用。",
+  "shortDesc": "天然的金属片。可加工成锁扣等零件，在制作各种精灵球时使用。",
+  "gen": 1,
+  "isPokeball": false
+}

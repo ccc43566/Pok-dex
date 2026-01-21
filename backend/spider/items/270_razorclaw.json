@@ -1,0 +1,12 @@
+{
+  "id": 270,
+  "name": "锐利之爪",
+  "english": "Razor Claw",
+  "category": "道具",
+  "num": 270,
+  "spritenum": 270,
+  "desc": "尖锐的爪子。携带后，招式会变得容易击中要害。",
+  "shortDesc": "尖锐的爪子。携带后，招式会变得容易击中要害。",
+  "gen": 1,
+  "isPokeball": false
+}

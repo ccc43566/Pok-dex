@@ -1,0 +1,27 @@
+{
+  "id": 1015,
+  "name": "Munkidori",
+  "type1": "Poison",
+  "type2": "Psychic",
+  "hp": 88,
+  "attack": 75,
+  "defense": 66,
+  "sp_atk": 130,
+  "sp_def": 90,
+  "speed": 106,
+  "total": 555,
+  "abilities": [
+    "Toxic Chain",
+    "Frisk"
+  ],
+  "height": 1.0,
+  "weight": 12.2,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/munkidori.png",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\1015_munkidori.png"
+}

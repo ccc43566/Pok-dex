@@ -1,0 +1,29 @@
+{
+  "id": 276,
+  "name": "Taillow",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 40,
+  "attack": 55,
+  "defense": 30,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "speed": 85,
+  "total": 270,
+  "abilities": [
+    "Guts",
+    "Scrappy"
+  ],
+  "height": 0.3,
+  "weight": 2.3,
+  "gender_ratio": {},
+  "evos": [
+    "Swellow"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/taillow.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\276_taillow.gif"
+}

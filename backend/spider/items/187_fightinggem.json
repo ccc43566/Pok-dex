@@ -1,0 +1,12 @@
+{
+  "id": 187,
+  "name": "Fighting Gem",
+  "english": "fightinggem",
+  "category": "道具",
+  "num": 187,
+  "spritenum": 139,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

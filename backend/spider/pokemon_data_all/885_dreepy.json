@@ -1,0 +1,30 @@
+{
+  "id": 885,
+  "name": "Dreepy",
+  "type1": "Dragon",
+  "type2": "Ghost",
+  "hp": 28,
+  "attack": 60,
+  "defense": 30,
+  "sp_atk": 40,
+  "sp_def": 30,
+  "speed": 82,
+  "total": 270,
+  "abilities": [
+    "Clear Body",
+    "Infiltrator",
+    "Cursed Body"
+  ],
+  "height": 0.5,
+  "weight": 2.0,
+  "gender_ratio": {},
+  "evos": [
+    "Drakloak"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/dreepy.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\885_dreepy.gif"
+}

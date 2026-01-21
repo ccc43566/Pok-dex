@@ -1,0 +1,12 @@
+{
+  "id": 544,
+  "name": "Shell Bell",
+  "english": "shellbell",
+  "category": "道具",
+  "num": 544,
+  "spritenum": 438,
+  "desc": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.",
+  "shortDesc": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.",
+  "gen": 3,
+  "isPokeball": false
+}

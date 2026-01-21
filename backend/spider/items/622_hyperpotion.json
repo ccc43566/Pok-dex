@@ -1,0 +1,12 @@
+{
+  "id": 622,
+  "name": "厉害伤药",
+  "english": "Hyper Potion",
+  "category": "回复",
+  "num": 622,
+  "spritenum": 622,
+  "desc": "喷雾式伤药。能让１只宝可梦回复１２０ＨＰ。",
+  "shortDesc": "喷雾式伤药。能让１只宝可梦回复１２０ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 348,
+  "name": "青草种子",
+  "english": "Grassy Seed",
+  "category": "道具",
+  "num": 348,
+  "spritenum": 348,
+  "desc": "让宝可梦携带后，在青草场地上使用，防御就会提高。",
+  "shortDesc": "让宝可梦携带后，在青草场地上使用，防御就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

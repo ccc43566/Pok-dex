@@ -1,0 +1,28 @@
+{
+  "id": 706,
+  "name": "Goodra-Hisui",
+  "type1": "Steel",
+  "type2": "Dragon",
+  "hp": 80,
+  "attack": 100,
+  "defense": 100,
+  "sp_atk": 110,
+  "sp_def": 150,
+  "speed": 60,
+  "total": 600,
+  "abilities": [
+    "Sap Sipper",
+    "Shell Armor",
+    "Gooey"
+  ],
+  "height": 1.7,
+  "weight": 334.1,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Sliggoo-Hisui",
+  "evo_level": 50,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/goodra-hisui.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\706_goodra-hisui.gif"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 516,
+  "name": "Simipour",
+  "type1": "Water",
+  "type2": null,
+  "hp": 75,
+  "attack": 98,
+  "defense": 63,
+  "sp_atk": 98,
+  "sp_def": 63,
+  "speed": 101,
+  "total": 498,
+  "abilities": [
+    "Gluttony",
+    "Torrent"
+  ],
+  "height": 1.0,
+  "weight": 29.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Panpour",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Water Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/simipour.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\516_simipour.gif"
+}

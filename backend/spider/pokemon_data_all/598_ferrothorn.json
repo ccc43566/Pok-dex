@@ -1,0 +1,27 @@
+{
+  "id": 598,
+  "name": "Ferrothorn",
+  "type1": "Grass",
+  "type2": "Steel",
+  "hp": 74,
+  "attack": 94,
+  "defense": 131,
+  "sp_atk": 54,
+  "sp_def": 116,
+  "speed": 20,
+  "total": 489,
+  "abilities": [
+    "Iron Barbs",
+    "Anticipation"
+  ],
+  "height": 1.0,
+  "weight": 110.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Ferroseed",
+  "evo_level": 40,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ferrothorn.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\598_ferrothorn.gif"
+}

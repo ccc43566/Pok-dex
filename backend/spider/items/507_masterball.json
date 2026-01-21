@@ -1,0 +1,12 @@
+{
+  "id": 507,
+  "name": "大师球",
+  "english": "Master Ball",
+  "category": "精灵球",
+  "num": 507,
+  "spritenum": 507,
+  "desc": "必定能捉到野生宝可梦的，性能最好的球。",
+  "shortDesc": "必定能捉到野生宝可梦的，性能最好的球。",
+  "gen": 1,
+  "isPokeball": false
+}

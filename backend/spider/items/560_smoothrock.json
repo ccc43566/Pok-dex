@@ -1,0 +1,12 @@
+{
+  "id": 560,
+  "name": "Smooth Rock",
+  "english": "smoothrock",
+  "category": "道具",
+  "num": 560,
+  "spritenum": 453,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

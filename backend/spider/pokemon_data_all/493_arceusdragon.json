@@ -1,0 +1,26 @@
+{
+  "id": 493,
+  "name": "Arceus-Dragon",
+  "type1": "Dragon",
+  "type2": null,
+  "hp": 120,
+  "attack": 120,
+  "defense": 120,
+  "sp_atk": 120,
+  "sp_def": 120,
+  "speed": 120,
+  "total": 720,
+  "abilities": [
+    "Multitype"
+  ],
+  "height": 3.2,
+  "weight": 320.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/arceus-dragon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\493_arceus-dragon.gif"
+}

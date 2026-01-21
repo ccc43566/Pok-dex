@@ -1,0 +1,12 @@
+{
+  "id": 706,
+  "name": "TR43",
+  "english": "tr43",
+  "category": "道具",
+  "num": 706,
+  "spritenum": 730,
+  "desc": "Teaches certain Pokemon the move Overheat. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Overheat. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

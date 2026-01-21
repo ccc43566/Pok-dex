@@ -1,0 +1,12 @@
+{
+  "id": 639,
+  "name": "万能粉",
+  "english": "Heal Powder",
+  "category": "回复",
+  "num": 639,
+  "spritenum": 639,
+  "desc": "非常苦的药粉。能治愈１只宝可梦的所有异常状态。",
+  "shortDesc": "非常苦的药粉。能治愈１只宝可梦的所有异常状态。",
+  "gen": 1,
+  "isPokeball": false
+}

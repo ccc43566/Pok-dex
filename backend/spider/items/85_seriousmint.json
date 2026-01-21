@@ -1,0 +1,12 @@
+{
+  "id": 85,
+  "name": "认真薄荷",
+  "english": "Serious Mint",
+  "category": "道具",
+  "num": 85,
+  "spritenum": 85,
+  "desc": "宝可梦闻了这种薄荷之后，攻击、防御、速度、特防、特攻能全方位提高。",
+  "shortDesc": "宝可梦闻了这种薄荷之后，攻击、防御、速度、特防、特攻能全方位提高。",
+  "gen": 1,
+  "isPokeball": false
+}

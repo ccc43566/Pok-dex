@@ -1,0 +1,12 @@
+{
+  "id": 167,
+  "name": "Electric Memory",
+  "english": "electricmemory",
+  "category": "道具",
+  "num": 167,
+  "spritenum": 679,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

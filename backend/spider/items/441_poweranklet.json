@@ -1,0 +1,12 @@
+{
+  "id": 441,
+  "name": "Power Anklet",
+  "english": "poweranklet",
+  "category": "道具",
+  "num": 441,
+  "spritenum": 354,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

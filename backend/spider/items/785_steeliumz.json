@@ -1,0 +1,12 @@
+{
+  "id": 785,
+  "name": "钢Ｚ",
+  "english": "Steelium Z",
+  "category": "Ｚ纯晶",
+  "num": 785,
+  "spritenum": 785,
+  "desc": "Ｚ力量的结晶。会将钢属性的招式升级成Ｚ招式。",
+  "shortDesc": "Ｚ力量的结晶。会将钢属性的招式升级成Ｚ招式。",
+  "gen": 1,
+  "isPokeball": false
+}

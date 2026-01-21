@@ -1,0 +1,28 @@
+{
+  "id": 584,
+  "name": "Vanilluxe",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 71,
+  "attack": 95,
+  "defense": 85,
+  "sp_atk": 110,
+  "sp_def": 95,
+  "speed": 79,
+  "total": 535,
+  "abilities": [
+    "Ice Body",
+    "Snow Warning",
+    "Weak Armor"
+  ],
+  "height": 1.3,
+  "weight": 57.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Vanillish",
+  "evo_level": 47,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/vanilluxe.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\584_vanilluxe.gif"
+}

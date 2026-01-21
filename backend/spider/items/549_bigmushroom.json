@@ -1,0 +1,12 @@
+{
+  "id": 549,
+  "name": "大蘑菇",
+  "english": "Big Mushroom",
+  "category": "宝物",
+  "num": 549,
+  "spritenum": 549,
+  "desc": "珍稀的大蘑菇。在一些爱好者中有着非常高的人气。",
+  "shortDesc": "珍稀的大蘑菇。在一些爱好者中有着非常高的人气。",
+  "gen": 1,
+  "isPokeball": false
+}

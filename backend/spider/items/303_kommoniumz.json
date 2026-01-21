@@ -1,0 +1,12 @@
+{
+  "id": 303,
+  "name": "Kommonium Z",
+  "english": "kommoniumz",
+  "category": "道具",
+  "num": 303,
+  "spritenum": 690,
+  "desc": "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.",
+  "shortDesc": "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.",
+  "gen": 7,
+  "isPokeball": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": 848,
+  "name": "toxel",
+  "level_up": [
+    "acid",
+    "belch",
+    "flail",
+    "growl",
+    "nuzzle",
+    "tearfullook"
+  ],
+  "egg_moves": [
+    "endeavor",
+    "metalsound",
+    "poweruppunch"
+  ],
+  "tm_moves": [
+    "attract",
+    "charm",
+    "encore",
+    "endeavor",
+    "endure",
+    "facade",
+    "metalsound",
+    "protect",
+    "rest",
+    "round",
+    "sleeptalk",
+    "snore",
+    "substitute",
+    "terablast"
+  ],
+  "tutor_moves": []
+}

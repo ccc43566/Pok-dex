@@ -1,0 +1,12 @@
+{
+  "id": 222,
+  "name": "Full Incense",
+  "english": "fullincense",
+  "category": "道具",
+  "num": 222,
+  "spritenum": 155,
+  "desc": "Holder moves last in its priority bracket.",
+  "shortDesc": "Holder moves last in its priority bracket.",
+  "gen": 4,
+  "isPokeball": false
+}

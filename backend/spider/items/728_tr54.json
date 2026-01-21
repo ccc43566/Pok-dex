@@ -1,0 +1,12 @@
+{
+  "id": 728,
+  "name": "TR54",
+  "english": "tr54",
+  "category": "道具",
+  "num": 728,
+  "spritenum": 724,
+  "desc": "Teaches certain Pokemon the move Toxic Spikes. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Toxic Spikes. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

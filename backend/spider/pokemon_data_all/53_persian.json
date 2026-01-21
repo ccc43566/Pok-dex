@@ -1,0 +1,28 @@
+{
+  "id": 53,
+  "name": "Persian",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 65,
+  "attack": 70,
+  "defense": 60,
+  "sp_atk": 65,
+  "sp_def": 65,
+  "speed": 115,
+  "total": 440,
+  "abilities": [
+    "Limber",
+    "Technician",
+    "Unnerve"
+  ],
+  "height": 1.0,
+  "weight": 32.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Meowth",
+  "evo_level": 28,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/persian.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\53_persian.gif"
+}

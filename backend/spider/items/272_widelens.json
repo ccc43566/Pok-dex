@@ -1,0 +1,12 @@
+{
+  "id": 272,
+  "name": "广角镜",
+  "english": "Wide Lens",
+  "category": "道具",
+  "num": 272,
+  "spritenum": 272,
+  "desc": "能放大观看物体的镜片。携带后，招式的命中率就会少量提高。",
+  "shortDesc": "能放大观看物体的镜片。携带后，招式的命中率就会少量提高。",
+  "gen": 1,
+  "isPokeball": false
+}

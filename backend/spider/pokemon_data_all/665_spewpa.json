@@ -1,0 +1,30 @@
+{
+  "id": 665,
+  "name": "Spewpa",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 45,
+  "attack": 22,
+  "defense": 60,
+  "sp_atk": 27,
+  "sp_def": 30,
+  "speed": 29,
+  "total": 213,
+  "abilities": [
+    "Shed Skin",
+    "Friend Guard"
+  ],
+  "height": 0.3,
+  "weight": 8.4,
+  "gender_ratio": {},
+  "evos": [
+    "Vivillon",
+    "Vivillon-Fancy"
+  ],
+  "prevo": "Scatterbug",
+  "evo_level": 9,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/spewpa.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\665_spewpa.gif"
+}

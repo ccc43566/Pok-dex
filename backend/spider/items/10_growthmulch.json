@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "name": "速速肥",
+  "english": "Growth Mulch",
+  "category": "道具",
+  "num": 10,
+  "spritenum": 10,
+  "desc": "培育树果时的肥料。但完全不适合丰缘地区的土壤，所以没什么效果。",
+  "shortDesc": "培育树果时的肥料。但完全不适合丰缘地区的土壤，所以没什么效果。",
+  "gen": 1,
+  "isPokeball": false
+}

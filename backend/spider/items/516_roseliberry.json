@@ -1,0 +1,12 @@
+{
+  "id": 516,
+  "name": "Roseli Berry",
+  "english": "roseliberry",
+  "category": "道具",
+  "num": 516,
+  "spritenum": 603,
+  "desc": "Halves damage taken from a supereffective Fairy-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Fairy-type attack. Single use.",
+  "gen": 6,
+  "isPokeball": false
+}

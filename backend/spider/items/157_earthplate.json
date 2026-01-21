@@ -1,0 +1,12 @@
+{
+  "id": 157,
+  "name": "Earth Plate",
+  "english": "earthplate",
+  "category": "道具",
+  "num": 157,
+  "spritenum": 117,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

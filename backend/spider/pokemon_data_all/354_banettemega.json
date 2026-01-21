@@ -1,0 +1,26 @@
+{
+  "id": 354,
+  "name": "Banette-Mega",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 64,
+  "attack": 165,
+  "defense": 75,
+  "sp_atk": 93,
+  "sp_def": 83,
+  "speed": 75,
+  "total": 555,
+  "abilities": [
+    "Prankster"
+  ],
+  "height": 1.2,
+  "weight": 13.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/banette-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\354_banette-mega.gif"
+}

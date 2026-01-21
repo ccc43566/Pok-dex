@@ -1,0 +1,12 @@
+{
+  "id": 465,
+  "name": "经验糖果ＸＬ",
+  "english": "Exp. Candy XL",
+  "category": "阿罗拉",
+  "num": 465,
+  "spritenum": 465,
+  "desc": "充满能量的糖果。交给１只宝可梦后，可以为它增加大量经验值。",
+  "shortDesc": "充满能量的糖果。交给１只宝可梦后，可以为它增加大量经验值。",
+  "gen": 1,
+  "isPokeball": false
+}

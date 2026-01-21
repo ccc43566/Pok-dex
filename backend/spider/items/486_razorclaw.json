@@ -1,0 +1,12 @@
+{
+  "id": 486,
+  "name": "Razor Claw",
+  "english": "razorclaw",
+  "category": "道具",
+  "num": 486,
+  "spritenum": 382,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

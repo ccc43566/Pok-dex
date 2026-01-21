@@ -1,0 +1,12 @@
+{
+  "id": 1082,
+  "name": "好钓竿",
+  "english": "Good Rod",
+  "category": "重要物品",
+  "num": 1082,
+  "spritenum": 1082,
+  "desc": "不错的新钓竿。在有水的地方使用的话，可以钓到宝可梦。",
+  "shortDesc": "不错的新钓竿。在有水的地方使用的话，可以钓到宝可梦。",
+  "gen": 1,
+  "isPokeball": false
+}

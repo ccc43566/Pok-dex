@@ -1,0 +1,12 @@
+{
+  "id": 135,
+  "name": "Dome Fossil",
+  "english": "domefossil",
+  "category": "道具",
+  "num": 135,
+  "spritenum": 102,
+  "desc": "Can be revived into Kabuto.",
+  "shortDesc": "Can be revived into Kabuto.",
+  "gen": 3,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 177,
+  "name": "焦点镜",
+  "english": "Scope Lens",
+  "category": "道具",
+  "num": 177,
+  "spritenum": 177,
+  "desc": "能看见弱点的镜片。携带它的宝可梦的招式会变得容易击中要害。",
+  "shortDesc": "能看见弱点的镜片。携带它的宝可梦的招式会变得容易击中要害。",
+  "gen": 1,
+  "isPokeball": false
+}

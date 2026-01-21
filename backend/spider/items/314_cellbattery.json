@@ -1,0 +1,12 @@
+{
+  "id": 314,
+  "name": "充电电池",
+  "english": "Cell Battery",
+  "category": "道具",
+  "num": 314,
+  "spritenum": 314,
+  "desc": "一次性使用的充电电池。携带它的宝可梦如果受到电属性招式的攻击，攻击就会提高。",
+  "shortDesc": "一次性使用的充电电池。携带它的宝可梦如果受到电属性招式的攻击，攻击就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

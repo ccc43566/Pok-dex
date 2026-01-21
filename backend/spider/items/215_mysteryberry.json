@@ -1,0 +1,12 @@
+{
+  "id": 215,
+  "name": "神奇的果实",
+  "english": "MysteryBerry",
+  "category": "道具",
+  "num": 215,
+  "spritenum": 215,
+  "desc": "携带后，可以在战斗中回复自己的ＰＰ。",
+  "shortDesc": "携带后，可以在战斗中回复自己的ＰＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

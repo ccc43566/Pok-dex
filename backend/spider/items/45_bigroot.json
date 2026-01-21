@@ -1,0 +1,12 @@
+{
+  "id": 45,
+  "name": "Big Root",
+  "english": "bigroot",
+  "category": "道具",
+  "num": 45,
+  "spritenum": 29,
+  "desc": "Holder gains 1.3x HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap.",
+  "shortDesc": "Holder gains 1.3x HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap.",
+  "gen": 4,
+  "isPokeball": false
+}

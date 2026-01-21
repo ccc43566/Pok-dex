@@ -1,0 +1,12 @@
+{
+  "id": 180,
+  "name": "龙之鳞片",
+  "english": "Dragon Scale",
+  "category": "道具",
+  "num": 180,
+  "spritenum": 180,
+  "desc": "又硬又坚固的鳞片。龙属性宝可梦有时会携带它。",
+  "shortDesc": "又硬又坚固的鳞片。龙属性宝可梦有时会携带它。",
+  "gen": 1,
+  "isPokeball": false
+}

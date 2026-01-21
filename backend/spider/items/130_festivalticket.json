@@ -1,0 +1,12 @@
+{
+  "id": 130,
+  "name": "圆庆票",
+  "english": "Festival Ticket",
+  "category": "道具",
+  "num": 130,
+  "spritenum": 130,
+  "desc": "可以在圆庆广场开启游乐项目。",
+  "shortDesc": "可以在圆庆广场开启游乐项目。",
+  "gen": 1,
+  "isPokeball": false
+}

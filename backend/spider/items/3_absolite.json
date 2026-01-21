@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "name": "Absolite",
+  "english": "absolite",
+  "category": "道具",
+  "num": 3,
+  "spritenum": 576,
+  "desc": "If held by an Absol, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by an Absol, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

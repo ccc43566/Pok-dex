@@ -1,0 +1,12 @@
+{
+  "id": 714,
+  "name": "TR47",
+  "english": "tr47",
+  "category": "道具",
+  "num": 714,
+  "spritenum": 736,
+  "desc": "Teaches certain Pokemon the move Dragon Claw. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Dragon Claw. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

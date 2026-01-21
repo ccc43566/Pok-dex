@@ -1,0 +1,12 @@
+{
+  "id": 284,
+  "name": "后攻之尾",
+  "english": "Lagging Tail",
+  "category": "道具",
+  "num": 284,
+  "spritenum": 284,
+  "desc": "非常沉重的某种尾巴。携带后，行动会比平时更加迟缓。",
+  "shortDesc": "非常沉重的某种尾巴。携带后，行动会比平时更加迟缓。",
+  "gen": 1,
+  "isPokeball": false
+}

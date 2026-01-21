@@ -1,0 +1,12 @@
+{
+  "id": 20,
+  "name": "Aloraichium Z",
+  "english": "aloraichiumz",
+  "category": "道具",
+  "num": 20,
+  "spritenum": 655,
+  "desc": "If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer.",
+  "shortDesc": "If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer.",
+  "gen": 7,
+  "isPokeball": false
+}

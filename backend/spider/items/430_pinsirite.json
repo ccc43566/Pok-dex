@@ -1,0 +1,12 @@
+{
+  "id": 430,
+  "name": "Pinsirite",
+  "english": "pinsirite",
+  "category": "道具",
+  "num": 430,
+  "spritenum": 602,
+  "desc": "If held by a Pinsir, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Pinsir, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

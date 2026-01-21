@@ -1,0 +1,32 @@
+{
+  "id": 498,
+  "name": "Tepig",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 65,
+  "attack": 63,
+  "defense": 45,
+  "sp_atk": 45,
+  "sp_def": 45,
+  "speed": 45,
+  "total": 308,
+  "abilities": [
+    "Blaze",
+    "Thick Fat"
+  ],
+  "height": 0.5,
+  "weight": 9.9,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Pignite"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/tepig.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\498_tepig.gif"
+}

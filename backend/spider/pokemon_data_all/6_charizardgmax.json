@@ -1,0 +1,30 @@
+{
+  "id": 6,
+  "name": "Charizard-Gmax",
+  "type1": "Fire",
+  "type2": "Flying",
+  "hp": 78,
+  "attack": 84,
+  "defense": 78,
+  "sp_atk": 109,
+  "sp_def": 85,
+  "speed": 100,
+  "total": 534,
+  "abilities": [
+    "Blaze",
+    "Solar Power"
+  ],
+  "height": 28.0,
+  "weight": 0.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/charizard-gmax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\6_charizard-gmax.gif"
+}

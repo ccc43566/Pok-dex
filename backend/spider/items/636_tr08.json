@@ -1,0 +1,12 @@
+{
+  "id": 636,
+  "name": "TR08",
+  "english": "tr08",
+  "category": "道具",
+  "num": 636,
+  "spritenum": 733,
+  "desc": "Teaches certain Pokemon the move Thunderbolt. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Thunderbolt. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

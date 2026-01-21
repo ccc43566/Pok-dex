@@ -1,0 +1,54 @@
+{
+  "id": 835,
+  "name": "yamper",
+  "level_up": [
+    "bite",
+    "charge",
+    "charm",
+    "crunch",
+    "nuzzle",
+    "playrough",
+    "roar",
+    "spark",
+    "tackle",
+    "tailwhip",
+    "wildcharge"
+  ],
+  "egg_moves": [
+    "discharge",
+    "doubleedge",
+    "flamecharge",
+    "howl",
+    "sandattack"
+  ],
+  "tm_moves": [
+    "attract",
+    "charm",
+    "crunch",
+    "dig",
+    "electroball",
+    "endure",
+    "facade",
+    "firefang",
+    "helpinghand",
+    "playrough",
+    "protect",
+    "rest",
+    "round",
+    "sleeptalk",
+    "snarl",
+    "snore",
+    "substitute",
+    "swift",
+    "thunder",
+    "thunderbolt",
+    "thunderfang",
+    "thunderwave",
+    "uproar",
+    "voltswitch",
+    "wildcharge"
+  ],
+  "tutor_moves": [
+    "risingvoltage"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 529,
+  "name": "Salamencite",
+  "english": "salamencite",
+  "category": "道具",
+  "num": 529,
+  "spritenum": 627,
+  "desc": "If held by a Salamence, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Salamence, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 398,
+  "name": "Staraptor",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 85,
+  "attack": 120,
+  "defense": 70,
+  "sp_atk": 50,
+  "sp_def": 60,
+  "speed": 100,
+  "total": 485,
+  "abilities": [
+    "Intimidate",
+    "Reckless"
+  ],
+  "height": 1.2,
+  "weight": 24.9,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Staravia",
+  "evo_level": 34,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/staraptor.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\398_staraptor.gif"
+}

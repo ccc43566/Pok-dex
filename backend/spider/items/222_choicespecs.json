@@ -1,0 +1,12 @@
+{
+  "id": 222,
+  "name": "讲究眼镜",
+  "english": "Choice Specs",
+  "category": "道具",
+  "num": 222,
+  "spritenum": 222,
+  "desc": "有点讲究的眼镜。虽然携带后特攻会提高，但只能使出相同的招式。",
+  "shortDesc": "有点讲究的眼镜。虽然携带后特攻会提高，但只能使出相同的招式。",
+  "gen": 1,
+  "isPokeball": false
+}

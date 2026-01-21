@@ -1,0 +1,12 @@
+{
+  "id": 176,
+  "name": "幸运蛋",
+  "english": "Lucky Egg",
+  "category": "道具",
+  "num": 176,
+  "spritenum": 176,
+  "desc": "满载着幸福的蛋。携带它的宝可梦获得的经验值会少量增加。",
+  "shortDesc": "满载着幸福的蛋。携带它的宝可梦获得的经验值会少量增加。",
+  "gen": 1,
+  "isPokeball": false
+}

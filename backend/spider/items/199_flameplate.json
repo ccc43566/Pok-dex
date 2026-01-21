@@ -1,0 +1,12 @@
+{
+  "id": 199,
+  "name": "Flame Plate",
+  "english": "flameplate",
+  "category": "道具",
+  "num": 199,
+  "spritenum": 146,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

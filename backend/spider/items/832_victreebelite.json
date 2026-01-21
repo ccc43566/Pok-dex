@@ -1,0 +1,12 @@
+{
+  "id": 832,
+  "name": "Victreebelite",
+  "english": "victreebelite",
+  "category": "道具",
+  "num": 832,
+  "spritenum": 545,
+  "desc": "If held by a Victreebel, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Victreebel, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

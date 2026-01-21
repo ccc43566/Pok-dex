@@ -1,0 +1,12 @@
+{
+  "id": 1280,
+  "name": "极巨腕带",
+  "english": "Dynamax Band",
+  "category": "重要物品",
+  "num": 1280,
+  "spritenum": 1280,
+  "desc": "内部嵌入了许愿星，在能量点就会发出光芒，使宝可梦极巨化。",
+  "shortDesc": "内部嵌入了许愿星，在能量点就会发出光芒，使宝可梦极巨化。",
+  "gen": 1,
+  "isPokeball": false
+}

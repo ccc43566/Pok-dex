@@ -1,0 +1,12 @@
+{
+  "id": 114,
+  "name": "黑奇石",
+  "english": "Black Augurite",
+  "category": "道具",
+  "num": 114,
+  "spritenum": 114,
+  "desc": "破碎后会变得十分锋利，性质类似玻璃的黑石。某种宝可梦很喜欢它。",
+  "shortDesc": "破碎后会变得十分锋利，性质类似玻璃的黑石。某种宝可梦很喜欢它。",
+  "gen": 1,
+  "isPokeball": false
+}

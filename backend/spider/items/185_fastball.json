@@ -1,0 +1,12 @@
+{
+  "id": 185,
+  "name": "Fast Ball",
+  "english": "fastball",
+  "category": "道具",
+  "num": 185,
+  "spritenum": 137,
+  "desc": "A Poke Ball that makes it easier to catch Pokemon which are quick to run away.",
+  "shortDesc": "A Poke Ball that makes it easier to catch Pokemon which are quick to run away.",
+  "gen": 2,
+  "isPokeball": true
+}

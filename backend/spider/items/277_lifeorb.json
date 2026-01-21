@@ -1,0 +1,12 @@
+{
+  "id": 277,
+  "name": "生命宝珠",
+  "english": "Life Orb",
+  "category": "道具",
+  "num": 277,
+  "spritenum": 277,
+  "desc": "携带后，虽然每次攻击时ＨＰ少量减少，但招式的威力会提高。",
+  "shortDesc": "携带后，虽然每次攻击时ＨＰ少量减少，但招式的威力会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

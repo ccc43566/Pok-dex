@@ -1,0 +1,28 @@
+{
+  "id": 628,
+  "name": "Braviary-Hisui",
+  "type1": "Psychic",
+  "type2": "Flying",
+  "hp": 110,
+  "attack": 83,
+  "defense": 70,
+  "sp_atk": 112,
+  "sp_def": 70,
+  "speed": 65,
+  "total": 510,
+  "abilities": [
+    "Keen Eye",
+    "Sheer Force",
+    "Tinted Lens"
+  ],
+  "height": 1.7,
+  "weight": 43.4,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Rufflet",
+  "evo_level": 54,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/braviary-hisui.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\628_braviary-hisui.gif"
+}

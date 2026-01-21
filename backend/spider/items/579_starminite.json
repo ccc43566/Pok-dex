@@ -1,0 +1,12 @@
+{
+  "id": 579,
+  "name": "Starminite",
+  "english": "starminite",
+  "category": "道具",
+  "num": 579,
+  "spritenum": 546,
+  "desc": "If held by a Starmie, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Starmie, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

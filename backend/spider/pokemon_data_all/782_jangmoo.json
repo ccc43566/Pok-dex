@@ -1,0 +1,30 @@
+{
+  "id": 782,
+  "name": "Jangmo-o",
+  "type1": "Dragon",
+  "type2": null,
+  "hp": 45,
+  "attack": 55,
+  "defense": 65,
+  "sp_atk": 45,
+  "sp_def": 45,
+  "speed": 45,
+  "total": 300,
+  "abilities": [
+    "Bulletproof",
+    "Soundproof",
+    "Overcoat"
+  ],
+  "height": 0.6,
+  "weight": 29.7,
+  "gender_ratio": {},
+  "evos": [
+    "Hakamo-o"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/jangmoo.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\782_jangmoo.gif"
+}

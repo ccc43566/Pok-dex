@@ -1,0 +1,28 @@
+{
+  "id": 178,
+  "name": "Xatu",
+  "type1": "Psychic",
+  "type2": "Flying",
+  "hp": 65,
+  "attack": 75,
+  "defense": 70,
+  "sp_atk": 95,
+  "sp_def": 70,
+  "speed": 95,
+  "total": 470,
+  "abilities": [
+    "Synchronize",
+    "Early Bird",
+    "Magic Bounce"
+  ],
+  "height": 1.5,
+  "weight": 15.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Natu",
+  "evo_level": 25,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/xatu.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\178_xatu.gif"
+}

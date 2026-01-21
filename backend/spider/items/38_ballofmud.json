@@ -1,0 +1,12 @@
+{
+  "id": 38,
+  "name": "泥丸",
+  "english": "Ball of Mud",
+  "category": "道具",
+  "num": 38,
+  "spritenum": 38,
+  "desc": "硬邦邦的坚固泥丸。被它击中的宝可梦动作会变得迟缓，有时还会生出破绽。",
+  "shortDesc": "硬邦邦的坚固泥丸。被它击中的宝可梦动作会变得迟缓，有时还会生出破绽。",
+  "gen": 1,
+  "isPokeball": false
+}

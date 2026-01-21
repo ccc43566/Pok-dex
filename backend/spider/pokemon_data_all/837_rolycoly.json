@@ -1,0 +1,30 @@
+{
+  "id": 837,
+  "name": "Rolycoly",
+  "type1": "Rock",
+  "type2": null,
+  "hp": 30,
+  "attack": 40,
+  "defense": 50,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "speed": 30,
+  "total": 240,
+  "abilities": [
+    "Steam Engine",
+    "Heatproof",
+    "Flash Fire"
+  ],
+  "height": 0.3,
+  "weight": 12.0,
+  "gender_ratio": {},
+  "evos": [
+    "Carkol"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/rolycoly.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\837_rolycoly.gif"
+}

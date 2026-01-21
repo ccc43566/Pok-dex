@@ -1,0 +1,30 @@
+{
+  "id": 529,
+  "name": "Drilbur",
+  "type1": "Ground",
+  "type2": null,
+  "hp": 60,
+  "attack": 85,
+  "defense": 40,
+  "sp_atk": 30,
+  "sp_def": 45,
+  "speed": 68,
+  "total": 328,
+  "abilities": [
+    "Sand Rush",
+    "Sand Force",
+    "Mold Breaker"
+  ],
+  "height": 0.3,
+  "weight": 8.5,
+  "gender_ratio": {},
+  "evos": [
+    "Excadrill"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/drilbur.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\529_drilbur.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 15,
+  "name": "Aggronite",
+  "english": "aggronite",
+  "category": "道具",
+  "num": 15,
+  "spritenum": 578,
+  "desc": "If held by an Aggron, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by an Aggron, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 884,
+  "name": "Duraludon",
+  "type1": "Steel",
+  "type2": "Dragon",
+  "hp": 70,
+  "attack": 95,
+  "defense": 115,
+  "sp_atk": 120,
+  "sp_def": 50,
+  "speed": 85,
+  "total": 535,
+  "abilities": [
+    "Light Metal",
+    "Heavy Metal",
+    "Stalwart"
+  ],
+  "height": 1.8,
+  "weight": 40.0,
+  "gender_ratio": {},
+  "evos": [
+    "Archaludon"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/duraludon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\884_duraludon.gif"
+}

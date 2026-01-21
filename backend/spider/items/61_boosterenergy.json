@@ -1,0 +1,12 @@
+{
+  "id": 61,
+  "name": "Booster Energy",
+  "english": "boosterenergy",
+  "category": "道具",
+  "num": 61,
+  "spritenum": 745,
+  "desc": "Activates the Protosynthesis or Quark Drive Abilities. Single use.",
+  "shortDesc": "Activates the Protosynthesis or Quark Drive Abilities. Single use.",
+  "gen": 9,
+  "isPokeball": false
+}

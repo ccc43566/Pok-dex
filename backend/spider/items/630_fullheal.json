@@ -1,0 +1,12 @@
+{
+  "id": 630,
+  "name": "万灵药",
+  "english": "Full Heal",
+  "category": "回复",
+  "num": 630,
+  "spritenum": 630,
+  "desc": "喷雾式药水。能治愈１只宝可梦的所有异常状态。",
+  "shortDesc": "喷雾式药水。能治愈１只宝可梦的所有异常状态。",
+  "gen": 1,
+  "isPokeball": false
+}

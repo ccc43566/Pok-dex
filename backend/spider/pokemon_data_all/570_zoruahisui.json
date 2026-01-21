@@ -1,0 +1,31 @@
+{
+  "id": 570,
+  "name": "Zorua-Hisui",
+  "type1": "Normal",
+  "type2": "Ghost",
+  "hp": 35,
+  "attack": 60,
+  "defense": 40,
+  "sp_atk": 85,
+  "sp_def": 40,
+  "speed": 70,
+  "total": 330,
+  "abilities": [
+    "Illusion"
+  ],
+  "height": 0.7,
+  "weight": 12.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Zoroark-Hisui"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/zorua-hisui.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\570_zorua-hisui.gif"
+}

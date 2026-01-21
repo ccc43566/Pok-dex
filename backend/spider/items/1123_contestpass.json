@@ -1,0 +1,12 @@
+{
+  "id": 1123,
+  "name": "华丽大赛参加证",
+  "english": "Contest Pass",
+  "category": "重要物品",
+  "num": 1123,
+  "spritenum": 1123,
+  "desc": "拿着它就可以参加宝可梦华丽大赛。上面印有纪念奖章。",
+  "shortDesc": "拿着它就可以参加宝可梦华丽大赛。上面印有纪念奖章。",
+  "gen": 1,
+  "isPokeball": false
+}

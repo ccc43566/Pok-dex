@@ -1,0 +1,28 @@
+{
+  "id": 961,
+  "name": "Wugtrio",
+  "type1": "Water",
+  "type2": null,
+  "hp": 35,
+  "attack": 100,
+  "defense": 50,
+  "sp_atk": 50,
+  "sp_def": 70,
+  "speed": 120,
+  "total": 425,
+  "abilities": [
+    "Gooey",
+    "Rattled",
+    "Sand Veil"
+  ],
+  "height": 1.2,
+  "weight": 5.4,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Wiglett",
+  "evo_level": 26,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/wugtrio.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\961_wugtrio.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 367,
+  "name": "Meadow Plate",
+  "english": "meadowplate",
+  "category": "道具",
+  "num": 367,
+  "spritenum": 282,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

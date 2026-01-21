@@ -1,0 +1,27 @@
+{
+  "id": 377,
+  "name": "Regirock",
+  "type1": "Rock",
+  "type2": null,
+  "hp": 80,
+  "attack": 100,
+  "defense": 200,
+  "sp_atk": 50,
+  "sp_def": 100,
+  "speed": 50,
+  "total": 580,
+  "abilities": [
+    "Clear Body",
+    "Sturdy"
+  ],
+  "height": 1.7,
+  "weight": 230.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/regirock.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\377_regirock.gif"
+}

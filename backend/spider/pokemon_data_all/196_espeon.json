@@ -1,0 +1,30 @@
+{
+  "id": 196,
+  "name": "Espeon",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 65,
+  "attack": 65,
+  "defense": 60,
+  "sp_atk": 130,
+  "sp_def": 95,
+  "speed": 110,
+  "total": 525,
+  "abilities": [
+    "Synchronize",
+    "Magic Bounce"
+  ],
+  "height": 0.9,
+  "weight": 26.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Eevee",
+  "evo_level": null,
+  "evo_type": "levelFriendship",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/espeon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\196_espeon.gif"
+}

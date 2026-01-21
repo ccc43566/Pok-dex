@@ -1,0 +1,28 @@
+{
+  "id": 288,
+  "name": "Vigoroth",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 80,
+  "attack": 80,
+  "defense": 80,
+  "sp_atk": 55,
+  "sp_def": 55,
+  "speed": 90,
+  "total": 440,
+  "abilities": [
+    "Vital Spirit"
+  ],
+  "height": 1.4,
+  "weight": 46.5,
+  "gender_ratio": {},
+  "evos": [
+    "Slaking"
+  ],
+  "prevo": "Slakoth",
+  "evo_level": 18,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/vigoroth.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\288_vigoroth.gif"
+}

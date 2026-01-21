@@ -1,0 +1,12 @@
+{
+  "id": 146,
+  "name": "白球果",
+  "english": "White Apricorn",
+  "category": "球果",
+  "num": 146,
+  "spritenum": 146,
+  "desc": "白色的球果。没有任何气味。",
+  "shortDesc": "白色的球果。没有任何气味。",
+  "gen": 1,
+  "isPokeball": false
+}

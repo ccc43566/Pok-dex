@@ -1,0 +1,12 @@
+{
+  "id": 1078,
+  "name": "花啤果",
+  "english": "Hopo Berry",
+  "category": "树果",
+  "num": 1078,
+  "spritenum": 1078,
+  "desc": "让宝可梦吃下后，可以回复ＰＰ。野生的宝可梦吃下后，对周围的反应会变得迟钝。",
+  "shortDesc": "让宝可梦吃下后，可以回复ＰＰ。野生的宝可梦吃下后，对周围的反应会变得迟钝。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 467,
+  "name": "Magmortar",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 75,
+  "attack": 95,
+  "defense": 67,
+  "sp_atk": 125,
+  "sp_def": 95,
+  "speed": 83,
+  "total": 540,
+  "abilities": [
+    "Flame Body",
+    "Vital Spirit"
+  ],
+  "height": 1.6,
+  "weight": 68.0,
+  "gender_ratio": {
+    "M": 0.75,
+    "F": 0.25
+  },
+  "evos": [],
+  "prevo": "Magmar",
+  "evo_level": null,
+  "evo_type": "trade",
+  "evo_item": "Magmarizer",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/magmortar.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\467_magmortar.gif"
+}

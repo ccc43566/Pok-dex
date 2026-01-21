@@ -1,0 +1,28 @@
+{
+  "id": 14,
+  "name": "Kakuna",
+  "type1": "Bug",
+  "type2": "Poison",
+  "hp": 45,
+  "attack": 25,
+  "defense": 50,
+  "sp_atk": 25,
+  "sp_def": 25,
+  "speed": 35,
+  "total": 205,
+  "abilities": [
+    "Shed Skin"
+  ],
+  "height": 0.6,
+  "weight": 10.0,
+  "gender_ratio": {},
+  "evos": [
+    "Beedrill"
+  ],
+  "prevo": "Weedle",
+  "evo_level": 7,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/kakuna.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\14_kakuna.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 97,
+  "name": "火之石",
+  "english": "Fire Stone",
+  "category": "道具",
+  "num": 97,
+  "spritenum": 97,
+  "desc": "能让某些特定宝可梦进化的神奇石头。看上去是橙黄色的。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇石头。看上去是橙黄色的。",
+  "gen": 1,
+  "isPokeball": false
+}

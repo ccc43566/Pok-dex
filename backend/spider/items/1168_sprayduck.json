@@ -1,0 +1,12 @@
+{
+  "id": 1168,
+  "name": "可达鸭喷壶",
+  "english": "Sprayduck",
+  "category": "重要物品",
+  "num": 1168,
+  "spritenum": 1168,
+  "desc": "浇水的道具。能让埋在松软土壤里的树果快快长大。",
+  "shortDesc": "浇水的道具。能让埋在松软土壤里的树果快快长大。",
+  "gen": 1,
+  "isPokeball": false
+}

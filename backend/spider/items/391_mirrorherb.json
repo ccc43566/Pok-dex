@@ -1,0 +1,12 @@
+{
+  "id": 391,
+  "name": "Mirror Herb",
+  "english": "mirrorherb",
+  "category": "道具",
+  "num": 391,
+  "spritenum": 748,
+  "desc": "When an opposing Pokemon raises a stat stage, the holder copies it. Single use.",
+  "shortDesc": "When an opposing Pokemon raises a stat stage, the holder copies it. Single use.",
+  "gen": 9,
+  "isPokeball": false
+}

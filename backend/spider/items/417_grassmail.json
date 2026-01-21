@@ -1,0 +1,12 @@
+{
+  "id": 417,
+  "name": "青草邮件",
+  "english": "Grass Mail",
+  "category": "郵件",
+  "num": 417,
+  "spritenum": 417,
+  "desc": "印有新鲜绿草的特殊信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "shortDesc": "印有新鲜绿草的特殊信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "gen": 1,
+  "isPokeball": false
+}

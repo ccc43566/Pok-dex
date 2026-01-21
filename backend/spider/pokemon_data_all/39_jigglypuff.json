@@ -1,0 +1,33 @@
+{
+  "id": 39,
+  "name": "Jigglypuff",
+  "type1": "Normal",
+  "type2": "Fairy",
+  "hp": 115,
+  "attack": 45,
+  "defense": 20,
+  "sp_atk": 45,
+  "sp_def": 25,
+  "speed": 20,
+  "total": 270,
+  "abilities": [
+    "Cute Charm",
+    "Competitive",
+    "Friend Guard"
+  ],
+  "height": 0.5,
+  "weight": 5.5,
+  "gender_ratio": {
+    "M": 0.25,
+    "F": 0.75
+  },
+  "evos": [
+    "Wigglytuff"
+  ],
+  "prevo": "Igglybuff",
+  "evo_level": null,
+  "evo_type": "levelFriendship",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/jigglypuff.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\39_jigglypuff.gif"
+}

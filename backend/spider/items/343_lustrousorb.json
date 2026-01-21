@@ -1,0 +1,12 @@
+{
+  "id": 343,
+  "name": "Lustrous Orb",
+  "english": "lustrousorb",
+  "category": "道具",
+  "num": 343,
+  "spritenum": 265,
+  "desc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
+  "shortDesc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
+  "gen": 4,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 237,
+  "name": "Glalitite",
+  "english": "glalitite",
+  "category": "道具",
+  "num": 237,
+  "spritenum": 623,
+  "desc": "If held by a Glalie, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Glalie, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

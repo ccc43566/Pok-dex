@@ -1,0 +1,12 @@
+{
+  "id": 252,
+  "name": "Grip Claw",
+  "english": "gripclaw",
+  "category": "道具",
+  "num": 252,
+  "spritenum": 179,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

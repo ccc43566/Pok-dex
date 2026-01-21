@@ -1,0 +1,12 @@
+{
+  "id": 654,
+  "name": "TR17",
+  "english": "tr17",
+  "category": "道具",
+  "num": 654,
+  "spritenum": 734,
+  "desc": "Teaches certain Pokemon the move Amnesia. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Amnesia. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

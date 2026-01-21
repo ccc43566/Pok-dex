@@ -1,0 +1,12 @@
+{
+  "id": 118,
+  "name": "蜜汁苹果",
+  "english": "Syrupy Apple",
+  "category": "道具",
+  "num": 118,
+  "spritenum": 118,
+  "desc": "这种神奇的苹果可以使特定的宝可梦进化。富含蜜汁。",
+  "shortDesc": "这种神奇的苹果可以使特定的宝可梦进化。富含蜜汁。",
+  "gen": 1,
+  "isPokeball": false
+}

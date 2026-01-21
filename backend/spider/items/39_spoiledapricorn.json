@@ -1,0 +1,12 @@
+{
+  "id": 39,
+  "name": "蛀球果",
+  "english": "Spoiled Apricorn",
+  "category": "道具",
+  "num": 39,
+  "spritenum": 39,
+  "desc": "果肉被吃掉了的球果。被它投中的宝可梦动作会变得迟缓，有时还会生出破绽。",
+  "shortDesc": "果肉被吃掉了的球果。被它投中的宝可梦动作会变得迟缓，有时还会生出破绽。",
+  "gen": 1,
+  "isPokeball": false
+}

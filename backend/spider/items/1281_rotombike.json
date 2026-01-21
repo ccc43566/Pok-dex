@@ -1,0 +1,12 @@
+{
+  "id": 1281,
+  "name": "洛托姆自行车",
+  "english": "Rotom Bike",
+  "category": "重要物品",
+  "num": 1281,
+  "spritenum": 1281,
+  "desc": "宝可梦洛托姆潜入马达后，这辆自行车变得可以通过涡轮发动机加速了。",
+  "shortDesc": "宝可梦洛托姆潜入马达后，这辆自行车变得可以通过涡轮发动机加速了。",
+  "gen": 1,
+  "isPokeball": false
+}

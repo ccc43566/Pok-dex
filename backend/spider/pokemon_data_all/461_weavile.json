@@ -1,0 +1,27 @@
+{
+  "id": 461,
+  "name": "Weavile",
+  "type1": "Dark",
+  "type2": "Ice",
+  "hp": 70,
+  "attack": 120,
+  "defense": 65,
+  "sp_atk": 45,
+  "sp_def": 85,
+  "speed": 125,
+  "total": 510,
+  "abilities": [
+    "Pressure",
+    "Pickpocket"
+  ],
+  "height": 1.1,
+  "weight": 34.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Sneasel",
+  "evo_level": null,
+  "evo_type": "levelHold",
+  "evo_item": "Razor Claw",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/weavile.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\461_weavile.gif"
+}

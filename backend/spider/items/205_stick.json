@@ -1,0 +1,12 @@
+{
+  "id": 205,
+  "name": "大葱",
+  "english": "Stick",
+  "category": "道具",
+  "num": 205,
+  "spritenum": 205,
+  "desc": "非常长且坚硬的茎。让大葱鸭携带后，招式会变得容易击中要害。",
+  "shortDesc": "非常长且坚硬的茎。让大葱鸭携带后，招式会变得容易击中要害。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 119,
+  "name": "Dark Gem",
+  "english": "darkgem",
+  "category": "道具",
+  "num": 119,
+  "spritenum": 89,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

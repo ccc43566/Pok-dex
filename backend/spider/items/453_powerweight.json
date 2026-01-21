@@ -1,0 +1,12 @@
+{
+  "id": 453,
+  "name": "Power Weight",
+  "english": "powerweight",
+  "category": "道具",
+  "num": 453,
+  "spritenum": 360,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

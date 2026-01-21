@@ -1,0 +1,12 @@
+{
+  "id": 873,
+  "name": "Pink Bow",
+  "english": "pinkbow",
+  "category": "道具",
+  "num": 873,
+  "spritenum": 444,
+  "desc": "(Gen 2) Holder",
+  "shortDesc": "(Gen 2) Holder",
+  "gen": 2,
+  "isPokeball": false
+}

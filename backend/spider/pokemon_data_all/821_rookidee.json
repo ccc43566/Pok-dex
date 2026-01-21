@@ -1,0 +1,30 @@
+{
+  "id": 821,
+  "name": "Rookidee",
+  "type1": "Flying",
+  "type2": null,
+  "hp": 38,
+  "attack": 47,
+  "defense": 35,
+  "sp_atk": 33,
+  "sp_def": 35,
+  "speed": 57,
+  "total": 245,
+  "abilities": [
+    "Keen Eye",
+    "Unnerve",
+    "Big Pecks"
+  ],
+  "height": 0.2,
+  "weight": 1.8,
+  "gender_ratio": {},
+  "evos": [
+    "Corvisquire"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/rookidee.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\821_rookidee.gif"
+}

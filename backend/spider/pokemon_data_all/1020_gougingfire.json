@@ -1,0 +1,26 @@
+{
+  "id": 1020,
+  "name": "Gouging Fire",
+  "type1": "Fire",
+  "type2": "Dragon",
+  "hp": 105,
+  "attack": 115,
+  "defense": 121,
+  "sp_atk": 65,
+  "sp_def": 93,
+  "speed": 91,
+  "total": 590,
+  "abilities": [
+    "Protosynthesis"
+  ],
+  "height": 3.5,
+  "weight": 590.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/gougingfire.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\1020_gougingfire.gif"
+}

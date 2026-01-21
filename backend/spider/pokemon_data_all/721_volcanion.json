@@ -1,0 +1,26 @@
+{
+  "id": 721,
+  "name": "Volcanion",
+  "type1": "Fire",
+  "type2": "Water",
+  "hp": 80,
+  "attack": 110,
+  "defense": 120,
+  "sp_atk": 130,
+  "sp_def": 90,
+  "speed": 70,
+  "total": 600,
+  "abilities": [
+    "Water Absorb"
+  ],
+  "height": 1.7,
+  "weight": 195.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/volcanion.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\721_volcanion.gif"
+}

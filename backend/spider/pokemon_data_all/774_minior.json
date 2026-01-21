@@ -1,0 +1,26 @@
+{
+  "id": 774,
+  "name": "Minior",
+  "type1": "Rock",
+  "type2": "Flying",
+  "hp": 60,
+  "attack": 100,
+  "defense": 60,
+  "sp_atk": 100,
+  "sp_def": 60,
+  "speed": 120,
+  "total": 500,
+  "abilities": [
+    "Shields Down"
+  ],
+  "height": 0.3,
+  "weight": 0.3,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/minior.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\774_minior.gif"
+}

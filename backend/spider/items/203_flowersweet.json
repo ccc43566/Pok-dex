@@ -1,0 +1,12 @@
+{
+  "id": 203,
+  "name": "Flower Sweet",
+  "english": "flowersweet",
+  "category": "道具",
+  "num": 203,
+  "spritenum": 708,
+  "desc": "Evolves Milcery into Alcremie when held and spun around.",
+  "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
+  "gen": 8,
+  "isPokeball": false
+}

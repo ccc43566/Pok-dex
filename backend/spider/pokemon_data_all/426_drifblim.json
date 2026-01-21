@@ -1,0 +1,28 @@
+{
+  "id": 426,
+  "name": "Drifblim",
+  "type1": "Ghost",
+  "type2": "Flying",
+  "hp": 150,
+  "attack": 80,
+  "defense": 44,
+  "sp_atk": 90,
+  "sp_def": 54,
+  "speed": 80,
+  "total": 498,
+  "abilities": [
+    "Aftermath",
+    "Unburden",
+    "Flare Boost"
+  ],
+  "height": 1.2,
+  "weight": 15.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Drifloon",
+  "evo_level": 28,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/drifblim.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\426_drifblim.gif"
+}

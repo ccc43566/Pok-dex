@@ -1,0 +1,12 @@
+{
+  "id": 833,
+  "name": "Wacan Berry",
+  "english": "wacanberry",
+  "category": "道具",
+  "num": 833,
+  "spritenum": 526,
+  "desc": "Halves damage taken from a supereffective Electric-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Electric-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

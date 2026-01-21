@@ -1,0 +1,12 @@
+{
+  "id": 990,
+  "name": "小辣椒",
+  "english": "Jalapeño",
+  "category": "皮卡丘",
+  "num": 990,
+  "spritenum": 990,
+  "desc": "辣味强烈的食材。由于辣味非常之强，所以是喜恶两极化的食材。",
+  "shortDesc": "辣味强烈的食材。由于辣味非常之强，所以是喜恶两极化的食材。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": 35,
+  "name": "Clefairy",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 70,
+  "attack": 45,
+  "defense": 48,
+  "sp_atk": 60,
+  "sp_def": 65,
+  "speed": 35,
+  "total": 323,
+  "abilities": [
+    "Cute Charm",
+    "Magic Guard",
+    "Friend Guard"
+  ],
+  "height": 0.6,
+  "weight": 7.5,
+  "gender_ratio": {
+    "M": 0.25,
+    "F": 0.75
+  },
+  "evos": [
+    "Clefable"
+  ],
+  "prevo": "Cleffa",
+  "evo_level": null,
+  "evo_type": "levelFriendship",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/clefairy.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\35_clefairy.gif"
+}

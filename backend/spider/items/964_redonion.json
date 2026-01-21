@@ -1,0 +1,12 @@
+{
+  "id": 964,
+  "name": "红洋葱",
+  "english": "Red Onion",
+  "category": "皮卡丘",
+  "num": 964,
+  "spritenum": 964,
+  "desc": "带有甜味的食材。与洋葱相比，辣味和香味都较淡，容易入口。",
+  "shortDesc": "带有甜味的食材。与洋葱相比，辣味和香味都较淡，容易入口。",
+  "gen": 1,
+  "isPokeball": false
+}

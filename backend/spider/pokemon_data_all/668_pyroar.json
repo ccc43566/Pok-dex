@@ -1,0 +1,31 @@
+{
+  "id": 668,
+  "name": "Pyroar",
+  "type1": "Fire",
+  "type2": "Normal",
+  "hp": 86,
+  "attack": 68,
+  "defense": 72,
+  "sp_atk": 109,
+  "sp_def": 66,
+  "speed": 106,
+  "total": 507,
+  "abilities": [
+    "Rivalry",
+    "Unnerve",
+    "Moxie"
+  ],
+  "height": 1.5,
+  "weight": 81.5,
+  "gender_ratio": {
+    "M": 0.125,
+    "F": 0.875
+  },
+  "evos": [],
+  "prevo": "Litleo",
+  "evo_level": 35,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/pyroar.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\668_pyroar.gif"
+}

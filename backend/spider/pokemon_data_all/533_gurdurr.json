@@ -1,0 +1,33 @@
+{
+  "id": 533,
+  "name": "Gurdurr",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 85,
+  "attack": 105,
+  "defense": 85,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "speed": 40,
+  "total": 405,
+  "abilities": [
+    "Guts",
+    "Sheer Force",
+    "Iron Fist"
+  ],
+  "height": 1.2,
+  "weight": 40.0,
+  "gender_ratio": {
+    "M": 0.75,
+    "F": 0.25
+  },
+  "evos": [
+    "Conkeldurr"
+  ],
+  "prevo": "Timburr",
+  "evo_level": 25,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/gurdurr.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\533_gurdurr.gif"
+}

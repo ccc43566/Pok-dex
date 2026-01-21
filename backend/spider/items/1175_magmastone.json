@@ -1,0 +1,12 @@
+{
+  "id": 1175,
+  "name": "火山镇石",
+  "english": "Magma Stone",
+  "category": "重要物品",
+  "num": 1175,
+  "spritenum": 1175,
+  "desc": "被灼热熔岩熔化的岩石凝固后形成的产物。里面还留有熔岩。",
+  "shortDesc": "被灼热熔岩熔化的岩石凝固后形成的产物。里面还留有熔岩。",
+  "gen": 1,
+  "isPokeball": false
+}

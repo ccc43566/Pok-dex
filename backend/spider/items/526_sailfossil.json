@@ -1,0 +1,12 @@
+{
+  "id": 526,
+  "name": "Sail Fossil",
+  "english": "sailfossil",
+  "category": "道具",
+  "num": 526,
+  "spritenum": 695,
+  "desc": "Can be revived into Amaura.",
+  "shortDesc": "Can be revived into Amaura.",
+  "gen": 6,
+  "isPokeball": false
+}

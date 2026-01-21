@@ -1,0 +1,12 @@
+{
+  "id": 240,
+  "name": "绿色头巾",
+  "english": "Green Scarf",
+  "category": "道具",
+  "num": 240,
+  "spritenum": 240,
+  "desc": "携带它去参加华丽大赛的宝可梦会比平时看上去更加聪明。",
+  "shortDesc": "携带它去参加华丽大赛的宝可梦会比平时看上去更加聪明。",
+  "gen": 1,
+  "isPokeball": false
+}

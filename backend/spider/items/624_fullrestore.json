@@ -1,0 +1,12 @@
+{
+  "id": 624,
+  "name": "全复药",
+  "english": "Full Restore",
+  "category": "回复",
+  "num": 624,
+  "spritenum": 624,
+  "desc": "能回复１只宝可梦的所有ＨＰ并治愈所有异常状态。",
+  "shortDesc": "能回复１只宝可梦的所有ＨＰ并治愈所有异常状态。",
+  "gen": 1,
+  "isPokeball": false
+}

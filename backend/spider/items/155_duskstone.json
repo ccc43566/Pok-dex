@@ -1,0 +1,12 @@
+{
+  "id": 155,
+  "name": "Dusk Stone",
+  "english": "duskstone",
+  "category": "道具",
+  "num": 155,
+  "spritenum": 116,
+  "desc": "Evolves Murkrow into Honchkrow, Misdreavus into Mismagius, Lampent into Chandelure, and Doublade into Aegislash when used.",
+  "shortDesc": "Evolves certain species of Pokemon when used.",
+  "gen": 4,
+  "isPokeball": false
+}

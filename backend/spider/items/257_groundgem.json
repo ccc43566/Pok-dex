@@ -1,0 +1,12 @@
+{
+  "id": 257,
+  "name": "Ground Gem",
+  "english": "groundgem",
+  "category": "道具",
+  "num": 257,
+  "spritenum": 182,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

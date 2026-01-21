@@ -1,0 +1,12 @@
+{
+  "id": 1084,
+  "name": "船票",
+  "english": "S.S. Ticket",
+  "category": "重要物品",
+  "num": 1084,
+  "spritenum": 1084,
+  "desc": "乘坐圣特安努号时所需的船票。上面绘有船的图案。",
+  "shortDesc": "乘坐圣特安努号时所需的船票。上面绘有船的图案。",
+  "gen": 1,
+  "isPokeball": false
+}

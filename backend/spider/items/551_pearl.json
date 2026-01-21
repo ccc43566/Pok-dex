@@ -1,0 +1,12 @@
+{
+  "id": 551,
+  "name": "珍珠",
+  "english": "Pearl",
+  "category": "宝物",
+  "num": 551,
+  "spritenum": 551,
+  "desc": "散发着美丽银辉且有点小的珍珠。可以在商店低价出售。",
+  "shortDesc": "散发着美丽银辉且有点小的珍珠。可以在商店低价出售。",
+  "gen": 1,
+  "isPokeball": false
+}

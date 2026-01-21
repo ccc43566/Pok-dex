@@ -1,0 +1,31 @@
+{
+  "id": 143,
+  "name": "Snorlax-Gmax",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 160,
+  "attack": 110,
+  "defense": 65,
+  "sp_atk": 65,
+  "sp_def": 110,
+  "speed": 30,
+  "total": 540,
+  "abilities": [
+    "Immunity",
+    "Thick Fat",
+    "Gluttony"
+  ],
+  "height": 35.0,
+  "weight": 0.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/snorlax-gmax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\143_snorlax-gmax.gif"
+}

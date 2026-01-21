@@ -1,0 +1,28 @@
+{
+  "id": 321,
+  "name": "Wailord",
+  "type1": "Water",
+  "type2": null,
+  "hp": 170,
+  "attack": 90,
+  "defense": 45,
+  "sp_atk": 90,
+  "sp_def": 45,
+  "speed": 60,
+  "total": 500,
+  "abilities": [
+    "Water Veil",
+    "Oblivious",
+    "Pressure"
+  ],
+  "height": 14.5,
+  "weight": 398.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Wailmer",
+  "evo_level": 40,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/wailord.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\321_wailord.gif"
+}

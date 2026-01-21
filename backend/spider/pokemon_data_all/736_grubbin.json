@@ -1,0 +1,28 @@
+{
+  "id": 736,
+  "name": "Grubbin",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 47,
+  "attack": 62,
+  "defense": 45,
+  "sp_atk": 55,
+  "sp_def": 45,
+  "speed": 46,
+  "total": 300,
+  "abilities": [
+    "Swarm"
+  ],
+  "height": 0.4,
+  "weight": 4.4,
+  "gender_ratio": {},
+  "evos": [
+    "Charjabug"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/grubbin.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\736_grubbin.gif"
+}

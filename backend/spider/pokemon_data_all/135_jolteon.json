@@ -1,0 +1,30 @@
+{
+  "id": 135,
+  "name": "Jolteon",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 65,
+  "attack": 65,
+  "defense": 60,
+  "sp_atk": 110,
+  "sp_def": 95,
+  "speed": 130,
+  "total": 525,
+  "abilities": [
+    "Volt Absorb",
+    "Quick Feet"
+  ],
+  "height": 0.8,
+  "weight": 24.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Eevee",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Thunder Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/jolteon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\135_jolteon.gif"
+}

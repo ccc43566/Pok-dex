@@ -1,0 +1,30 @@
+{
+  "id": 724,
+  "name": "Decidueye",
+  "type1": "Grass",
+  "type2": "Ghost",
+  "hp": 78,
+  "attack": 107,
+  "defense": 75,
+  "sp_atk": 100,
+  "sp_def": 100,
+  "speed": 70,
+  "total": 530,
+  "abilities": [
+    "Overgrow",
+    "Long Reach"
+  ],
+  "height": 1.6,
+  "weight": 36.6,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Dartrix",
+  "evo_level": 34,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/decidueye.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\724_decidueye.gif"
+}

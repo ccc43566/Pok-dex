@@ -1,0 +1,12 @@
+{
+  "id": 712,
+  "name": "TR46",
+  "english": "tr46",
+  "category": "道具",
+  "num": 712,
+  "spritenum": 729,
+  "desc": "Teaches certain Pokemon the move Iron Defense. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Iron Defense. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

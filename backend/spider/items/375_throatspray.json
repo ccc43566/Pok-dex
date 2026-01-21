@@ -1,0 +1,12 @@
+{
+  "id": 375,
+  "name": "爽喉喷雾",
+  "english": "Throat Spray",
+  "category": "道具",
+  "num": 375,
+  "spritenum": 375,
+  "desc": "使用声音相关的招式时，特攻会提高。",
+  "shortDesc": "使用声音相关的招式时，特攻会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

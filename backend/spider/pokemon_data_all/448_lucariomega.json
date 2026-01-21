@@ -1,0 +1,29 @@
+{
+  "id": 448,
+  "name": "Lucario-Mega",
+  "type1": "Fighting",
+  "type2": "Steel",
+  "hp": 70,
+  "attack": 145,
+  "defense": 88,
+  "sp_atk": 140,
+  "sp_def": 70,
+  "speed": 112,
+  "total": 625,
+  "abilities": [
+    "Adaptability"
+  ],
+  "height": 1.3,
+  "weight": 57.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/lucario-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\448_lucario-mega.gif"
+}

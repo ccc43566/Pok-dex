@@ -1,0 +1,12 @@
+{
+  "id": 105,
+  "name": "觉醒之石",
+  "english": "Dawn Stone",
+  "category": "道具",
+  "num": 105,
+  "spritenum": 105,
+  "desc": "能让某些特定宝可梦进化的神奇石头。像眼眸一般光彩动人。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇石头。像眼眸一般光彩动人。",
+  "gen": 1,
+  "isPokeball": false
+}

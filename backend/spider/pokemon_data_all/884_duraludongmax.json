@@ -1,0 +1,28 @@
+{
+  "id": 884,
+  "name": "Duraludon-Gmax",
+  "type1": "Steel",
+  "type2": "Dragon",
+  "hp": 70,
+  "attack": 95,
+  "defense": 115,
+  "sp_atk": 120,
+  "sp_def": 50,
+  "speed": 85,
+  "total": 535,
+  "abilities": [
+    "Light Metal",
+    "Heavy Metal",
+    "Stalwart"
+  ],
+  "height": 43.0,
+  "weight": 0.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/duraludon-gmax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\884_duraludon-gmax.gif"
+}

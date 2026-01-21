@@ -1,0 +1,12 @@
+{
+  "id": 55,
+  "name": "Blastoisinite",
+  "english": "blastoisinite",
+  "category": "道具",
+  "num": 55,
+  "spritenum": 583,
+  "desc": "If held by a Blastoise, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Blastoise, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

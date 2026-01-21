@@ -1,0 +1,12 @@
+{
+  "id": 508,
+  "name": "速度球",
+  "english": "Fast Ball",
+  "category": "精灵球",
+  "num": 508,
+  "spritenum": 508,
+  "desc": "有点与众不同的球。能很容易地捕捉逃跑速度很快的宝可梦。",
+  "shortDesc": "有点与众不同的球。能很容易地捕捉逃跑速度很快的宝可梦。",
+  "gen": 1,
+  "isPokeball": false
+}

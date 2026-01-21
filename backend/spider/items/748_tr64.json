@@ -1,0 +1,12 @@
+{
+  "id": 748,
+  "name": "TR64",
+  "english": "tr64",
+  "category": "道具",
+  "num": 748,
+  "spritenum": 722,
+  "desc": "Teaches certain Pokemon the move Focus Blast. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Focus Blast. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 257,
+  "name": "Blaziken-Mega",
+  "type1": "Fire",
+  "type2": "Fighting",
+  "hp": 80,
+  "attack": 160,
+  "defense": 80,
+  "sp_atk": 130,
+  "sp_def": 80,
+  "speed": 100,
+  "total": 630,
+  "abilities": [
+    "Speed Boost"
+  ],
+  "height": 1.9,
+  "weight": 52.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/blaziken-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\257_blaziken-mega.gif"
+}

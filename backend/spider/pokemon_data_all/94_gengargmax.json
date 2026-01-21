@@ -1,0 +1,26 @@
+{
+  "id": 94,
+  "name": "Gengar-Gmax",
+  "type1": "Ghost",
+  "type2": "Poison",
+  "hp": 60,
+  "attack": 65,
+  "defense": 60,
+  "sp_atk": 130,
+  "sp_def": 75,
+  "speed": 110,
+  "total": 500,
+  "abilities": [
+    "Cursed Body"
+  ],
+  "height": 20.0,
+  "weight": 0.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gengar-gmax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\94_gengar-gmax.gif"
+}

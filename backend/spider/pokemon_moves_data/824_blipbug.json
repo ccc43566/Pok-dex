@@ -1,0 +1,15 @@
+{
+  "id": 824,
+  "name": "blipbug",
+  "level_up": [
+    "strugglebug"
+  ],
+  "egg_moves": [
+    "infestation",
+    "recover",
+    "stickyweb",
+    "supersonic"
+  ],
+  "tm_moves": [],
+  "tutor_moves": []
+}

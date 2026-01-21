@@ -1,0 +1,12 @@
+{
+  "id": 288,
+  "name": "Incinium Z",
+  "english": "inciniumz",
+  "category": "道具",
+  "num": 288,
+  "spritenum": 651,
+  "desc": "If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault.",
+  "shortDesc": "If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault.",
+  "gen": 7,
+  "isPokeball": false
+}

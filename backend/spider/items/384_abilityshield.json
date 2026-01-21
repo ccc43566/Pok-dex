@@ -1,0 +1,12 @@
+{
+  "id": 384,
+  "name": "特性护具",
+  "english": "Ability Shield",
+  "category": "道具",
+  "num": 384,
+  "spritenum": 384,
+  "desc": "可爱而有个性的盾。携带后，特性不会被对手改变。",
+  "shortDesc": "可爱而有个性的盾。携带后，特性不会被对手改变。",
+  "gen": 1,
+  "isPokeball": false
+}

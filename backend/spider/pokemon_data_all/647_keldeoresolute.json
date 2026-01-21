@@ -1,0 +1,26 @@
+{
+  "id": 647,
+  "name": "Keldeo-Resolute",
+  "type1": "Water",
+  "type2": "Fighting",
+  "hp": 91,
+  "attack": 72,
+  "defense": 90,
+  "sp_atk": 129,
+  "sp_def": 90,
+  "speed": 108,
+  "total": 580,
+  "abilities": [
+    "Justified"
+  ],
+  "height": 1.4,
+  "weight": 48.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/keldeo-resolute.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\647_keldeo-resolute.gif"
+}

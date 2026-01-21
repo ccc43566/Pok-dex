@@ -1,0 +1,27 @@
+{
+  "id": 483,
+  "name": "Dialga-Origin",
+  "type1": "Steel",
+  "type2": "Dragon",
+  "hp": 100,
+  "attack": 100,
+  "defense": 120,
+  "sp_atk": 150,
+  "sp_def": 120,
+  "speed": 90,
+  "total": 680,
+  "abilities": [
+    "Pressure",
+    "Telepathy"
+  ],
+  "height": 7.0,
+  "weight": 850.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/dialga-origin.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\483_dialga-origin.gif"
+}

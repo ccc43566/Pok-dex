@@ -1,0 +1,12 @@
+{
+  "id": 726,
+  "name": "TR53",
+  "english": "tr53",
+  "category": "道具",
+  "num": 726,
+  "spritenum": 722,
+  "desc": "Teaches certain Pokemon the move Close Combat. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Close Combat. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 239,
+  "name": "粉红头巾",
+  "english": "Pink Scarf",
+  "category": "道具",
+  "num": 239,
+  "spritenum": 239,
+  "desc": "携带它去参加华丽大赛的宝可梦会比平时看上去更加可爱。",
+  "shortDesc": "携带它去参加华丽大赛的宝可梦会比平时看上去更加可爱。",
+  "gen": 1,
+  "isPokeball": false
+}

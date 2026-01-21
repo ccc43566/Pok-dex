@@ -1,0 +1,12 @@
+{
+  "id": 600,
+  "name": "力量强化",
+  "english": "X Attack",
+  "category": "战斗道具",
+  "num": 600,
+  "spritenum": 600,
+  "desc": "大幅提高战斗中宝可梦攻击的道具。离场后，效果便会消失。",
+  "shortDesc": "大幅提高战斗中宝可梦攻击的道具。离场后，效果便会消失。",
+  "gen": 1,
+  "isPokeball": false
+}

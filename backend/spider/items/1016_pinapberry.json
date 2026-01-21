@@ -1,0 +1,12 @@
+{
+  "id": 1016,
+  "name": "凰梨果",
+  "english": "Pinap Berry",
+  "category": "树果",
+  "num": 1016,
+  "spritenum": 1016,
+  "desc": "用于制作宝可方块，制作出来的宝可方块可用来打磨强壮。黄色的果实尝起来是酸的。",
+  "shortDesc": "用于制作宝可方块，制作出来的宝可方块可用来打磨强壮。黄色的果实尝起来是酸的。",
+  "gen": 1,
+  "isPokeball": false
+}

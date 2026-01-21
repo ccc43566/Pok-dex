@@ -1,0 +1,12 @@
+{
+  "id": 578,
+  "name": "Starf Berry",
+  "english": "starfberry",
+  "category": "道具",
+  "num": 578,
+  "spritenum": 472,
+  "desc": "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.",
+  "shortDesc": "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.",
+  "gen": 3,
+  "isPokeball": false
+}

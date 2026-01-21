@@ -1,0 +1,30 @@
+{
+  "id": 951,
+  "name": "Capsakid",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 50,
+  "attack": 62,
+  "defense": 40,
+  "sp_atk": 62,
+  "sp_def": 40,
+  "speed": 50,
+  "total": 304,
+  "abilities": [
+    "Chlorophyll",
+    "Insomnia",
+    "Klutz"
+  ],
+  "height": 0.3,
+  "weight": 3.0,
+  "gender_ratio": {},
+  "evos": [
+    "Scovillain"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/capsakid.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\951_capsakid.gif"
+}

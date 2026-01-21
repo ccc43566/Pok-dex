@@ -1,0 +1,30 @@
+{
+  "id": 270,
+  "name": "Lotad",
+  "type1": "Water",
+  "type2": "Grass",
+  "hp": 40,
+  "attack": 30,
+  "defense": 30,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "speed": 30,
+  "total": 220,
+  "abilities": [
+    "Swift Swim",
+    "Rain Dish",
+    "Own Tempo"
+  ],
+  "height": 0.5,
+  "weight": 2.6,
+  "gender_ratio": {},
+  "evos": [
+    "Lombre"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/lotad.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\270_lotad.gif"
+}

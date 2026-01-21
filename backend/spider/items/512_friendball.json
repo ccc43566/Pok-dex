@@ -1,0 +1,12 @@
+{
+  "id": 512,
+  "name": "友友球",
+  "english": "Friend Ball",
+  "category": "精灵球",
+  "num": 512,
+  "spritenum": 512,
+  "desc": "有点与众不同的球。捉到的野生宝可梦会立刻变得和训练家亲密起来。",
+  "shortDesc": "有点与众不同的球。捉到的野生宝可梦会立刻变得和训练家亲密起来。",
+  "gen": 1,
+  "isPokeball": false
+}

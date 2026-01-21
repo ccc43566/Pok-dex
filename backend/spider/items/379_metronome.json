@@ -1,0 +1,12 @@
+{
+  "id": 379,
+  "name": "Metronome",
+  "english": "metronome",
+  "category": "道具",
+  "num": 379,
+  "spritenum": 289,
+  "desc": "Damage of moves used on consecutive turns is increased. Max 2x after 5 turns.",
+  "shortDesc": "Damage of moves used on consecutive turns is increased. Max 2x after 5 turns.",
+  "gen": 4,
+  "isPokeball": false
+}

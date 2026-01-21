@@ -1,0 +1,12 @@
+{
+  "id": 786,
+  "name": "TR83",
+  "english": "tr83",
+  "category": "道具",
+  "num": 786,
+  "spritenum": 734,
+  "desc": "Teaches certain Pokemon the move Ally Switch. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Ally Switch. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

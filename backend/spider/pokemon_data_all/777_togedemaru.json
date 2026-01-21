@@ -1,0 +1,28 @@
+{
+  "id": 777,
+  "name": "Togedemaru",
+  "type1": "Electric",
+  "type2": "Steel",
+  "hp": 65,
+  "attack": 98,
+  "defense": 63,
+  "sp_atk": 40,
+  "sp_def": 73,
+  "speed": 96,
+  "total": 435,
+  "abilities": [
+    "Iron Barbs",
+    "Lightning Rod",
+    "Sturdy"
+  ],
+  "height": 0.3,
+  "weight": 3.3,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/togedemaru.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\777_togedemaru.gif"
+}

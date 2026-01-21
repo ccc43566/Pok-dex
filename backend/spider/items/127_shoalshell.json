@@ -1,0 +1,12 @@
+{
+  "id": 127,
+  "name": "浅滩贝壳",
+  "english": "Shoal Shell",
+  "category": "道具",
+  "num": 127,
+  "spritenum": 127,
+  "desc": "在浅滩洞穴这地方找到的贝壳。",
+  "shortDesc": "在浅滩洞穴这地方找到的贝壳。",
+  "gen": 1,
+  "isPokeball": false
+}

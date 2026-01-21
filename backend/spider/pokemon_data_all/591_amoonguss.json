@@ -1,0 +1,27 @@
+{
+  "id": 591,
+  "name": "Amoonguss",
+  "type1": "Grass",
+  "type2": "Poison",
+  "hp": 114,
+  "attack": 85,
+  "defense": 70,
+  "sp_atk": 85,
+  "sp_def": 80,
+  "speed": 30,
+  "total": 464,
+  "abilities": [
+    "Effect Spore",
+    "Regenerator"
+  ],
+  "height": 0.6,
+  "weight": 10.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Foongus",
+  "evo_level": 39,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/amoonguss.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\591_amoonguss.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 291,
+  "name": "紧缠钩爪",
+  "english": "Grip Claw",
+  "category": "道具",
+  "num": 291,
+  "spritenum": 291,
+  "desc": "携带后，绑紧以及紧束等会持续造成伤害的招式的回合数会增加。",
+  "shortDesc": "携带后，绑紧以及紧束等会持续造成伤害的招式的回合数会增加。",
+  "gen": 1,
+  "isPokeball": false
+}

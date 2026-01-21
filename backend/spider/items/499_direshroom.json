@@ -1,0 +1,12 @@
+{
+  "id": 499,
+  "name": "要害松露",
+  "english": "Direshroom",
+  "category": "道具",
+  "num": 499,
+  "spritenum": 499,
+  "desc": "食用后会让注意力更加集中，增加击中要害机率的菇类。可作为要害攻击的材料。",
+  "shortDesc": "食用后会让注意力更加集中，增加击中要害机率的菇类。可作为要害攻击的材料。",
+  "gen": 1,
+  "isPokeball": false
+}

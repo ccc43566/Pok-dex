@@ -1,0 +1,51 @@
+{
+  "id": 850,
+  "name": "sizzlipede",
+  "level_up": [
+    "bite",
+    "bugbite",
+    "burnup",
+    "coil",
+    "crunch",
+    "ember",
+    "firelash",
+    "firespin",
+    "flamewheel",
+    "lunge",
+    "slam",
+    "smokescreen",
+    "wrap"
+  ],
+  "egg_moves": [
+    "defensecurl",
+    "knockoff",
+    "rollout",
+    "strugglebug"
+  ],
+  "tm_moves": [
+    "attract",
+    "brutalswing",
+    "bugbuzz",
+    "crunch",
+    "endure",
+    "facade",
+    "firespin",
+    "heatcrash",
+    "heatwave",
+    "leechlife",
+    "powerwhip",
+    "protect",
+    "rest",
+    "round",
+    "scald",
+    "sleeptalk",
+    "snore",
+    "substitute",
+    "sunnyday",
+    "venoshock"
+  ],
+  "tutor_moves": [
+    "scorchingsands",
+    "skittersmack"
+  ]
+}

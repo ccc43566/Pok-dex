@@ -1,0 +1,12 @@
+{
+  "id": 278,
+  "name": "Houndoominite",
+  "english": "houndoominite",
+  "category": "道具",
+  "num": 278,
+  "spritenum": 591,
+  "desc": "If held by a Houndoom, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Houndoom, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

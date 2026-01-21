@@ -1,0 +1,12 @@
+{
+  "id": 255,
+  "name": "Griseous Orb",
+  "english": "griseousorb",
+  "category": "道具",
+  "num": 255,
+  "spritenum": 180,
+  "desc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.",
+  "shortDesc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.",
+  "gen": 4,
+  "isPokeball": false
+}

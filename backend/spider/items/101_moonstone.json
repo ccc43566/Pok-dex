@@ -1,0 +1,12 @@
+{
+  "id": 101,
+  "name": "月之石",
+  "english": "Moon Stone",
+  "category": "道具",
+  "num": 101,
+  "spritenum": 101,
+  "desc": "能让某些特定宝可梦进化的神奇石头。像夜空一样乌黑。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇石头。像夜空一样乌黑。",
+  "gen": 1,
+  "isPokeball": false
+}

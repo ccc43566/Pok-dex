@@ -1,0 +1,28 @@
+{
+  "id": 977,
+  "name": "Dondozo",
+  "type1": "Water",
+  "type2": null,
+  "hp": 150,
+  "attack": 100,
+  "defense": 115,
+  "sp_atk": 65,
+  "sp_def": 65,
+  "speed": 35,
+  "total": 530,
+  "abilities": [
+    "Unaware",
+    "Oblivious",
+    "Water Veil"
+  ],
+  "height": 12.0,
+  "weight": 220.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/dondozo.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\977_dondozo.gif"
+}

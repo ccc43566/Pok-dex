@@ -1,0 +1,12 @@
+{
+  "id": 27,
+  "name": "许愿星块",
+  "english": "Wishing Pieces",
+  "category": "道具",
+  "num": 27,
+  "spritenum": 27,
+  "desc": "投掷到宝可梦的巢穴里，就会有极巨化宝可梦出现。",
+  "shortDesc": "投掷到宝可梦的巢穴里，就会有极巨化宝可梦出现。",
+  "gen": 1,
+  "isPokeball": false
+}

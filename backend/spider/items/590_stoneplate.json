@@ -1,0 +1,12 @@
+{
+  "id": 590,
+  "name": "Stone Plate",
+  "english": "stoneplate",
+  "category": "道具",
+  "num": 590,
+  "spritenum": 477,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

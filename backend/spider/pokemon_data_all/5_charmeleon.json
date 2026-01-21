@@ -1,0 +1,32 @@
+{
+  "id": 5,
+  "name": "Charmeleon",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 58,
+  "attack": 64,
+  "defense": 58,
+  "sp_atk": 80,
+  "sp_def": 65,
+  "speed": 80,
+  "total": 405,
+  "abilities": [
+    "Blaze",
+    "Solar Power"
+  ],
+  "height": 1.1,
+  "weight": 19.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Charizard"
+  ],
+  "prevo": "Charmander",
+  "evo_level": 16,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/charmeleon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\5_charmeleon.gif"
+}

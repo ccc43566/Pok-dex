@@ -1,0 +1,12 @@
+{
+  "id": 296,
+  "name": "Kangaskhanite",
+  "english": "kangaskhanite",
+  "category": "道具",
+  "num": 296,
+  "spritenum": 592,
+  "desc": "If held by a Kangaskhan, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Kangaskhan, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

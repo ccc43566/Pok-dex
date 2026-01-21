@@ -1,0 +1,51 @@
+{
+  "id": 767,
+  "name": "wimpod",
+  "level_up": [
+    "defensecurl",
+    "sandattack",
+    "strugglebug"
+  ],
+  "egg_moves": [
+    "aquajet",
+    "harden",
+    "metalclaw",
+    "rollout",
+    "spikes",
+    "wideguard"
+  ],
+  "tm_moves": [
+    "assurance",
+    "attract",
+    "bugbuzz",
+    "confide",
+    "doubleteam",
+    "endure",
+    "facade",
+    "frustration",
+    "hail",
+    "hiddenpower",
+    "leechlife",
+    "mudshot",
+    "protect",
+    "raindance",
+    "rest",
+    "round",
+    "scald",
+    "screech",
+    "sleeptalk",
+    "snore",
+    "spikes",
+    "substitute",
+    "surf",
+    "swagger",
+    "swift",
+    "taunt",
+    "toxic",
+    "waterfall"
+  ],
+  "tutor_moves": [
+    "skittersmack",
+    "snore"
+  ]
+}

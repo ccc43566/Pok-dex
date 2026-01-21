@@ -1,0 +1,12 @@
+{
+  "id": 120,
+  "name": "杰作茶碗",
+  "english": "Masterpiece Teacup",
+  "category": "道具",
+  "num": 120,
+  "spritenum": 120,
+  "desc": "这个神奇的茶碗可以使特定的宝可梦进化。虽然破缺了，但泡出来的茶会很香。",
+  "shortDesc": "这个神奇的茶碗可以使特定的宝可梦进化。虽然破缺了，但泡出来的茶会很香。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 631,
+  "name": "活力碎片",
+  "english": "Revive",
+  "category": "回复",
+  "num": 631,
+  "spritenum": 631,
+  "desc": "能让１只陷入濒死的宝可梦重获生机，并回复一半ＨＰ。",
+  "shortDesc": "能让１只陷入濒死的宝可梦重获生机，并回复一半ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

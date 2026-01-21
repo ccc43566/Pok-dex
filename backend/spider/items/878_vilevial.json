@@ -1,0 +1,12 @@
+{
+  "id": 878,
+  "name": "Vile Vial",
+  "english": "vilevial",
+  "category": "道具",
+  "num": 878,
+  "spritenum": 752,
+  "desc": "If held by a Venomicon, its Poison- and Flying-type attacks have 1.2x power.",
+  "shortDesc": "If held by a Venomicon, its Poison- and Flying-type attacks have 1.2x power.",
+  "gen": 8,
+  "isPokeball": false
+}

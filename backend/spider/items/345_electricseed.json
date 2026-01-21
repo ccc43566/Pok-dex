@@ -1,0 +1,12 @@
+{
+  "id": 345,
+  "name": "电气种子",
+  "english": "Electric Seed",
+  "category": "道具",
+  "num": 345,
+  "spritenum": 345,
+  "desc": "让宝可梦携带后，在电气场地上使用，防御就会提高。",
+  "shortDesc": "让宝可梦携带后，在电气场地上使用，防御就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

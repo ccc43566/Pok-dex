@@ -1,0 +1,12 @@
+{
+  "id": 99,
+  "name": "Clear Amulet",
+  "english": "clearamulet",
+  "category": "道具",
+  "num": 99,
+  "spritenum": 747,
+  "desc": "Prevents other Pokemon from lowering the holder",
+  "shortDesc": "Prevents other Pokemon from lowering the holder",
+  "gen": 9,
+  "isPokeball": false
+}

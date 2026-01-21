@@ -1,0 +1,12 @@
+{
+  "id": 411,
+  "name": "珠宝邮件",
+  "english": "Bead Mail",
+  "category": "道具",
+  "num": 411,
+  "spritenum": 411,
+  "desc": "一张能显示持有者的图像的信纸，可以讓宝可梦携带。",
+  "shortDesc": "一张能显示持有者的图像的信纸，可以讓宝可梦携带。",
+  "gen": 1,
+  "isPokeball": false
+}

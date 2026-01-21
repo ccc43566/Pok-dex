@@ -1,0 +1,27 @@
+{
+  "id": 277,
+  "name": "Swellow",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 60,
+  "attack": 85,
+  "defense": 60,
+  "sp_atk": 75,
+  "sp_def": 50,
+  "speed": 125,
+  "total": 455,
+  "abilities": [
+    "Guts",
+    "Scrappy"
+  ],
+  "height": 0.7,
+  "weight": 19.8,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Taillow",
+  "evo_level": 22,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/swellow.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\277_swellow.gif"
+}

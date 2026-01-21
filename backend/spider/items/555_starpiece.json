@@ -1,0 +1,12 @@
+{
+  "id": 555,
+  "name": "星星碎片",
+  "english": "Star Piece",
+  "category": "宝物",
+  "num": 555,
+  "spritenum": 555,
+  "desc": "闪着红光且十分美丽的宝石碎片。可以在商店高价出售。",
+  "shortDesc": "闪着红光且十分美丽的宝石碎片。可以在商店高价出售。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 654,
+  "name": "Braixen",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 59,
+  "attack": 59,
+  "defense": 58,
+  "sp_atk": 90,
+  "sp_def": 70,
+  "speed": 73,
+  "total": 409,
+  "abilities": [
+    "Blaze",
+    "Magician"
+  ],
+  "height": 1.0,
+  "weight": 14.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Delphox"
+  ],
+  "prevo": "Fennekin",
+  "evo_level": 16,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/braixen.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\654_braixen.gif"
+}

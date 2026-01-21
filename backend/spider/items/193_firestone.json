@@ -1,0 +1,12 @@
+{
+  "id": 193,
+  "name": "Fire Stone",
+  "english": "firestone",
+  "category": "道具",
+  "num": 193,
+  "spritenum": 142,
+  "desc": "Evolves Vulpix into Ninetales, Growlithe into Arcanine, Eevee into Flareon, and Pansear into Simisear when used.",
+  "shortDesc": "Evolves certain species of Pokemon when used.",
+  "gen": 1,
+  "isPokeball": false
+}

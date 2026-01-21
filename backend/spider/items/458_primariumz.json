@@ -1,0 +1,12 @@
+{
+  "id": 458,
+  "name": "Primarium Z",
+  "english": "primariumz",
+  "category": "道具",
+  "num": 458,
+  "spritenum": 652,
+  "desc": "If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta.",
+  "shortDesc": "If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta.",
+  "gen": 7,
+  "isPokeball": false
+}

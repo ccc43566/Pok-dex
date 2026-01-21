@@ -1,0 +1,12 @@
+{
+  "id": 229,
+  "name": "悠闲薰香",
+  "english": "Lax Incense",
+  "category": "道具",
+  "num": 229,
+  "spritenum": 229,
+  "desc": "携带后，薰香的神奇香气会迷惑对手，其招式会变得不容易命中。",
+  "shortDesc": "携带后，薰香的神奇香气会迷惑对手，其招式会变得不容易命中。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 280,
+  "name": "Ice Gem",
+  "english": "icegem",
+  "category": "道具",
+  "num": 280,
+  "spritenum": 218,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

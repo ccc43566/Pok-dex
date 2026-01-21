@@ -1,0 +1,12 @@
+{
+  "id": 588,
+  "name": "头盖化石",
+  "english": "Skull Fossil",
+  "category": "道具",
+  "num": 588,
+  "spritenum": 588,
+  "desc": "很久以前生活在地上的古代宝可梦的化石。好像是头部的一部分。",
+  "shortDesc": "很久以前生活在地上的古代宝可梦的化石。好像是头部的一部分。",
+  "gen": 1,
+  "isPokeball": false
+}

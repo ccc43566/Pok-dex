@@ -1,0 +1,12 @@
+{
+  "id": 241,
+  "name": "黄色头巾",
+  "english": "Yellow Scarf",
+  "category": "道具",
+  "num": 241,
+  "spritenum": 241,
+  "desc": "携带它去参加华丽大赛的宝可梦会比平时看上去更加强壮。",
+  "shortDesc": "携带它去参加华丽大赛的宝可梦会比平时看上去更加强壮。",
+  "gen": 1,
+  "isPokeball": false
+}

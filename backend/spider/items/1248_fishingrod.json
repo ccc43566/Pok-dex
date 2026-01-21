@@ -1,0 +1,12 @@
+{
+  "id": 1248,
+  "name": "钓竿",
+  "english": "Fishing Rod",
+  "category": "重要物品",
+  "num": 1248,
+  "spritenum": 1248,
+  "desc": "在有水的地方使用，就能钓到各种各样的宝可梦。",
+  "shortDesc": "在有水的地方使用，就能钓到各种各样的宝可梦。",
+  "gen": 1,
+  "isPokeball": false
+}

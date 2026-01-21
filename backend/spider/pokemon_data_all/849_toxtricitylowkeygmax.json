@@ -1,0 +1,27 @@
+{
+  "id": 849,
+  "name": "Toxtricity-Low-Key-Gmax",
+  "type1": "Electric",
+  "type2": "Poison",
+  "hp": 75,
+  "attack": 98,
+  "defense": 70,
+  "sp_atk": 114,
+  "sp_def": 70,
+  "speed": 75,
+  "total": 502,
+  "abilities": [
+    "Punk Rock",
+    "Minus",
+    "Technician"
+  ],
+  "height": 24.0,
+  "weight": 0.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/toxtricity-lowkeygmax.png"
+}

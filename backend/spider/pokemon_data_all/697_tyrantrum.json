@@ -1,0 +1,30 @@
+{
+  "id": 697,
+  "name": "Tyrantrum",
+  "type1": "Rock",
+  "type2": "Dragon",
+  "hp": 82,
+  "attack": 121,
+  "defense": 119,
+  "sp_atk": 69,
+  "sp_def": 59,
+  "speed": 71,
+  "total": 521,
+  "abilities": [
+    "Strong Jaw",
+    "Rock Head"
+  ],
+  "height": 2.5,
+  "weight": 270.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Tyrunt",
+  "evo_level": 39,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/tyrantrum.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\697_tyrantrum.gif"
+}

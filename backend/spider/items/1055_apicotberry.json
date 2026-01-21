@@ -1,0 +1,12 @@
+{
+  "id": 1055,
+  "name": "杏仔果",
+  "english": "Apicot Berry",
+  "category": "树果",
+  "num": 1055,
+  "spritenum": 1055,
+  "desc": "让宝可梦携带后，危机时，自己的特防就会提高。",
+  "shortDesc": "让宝可梦携带后，危机时，自己的特防就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

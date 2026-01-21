@@ -1,0 +1,12 @@
+{
+  "id": 249,
+  "name": "拳头石板",
+  "english": "Fist Plate",
+  "category": "道具",
+  "num": 249,
+  "spritenum": 249,
+  "desc": "格斗属性的石板。携带后，格斗属性的招式威力就会增强。",
+  "shortDesc": "格斗属性的石板。携带后，格斗属性的招式威力就会增强。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 221,
+  "name": "讲究头带",
+  "english": "Choice Band",
+  "category": "道具",
+  "num": 221,
+  "spritenum": 221,
+  "desc": "有点讲究的头带。虽然携带后攻击会提高，但只能使出相同的招式。",
+  "shortDesc": "有点讲究的头带。虽然携带后攻击会提高，但只能使出相同的招式。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1071,
+  "name": "奇秘果",
+  "english": "Micle Berry",
+  "category": "树果",
+  "num": 1071,
+  "spritenum": 1071,
+  "desc": "让宝可梦携带后，危机时，招式的命中率仅会提高１次。",
+  "shortDesc": "让宝可梦携带后，危机时，招式的命中率仅会提高１次。",
+  "gen": 1,
+  "isPokeball": false
+}

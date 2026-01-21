@@ -1,0 +1,12 @@
+{
+  "id": 319,
+  "name": "草之宝石",
+  "english": "Grass Gem",
+  "category": "道具",
+  "num": 319,
+  "spritenum": 319,
+  "desc": "草属性的宝石。携带后，草属性的招式威力仅会增强１次。",
+  "shortDesc": "草属性的宝石。携带后，草属性的招式威力仅会增强１次。",
+  "gen": 1,
+  "isPokeball": false
+}

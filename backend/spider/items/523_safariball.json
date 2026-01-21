@@ -1,0 +1,12 @@
+{
+  "id": 523,
+  "name": "Safari Ball",
+  "english": "safariball",
+  "category": "道具",
+  "num": 523,
+  "spritenum": 425,
+  "desc": "A special Poke Ball that is used only in the Safari Zone and Great Marsh.",
+  "shortDesc": "A special Poke Ball that is used only in the Safari Zone and Great Marsh.",
+  "gen": 1,
+  "isPokeball": true
+}

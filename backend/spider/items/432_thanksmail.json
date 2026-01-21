@@ -1,0 +1,12 @@
+{
+  "id": 432,
+  "name": "感谢邮件",
+  "english": "Thanks Mail",
+  "category": "道具",
+  "num": 432,
+  "spritenum": 432,
+  "desc": "方便写表达感谢这类邮件的信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "shortDesc": "方便写表达感谢这类邮件的信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "gen": 1,
+  "isPokeball": false
+}

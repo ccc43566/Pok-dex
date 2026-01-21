@@ -1,0 +1,12 @@
+{
+  "id": 214,
+  "name": "Fossilized Dino",
+  "english": "fossilizeddino",
+  "category": "道具",
+  "num": 214,
+  "spritenum": 703,
+  "desc": "Can revive into Arctovish with Fossilized Fish or Arctozolt with Fossilized Bird.",
+  "shortDesc": "Can revive into Arctovish with Fossilized Fish or Arctozolt with Fossilized Bird.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1173,
+  "name": "会员卡",
+  "english": "Member Card",
+  "category": "重要物品",
+  "num": 1173,
+  "spritenum": 1173,
+  "desc": "可以进入水脉市旅馆的卡片。不知为何，上面刻有５０年前左右的日期。",
+  "shortDesc": "可以进入水脉市旅馆的卡片。不知为何，上面刻有５０年前左右的日期。",
+  "gen": 1,
+  "isPokeball": false
+}

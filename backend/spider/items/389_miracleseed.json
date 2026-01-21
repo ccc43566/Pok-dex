@@ -1,0 +1,12 @@
+{
+  "id": 389,
+  "name": "Miracle Seed",
+  "english": "miracleseed",
+  "category": "道具",
+  "num": 389,
+  "spritenum": 292,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

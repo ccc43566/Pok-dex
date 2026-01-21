@@ -1,0 +1,12 @@
+{
+  "id": 646,
+  "name": "TR13",
+  "english": "tr13",
+  "category": "道具",
+  "num": 646,
+  "spritenum": 721,
+  "desc": "Teaches certain Pokemon the move Focus Energy. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Focus Energy. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

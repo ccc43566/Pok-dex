@@ -1,0 +1,26 @@
+{
+  "id": 351,
+  "name": "Castform",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 70,
+  "attack": 70,
+  "defense": 70,
+  "sp_atk": 70,
+  "sp_def": 70,
+  "speed": 70,
+  "total": 420,
+  "abilities": [
+    "Forecast"
+  ],
+  "height": 0.3,
+  "weight": 0.8,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/castform.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\351_castform.gif"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 58,
+  "name": "Growlithe",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 55,
+  "attack": 70,
+  "defense": 45,
+  "sp_atk": 70,
+  "sp_def": 50,
+  "speed": 60,
+  "total": 350,
+  "abilities": [
+    "Intimidate",
+    "Flash Fire",
+    "Justified"
+  ],
+  "height": 0.7,
+  "weight": 19.0,
+  "gender_ratio": {
+    "M": 0.75,
+    "F": 0.25
+  },
+  "evos": [
+    "Arcanine"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/growlithe.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\58_growlithe.gif"
+}

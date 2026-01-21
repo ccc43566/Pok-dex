@@ -1,0 +1,28 @@
+{
+  "id": 192,
+  "name": "Sunflora",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 75,
+  "attack": 75,
+  "defense": 55,
+  "sp_atk": 105,
+  "sp_def": 85,
+  "speed": 30,
+  "total": 425,
+  "abilities": [
+    "Chlorophyll",
+    "Solar Power",
+    "Early Bird"
+  ],
+  "height": 0.8,
+  "weight": 8.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Sunkern",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Sun Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/sunflora.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\192_sunflora.gif"
+}

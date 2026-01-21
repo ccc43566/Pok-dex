@@ -1,0 +1,26 @@
+{
+  "id": 1005,
+  "name": "Roaring Moon",
+  "type1": "Dragon",
+  "type2": "Dark",
+  "hp": 105,
+  "attack": 139,
+  "defense": 71,
+  "sp_atk": 55,
+  "sp_def": 101,
+  "speed": 119,
+  "total": 590,
+  "abilities": [
+    "Protosynthesis"
+  ],
+  "height": 2.0,
+  "weight": 380.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/roaringmoon.png",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\1005_roaringmoon.png"
+}

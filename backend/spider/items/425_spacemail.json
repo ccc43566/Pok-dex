@@ -1,0 +1,12 @@
+{
+  "id": 425,
+  "name": "空间邮件",
+  "english": "Space Mail",
+  "category": "郵件",
+  "num": 425,
+  "spritenum": 425,
+  "desc": "印有广袤无垠的空间的特殊信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "shortDesc": "印有广袤无垠的空间的特殊信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "gen": 1,
+  "isPokeball": false
+}

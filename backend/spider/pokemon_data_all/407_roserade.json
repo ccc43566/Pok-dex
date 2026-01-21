@@ -1,0 +1,28 @@
+{
+  "id": 407,
+  "name": "Roserade",
+  "type1": "Grass",
+  "type2": "Poison",
+  "hp": 60,
+  "attack": 70,
+  "defense": 65,
+  "sp_atk": 125,
+  "sp_def": 105,
+  "speed": 90,
+  "total": 515,
+  "abilities": [
+    "Natural Cure",
+    "Poison Point",
+    "Technician"
+  ],
+  "height": 0.9,
+  "weight": 14.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Roselia",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Shiny Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/roserade.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\407_roserade.gif"
+}

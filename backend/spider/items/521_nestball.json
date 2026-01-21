@@ -1,0 +1,12 @@
+{
+  "id": 521,
+  "name": "巢穴球",
+  "english": "Nest Ball",
+  "category": "精灵球",
+  "num": 521,
+  "spritenum": 521,
+  "desc": "有点与众不同的球。捕捉的野生宝可梦越弱，就会越容易捕捉。",
+  "shortDesc": "有点与众不同的球。捕捉的野生宝可梦越弱，就会越容易捕捉。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 15,
+  "name": "Beedrill",
+  "type1": "Bug",
+  "type2": "Poison",
+  "hp": 65,
+  "attack": 90,
+  "defense": 40,
+  "sp_atk": 45,
+  "sp_def": 80,
+  "speed": 75,
+  "total": 395,
+  "abilities": [
+    "Swarm",
+    "Sniper"
+  ],
+  "height": 1.0,
+  "weight": 29.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Kakuna",
+  "evo_level": 10,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/beedrill.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\15_beedrill.gif"
+}

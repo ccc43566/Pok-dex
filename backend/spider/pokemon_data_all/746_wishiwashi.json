@@ -1,0 +1,26 @@
+{
+  "id": 746,
+  "name": "Wishiwashi",
+  "type1": "Water",
+  "type2": null,
+  "hp": 45,
+  "attack": 20,
+  "defense": 20,
+  "sp_atk": 25,
+  "sp_def": 25,
+  "speed": 40,
+  "total": 175,
+  "abilities": [
+    "Schooling"
+  ],
+  "height": 0.2,
+  "weight": 0.3,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/wishiwashi.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\746_wishiwashi.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 101,
+  "name": "Clefablite",
+  "english": "clefablite",
+  "category": "道具",
+  "num": 101,
+  "spritenum": 544,
+  "desc": "If held by a Clefable, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Clefable, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

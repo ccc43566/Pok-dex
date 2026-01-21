@@ -1,0 +1,12 @@
+{
+  "id": 178,
+  "name": "金属膜",
+  "english": "Metal Coat",
+  "category": "道具",
+  "num": 178,
+  "spritenum": 178,
+  "desc": "特殊的金属膜。携带后，钢属性的招式威力就会提高。",
+  "shortDesc": "特殊的金属膜。携带后，钢属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

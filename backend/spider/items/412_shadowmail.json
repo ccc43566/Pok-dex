@@ -1,0 +1,12 @@
+{
+  "id": 412,
+  "name": "影子邮件",
+  "english": "Shadow Mail",
+  "category": "道具",
+  "num": 412,
+  "spritenum": 412,
+  "desc": "印有夜巡灵的信纸，可以讓宝可梦携带。",
+  "shortDesc": "印有夜巡灵的信纸，可以讓宝可梦携带。",
+  "gen": 1,
+  "isPokeball": false
+}

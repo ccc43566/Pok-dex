@@ -1,0 +1,12 @@
+{
+  "id": 409,
+  "name": "Normal Gem",
+  "english": "normalgem",
+  "category": "道具",
+  "num": 409,
+  "spritenum": 307,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

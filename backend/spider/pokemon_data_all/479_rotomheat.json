@@ -1,0 +1,26 @@
+{
+  "id": 479,
+  "name": "Rotom-Heat",
+  "type1": "Electric",
+  "type2": "Fire",
+  "hp": 50,
+  "attack": 65,
+  "defense": 107,
+  "sp_atk": 105,
+  "sp_def": 107,
+  "speed": 86,
+  "total": 520,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 0.3,
+  "weight": 0.3,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/rotom-heat.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\479_rotom-heat.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 207,
+  "name": "Flyinium Z",
+  "english": "flyiniumz",
+  "category": "道具",
+  "num": 207,
+  "spritenum": 640,
+  "desc": "If holder has a Flying move, this item allows it to use a Flying Z-Move.",
+  "shortDesc": "If holder has a Flying move, this item allows it to use a Flying Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 174,
+  "name": "Eviolite",
+  "english": "eviolite",
+  "category": "道具",
+  "num": 174,
+  "spritenum": 130,
+  "desc": "If holder",
+  "shortDesc": "If holder",
+  "gen": 5,
+  "isPokeball": false
+}

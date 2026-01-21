@@ -1,0 +1,12 @@
+{
+  "id": 549,
+  "name": "Shuca Berry",
+  "english": "shucaberry",
+  "category": "道具",
+  "num": 549,
+  "spritenum": 443,
+  "desc": "Halves damage taken from a supereffective Ground-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Ground-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

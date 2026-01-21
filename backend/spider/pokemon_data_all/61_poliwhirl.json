@@ -1,0 +1,31 @@
+{
+  "id": 61,
+  "name": "Poliwhirl",
+  "type1": "Water",
+  "type2": null,
+  "hp": 65,
+  "attack": 65,
+  "defense": 65,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "speed": 90,
+  "total": 385,
+  "abilities": [
+    "Water Absorb",
+    "Damp",
+    "Swift Swim"
+  ],
+  "height": 1.0,
+  "weight": 20.0,
+  "gender_ratio": {},
+  "evos": [
+    "Poliwrath",
+    "Politoed"
+  ],
+  "prevo": "Poliwag",
+  "evo_level": 25,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/poliwhirl.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\61_poliwhirl.gif"
+}

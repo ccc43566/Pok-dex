@@ -1,0 +1,17 @@
+{
+  "id": 129,
+  "name": "magikarp",
+  "level_up": [
+    "flail",
+    "splash",
+    "tackle"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "bounce",
+    "hydropump"
+  ],
+  "tutor_moves": [
+    "bounce"
+  ]
+}

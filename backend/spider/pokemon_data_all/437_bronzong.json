@@ -1,0 +1,28 @@
+{
+  "id": 437,
+  "name": "Bronzong",
+  "type1": "Steel",
+  "type2": "Psychic",
+  "hp": 67,
+  "attack": 89,
+  "defense": 116,
+  "sp_atk": 79,
+  "sp_def": 116,
+  "speed": 33,
+  "total": 500,
+  "abilities": [
+    "Levitate",
+    "Heatproof",
+    "Heavy Metal"
+  ],
+  "height": 1.3,
+  "weight": 187.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Bronzor",
+  "evo_level": 33,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/bronzong.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\437_bronzong.gif"
+}

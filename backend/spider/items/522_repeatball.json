@@ -1,0 +1,12 @@
+{
+  "id": 522,
+  "name": "重复球",
+  "english": "Repeat Ball",
+  "category": "精灵球",
+  "num": 522,
+  "spritenum": 522,
+  "desc": "有点与众不同的球。能很容易地捕捉以前曾捉到过的宝可梦。",
+  "shortDesc": "有点与众不同的球。能很容易地捕捉以前曾捉到过的宝可梦。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 125,
+  "name": "Decidium Z",
+  "english": "decidiumz",
+  "category": "道具",
+  "num": 125,
+  "spritenum": 650,
+  "desc": "If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid.",
+  "shortDesc": "If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid.",
+  "gen": 7,
+  "isPokeball": false
+}

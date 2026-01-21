@@ -1,0 +1,28 @@
+{
+  "id": 709,
+  "name": "Trevenant",
+  "type1": "Ghost",
+  "type2": "Grass",
+  "hp": 85,
+  "attack": 110,
+  "defense": 76,
+  "sp_atk": 65,
+  "sp_def": 82,
+  "speed": 56,
+  "total": 474,
+  "abilities": [
+    "Natural Cure",
+    "Frisk",
+    "Harvest"
+  ],
+  "height": 1.5,
+  "weight": 71.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Phantump",
+  "evo_level": null,
+  "evo_type": "trade",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/trevenant.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\709_trevenant.gif"
+}

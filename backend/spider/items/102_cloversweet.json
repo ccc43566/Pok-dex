@@ -1,0 +1,12 @@
+{
+  "id": 102,
+  "name": "Clover Sweet",
+  "english": "cloversweet",
+  "category": "道具",
+  "num": 102,
+  "spritenum": 707,
+  "desc": "Evolves Milcery into Alcremie when held and spun around.",
+  "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
+  "gen": 8,
+  "isPokeball": false
+}

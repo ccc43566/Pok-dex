@@ -1,0 +1,12 @@
+{
+  "id": 261,
+  "name": "Haban Berry",
+  "english": "habanberry",
+  "category": "道具",
+  "num": 261,
+  "spritenum": 185,
+  "desc": "Halves damage taken from a supereffective Dragon-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Dragon-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

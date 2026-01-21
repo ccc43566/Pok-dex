@@ -1,0 +1,31 @@
+{
+  "id": 566,
+  "name": "Archen",
+  "type1": "Rock",
+  "type2": "Flying",
+  "hp": 55,
+  "attack": 112,
+  "defense": 45,
+  "sp_atk": 74,
+  "sp_def": 45,
+  "speed": 70,
+  "total": 401,
+  "abilities": [
+    "Defeatist"
+  ],
+  "height": 0.5,
+  "weight": 9.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Archeops"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/archen.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\566_archen.gif"
+}

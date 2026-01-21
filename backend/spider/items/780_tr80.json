@@ -1,0 +1,12 @@
+{
+  "id": 780,
+  "name": "TR80",
+  "english": "tr80",
+  "category": "道具",
+  "num": 780,
+  "spritenum": 733,
+  "desc": "Teaches certain Pokemon the move Electro Ball. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Electro Ball. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 505,
+  "name": "Rockium Z",
+  "english": "rockiumz",
+  "category": "道具",
+  "num": 505,
+  "spritenum": 643,
+  "desc": "If holder has a Rock move, this item allows it to use a Rock Z-Move.",
+  "shortDesc": "If holder has a Rock move, this item allows it to use a Rock Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

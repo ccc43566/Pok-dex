@@ -1,0 +1,12 @@
+{
+  "id": 652,
+  "name": "TR16",
+  "english": "tr16",
+  "category": "道具",
+  "num": 652,
+  "spritenum": 731,
+  "desc": "Teaches certain Pokemon the move Waterfall. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Waterfall. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

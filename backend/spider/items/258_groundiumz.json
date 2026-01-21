@@ -1,0 +1,12 @@
+{
+  "id": 258,
+  "name": "Groundium Z",
+  "english": "groundiumz",
+  "category": "道具",
+  "num": 258,
+  "spritenum": 639,
+  "desc": "If holder has a Ground move, this item allows it to use a Ground Z-Move.",
+  "shortDesc": "If holder has a Ground move, this item allows it to use a Ground Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

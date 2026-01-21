@@ -1,0 +1,30 @@
+{
+  "id": 974,
+  "name": "Cetoddle",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 108,
+  "attack": 68,
+  "defense": 45,
+  "sp_atk": 30,
+  "sp_def": 40,
+  "speed": 43,
+  "total": 334,
+  "abilities": [
+    "Thick Fat",
+    "Snow Cloak",
+    "Sheer Force"
+  ],
+  "height": 1.2,
+  "weight": 45.0,
+  "gender_ratio": {},
+  "evos": [
+    "Cetitan"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/cetoddle.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\974_cetoddle.gif"
+}

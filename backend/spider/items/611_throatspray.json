@@ -1,0 +1,12 @@
+{
+  "id": 611,
+  "name": "Throat Spray",
+  "english": "throatspray",
+  "category": "道具",
+  "num": 611,
+  "spritenum": 713,
+  "desc": "Raises holder",
+  "shortDesc": "Raises holder",
+  "gen": 8,
+  "isPokeball": false
+}

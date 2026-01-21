@@ -1,0 +1,30 @@
+{
+  "id": 57,
+  "name": "Primeape",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 65,
+  "attack": 105,
+  "defense": 60,
+  "sp_atk": 60,
+  "sp_def": 70,
+  "speed": 95,
+  "total": 455,
+  "abilities": [
+    "Vital Spirit",
+    "Anger Point",
+    "Defiant"
+  ],
+  "height": 1.0,
+  "weight": 32.0,
+  "gender_ratio": {},
+  "evos": [
+    "Annihilape"
+  ],
+  "prevo": "Mankey",
+  "evo_level": 28,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/primeape.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\57_primeape.gif"
+}

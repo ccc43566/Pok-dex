@@ -1,0 +1,12 @@
+{
+  "id": 536,
+  "name": "Scraftinite",
+  "english": "scraftinite",
+  "category": "道具",
+  "num": 536,
+  "spritenum": 555,
+  "desc": "If held by a Scrafty, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Scrafty, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

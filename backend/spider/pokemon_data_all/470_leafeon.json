@@ -1,0 +1,30 @@
+{
+  "id": 470,
+  "name": "Leafeon",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 65,
+  "attack": 110,
+  "defense": 130,
+  "sp_atk": 60,
+  "sp_def": 65,
+  "speed": 95,
+  "total": 525,
+  "abilities": [
+    "Leaf Guard",
+    "Chlorophyll"
+  ],
+  "height": 1.0,
+  "weight": 25.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Eevee",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Leaf Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/leafeon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\470_leafeon.gif"
+}

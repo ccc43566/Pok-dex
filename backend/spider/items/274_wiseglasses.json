@@ -1,0 +1,12 @@
+{
+  "id": 274,
+  "name": "博识眼镜",
+  "english": "Wise Glasses",
+  "category": "道具",
+  "num": 274,
+  "spritenum": 274,
+  "desc": "装着很厚镜片的眼镜。携带后，特殊招式的威力就会少量提高。",
+  "shortDesc": "装着很厚镜片的眼镜。携带后，特殊招式的威力就会少量提高。",
+  "gen": 1,
+  "isPokeball": false
+}

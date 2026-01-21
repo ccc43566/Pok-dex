@@ -1,0 +1,12 @@
+{
+  "id": 605,
+  "name": "命中强化",
+  "english": "X Accuracy",
+  "category": "战斗道具",
+  "num": 605,
+  "spritenum": 605,
+  "desc": "大幅提高战斗中宝可梦命中的道具。离场后，效果便会消失。",
+  "shortDesc": "大幅提高战斗中宝可梦命中的道具。离场后，效果便会消失。",
+  "gen": 1,
+  "isPokeball": false
+}

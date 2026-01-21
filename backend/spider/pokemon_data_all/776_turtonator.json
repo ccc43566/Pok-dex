@@ -1,0 +1,26 @@
+{
+  "id": 776,
+  "name": "Turtonator",
+  "type1": "Fire",
+  "type2": "Dragon",
+  "hp": 60,
+  "attack": 78,
+  "defense": 135,
+  "sp_atk": 91,
+  "sp_def": 85,
+  "speed": 36,
+  "total": 485,
+  "abilities": [
+    "Shell Armor"
+  ],
+  "height": 2.0,
+  "weight": 212.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/turtonator.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\776_turtonator.gif"
+}

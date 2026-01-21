@@ -1,0 +1,26 @@
+{
+  "id": 875,
+  "name": "Eiscue-Noice",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 75,
+  "attack": 80,
+  "defense": 70,
+  "sp_atk": 65,
+  "sp_def": 50,
+  "speed": 130,
+  "total": 470,
+  "abilities": [
+    "Ice Face"
+  ],
+  "height": 1.4,
+  "weight": 89.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/eiscue-noice.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\875_eiscue-noice.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 825,
+  "name": "Unremarkable Teacup",
+  "english": "unremarkableteacup",
+  "category": "道具",
+  "num": 825,
+  "spritenum": 756,
+  "desc": "Evolves Poltchageist into Sinistcha when used.",
+  "shortDesc": "Evolves Poltchageist into Sinistcha when used.",
+  "gen": 9,
+  "isPokeball": false
+}

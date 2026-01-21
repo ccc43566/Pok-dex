@@ -1,0 +1,27 @@
+{
+  "id": 130,
+  "name": "Gyarados",
+  "type1": "Water",
+  "type2": "Flying",
+  "hp": 95,
+  "attack": 125,
+  "defense": 79,
+  "sp_atk": 60,
+  "sp_def": 100,
+  "speed": 81,
+  "total": 540,
+  "abilities": [
+    "Intimidate",
+    "Moxie"
+  ],
+  "height": 6.5,
+  "weight": 235.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Magikarp",
+  "evo_level": 20,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/gyarados.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\130_gyarados.gif"
+}

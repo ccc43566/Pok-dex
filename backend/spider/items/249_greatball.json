@@ -1,0 +1,12 @@
+{
+  "id": 249,
+  "name": "Great Ball",
+  "english": "greatball",
+  "category": "道具",
+  "num": 249,
+  "spritenum": 174,
+  "desc": "A high-performance Ball that provides a higher catch rate than a Poke Ball.",
+  "shortDesc": "A high-performance Ball that provides a higher catch rate than a Poke Ball.",
+  "gen": 1,
+  "isPokeball": true
+}

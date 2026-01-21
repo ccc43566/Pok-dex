@@ -1,0 +1,12 @@
+{
+  "id": 582,
+  "name": "Steel Gem",
+  "english": "steelgem",
+  "category": "道具",
+  "num": 582,
+  "spritenum": 473,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

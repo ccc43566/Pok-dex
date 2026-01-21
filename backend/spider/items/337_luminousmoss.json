@@ -1,0 +1,12 @@
+{
+  "id": 337,
+  "name": "Luminous Moss",
+  "english": "luminousmoss",
+  "category": "道具",
+  "num": 337,
+  "spritenum": 595,
+  "desc": "Raises holder",
+  "shortDesc": "Raises holder",
+  "gen": 6,
+  "isPokeball": false
+}

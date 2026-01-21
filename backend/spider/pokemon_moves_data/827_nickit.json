@@ -1,0 +1,53 @@
+{
+  "id": 827,
+  "name": "nickit",
+  "level_up": [
+    "assurance",
+    "beatup",
+    "foulplay",
+    "honeclaws",
+    "nastyplot",
+    "nightslash",
+    "quickattack",
+    "snarl",
+    "suckerpunch",
+    "tailslap",
+    "tailwhip"
+  ],
+  "egg_moves": [
+    "howl",
+    "knockoff",
+    "quickguard",
+    "torment"
+  ],
+  "tm_moves": [
+    "agility",
+    "assurance",
+    "attract",
+    "batonpass",
+    "beatup",
+    "dig",
+    "endure",
+    "facade",
+    "faketears",
+    "foulplay",
+    "mudshot",
+    "nastyplot",
+    "playrough",
+    "protect",
+    "rest",
+    "round",
+    "screech",
+    "sleeptalk",
+    "snarl",
+    "snore",
+    "substitute",
+    "swift",
+    "tailslap",
+    "taunt",
+    "thief"
+  ],
+  "tutor_moves": [
+    "lashout"
+  ]
+}

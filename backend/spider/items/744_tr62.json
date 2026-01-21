@@ -1,0 +1,12 @@
+{
+  "id": 744,
+  "name": "TR62",
+  "english": "tr62",
+  "category": "道具",
+  "num": 744,
+  "spritenum": 736,
+  "desc": "Teaches certain Pokemon the move Dragon Pulse. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Dragon Pulse. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

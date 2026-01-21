@@ -1,0 +1,12 @@
+{
+  "id": 188,
+  "name": "Fighting Memory",
+  "english": "fightingmemory",
+  "category": "道具",
+  "num": 188,
+  "spritenum": 668,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

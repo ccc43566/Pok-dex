@@ -1,0 +1,26 @@
+{
+  "id": 758,
+  "name": "Salazzle-Totem",
+  "type1": "Poison",
+  "type2": "Fire",
+  "hp": 68,
+  "attack": 64,
+  "defense": 60,
+  "sp_atk": 111,
+  "sp_def": 60,
+  "speed": 117,
+  "total": 480,
+  "abilities": [
+    "Corrosion"
+  ],
+  "height": 2.1,
+  "weight": 81.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/salazzle-totem.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\758_salazzle-totem.gif"
+}

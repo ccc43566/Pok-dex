@@ -1,0 +1,12 @@
+{
+  "id": 328,
+  "name": "Lopunnite",
+  "english": "lopunnite",
+  "category": "道具",
+  "num": 328,
+  "spritenum": 626,
+  "desc": "If held by a Lopunny, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Lopunny, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

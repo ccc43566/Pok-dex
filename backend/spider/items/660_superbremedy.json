@@ -1,0 +1,12 @@
+{
+  "id": 660,
+  "name": "厉害中药",
+  "english": "Superb Remedy",
+  "category": "回复",
+  "num": 660,
+  "spritenum": 660,
+  "desc": "效果和厉害伤药一样，能让１只宝可梦回复１５０ＨＰ，但味道很苦，友好度会降低。",
+  "shortDesc": "效果和厉害伤药一样，能让１只宝可梦回复１５０ＨＰ，但味道很苦，友好度会降低。",
+  "gen": 1,
+  "isPokeball": false
+}

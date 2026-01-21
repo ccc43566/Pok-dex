@@ -1,0 +1,26 @@
+{
+  "id": 398,
+  "name": "Staraptor-Mega",
+  "type1": "Fighting",
+  "type2": "Flying",
+  "hp": 85,
+  "attack": 140,
+  "defense": 100,
+  "sp_atk": 60,
+  "sp_def": 90,
+  "speed": 110,
+  "total": 585,
+  "abilities": [
+    "Intimidate",
+    "Reckless"
+  ],
+  "height": 1.9,
+  "weight": 50.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/staraptor-mega.png"
+}

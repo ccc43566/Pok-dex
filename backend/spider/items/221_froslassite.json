@@ -1,0 +1,12 @@
+{
+  "id": 221,
+  "name": "Froslassite",
+  "english": "froslassite",
+  "category": "道具",
+  "num": 221,
+  "spritenum": 551,
+  "desc": "If held by a Froslass, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Froslass, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

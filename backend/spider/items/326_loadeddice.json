@@ -1,0 +1,12 @@
+{
+  "id": 326,
+  "name": "Loaded Dice",
+  "english": "loadeddice",
+  "category": "道具",
+  "num": 326,
+  "spritenum": 751,
+  "desc": "The holder",
+  "shortDesc": "Holder",
+  "gen": 9,
+  "isPokeball": false
+}

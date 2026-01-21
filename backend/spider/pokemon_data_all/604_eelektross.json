@@ -1,0 +1,26 @@
+{
+  "id": 604,
+  "name": "Eelektross",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 85,
+  "attack": 115,
+  "defense": 80,
+  "sp_atk": 105,
+  "sp_def": 80,
+  "speed": 50,
+  "total": 515,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 2.1,
+  "weight": 80.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Eelektrik",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Thunder Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/eelektross.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\604_eelektross.gif"
+}

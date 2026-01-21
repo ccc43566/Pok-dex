@@ -1,0 +1,30 @@
+{
+  "id": 1011,
+  "name": "Dipplin",
+  "type1": "Grass",
+  "type2": "Dragon",
+  "hp": 80,
+  "attack": 80,
+  "defense": 110,
+  "sp_atk": 95,
+  "sp_def": 80,
+  "speed": 40,
+  "total": 485,
+  "abilities": [
+    "Supersweet Syrup",
+    "Gluttony",
+    "Sticky Hold"
+  ],
+  "height": 0.4,
+  "weight": 4.4,
+  "gender_ratio": {},
+  "evos": [
+    "Hydrapple"
+  ],
+  "prevo": "Applin",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Syrupy Apple",
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/dipplin.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\1011_dipplin.gif"
+}

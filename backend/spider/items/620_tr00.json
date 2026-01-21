@@ -1,0 +1,12 @@
+{
+  "id": 620,
+  "name": "TR00",
+  "english": "tr00",
+  "category": "道具",
+  "num": 620,
+  "spritenum": 721,
+  "desc": "Teaches certain Pokemon the move Swords Dance. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Swords Dance. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

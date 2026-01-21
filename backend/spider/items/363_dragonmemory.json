@@ -1,0 +1,12 @@
+{
+  "id": 363,
+  "name": "龙存储碟",
+  "english": "Dragon Memory",
+  "category": "道具",
+  "num": 363,
+  "spritenum": 363,
+  "desc": "装有龙属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "shortDesc": "装有龙属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "gen": 1,
+  "isPokeball": false
+}

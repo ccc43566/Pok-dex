@@ -1,0 +1,30 @@
+{
+  "id": 827,
+  "name": "Nickit",
+  "type1": "Dark",
+  "type2": null,
+  "hp": 40,
+  "attack": 28,
+  "defense": 28,
+  "sp_atk": 47,
+  "sp_def": 52,
+  "speed": 50,
+  "total": 245,
+  "abilities": [
+    "Run Away",
+    "Unburden",
+    "Stakeout"
+  ],
+  "height": 0.6,
+  "weight": 8.9,
+  "gender_ratio": {},
+  "evos": [
+    "Thievul"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/nickit.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\827_nickit.gif"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 323,
+  "name": "Camerupt-Mega",
+  "type1": "Fire",
+  "type2": "Ground",
+  "hp": 70,
+  "attack": 120,
+  "defense": 100,
+  "sp_atk": 145,
+  "sp_def": 105,
+  "speed": 20,
+  "total": 560,
+  "abilities": [
+    "Sheer Force"
+  ],
+  "height": 2.5,
+  "weight": 320.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/camerupt-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\323_camerupt-mega.gif"
+}

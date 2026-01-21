@@ -1,0 +1,12 @@
+{
+  "id": 860,
+  "name": "Zoom Lens",
+  "english": "zoomlens",
+  "category": "道具",
+  "num": 860,
+  "spritenum": 574,
+  "desc": "The accuracy of attacks by the holder is 1.2x if it moves after its target.",
+  "shortDesc": "The accuracy of attacks by the holder is 1.2x if it moves after its target.",
+  "gen": 4,
+  "isPokeball": false
+}

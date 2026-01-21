@@ -1,0 +1,12 @@
+{
+  "id": 338,
+  "name": "香袋",
+  "english": "Sachet",
+  "category": "道具",
+  "num": 338,
+  "spritenum": 338,
+  "desc": "装着散发微浓香气的香料的袋子。某种宝可梦很喜欢它。",
+  "shortDesc": "装着散发微浓香气的香料的袋子。某种宝可梦很喜欢它。",
+  "gen": 1,
+  "isPokeball": false
+}

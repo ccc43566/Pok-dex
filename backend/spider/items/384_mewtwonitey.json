@@ -1,0 +1,12 @@
+{
+  "id": 384,
+  "name": "Mewtwonite Y",
+  "english": "mewtwonitey",
+  "category": "道具",
+  "num": 384,
+  "spritenum": 601,
+  "desc": "If held by a Mewtwo, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Mewtwo, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

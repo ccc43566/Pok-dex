@@ -1,0 +1,12 @@
+{
+  "id": 996,
+  "name": "莓莓果",
+  "english": "Rawst Berry",
+  "category": "树果",
+  "num": 996,
+  "spritenum": 996,
+  "desc": "让宝可梦携带后，可以治愈灼伤。",
+  "shortDesc": "让宝可梦携带后，可以治愈灼伤。",
+  "gen": 1,
+  "isPokeball": false
+}

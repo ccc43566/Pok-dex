@@ -1,0 +1,12 @@
+{
+  "id": 374,
+  "name": "Metal Alloy",
+  "english": "metalalloy",
+  "category": "道具",
+  "num": 374,
+  "spritenum": 761,
+  "desc": "Evolves Duraludon into Archaludon when used.",
+  "shortDesc": "Evolves Duraludon into Archaludon when used.",
+  "gen": 9,
+  "isPokeball": false
+}

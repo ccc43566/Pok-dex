@@ -1,0 +1,12 @@
+{
+  "id": 597,
+  "name": "Sweet Apple",
+  "english": "sweetapple",
+  "category": "道具",
+  "num": 597,
+  "spritenum": 711,
+  "desc": "Evolves Applin into Appletun when used.",
+  "shortDesc": "Evolves Applin into Appletun when used.",
+  "gen": 8,
+  "isPokeball": false
+}

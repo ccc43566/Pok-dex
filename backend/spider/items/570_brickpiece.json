@@ -1,0 +1,12 @@
+{
+  "id": 570,
+  "name": "碎瓦片",
+  "english": "Brick Piece",
+  "category": "宝物",
+  "num": 570,
+  "spritenum": 570,
+  "desc": "破裂的砖瓦碎片。",
+  "shortDesc": "破裂的砖瓦碎片。",
+  "gen": 1,
+  "isPokeball": false
+}

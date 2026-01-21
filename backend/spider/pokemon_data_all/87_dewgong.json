@@ -1,0 +1,28 @@
+{
+  "id": 87,
+  "name": "Dewgong",
+  "type1": "Water",
+  "type2": "Ice",
+  "hp": 90,
+  "attack": 70,
+  "defense": 80,
+  "sp_atk": 70,
+  "sp_def": 95,
+  "speed": 70,
+  "total": 475,
+  "abilities": [
+    "Thick Fat",
+    "Hydration",
+    "Ice Body"
+  ],
+  "height": 1.7,
+  "weight": 120.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Seel",
+  "evo_level": 34,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/dewgong.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\87_dewgong.gif"
+}

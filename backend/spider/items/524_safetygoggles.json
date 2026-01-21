@@ -1,0 +1,12 @@
+{
+  "id": 524,
+  "name": "Safety Goggles",
+  "english": "safetygoggles",
+  "category": "道具",
+  "num": 524,
+  "spritenum": 604,
+  "desc": "Holder is immune to powder moves and damage from Sandstorm or Hail.",
+  "shortDesc": "Holder is immune to powder moves and damage from Sandstorm or Hail.",
+  "gen": 6,
+  "isPokeball": false
+}

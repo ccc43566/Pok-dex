@@ -1,0 +1,12 @@
+{
+  "id": 598,
+  "name": "能力防守",
+  "english": "Guard Spec.",
+  "category": "战斗道具",
+  "num": 598,
+  "spritenum": 598,
+  "desc": "在战斗中，５回合内不让我方能力降低的道具。",
+  "shortDesc": "在战斗中，５回合内不让我方能力降低的道具。",
+  "gen": 1,
+  "isPokeball": false
+}

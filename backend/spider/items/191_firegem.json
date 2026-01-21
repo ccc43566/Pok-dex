@@ -1,0 +1,12 @@
+{
+  "id": 191,
+  "name": "Fire Gem",
+  "english": "firegem",
+  "category": "道具",
+  "num": 191,
+  "spritenum": 141,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

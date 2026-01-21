@@ -1,0 +1,27 @@
+{
+  "id": 478,
+  "name": "Froslass",
+  "type1": "Ice",
+  "type2": "Ghost",
+  "hp": 70,
+  "attack": 80,
+  "defense": 70,
+  "sp_atk": 80,
+  "sp_def": 70,
+  "speed": 110,
+  "total": 480,
+  "abilities": [
+    "Snow Cloak",
+    "Cursed Body"
+  ],
+  "height": 1.3,
+  "weight": 26.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Snorunt",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Dawn Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/froslass.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\478_froslass.gif"
+}

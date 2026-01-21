@@ -1,0 +1,29 @@
+{
+  "id": 444,
+  "name": "Gabite",
+  "type1": "Dragon",
+  "type2": "Ground",
+  "hp": 68,
+  "attack": 90,
+  "defense": 65,
+  "sp_atk": 50,
+  "sp_def": 55,
+  "speed": 82,
+  "total": 410,
+  "abilities": [
+    "Sand Veil",
+    "Rough Skin"
+  ],
+  "height": 1.4,
+  "weight": 56.0,
+  "gender_ratio": {},
+  "evos": [
+    "Garchomp"
+  ],
+  "prevo": "Gible",
+  "evo_level": 24,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/gabite.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\444_gabite.gif"
+}

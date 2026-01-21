@@ -1,0 +1,12 @@
+{
+  "id": 195,
+  "name": "Firium Z",
+  "english": "firiumz",
+  "category": "道具",
+  "num": 195,
+  "spritenum": 632,
+  "desc": "If holder has a Fire move, this item allows it to use a Fire Z-Move.",
+  "shortDesc": "If holder has a Fire move, this item allows it to use a Fire Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

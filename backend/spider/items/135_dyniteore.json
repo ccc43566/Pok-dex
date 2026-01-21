@@ -1,0 +1,12 @@
+{
+  "id": 135,
+  "name": "极矿石",
+  "english": "Dynite Ore",
+  "category": "道具",
+  "num": 135,
+  "spritenum": 135,
+  "desc": "能够在王冠雪原找出的珍稀石头。把它送给王冠雪原的收藏家，就会有好事发生。",
+  "shortDesc": "能够在王冠雪原找出的珍稀石头。把它送给王冠雪原的收藏家，就会有好事发生。",
+  "gen": 1,
+  "isPokeball": false
+}

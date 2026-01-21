@@ -1,0 +1,12 @@
+{
+  "id": 1219,
+  "name": "卡洛斯勋章",
+  "english": "Honor of Kalos",
+  "category": "重要物品",
+  "num": 1219,
+  "spritenum": 1219,
+  "desc": "颁发给为卡洛斯地区作出杰出贡献的人的宝贵勋章。",
+  "shortDesc": "颁发给为卡洛斯地区作出杰出贡献的人的宝贵勋章。",
+  "gen": 1,
+  "isPokeball": false
+}

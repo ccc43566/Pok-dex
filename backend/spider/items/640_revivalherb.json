@@ -1,0 +1,12 @@
+{
+  "id": 640,
+  "name": "复活草",
+  "english": "Revival Herb",
+  "category": "回复",
+  "num": 640,
+  "spritenum": 640,
+  "desc": "非常苦的药草。能让１只濒死的宝可梦回复所有ＨＰ。",
+  "shortDesc": "非常苦的药草。能让１只濒死的宝可梦回复所有ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 708,
+  "name": "TR44",
+  "english": "tr44",
+  "category": "道具",
+  "num": 708,
+  "spritenum": 734,
+  "desc": "Teaches certain Pokemon the move Cosmic Power. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Cosmic Power. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

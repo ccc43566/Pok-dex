@@ -1,0 +1,33 @@
+{
+  "id": 176,
+  "name": "Togetic",
+  "type1": "Fairy",
+  "type2": "Flying",
+  "hp": 55,
+  "attack": 40,
+  "defense": 85,
+  "sp_atk": 80,
+  "sp_def": 105,
+  "speed": 40,
+  "total": 405,
+  "abilities": [
+    "Hustle",
+    "Serene Grace",
+    "Super Luck"
+  ],
+  "height": 0.6,
+  "weight": 3.2,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Togekiss"
+  ],
+  "prevo": "Togepi",
+  "evo_level": null,
+  "evo_type": "levelFriendship",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/togetic.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\176_togetic.gif"
+}

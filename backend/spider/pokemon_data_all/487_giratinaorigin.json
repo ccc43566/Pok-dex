@@ -1,0 +1,26 @@
+{
+  "id": 487,
+  "name": "Giratina-Origin",
+  "type1": "Ghost",
+  "type2": "Dragon",
+  "hp": 150,
+  "attack": 120,
+  "defense": 100,
+  "sp_atk": 120,
+  "sp_def": 100,
+  "speed": 90,
+  "total": 680,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 6.9,
+  "weight": 650.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/giratina-origin.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\487_giratina-origin.gif"
+}

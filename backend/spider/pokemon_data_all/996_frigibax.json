@@ -1,0 +1,29 @@
+{
+  "id": 996,
+  "name": "Frigibax",
+  "type1": "Dragon",
+  "type2": "Ice",
+  "hp": 65,
+  "attack": 75,
+  "defense": 45,
+  "sp_atk": 35,
+  "sp_def": 45,
+  "speed": 55,
+  "total": 320,
+  "abilities": [
+    "Thermal Exchange",
+    "Ice Body"
+  ],
+  "height": 0.5,
+  "weight": 17.0,
+  "gender_ratio": {},
+  "evos": [
+    "Arctibax"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/frigibax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\996_frigibax.gif"
+}

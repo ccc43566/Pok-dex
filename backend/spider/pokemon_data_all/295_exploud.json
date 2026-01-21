@@ -1,0 +1,27 @@
+{
+  "id": 295,
+  "name": "Exploud",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 104,
+  "attack": 91,
+  "defense": 63,
+  "sp_atk": 91,
+  "sp_def": 73,
+  "speed": 68,
+  "total": 490,
+  "abilities": [
+    "Soundproof",
+    "Scrappy"
+  ],
+  "height": 1.5,
+  "weight": 84.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Loudred",
+  "evo_level": 40,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/exploud.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\295_exploud.gif"
+}

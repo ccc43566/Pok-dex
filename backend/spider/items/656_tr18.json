@@ -1,0 +1,12 @@
+{
+  "id": 656,
+  "name": "TR18",
+  "english": "tr18",
+  "category": "道具",
+  "num": 656,
+  "spritenum": 727,
+  "desc": "Teaches certain Pokemon the move Leech Life. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Leech Life. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

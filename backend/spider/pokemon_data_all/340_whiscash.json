@@ -1,0 +1,28 @@
+{
+  "id": 340,
+  "name": "Whiscash",
+  "type1": "Water",
+  "type2": "Ground",
+  "hp": 110,
+  "attack": 78,
+  "defense": 73,
+  "sp_atk": 76,
+  "sp_def": 71,
+  "speed": 60,
+  "total": 468,
+  "abilities": [
+    "Oblivious",
+    "Anticipation",
+    "Hydration"
+  ],
+  "height": 0.9,
+  "weight": 23.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Barboach",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/whiscash.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\340_whiscash.gif"
+}

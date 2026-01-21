@@ -1,0 +1,12 @@
+{
+  "id": 622,
+  "name": "TR01",
+  "english": "tr01",
+  "category": "道具",
+  "num": 622,
+  "spritenum": 721,
+  "desc": "Teaches certain Pokemon the move Body Slam. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Body Slam. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

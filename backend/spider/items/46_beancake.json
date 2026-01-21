@@ -1,0 +1,12 @@
+{
+  "id": 46,
+  "name": "豆诱团",
+  "english": "Bean Cake",
+  "category": "道具",
+  "num": 46,
+  "spritenum": 46,
+  "desc": "由豆子与诱团原料糅合而成。对鸟宝可梦和鱼宝可梦有着很强的吸引力。",
+  "shortDesc": "由豆子与诱团原料糅合而成。对鸟宝可梦和鱼宝可梦有着很强的吸引力。",
+  "gen": 1,
+  "isPokeball": false
+}

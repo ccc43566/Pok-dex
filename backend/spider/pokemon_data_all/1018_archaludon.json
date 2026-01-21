@@ -1,0 +1,28 @@
+{
+  "id": 1018,
+  "name": "Archaludon",
+  "type1": "Steel",
+  "type2": "Dragon",
+  "hp": 90,
+  "attack": 105,
+  "defense": 130,
+  "sp_atk": 125,
+  "sp_def": 65,
+  "speed": 85,
+  "total": 600,
+  "abilities": [
+    "Stamina",
+    "Sturdy",
+    "Stalwart"
+  ],
+  "height": 2.0,
+  "weight": 60.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Duraludon",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Metal Alloy",
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/archaludon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\1018_archaludon.gif"
+}

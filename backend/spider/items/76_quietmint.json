@@ -1,0 +1,12 @@
+{
+  "id": 76,
+  "name": "冷静薄荷",
+  "english": "Quiet Mint",
+  "category": "道具",
+  "num": 76,
+  "spritenum": 76,
+  "desc": "宝可梦闻了这种薄荷之后，会令特攻容易提高，而速度则难以提高。",
+  "shortDesc": "宝可梦闻了这种薄荷之后，会令特攻容易提高，而速度则难以提高。",
+  "gen": 1,
+  "isPokeball": false
+}

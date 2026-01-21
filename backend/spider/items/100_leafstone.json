@@ -1,0 +1,12 @@
+{
+  "id": 100,
+  "name": "叶之石",
+  "english": "Leaf Stone",
+  "category": "道具",
+  "num": 100,
+  "spritenum": 100,
+  "desc": "能让某些特定宝可梦进化的神奇石头。有着叶子般的花纹。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇石头。有着叶子般的花纹。",
+  "gen": 1,
+  "isPokeball": false
+}

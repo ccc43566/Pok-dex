@@ -1,0 +1,12 @@
+{
+  "id": 315,
+  "name": "逃脱按键",
+  "english": "Eject Button",
+  "category": "道具",
+  "num": 315,
+  "spritenum": 315,
+  "desc": "携带它的宝可梦如果受到招式攻击，就能逃脱战斗，并和同行的其他宝可梦进行替换。",
+  "shortDesc": "携带它的宝可梦如果受到招式攻击，就能逃脱战斗，并和同行的其他宝可梦进行替换。",
+  "gen": 1,
+  "isPokeball": false
+}

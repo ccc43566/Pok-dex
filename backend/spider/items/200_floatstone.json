@@ -1,0 +1,12 @@
+{
+  "id": 200,
+  "name": "Float Stone",
+  "english": "floatstone",
+  "category": "道具",
+  "num": 200,
+  "spritenum": 147,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

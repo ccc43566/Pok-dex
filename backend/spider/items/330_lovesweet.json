@@ -1,0 +1,12 @@
+{
+  "id": 330,
+  "name": "Love Sweet",
+  "english": "lovesweet",
+  "category": "道具",
+  "num": 330,
+  "spritenum": 705,
+  "desc": "Evolves Milcery into Alcremie when held and spun around.",
+  "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
+  "gen": 8,
+  "isPokeball": false
+}

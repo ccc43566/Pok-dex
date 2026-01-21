@@ -1,0 +1,30 @@
+{
+  "id": 611,
+  "name": "Fraxure",
+  "type1": "Dragon",
+  "type2": null,
+  "hp": 66,
+  "attack": 117,
+  "defense": 70,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "speed": 67,
+  "total": 410,
+  "abilities": [
+    "Rivalry",
+    "Mold Breaker",
+    "Unnerve"
+  ],
+  "height": 1.0,
+  "weight": 36.0,
+  "gender_ratio": {},
+  "evos": [
+    "Haxorus"
+  ],
+  "prevo": "Axew",
+  "evo_level": 38,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/fraxure.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\611_fraxure.gif"
+}

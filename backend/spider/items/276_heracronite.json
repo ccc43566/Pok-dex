@@ -1,0 +1,12 @@
+{
+  "id": 276,
+  "name": "Heracronite",
+  "english": "heracronite",
+  "category": "道具",
+  "num": 276,
+  "spritenum": 590,
+  "desc": "If held by a Heracross, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Heracross, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 149,
+  "name": "Dread Plate",
+  "english": "dreadplate",
+  "category": "道具",
+  "num": 149,
+  "spritenum": 110,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

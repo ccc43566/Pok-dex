@@ -1,0 +1,12 @@
+{
+  "id": 347,
+  "name": "Macho Brace",
+  "english": "machobrace",
+  "category": "道具",
+  "num": 347,
+  "spritenum": 269,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 3,
+  "isPokeball": false
+}

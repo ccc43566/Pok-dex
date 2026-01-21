@@ -1,0 +1,12 @@
+{
+  "id": 195,
+  "name": "龙之牙",
+  "english": "Dragon Fang",
+  "category": "道具",
+  "num": 195,
+  "spritenum": 195,
+  "desc": "坚硬锐利的牙齿。携带后，龙属性的招式威力就会提高。",
+  "shortDesc": "坚硬锐利的牙齿。携带后，龙属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

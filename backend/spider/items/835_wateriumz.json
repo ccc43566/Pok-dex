@@ -1,0 +1,12 @@
+{
+  "id": 835,
+  "name": "Waterium Z",
+  "english": "wateriumz",
+  "category": "道具",
+  "num": 835,
+  "spritenum": 633,
+  "desc": "If holder has a Water move, this item allows it to use a Water Z-Move.",
+  "shortDesc": "If holder has a Water move, this item allows it to use a Water Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

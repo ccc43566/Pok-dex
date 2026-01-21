@@ -1,0 +1,26 @@
+{
+  "id": 877,
+  "name": "Morpeko-Hangry",
+  "type1": "Electric",
+  "type2": "Dark",
+  "hp": 58,
+  "attack": 95,
+  "defense": 58,
+  "sp_atk": 70,
+  "sp_def": 58,
+  "speed": 97,
+  "total": 436,
+  "abilities": [
+    "Hunger Switch"
+  ],
+  "height": 0.3,
+  "weight": 3.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/morpeko-hangry.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\877_morpeko-hangry.gif"
+}

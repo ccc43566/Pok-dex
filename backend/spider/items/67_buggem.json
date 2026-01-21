@@ -1,0 +1,12 @@
+{
+  "id": 67,
+  "name": "Bug Gem",
+  "english": "buggem",
+  "category": "道具",
+  "num": 67,
+  "spritenum": 53,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

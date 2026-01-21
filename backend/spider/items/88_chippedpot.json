@@ -1,0 +1,12 @@
+{
+  "id": 88,
+  "name": "Chipped Pot",
+  "english": "chippedpot",
+  "category": "道具",
+  "num": 88,
+  "spritenum": 720,
+  "desc": "Evolves Sinistea-Antique into Polteageist-Antique when used.",
+  "shortDesc": "Evolves Sinistea-Antique into Polteageist-Antique when used.",
+  "gen": 8,
+  "isPokeball": false
+}

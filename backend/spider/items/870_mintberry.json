@@ -1,0 +1,12 @@
+{
+  "id": 870,
+  "name": "Mint Berry",
+  "english": "mintberry",
+  "category": "道具",
+  "num": 870,
+  "spritenum": 65,
+  "desc": "(Gen 2) Holder wakes up if it is asleep. Single use.",
+  "shortDesc": "(Gen 2) Holder wakes up if it is asleep. Single use.",
+  "gen": 2,
+  "isPokeball": false
+}

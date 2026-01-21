@@ -1,0 +1,26 @@
+{
+  "id": 334,
+  "name": "Altaria-Mega",
+  "type1": "Dragon",
+  "type2": "Fairy",
+  "hp": 75,
+  "attack": 110,
+  "defense": 110,
+  "sp_atk": 110,
+  "sp_def": 105,
+  "speed": 80,
+  "total": 590,
+  "abilities": [
+    "Pixilate"
+  ],
+  "height": 1.5,
+  "weight": 20.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/altaria-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\334_altaria-mega.gif"
+}

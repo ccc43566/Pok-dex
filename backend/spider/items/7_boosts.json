@@ -1,0 +1,12 @@
+{
+  "id": 7,
+  "name": "boosts",
+  "english": "boosts",
+  "category": "道具",
+  "num": 7,
+  "spritenum": 7,
+  "desc": "",
+  "shortDesc": "",
+  "gen": 1,
+  "isPokeball": false
+}

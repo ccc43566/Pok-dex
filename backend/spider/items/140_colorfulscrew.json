@@ -1,0 +1,12 @@
+{
+  "id": 140,
+  "name": "彩色螺丝",
+  "english": "Colorful Screw",
+  "category": "道具",
+  "num": 140,
+  "spritenum": 140,
+  "desc": "被放在密阿雷市各处的螺丝。交给木根工程的人，就能交换成护符。",
+  "shortDesc": "被放在密阿雷市各处的螺丝。交给木根工程的人，就能交换成护符。",
+  "gen": 1,
+  "isPokeball": false
+}

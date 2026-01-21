@@ -1,0 +1,12 @@
+{
+  "id": 399,
+  "name": "Muscle Band",
+  "english": "muscleband",
+  "category": "道具",
+  "num": 399,
+  "spritenum": 297,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

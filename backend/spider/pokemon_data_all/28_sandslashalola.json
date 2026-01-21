@@ -1,0 +1,27 @@
+{
+  "id": 28,
+  "name": "Sandslash-Alola",
+  "type1": "Ice",
+  "type2": "Steel",
+  "hp": 75,
+  "attack": 100,
+  "defense": 120,
+  "sp_atk": 25,
+  "sp_def": 65,
+  "speed": 65,
+  "total": 450,
+  "abilities": [
+    "Snow Cloak",
+    "Slush Rush"
+  ],
+  "height": 1.2,
+  "weight": 55.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Sandshrew-Alola",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Ice Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/sandslash-alola.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\28_sandslash-alola.gif"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 281,
+  "name": "Kirlia",
+  "type1": "Psychic",
+  "type2": "Fairy",
+  "hp": 38,
+  "attack": 35,
+  "defense": 35,
+  "sp_atk": 65,
+  "sp_def": 55,
+  "speed": 50,
+  "total": 278,
+  "abilities": [
+    "Synchronize",
+    "Trace",
+    "Telepathy"
+  ],
+  "height": 0.8,
+  "weight": 20.2,
+  "gender_ratio": {},
+  "evos": [
+    "Gardevoir",
+    "Gallade"
+  ],
+  "prevo": "Ralts",
+  "evo_level": 20,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/kirlia.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\281_kirlia.gif"
+}

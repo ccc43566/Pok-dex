@@ -1,0 +1,28 @@
+{
+  "id": 526,
+  "name": "Gigalith",
+  "type1": "Rock",
+  "type2": null,
+  "hp": 85,
+  "attack": 135,
+  "defense": 130,
+  "sp_atk": 60,
+  "sp_def": 80,
+  "speed": 25,
+  "total": 515,
+  "abilities": [
+    "Sturdy",
+    "Sand Stream",
+    "Sand Force"
+  ],
+  "height": 1.7,
+  "weight": 260.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Boldore",
+  "evo_level": null,
+  "evo_type": "trade",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/gigalith.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\526_gigalith.gif"
+}

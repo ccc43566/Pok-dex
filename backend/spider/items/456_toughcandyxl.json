@@ -1,0 +1,12 @@
+{
+  "id": 456,
+  "name": "守护糖果XL",
+  "english": "Tough Candy XL",
+  "category": "阿罗拉",
+  "num": 456,
+  "spritenum": 456,
+  "desc": "充满能量的超大糖果。能让等级60以上的宝可梦的防御上升。",
+  "shortDesc": "充满能量的超大糖果。能让等级60以上的宝可梦的防御上升。",
+  "gen": 1,
+  "isPokeball": false
+}

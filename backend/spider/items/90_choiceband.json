@@ -1,0 +1,12 @@
+{
+  "id": 90,
+  "name": "Choice Band",
+  "english": "choiceband",
+  "category": "道具",
+  "num": 90,
+  "spritenum": 68,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 3,
+  "isPokeball": false
+}

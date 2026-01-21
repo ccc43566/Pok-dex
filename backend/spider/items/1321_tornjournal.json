@@ -1,0 +1,12 @@
+{
+  "id": 1321,
+  "name": "破损日记",
+  "english": "Torn Journal",
+  "category": "重要物品",
+  "num": 1321,
+  "spritenum": 1321,
+  "desc": "陈旧的线装日记本。日记本破损严重，缺少了后半的书页。",
+  "shortDesc": "陈旧的线装日记本。日记本破损严重，缺少了后半的书页。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 796,
+  "name": "Xurkitree",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 83,
+  "attack": 89,
+  "defense": 71,
+  "sp_atk": 173,
+  "sp_def": 71,
+  "speed": 83,
+  "total": 570,
+  "abilities": [
+    "Beast Boost"
+  ],
+  "height": 3.8,
+  "weight": 100.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/xurkitree.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\796_xurkitree.gif"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 615,
+  "name": "Cryogonal",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 80,
+  "attack": 50,
+  "defense": 50,
+  "sp_atk": 95,
+  "sp_def": 135,
+  "speed": 105,
+  "total": 515,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 1.1,
+  "weight": 148.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/cryogonal.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\615_cryogonal.gif"
+}

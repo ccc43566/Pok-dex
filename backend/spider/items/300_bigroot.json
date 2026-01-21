@@ -1,0 +1,12 @@
+{
+  "id": 300,
+  "name": "大根茎",
+  "english": "Big Root",
+  "category": "道具",
+  "num": 300,
+  "spritenum": 300,
+  "desc": "携带后，吸取ＨＰ的招式可以比平时更多地回复自己的ＨＰ。",
+  "shortDesc": "携带后，吸取ＨＰ的招式可以比平时更多地回复自己的ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

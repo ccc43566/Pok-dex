@@ -1,0 +1,30 @@
+{
+  "id": 404,
+  "name": "Luxio",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 60,
+  "attack": 85,
+  "defense": 49,
+  "sp_atk": 60,
+  "sp_def": 49,
+  "speed": 60,
+  "total": 363,
+  "abilities": [
+    "Rivalry",
+    "Intimidate",
+    "Guts"
+  ],
+  "height": 0.9,
+  "weight": 30.5,
+  "gender_ratio": {},
+  "evos": [
+    "Luxray"
+  ],
+  "prevo": "Shinx",
+  "evo_level": 15,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/luxio.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\404_luxio.gif"
+}

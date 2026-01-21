@@ -1,0 +1,12 @@
+{
+  "id": 65,
+  "name": "Bright Powder",
+  "english": "brightpowder",
+  "category": "道具",
+  "num": 65,
+  "spritenum": 51,
+  "desc": "The accuracy of attacks against the holder is 0.9x.",
+  "shortDesc": "The accuracy of attacks against the holder is 0.9x.",
+  "gen": 2,
+  "isPokeball": false
+}

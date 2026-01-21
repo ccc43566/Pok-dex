@@ -1,0 +1,12 @@
+{
+  "id": 772,
+  "name": "TR76",
+  "english": "tr76",
+  "category": "道具",
+  "num": 772,
+  "spritenum": 726,
+  "desc": "Teaches certain Pokemon the move Stealth Rock. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Stealth Rock. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

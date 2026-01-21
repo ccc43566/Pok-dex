@@ -1,0 +1,12 @@
+{
+  "id": 674,
+  "name": "TR27",
+  "english": "tr27",
+  "category": "道具",
+  "num": 674,
+  "spritenum": 721,
+  "desc": "Teaches certain Pokemon the move Sleep Talk. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Sleep Talk. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

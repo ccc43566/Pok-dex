@@ -1,0 +1,12 @@
+{
+  "id": 1324,
+  "name": "古老日记",
+  "english": "Old Journal",
+  "category": "重要物品",
+  "num": 1324,
+  "spritenum": 1324,
+  "desc": "破损日记所缺少的页面全部凑齐之后的日记。",
+  "shortDesc": "破损日记所缺少的页面全部凑齐之后的日记。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 92,
+  "name": "抵抗粘糕",
+  "english": "Resist Mochi",
+  "category": "道具",
+  "num": 92,
+  "spritenum": 92,
+  "desc": "糅合树果的粘糕。能提高１只宝可梦的防御的基础点数。",
+  "shortDesc": "糅合树果的粘糕。能提高１只宝可梦的防御的基础点数。",
+  "gen": 1,
+  "isPokeball": false
+}

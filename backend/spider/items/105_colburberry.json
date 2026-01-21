@@ -1,0 +1,12 @@
+{
+  "id": 105,
+  "name": "Colbur Berry",
+  "english": "colburberry",
+  "category": "道具",
+  "num": 105,
+  "spritenum": 78,
+  "desc": "Halves damage taken from a supereffective Dark-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Dark-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

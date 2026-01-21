@@ -1,0 +1,27 @@
+{
+  "id": 22,
+  "name": "Fearow",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 65,
+  "attack": 90,
+  "defense": 65,
+  "sp_atk": 61,
+  "sp_def": 61,
+  "speed": 100,
+  "total": 442,
+  "abilities": [
+    "Keen Eye",
+    "Sniper"
+  ],
+  "height": 1.2,
+  "weight": 38.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Spearow",
+  "evo_level": 20,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/fearow.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\22_fearow.gif"
+}

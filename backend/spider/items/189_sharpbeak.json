@@ -1,0 +1,12 @@
+{
+  "id": 189,
+  "name": "锐利鸟嘴",
+  "english": "Sharp Beak",
+  "category": "道具",
+  "num": 189,
+  "spritenum": 189,
+  "desc": "又长又尖的鸟嘴。携带后，飞行属性的招式威力就会提高。",
+  "shortDesc": "又长又尖的鸟嘴。携带后，飞行属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

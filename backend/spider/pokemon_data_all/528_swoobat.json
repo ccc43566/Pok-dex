@@ -1,0 +1,28 @@
+{
+  "id": 528,
+  "name": "Swoobat",
+  "type1": "Psychic",
+  "type2": "Flying",
+  "hp": 67,
+  "attack": 57,
+  "defense": 55,
+  "sp_atk": 77,
+  "sp_def": 55,
+  "speed": 114,
+  "total": 425,
+  "abilities": [
+    "Unaware",
+    "Klutz",
+    "Simple"
+  ],
+  "height": 0.9,
+  "weight": 10.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Woobat",
+  "evo_level": null,
+  "evo_type": "levelFriendship",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/swoobat.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\528_swoobat.gif"
+}

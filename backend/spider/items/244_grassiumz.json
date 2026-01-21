@@ -1,0 +1,12 @@
+{
+  "id": 244,
+  "name": "Grassium Z",
+  "english": "grassiumz",
+  "category": "道具",
+  "num": 244,
+  "spritenum": 635,
+  "desc": "If holder has a Grass move, this item allows it to use a Grass Z-Move.",
+  "shortDesc": "If holder has a Grass move, this item allows it to use a Grass Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

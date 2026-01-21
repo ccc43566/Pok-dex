@@ -1,0 +1,33 @@
+{
+  "id": 156,
+  "name": "Quilava",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 58,
+  "attack": 64,
+  "defense": 58,
+  "sp_atk": 80,
+  "sp_def": 65,
+  "speed": 80,
+  "total": 405,
+  "abilities": [
+    "Blaze",
+    "Flash Fire"
+  ],
+  "height": 0.9,
+  "weight": 19.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Typhlosion",
+    "Typhlosion-Hisui"
+  ],
+  "prevo": "Cyndaquil",
+  "evo_level": 14,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/quilava.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\156_quilava.gif"
+}

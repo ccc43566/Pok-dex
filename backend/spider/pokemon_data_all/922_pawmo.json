@@ -1,0 +1,30 @@
+{
+  "id": 922,
+  "name": "Pawmo",
+  "type1": "Electric",
+  "type2": "Fighting",
+  "hp": 60,
+  "attack": 75,
+  "defense": 40,
+  "sp_atk": 50,
+  "sp_def": 40,
+  "speed": 85,
+  "total": 350,
+  "abilities": [
+    "Volt Absorb",
+    "Natural Cure",
+    "Iron Fist"
+  ],
+  "height": 0.4,
+  "weight": 6.5,
+  "gender_ratio": {},
+  "evos": [
+    "Pawmot"
+  ],
+  "prevo": "Pawmi",
+  "evo_level": 18,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pawmo.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\922_pawmo.gif"
+}

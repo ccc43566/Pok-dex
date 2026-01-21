@@ -1,0 +1,12 @@
+{
+  "id": 182,
+  "name": "Fairy Gem",
+  "english": "fairygem",
+  "category": "道具",
+  "num": 182,
+  "spritenum": 611,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 6,
+  "isPokeball": false
+}

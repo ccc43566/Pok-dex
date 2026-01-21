@@ -1,0 +1,12 @@
+{
+  "id": 584,
+  "name": "Steelixite",
+  "english": "steelixite",
+  "category": "道具",
+  "num": 584,
+  "spritenum": 621,
+  "desc": "If held by a Steelix, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Steelix, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

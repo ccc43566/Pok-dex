@@ -1,0 +1,12 @@
+{
+  "id": 28,
+  "name": "楔石",
+  "english": "Odd Keystone",
+  "category": "道具",
+  "num": 28,
+  "spritenum": 28,
+  "desc": "没有它，石之塔就会崩塌的重要石头。有时能从石头里听到声音。",
+  "shortDesc": "没有它，石之塔就会崩塌的重要石头。有时能从石头里听到声音。",
+  "gen": 1,
+  "isPokeball": false
+}

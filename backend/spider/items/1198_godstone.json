@@ -1,0 +1,12 @@
+{
+  "id": 1198,
+  "name": "神石",
+  "english": "God Stone",
+  "category": "重要物品",
+  "num": 1198,
+  "spritenum": 1198,
+  "desc": "奇幻之石。",
+  "shortDesc": "奇幻之石。",
+  "gen": 1,
+  "isPokeball": false
+}

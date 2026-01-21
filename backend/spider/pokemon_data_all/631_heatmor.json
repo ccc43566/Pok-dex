@@ -1,0 +1,28 @@
+{
+  "id": 631,
+  "name": "Heatmor",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 85,
+  "attack": 97,
+  "defense": 66,
+  "sp_atk": 105,
+  "sp_def": 66,
+  "speed": 65,
+  "total": 484,
+  "abilities": [
+    "Gluttony",
+    "Flash Fire",
+    "White Smoke"
+  ],
+  "height": 1.4,
+  "weight": 58.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/heatmor.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\631_heatmor.gif"
+}

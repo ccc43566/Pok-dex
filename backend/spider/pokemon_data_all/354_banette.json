@@ -1,0 +1,28 @@
+{
+  "id": 354,
+  "name": "Banette",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 64,
+  "attack": 115,
+  "defense": 65,
+  "sp_atk": 83,
+  "sp_def": 63,
+  "speed": 65,
+  "total": 455,
+  "abilities": [
+    "Insomnia",
+    "Frisk",
+    "Cursed Body"
+  ],
+  "height": 1.1,
+  "weight": 12.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Shuppet",
+  "evo_level": 37,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/banette.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\354_banette.gif"
+}

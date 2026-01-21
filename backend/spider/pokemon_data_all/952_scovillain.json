@@ -1,0 +1,28 @@
+{
+  "id": 952,
+  "name": "Scovillain",
+  "type1": "Grass",
+  "type2": "Fire",
+  "hp": 65,
+  "attack": 108,
+  "defense": 65,
+  "sp_atk": 108,
+  "sp_def": 65,
+  "speed": 75,
+  "total": 486,
+  "abilities": [
+    "Chlorophyll",
+    "Insomnia",
+    "Moody"
+  ],
+  "height": 0.9,
+  "weight": 15.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Capsakid",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Fire Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/scovillain.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\952_scovillain.gif"
+}

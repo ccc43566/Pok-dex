@@ -1,0 +1,12 @@
+{
+  "id": 492,
+  "name": "烟芋",
+  "english": "Sootfoot Root",
+  "category": "道具",
+  "num": 492,
+  "spritenum": 492,
+  "desc": "能作为烟弹的材料使用的芋头。磨碎后能用来入菜，干燥后则会变成轻盈细致的粉末。",
+  "shortDesc": "能作为烟弹的材料使用的芋头。磨碎后能用来入菜，干燥后则会变成轻盈细致的粉末。",
+  "gen": 1,
+  "isPokeball": false
+}

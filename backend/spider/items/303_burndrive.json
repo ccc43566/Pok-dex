@@ -1,0 +1,12 @@
+{
+  "id": 303,
+  "name": "火焰卡带",
+  "english": "Burn Drive",
+  "category": "道具",
+  "num": 303,
+  "spritenum": 303,
+  "desc": "这是让盖诺赛克特携带的卡带。携带后，高科技光炮这招式就会变为火属性。",
+  "shortDesc": "这是让盖诺赛克特携带的卡带。携带后，高科技光炮这招式就会变为火属性。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1094,
+  "name": "西尔佛检视镜",
+  "english": "Silph Scope",
+  "category": "重要物品",
+  "num": 1094,
+  "spritenum": 1094,
+  "desc": "西尔佛公司制造的透视镜。可以看见人眼无法看见的东西。",
+  "shortDesc": "西尔佛公司制造的透视镜。可以看见人眼无法看见的东西。",
+  "gen": 1,
+  "isPokeball": false
+}

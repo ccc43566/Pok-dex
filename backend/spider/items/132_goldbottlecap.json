@@ -1,0 +1,12 @@
+{
+  "id": 132,
+  "name": "金色王冠",
+  "english": "Gold Bottle Cap",
+  "category": "道具",
+  "num": 132,
+  "spritenum": 132,
+  "desc": "金色的美丽王冠。比银色王冠珍贵。有些人收到它会很高兴。",
+  "shortDesc": "金色的美丽王冠。比银色王冠珍贵。有些人收到它会很高兴。",
+  "gen": 1,
+  "isPokeball": false
+}

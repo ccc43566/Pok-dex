@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "name": "桐木箱",
+  "english": "Gorgeous Box",
+  "category": "道具",
+  "num": 4,
+  "spritenum": 4,
+  "desc": "打开看看。",
+  "shortDesc": "打开看看。",
+  "gen": 1,
+  "isPokeball": false
+}

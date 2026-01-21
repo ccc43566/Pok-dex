@@ -1,0 +1,12 @@
+{
+  "id": 1004,
+  "name": "异奇果",
+  "english": "Wiki Berry",
+  "category": "树果",
+  "num": 1004,
+  "spritenum": 1004,
+  "desc": "让宝可梦携带后，危机时可以回复ＨＰ。如果讨厌这味道就会混乱。",
+  "shortDesc": "让宝可梦携带后，危机时可以回复ＨＰ。如果讨厌这味道就会混乱。",
+  "gen": 1,
+  "isPokeball": false
+}

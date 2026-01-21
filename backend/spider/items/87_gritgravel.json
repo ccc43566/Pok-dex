@@ -1,0 +1,12 @@
+{
+  "id": 87,
+  "name": "奋斗砾",
+  "english": "Grit Gravel",
+  "category": "道具",
+  "num": 87,
+  "spritenum": 87,
+  "desc": "不可思议的沙砾。能让宝可梦的奋斗等级提升。可用于奋斗等级３～５的宝可梦。",
+  "shortDesc": "不可思议的沙砾。能让宝可梦的奋斗等级提升。可用于奋斗等级３～５的宝可梦。",
+  "gen": 1,
+  "isPokeball": false
+}

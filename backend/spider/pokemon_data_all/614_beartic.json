@@ -1,0 +1,28 @@
+{
+  "id": 614,
+  "name": "Beartic",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 95,
+  "attack": 130,
+  "defense": 80,
+  "sp_atk": 70,
+  "sp_def": 80,
+  "speed": 50,
+  "total": 505,
+  "abilities": [
+    "Snow Cloak",
+    "Slush Rush",
+    "Swift Swim"
+  ],
+  "height": 2.6,
+  "weight": 260.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Cubchoo",
+  "evo_level": 37,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/beartic.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\614_beartic.gif"
+}

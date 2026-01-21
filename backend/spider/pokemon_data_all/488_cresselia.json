@@ -1,0 +1,26 @@
+{
+  "id": 488,
+  "name": "Cresselia",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 120,
+  "attack": 70,
+  "defense": 110,
+  "sp_atk": 75,
+  "sp_def": 120,
+  "speed": 85,
+  "total": 580,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 1.5,
+  "weight": 85.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/cresselia.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\488_cresselia.gif"
+}

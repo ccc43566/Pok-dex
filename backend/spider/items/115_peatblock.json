@@ -1,0 +1,12 @@
+{
+  "id": 115,
+  "name": "泥炭块",
+  "english": "Peat Block",
+  "category": "道具",
+  "num": 115,
+  "spritenum": 115,
+  "desc": "质地像是泥土的煤炭块。干燥后也能当成燃料使用。某种宝可梦很喜欢它。",
+  "shortDesc": "质地像是泥土的煤炭块。干燥后也能当成燃料使用。某种宝可梦很喜欢它。",
+  "gen": 1,
+  "isPokeball": false
+}

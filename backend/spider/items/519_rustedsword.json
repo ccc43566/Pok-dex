@@ -1,0 +1,12 @@
+{
+  "id": 519,
+  "name": "Rusted Sword",
+  "english": "rustedsword",
+  "category": "道具",
+  "num": 519,
+  "spritenum": 698,
+  "desc": "If held by a Zacian, this item changes its forme to Crowned Sword.",
+  "shortDesc": "If held by a Zacian, this item changes its forme to Crowned Sword.",
+  "gen": 8,
+  "isPokeball": false
+}

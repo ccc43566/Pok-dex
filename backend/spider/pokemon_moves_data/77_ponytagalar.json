@@ -1,0 +1,60 @@
+{
+  "id": 77,
+  "name": "ponytagalar",
+  "level_up": [
+    "agility",
+    "confusion",
+    "dazzlinggleam",
+    "fairywind",
+    "growl",
+    "healingwish",
+    "healpulse",
+    "psybeam",
+    "psychic",
+    "stomp",
+    "tackle",
+    "tailwhip",
+    "takedown"
+  ],
+  "egg_moves": [
+    "doubleedge",
+    "doublekick",
+    "horndrill",
+    "hypnosis",
+    "morningsun",
+    "thrash"
+  ],
+  "tm_moves": [
+    "agility",
+    "allyswitch",
+    "attract",
+    "bodyslam",
+    "bounce",
+    "calmmind",
+    "charm",
+    "dazzlinggleam",
+    "endure",
+    "facade",
+    "futuresight",
+    "highhorsepower",
+    "imprison",
+    "irontail",
+    "lowkick",
+    "mysticalfire",
+    "playrough",
+    "protect",
+    "psychic",
+    "rest",
+    "round",
+    "sleeptalk",
+    "snore",
+    "storedpower",
+    "substitute",
+    "swift",
+    "wildcharge",
+    "zenheadbutt"
+  ],
+  "tutor_moves": [
+    "expandingforce"
+  ]
+}

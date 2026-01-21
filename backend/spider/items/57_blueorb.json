@@ -1,0 +1,12 @@
+{
+  "id": 57,
+  "name": "Blue Orb",
+  "english": "blueorb",
+  "category": "道具",
+  "num": 57,
+  "spritenum": 41,
+  "desc": "If held by a Kyogre, this item triggers its Primal Reversion in battle.",
+  "shortDesc": "If held by a Kyogre, this item triggers its Primal Reversion in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

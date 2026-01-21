@@ -1,0 +1,12 @@
+{
+  "id": 226,
+  "name": "Galarica Wreath",
+  "english": "galaricawreath",
+  "category": "道具",
+  "num": 226,
+  "spritenum": 740,
+  "desc": "Evolves Galarian Slowpoke into Galarian Slowking when used.",
+  "shortDesc": "Evolves Galarian Slowpoke into Galarian Slowking when used.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 654,
+  "name": "树果汁",
+  "english": "Berry Juice",
+  "category": "回复",
+  "num": 654,
+  "spritenum": 654,
+  "desc": "１００％树果果汁。能让１只宝可梦回复２０ＨＰ。",
+  "shortDesc": "１００％树果果汁。能让１只宝可梦回复２０ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

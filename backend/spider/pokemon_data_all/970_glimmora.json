@@ -1,0 +1,27 @@
+{
+  "id": 970,
+  "name": "Glimmora",
+  "type1": "Rock",
+  "type2": "Poison",
+  "hp": 83,
+  "attack": 55,
+  "defense": 90,
+  "sp_atk": 130,
+  "sp_def": 81,
+  "speed": 86,
+  "total": 525,
+  "abilities": [
+    "Toxic Debris",
+    "Corrosion"
+  ],
+  "height": 1.5,
+  "weight": 45.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Glimmet",
+  "evo_level": 35,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/glimmora.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\970_glimmora.gif"
+}

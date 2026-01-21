@@ -1,0 +1,30 @@
+{
+  "id": 705,
+  "name": "Sliggoo-Hisui",
+  "type1": "Steel",
+  "type2": "Dragon",
+  "hp": 58,
+  "attack": 75,
+  "defense": 83,
+  "sp_atk": 83,
+  "sp_def": 113,
+  "speed": 40,
+  "total": 452,
+  "abilities": [
+    "Sap Sipper",
+    "Shell Armor",
+    "Gooey"
+  ],
+  "height": 0.7,
+  "weight": 68.5,
+  "gender_ratio": {},
+  "evos": [
+    "Goodra-Hisui"
+  ],
+  "prevo": "Goomy",
+  "evo_level": 40,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/sliggoo-hisui.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\705_sliggoo-hisui.gif"
+}

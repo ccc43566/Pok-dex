@@ -1,0 +1,31 @@
+{
+  "id": 143,
+  "name": "Snorlax",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 160,
+  "attack": 110,
+  "defense": 65,
+  "sp_atk": 65,
+  "sp_def": 110,
+  "speed": 30,
+  "total": 540,
+  "abilities": [
+    "Immunity",
+    "Thick Fat",
+    "Gluttony"
+  ],
+  "height": 2.1,
+  "weight": 460.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Munchlax",
+  "evo_level": null,
+  "evo_type": "levelFriendship",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/snorlax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\143_snorlax.gif"
+}

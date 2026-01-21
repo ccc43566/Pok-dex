@@ -1,0 +1,28 @@
+{
+  "id": 999,
+  "name": "Gimmighoul",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 45,
+  "attack": 30,
+  "defense": 70,
+  "sp_atk": 75,
+  "sp_def": 70,
+  "speed": 10,
+  "total": 300,
+  "abilities": [
+    "Rattled"
+  ],
+  "height": 0.3,
+  "weight": 5.0,
+  "gender_ratio": {},
+  "evos": [
+    "Gholdengo"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/gimmighoul.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\999_gimmighoul.gif"
+}

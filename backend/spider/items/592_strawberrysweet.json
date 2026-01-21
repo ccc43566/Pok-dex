@@ -1,0 +1,12 @@
+{
+  "id": 592,
+  "name": "Strawberry Sweet",
+  "english": "strawberrysweet",
+  "category": "道具",
+  "num": 592,
+  "spritenum": 704,
+  "desc": "Evolves Milcery into Alcremie when held and spun around.",
+  "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
+  "gen": 8,
+  "isPokeball": false
+}

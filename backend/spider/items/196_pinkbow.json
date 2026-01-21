@@ -1,0 +1,12 @@
+{
+  "id": 196,
+  "name": "粉红色丝带",
+  "english": "Pink Bow",
+  "category": "道具",
+  "num": 196,
+  "spritenum": 196,
+  "desc": "携带后，一般屬性的招式威力就会提高。",
+  "shortDesc": "携带后，一般屬性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

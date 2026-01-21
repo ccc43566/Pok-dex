@@ -1,0 +1,12 @@
+{
+  "id": 473,
+  "name": "Pyroarite",
+  "english": "pyroarite",
+  "category": "道具",
+  "num": 473,
+  "spritenum": 561,
+  "desc": "If held by a Pyroar, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Pyroar, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

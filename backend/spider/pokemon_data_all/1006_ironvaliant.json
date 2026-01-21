@@ -1,0 +1,26 @@
+{
+  "id": 1006,
+  "name": "Iron Valiant",
+  "type1": "Fairy",
+  "type2": "Fighting",
+  "hp": 74,
+  "attack": 130,
+  "defense": 90,
+  "sp_atk": 120,
+  "sp_def": 60,
+  "speed": 116,
+  "total": 590,
+  "abilities": [
+    "Quark Drive"
+  ],
+  "height": 1.4,
+  "weight": 35.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ironvaliant.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\1006_ironvaliant.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 431,
+  "name": "邀请邮件",
+  "english": "RSVP Mail",
+  "category": "道具",
+  "num": 431,
+  "spritenum": 431,
+  "desc": "方便写邀请对方这类邮件的信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "shortDesc": "方便写邀请对方这类邮件的信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "gen": 1,
+  "isPokeball": false
+}

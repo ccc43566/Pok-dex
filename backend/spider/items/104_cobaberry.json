@@ -1,0 +1,12 @@
+{
+  "id": 104,
+  "name": "Coba Berry",
+  "english": "cobaberry",
+  "category": "道具",
+  "num": 104,
+  "spritenum": 76,
+  "desc": "Halves damage taken from a supereffective Flying-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Flying-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

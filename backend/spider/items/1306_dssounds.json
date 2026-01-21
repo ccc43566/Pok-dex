@@ -1,0 +1,12 @@
+{
+  "id": 1306,
+  "name": "ＤＳ播放器",
+  "english": "DS Sounds",
+  "category": "重要物品",
+  "num": 1306,
+  "spritenum": 1306,
+  "desc": "可以听到怀旧歌曲的音乐播放器。可用一个开关切换歌曲。",
+  "shortDesc": "可以听到怀旧歌曲的音乐播放器。可用一个开关切换歌曲。",
+  "gen": 1,
+  "isPokeball": false
+}

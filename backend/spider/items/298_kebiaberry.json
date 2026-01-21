@@ -1,0 +1,12 @@
+{
+  "id": 298,
+  "name": "Kebia Berry",
+  "english": "kebiaberry",
+  "category": "道具",
+  "num": 298,
+  "spritenum": 234,
+  "desc": "Halves damage taken from a supereffective Poison-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Poison-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

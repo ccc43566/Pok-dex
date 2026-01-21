@@ -1,0 +1,12 @@
+{
+  "id": 1059,
+  "name": "金南果",
+  "english": "Pumkin Berry",
+  "category": "树果",
+  "num": 1059,
+  "spritenum": 1059,
+  "desc": "用于制作宝可方块，种在松软的土里会长出神秘的果实。",
+  "shortDesc": "用于制作宝可方块，种在松软的土里会长出神秘的果实。",
+  "gen": 1,
+  "isPokeball": false
+}

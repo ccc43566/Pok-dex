@@ -1,0 +1,12 @@
+{
+  "id": 32,
+  "name": "匿声喷雾",
+  "english": "Stealth Spray",
+  "category": "道具",
+  "num": 32,
+  "spritenum": 32,
+  "desc": "使用后的一小段时间内，自己的脚步声将会消失，变得不容易被野生宝可梦察觉。",
+  "shortDesc": "使用后的一小段时间内，自己的脚步声将会消失，变得不容易被野生宝可梦察觉。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1395,
+  "name": "孵蛋碰碰",
+  "english": "Roto Hatch",
+  "category": "道具",
+  "num": 1395,
+  "spritenum": 1395,
+  "desc": "洛托姆之力的一种，使用后，蛋就会变得非常容易孵化。",
+  "shortDesc": "洛托姆之力的一种，使用后，蛋就会变得非常容易孵化。",
+  "gen": 1,
+  "isPokeball": false
+}

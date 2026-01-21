@@ -1,0 +1,60 @@
+{
+  "id": 833,
+  "name": "chewtle",
+  "level_up": [
+    "bite",
+    "bodyslam",
+    "counter",
+    "headbutt",
+    "jawlock",
+    "liquidation",
+    "protect",
+    "tackle",
+    "watergun"
+  ],
+  "egg_moves": [
+    "dragontail",
+    "gastroacid",
+    "shellsmash",
+    "skullbash"
+  ],
+  "tm_moves": [
+    "assurance",
+    "attract",
+    "bodyslam",
+    "chillingwater",
+    "crunch",
+    "dive",
+    "dragontail",
+    "endure",
+    "facade",
+    "falseswipe",
+    "hydropump",
+    "icefang",
+    "liquidation",
+    "mudshot",
+    "payback",
+    "poisonjab",
+    "protect",
+    "raindance",
+    "rest",
+    "revenge",
+    "round",
+    "scaryface",
+    "skittersmack",
+    "sleeptalk",
+    "snore",
+    "stompingtantrum",
+    "substitute",
+    "surf",
+    "takedown",
+    "terablast",
+    "waterfall",
+    "waterpulse",
+    "whirlpool"
+  ],
+  "tutor_moves": [
+    "scaleshot",
+    "skittersmack"
+  ]
+}

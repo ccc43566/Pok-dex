@@ -1,0 +1,12 @@
+{
+  "id": 798,
+  "name": "TR89",
+  "english": "tr89",
+  "category": "道具",
+  "num": 798,
+  "spritenum": 723,
+  "desc": "Teaches certain Pokemon the move Hurricane. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Hurricane. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 590,
+  "name": "背盖化石",
+  "english": "Cover Fossil",
+  "category": "道具",
+  "num": 590,
+  "spritenum": 590,
+  "desc": "很久以前栖息在海里的古代宝可梦的化石。好像是后背的一部分。",
+  "shortDesc": "很久以前栖息在海里的古代宝可梦的化石。好像是后背的一部分。",
+  "gen": 1,
+  "isPokeball": false
+}

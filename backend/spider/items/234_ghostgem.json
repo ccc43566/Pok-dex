@@ -1,0 +1,12 @@
+{
+  "id": 234,
+  "name": "Ghost Gem",
+  "english": "ghostgem",
+  "category": "道具",
+  "num": 234,
+  "spritenum": 161,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

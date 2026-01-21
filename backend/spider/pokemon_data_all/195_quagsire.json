@@ -1,0 +1,28 @@
+{
+  "id": 195,
+  "name": "Quagsire",
+  "type1": "Water",
+  "type2": "Ground",
+  "hp": 95,
+  "attack": 85,
+  "defense": 85,
+  "sp_atk": 65,
+  "sp_def": 65,
+  "speed": 35,
+  "total": 430,
+  "abilities": [
+    "Damp",
+    "Water Absorb",
+    "Unaware"
+  ],
+  "height": 1.4,
+  "weight": 75.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Wooper",
+  "evo_level": 20,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/quagsire.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\195_quagsire.gif"
+}

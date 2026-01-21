@@ -1,0 +1,12 @@
+{
+  "id": 35,
+  "name": "滚滚豆",
+  "english": "Plump Beans",
+  "category": "道具",
+  "num": 35,
+  "spritenum": 35,
+  "desc": "结实饱满的大颗豆子。是鸟宝可梦和鱼宝可梦喜爱的食物，能吸引它们聚集到投向的地方。",
+  "shortDesc": "结实饱满的大颗豆子。是鸟宝可梦和鱼宝可梦喜爱的食物，能吸引它们聚集到投向的地方。",
+  "gen": 1,
+  "isPokeball": false
+}

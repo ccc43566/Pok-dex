@@ -1,0 +1,28 @@
+{
+  "id": 999,
+  "name": "gimmighoul",
+  "level_up": [
+    "astonish",
+    "tackle"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "confuseray",
+    "endure",
+    "hex",
+    "lightscreen",
+    "nastyplot",
+    "nightshade",
+    "powergem",
+    "protect",
+    "reflect",
+    "rest",
+    "shadowball",
+    "sleeptalk",
+    "substitute",
+    "takedown",
+    "terablast",
+    "thief"
+  ],
+  "tutor_moves": []
+}

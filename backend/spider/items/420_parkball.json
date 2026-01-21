@@ -1,0 +1,12 @@
+{
+  "id": 420,
+  "name": "Park Ball",
+  "english": "parkball",
+  "category": "道具",
+  "num": 420,
+  "spritenum": 325,
+  "desc": "A special Poke Ball for the Pal Park.",
+  "shortDesc": "A special Poke Ball for the Pal Park.",
+  "gen": 4,
+  "isPokeball": true
+}

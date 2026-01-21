@@ -1,0 +1,12 @@
+{
+  "id": 548,
+  "name": "小蘑菇",
+  "english": "Tiny Mushroom",
+  "category": "宝物",
+  "num": 548,
+  "spritenum": 548,
+  "desc": "珍稀的小蘑菇。在一些爱好者中有着相当高的人气。",
+  "shortDesc": "珍稀的小蘑菇。在一些爱好者中有着相当高的人气。",
+  "gen": 1,
+  "isPokeball": false
+}

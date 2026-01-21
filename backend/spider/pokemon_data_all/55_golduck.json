@@ -1,0 +1,28 @@
+{
+  "id": 55,
+  "name": "Golduck",
+  "type1": "Water",
+  "type2": null,
+  "hp": 80,
+  "attack": 82,
+  "defense": 78,
+  "sp_atk": 95,
+  "sp_def": 80,
+  "speed": 85,
+  "total": 500,
+  "abilities": [
+    "Damp",
+    "Cloud Nine",
+    "Swift Swim"
+  ],
+  "height": 1.7,
+  "weight": 76.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Psyduck",
+  "evo_level": 33,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/golduck.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\55_golduck.gif"
+}

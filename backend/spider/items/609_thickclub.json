@@ -1,0 +1,12 @@
+{
+  "id": 609,
+  "name": "Thick Club",
+  "english": "thickclub",
+  "category": "道具",
+  "num": 609,
+  "spritenum": 491,
+  "desc": "If held by a Cubone or a Marowak, its Attack is doubled.",
+  "shortDesc": "If held by a Cubone or a Marowak, its Attack is doubled.",
+  "gen": 2,
+  "isPokeball": false
+}

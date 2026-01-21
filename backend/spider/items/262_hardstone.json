@@ -1,0 +1,12 @@
+{
+  "id": 262,
+  "name": "Hard Stone",
+  "english": "hardstone",
+  "category": "道具",
+  "num": 262,
+  "spritenum": 187,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

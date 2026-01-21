@@ -1,0 +1,12 @@
+{
+  "id": 1333,
+  "name": "三明治",
+  "english": "Sandwich",
+  "category": "重要物品",
+  "num": 1333,
+  "spritenum": 1333,
+  "desc": "使用面包夹着蔬菜和肉类等馅料制成的料理。最适合在野餐时食用。",
+  "shortDesc": "使用面包夹着蔬菜和肉类等馅料制成的料理。最适合在野餐时食用。",
+  "gen": 1,
+  "isPokeball": false
+}

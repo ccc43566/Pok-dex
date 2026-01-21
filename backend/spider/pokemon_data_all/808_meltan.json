@@ -1,0 +1,26 @@
+{
+  "id": 808,
+  "name": "Meltan",
+  "type1": "Steel",
+  "type2": null,
+  "hp": 46,
+  "attack": 65,
+  "defense": 65,
+  "sp_atk": 55,
+  "sp_def": 35,
+  "speed": 34,
+  "total": 300,
+  "abilities": [
+    "Magnet Pull"
+  ],
+  "height": 0.2,
+  "weight": 8.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/meltan.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\808_meltan.gif"
+}

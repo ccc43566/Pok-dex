@@ -1,0 +1,12 @@
+{
+  "id": 628,
+  "name": "TR04",
+  "english": "tr04",
+  "category": "道具",
+  "num": 628,
+  "spritenum": 731,
+  "desc": "Teaches certain Pokemon the move Surf. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Surf. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

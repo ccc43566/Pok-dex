@@ -1,0 +1,12 @@
+{
+  "id": 585,
+  "name": "Steel Memory",
+  "english": "steelmemory",
+  "category": "道具",
+  "num": 585,
+  "spritenum": 675,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

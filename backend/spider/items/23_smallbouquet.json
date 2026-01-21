@@ -1,0 +1,12 @@
+{
+  "id": 23,
+  "name": "小小花束",
+  "english": "Small Bouquet",
+  "category": "道具",
+  "num": 23,
+  "spritenum": 23,
+  "desc": "竭尽心力制作的素雅花束。里面满满都是对训练家的心意。",
+  "shortDesc": "竭尽心力制作的素雅花束。里面满满都是对训练家的心意。",
+  "gen": 1,
+  "isPokeball": false
+}

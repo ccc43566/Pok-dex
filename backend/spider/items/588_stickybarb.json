@@ -1,0 +1,12 @@
+{
+  "id": 588,
+  "name": "Sticky Barb",
+  "english": "stickybarb",
+  "category": "道具",
+  "num": 588,
+  "spritenum": 476,
+  "desc": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.",
+  "shortDesc": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.",
+  "gen": 4,
+  "isPokeball": false
+}

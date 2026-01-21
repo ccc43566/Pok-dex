@@ -1,0 +1,12 @@
+{
+  "id": 309,
+  "name": "气球",
+  "english": "Air Balloon",
+  "category": "道具",
+  "num": 309,
+  "spritenum": 309,
+  "desc": "让宝可梦携带后，宝可梦会浮在空中。受到攻击就会破裂。",
+  "shortDesc": "让宝可梦携带后，宝可梦会浮在空中。受到攻击就会破裂。",
+  "gen": 1,
+  "isPokeball": false
+}

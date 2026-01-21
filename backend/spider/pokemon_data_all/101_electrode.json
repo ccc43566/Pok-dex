@@ -1,0 +1,28 @@
+{
+  "id": 101,
+  "name": "Electrode",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 60,
+  "attack": 50,
+  "defense": 70,
+  "sp_atk": 80,
+  "sp_def": 80,
+  "speed": 150,
+  "total": 490,
+  "abilities": [
+    "Soundproof",
+    "Static",
+    "Aftermath"
+  ],
+  "height": 1.2,
+  "weight": 66.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Voltorb",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/electrode.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\101_electrode.gif"
+}

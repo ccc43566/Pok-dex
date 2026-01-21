@@ -1,0 +1,12 @@
+{
+  "id": 290,
+  "name": "潮湿岩石",
+  "english": "Damp Rock",
+  "category": "道具",
+  "num": 290,
+  "spritenum": 290,
+  "desc": "携带它的宝可梦使出求雨的话，下雨的时间就会比平时更长。",
+  "shortDesc": "携带它的宝可梦使出求雨的话，下雨的时间就会比平时更长。",
+  "gen": 1,
+  "isPokeball": false
+}

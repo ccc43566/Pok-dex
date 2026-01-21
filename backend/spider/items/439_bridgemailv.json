@@ -1,0 +1,12 @@
+{
+  "id": 439,
+  "name": "桥梁邮件Ｖ",
+  "english": "Bridge Mail V",
+  "category": "道具",
+  "num": 439,
+  "spritenum": 439,
+  "desc": "印有砖桥图案的信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "shortDesc": "印有砖桥图案的信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "gen": 1,
+  "isPokeball": false
+}

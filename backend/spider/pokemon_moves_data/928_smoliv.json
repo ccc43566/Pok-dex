@@ -1,0 +1,52 @@
+{
+  "id": 928,
+  "name": "smoliv",
+  "level_up": [
+    "absorb",
+    "energyball",
+    "flail",
+    "grassyterrain",
+    "growth",
+    "helpinghand",
+    "leechseed",
+    "megadrain",
+    "razorleaf",
+    "seedbomb",
+    "sweetscent",
+    "tackle",
+    "terrainpulse"
+  ],
+  "egg_moves": [
+    "memento",
+    "strengthsap",
+    "synthesis",
+    "weatherball"
+  ],
+  "tm_moves": [
+    "bulletseed",
+    "charm",
+    "earthpower",
+    "endure",
+    "energyball",
+    "facade",
+    "gigadrain",
+    "grassknot",
+    "grassyterrain",
+    "helpinghand",
+    "leafstorm",
+    "magicalleaf",
+    "protect",
+    "rest",
+    "seedbomb",
+    "sleeptalk",
+    "solarbeam",
+    "solarblade",
+    "substitute",
+    "sunnyday",
+    "swift",
+    "terablast",
+    "trailblaze",
+    "weatherball"
+  ],
+  "tutor_moves": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": 517,
+  "name": "Rowap Berry",
+  "english": "rowapberry",
+  "category": "道具",
+  "num": 517,
+  "spritenum": 420,
+  "desc": "If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use.",
+  "shortDesc": "If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

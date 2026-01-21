@@ -1,0 +1,26 @@
+{
+  "id": 773,
+  "name": "Silvally",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 95,
+  "attack": 95,
+  "defense": 95,
+  "sp_atk": 95,
+  "sp_def": 95,
+  "speed": 95,
+  "total": 570,
+  "abilities": [
+    "RKS System"
+  ],
+  "height": 2.3,
+  "weight": 100.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Type: Null",
+  "evo_level": null,
+  "evo_type": "levelFriendship",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/silvally.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\773_silvally.gif"
+}

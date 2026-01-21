@@ -1,0 +1,12 @@
+{
+  "id": 1342,
+  "name": "洛拍棒",
+  "english": "Roto-Stick",
+  "category": "重要物品",
+  "num": 1342,
+  "spritenum": 1342,
+  "desc": "可供手机洛托姆搭乘的棒子。在自拍模式中使用就能从稍远的地方拍照。",
+  "shortDesc": "可供手机洛托姆搭乘的棒子。在自拍模式中使用就能从稍远的地方拍照。",
+  "gen": 1,
+  "isPokeball": false
+}

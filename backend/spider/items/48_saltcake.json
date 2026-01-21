@@ -1,0 +1,12 @@
+{
+  "id": 48,
+  "name": "矿诱团",
+  "english": "Salt Cake",
+  "category": "道具",
+  "num": 48,
+  "spritenum": 48,
+  "desc": "由矿物与诱团原料糅合而成。对草类和岩石类宝可梦有着很强的吸引力。",
+  "shortDesc": "由矿物与诱团原料糅合而成。对草类和岩石类宝可梦有着很强的吸引力。",
+  "gen": 1,
+  "isPokeball": false
+}

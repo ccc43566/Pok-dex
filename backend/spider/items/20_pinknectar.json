@@ -1,0 +1,12 @@
+{
+  "id": 20,
+  "name": "桃粉色花蜜",
+  "english": "Pink Nectar",
+  "category": "道具",
+  "num": 20,
+  "spritenum": 20,
+  "desc": "桃粉色花的花蜜。可以改变特定宝可梦的样子。",
+  "shortDesc": "桃粉色花的花蜜。可以改变特定宝可梦的样子。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 304,
+  "name": "冰冻卡带",
+  "english": "Chill Drive",
+  "category": "道具",
+  "num": 304,
+  "spritenum": 304,
+  "desc": "这是让盖诺赛克特携带的卡带。携带后，高科技光炮这招式就会变为冰属性。",
+  "shortDesc": "这是让盖诺赛克特携带的卡带。携带后，高科技光炮这招式就会变为冰属性。",
+  "gen": 1,
+  "isPokeball": false
+}

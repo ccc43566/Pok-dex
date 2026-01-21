@@ -1,0 +1,12 @@
+{
+  "id": 864,
+  "name": "Berserk Gene",
+  "english": "berserkgene",
+  "category": "道具",
+  "num": 864,
+  "spritenum": 388,
+  "desc": "(Gen 2) On switch-in, raises holder",
+  "shortDesc": "(Gen 2) On switch-in, raises holder",
+  "gen": 2,
+  "isPokeball": false
+}

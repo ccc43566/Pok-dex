@@ -1,0 +1,33 @@
+{
+  "id": 667,
+  "name": "Litleo",
+  "type1": "Fire",
+  "type2": "Normal",
+  "hp": 62,
+  "attack": 50,
+  "defense": 58,
+  "sp_atk": 73,
+  "sp_def": 54,
+  "speed": 72,
+  "total": 369,
+  "abilities": [
+    "Rivalry",
+    "Unnerve",
+    "Moxie"
+  ],
+  "height": 0.6,
+  "weight": 13.5,
+  "gender_ratio": {
+    "M": 0.125,
+    "F": 0.875
+  },
+  "evos": [
+    "Pyroar"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/litleo.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\667_litleo.gif"
+}

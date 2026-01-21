@@ -1,0 +1,12 @@
+{
+  "id": 193,
+  "name": "弯曲的汤匙",
+  "english": "Twisted Spoon",
+  "category": "道具",
+  "num": 193,
+  "spritenum": 193,
+  "desc": "注入了念力的汤匙。携带后，超能力属性的招式威力就会提高。",
+  "shortDesc": "注入了念力的汤匙。携带后，超能力属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

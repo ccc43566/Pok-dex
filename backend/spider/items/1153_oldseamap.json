@@ -1,0 +1,12 @@
+{
+  "id": 1153,
+  "name": "古航海图",
+  "english": "Old Sea Map",
+  "category": "重要物品",
+  "num": 1153,
+  "spritenum": 1153,
+  "desc": "记录着前往某座岛屿的路线的一张古老的航海图。",
+  "shortDesc": "记录着前往某座岛屿的路线的一张古老的航海图。",
+  "gen": 1,
+  "isPokeball": false
+}

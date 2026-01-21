@@ -1,0 +1,12 @@
+{
+  "id": 620,
+  "name": "伤药",
+  "english": "Potion",
+  "category": "回复",
+  "num": 620,
+  "spritenum": 620,
+  "desc": "喷雾式伤药。能让１只宝可梦回复２０ＨＰ。",
+  "shortDesc": "喷雾式伤药。能让１只宝可梦回复２０ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

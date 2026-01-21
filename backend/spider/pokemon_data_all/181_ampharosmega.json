@@ -1,0 +1,26 @@
+{
+  "id": 181,
+  "name": "Ampharos-Mega",
+  "type1": "Electric",
+  "type2": "Dragon",
+  "hp": 90,
+  "attack": 95,
+  "defense": 105,
+  "sp_atk": 165,
+  "sp_def": 110,
+  "speed": 45,
+  "total": 610,
+  "abilities": [
+    "Mold Breaker"
+  ],
+  "height": 1.4,
+  "weight": 61.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ampharos-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\181_ampharos-mega.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 623,
+  "name": "全满药",
+  "english": "Max Potion",
+  "category": "回复",
+  "num": 623,
+  "spritenum": 623,
+  "desc": "喷雾式伤药。能让１只宝可梦回复所有ＨＰ。",
+  "shortDesc": "喷雾式伤药。能让１只宝可梦回复所有ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

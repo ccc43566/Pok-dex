@@ -1,0 +1,12 @@
+{
+  "id": 692,
+  "name": "TR36",
+  "english": "tr36",
+  "category": "道具",
+  "num": 692,
+  "spritenum": 730,
+  "desc": "Teaches certain Pokemon the move Heat Wave. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Heat Wave. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

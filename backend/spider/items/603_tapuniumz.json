@@ -1,0 +1,12 @@
+{
+  "id": 603,
+  "name": "Tapunium Z",
+  "english": "tapuniumz",
+  "category": "道具",
+  "num": 603,
+  "spritenum": 653,
+  "desc": "If held by a Tapu with Nature",
+  "shortDesc": "If held by a Tapu with Nature",
+  "gen": 7,
+  "isPokeball": false
+}

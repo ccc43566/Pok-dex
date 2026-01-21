@@ -1,0 +1,12 @@
+{
+  "id": 340,
+  "name": "Lunalium Z",
+  "english": "lunaliumz",
+  "category": "道具",
+  "num": 340,
+  "spritenum": 686,
+  "desc": "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.",
+  "shortDesc": "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

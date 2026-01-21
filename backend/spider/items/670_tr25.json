@@ -1,0 +1,12 @@
+{
+  "id": 670,
+  "name": "TR25",
+  "english": "tr25",
+  "category": "道具",
+  "num": 670,
+  "spritenum": 734,
+  "desc": "Teaches certain Pokemon the move Psyshock. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Psyshock. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

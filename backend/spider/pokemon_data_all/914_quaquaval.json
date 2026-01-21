@@ -1,0 +1,30 @@
+{
+  "id": 914,
+  "name": "Quaquaval",
+  "type1": "Water",
+  "type2": "Fighting",
+  "hp": 85,
+  "attack": 120,
+  "defense": 80,
+  "sp_atk": 85,
+  "sp_def": 75,
+  "speed": 85,
+  "total": 530,
+  "abilities": [
+    "Torrent",
+    "Moxie"
+  ],
+  "height": 1.8,
+  "weight": 61.9,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Quaxwell",
+  "evo_level": 36,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/quaquaval.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\914_quaquaval.gif"
+}

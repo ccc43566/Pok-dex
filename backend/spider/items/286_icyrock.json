@@ -1,0 +1,12 @@
+{
+  "id": 286,
+  "name": "Icy Rock",
+  "english": "icyrock",
+  "category": "道具",
+  "num": 286,
+  "spritenum": 221,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

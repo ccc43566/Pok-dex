@@ -1,0 +1,12 @@
+{
+  "id": 599,
+  "name": "Syrupy Apple",
+  "english": "syrupyapple",
+  "category": "道具",
+  "num": 599,
+  "spritenum": 755,
+  "desc": "Evolves Applin into Dipplin when used.",
+  "shortDesc": "Evolves Applin into Dipplin when used.",
+  "gen": 9,
+  "isPokeball": false
+}

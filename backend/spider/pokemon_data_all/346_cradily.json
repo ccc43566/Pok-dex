@@ -1,0 +1,30 @@
+{
+  "id": 346,
+  "name": "Cradily",
+  "type1": "Rock",
+  "type2": "Grass",
+  "hp": 86,
+  "attack": 81,
+  "defense": 97,
+  "sp_atk": 81,
+  "sp_def": 107,
+  "speed": 43,
+  "total": 495,
+  "abilities": [
+    "Suction Cups",
+    "Storm Drain"
+  ],
+  "height": 1.5,
+  "weight": 60.4,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Lileep",
+  "evo_level": 40,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/cradily.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\346_cradily.gif"
+}

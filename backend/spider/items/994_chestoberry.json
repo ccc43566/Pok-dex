@@ -1,0 +1,12 @@
+{
+  "id": 994,
+  "name": "零余果",
+  "english": "Chesto Berry",
+  "category": "树果",
+  "num": 994,
+  "spritenum": 994,
+  "desc": "让宝可梦携带后，可以治愈睡眠。",
+  "shortDesc": "让宝可梦携带后，可以治愈睡眠。",
+  "gen": 1,
+  "isPokeball": false
+}

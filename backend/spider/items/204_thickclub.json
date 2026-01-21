@@ -1,0 +1,12 @@
+{
+  "id": 204,
+  "name": "粗骨头",
+  "english": "Thick Club",
+  "category": "道具",
+  "num": 204,
+  "spritenum": 204,
+  "desc": "某种坚硬的骨头。让卡拉卡拉或嘎啦嘎啦携带后，攻击就会提高。",
+  "shortDesc": "某种坚硬的骨头。让卡拉卡拉或嘎啦嘎啦携带后，攻击就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

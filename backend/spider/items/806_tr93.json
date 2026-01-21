@@ -1,0 +1,12 @@
+{
+  "id": 806,
+  "name": "TR93",
+  "english": "tr93",
+  "category": "道具",
+  "num": 806,
+  "spritenum": 737,
+  "desc": "Teaches certain Pokemon the move Darkest Lariat. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Darkest Lariat. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

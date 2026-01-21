@@ -1,0 +1,12 @@
+{
+  "id": 143,
+  "name": "黄球果",
+  "english": "Yellow Apricorn",
+  "category": "球果",
+  "num": 143,
+  "spritenum": 143,
+  "desc": "黄色的球果。有种清爽的香味。",
+  "shortDesc": "黄色的球果。有种清爽的香味。",
+  "gen": 1,
+  "isPokeball": false
+}

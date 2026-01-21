@@ -1,0 +1,28 @@
+{
+  "id": 166,
+  "name": "Ledian",
+  "type1": "Bug",
+  "type2": "Flying",
+  "hp": 55,
+  "attack": 35,
+  "defense": 50,
+  "sp_atk": 55,
+  "sp_def": 110,
+  "speed": 85,
+  "total": 390,
+  "abilities": [
+    "Swarm",
+    "Early Bird",
+    "Iron Fist"
+  ],
+  "height": 1.4,
+  "weight": 35.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Ledyba",
+  "evo_level": 18,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ledian.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\166_ledian.gif"
+}

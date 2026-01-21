@@ -1,0 +1,32 @@
+{
+  "id": 495,
+  "name": "Snivy",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 45,
+  "attack": 45,
+  "defense": 55,
+  "sp_atk": 45,
+  "sp_def": 55,
+  "speed": 63,
+  "total": 308,
+  "abilities": [
+    "Overgrow",
+    "Contrary"
+  ],
+  "height": 0.6,
+  "weight": 8.1,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Servine"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/snivy.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\495_snivy.gif"
+}

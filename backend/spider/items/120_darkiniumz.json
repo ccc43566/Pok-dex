@@ -1,0 +1,12 @@
+{
+  "id": 120,
+  "name": "Darkinium Z",
+  "english": "darkiniumz",
+  "category": "道具",
+  "num": 120,
+  "spritenum": 646,
+  "desc": "If holder has a Dark move, this item allows it to use a Dark Z-Move.",
+  "shortDesc": "If holder has a Dark move, this item allows it to use a Dark Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

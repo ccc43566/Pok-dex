@@ -1,0 +1,12 @@
+{
+  "id": 102,
+  "name": "日之石",
+  "english": "Sun Stone",
+  "category": "道具",
+  "num": 102,
+  "spritenum": 102,
+  "desc": "能让某些特定宝可梦进化的神奇石头。像太阳一样赤红。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇石头。像太阳一样赤红。",
+  "gen": 1,
+  "isPokeball": false
+}

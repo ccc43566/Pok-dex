@@ -1,0 +1,26 @@
+{
+  "id": 802,
+  "name": "Marshadow",
+  "type1": "Fighting",
+  "type2": "Ghost",
+  "hp": 90,
+  "attack": 125,
+  "defense": 80,
+  "sp_atk": 90,
+  "sp_def": 90,
+  "speed": 125,
+  "total": 600,
+  "abilities": [
+    "Technician"
+  ],
+  "height": 0.7,
+  "weight": 22.2,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/marshadow.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\802_marshadow.gif"
+}

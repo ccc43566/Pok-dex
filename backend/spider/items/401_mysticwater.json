@@ -1,0 +1,12 @@
+{
+  "id": 401,
+  "name": "Mystic Water",
+  "english": "mysticwater",
+  "category": "道具",
+  "num": 401,
+  "spritenum": 300,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

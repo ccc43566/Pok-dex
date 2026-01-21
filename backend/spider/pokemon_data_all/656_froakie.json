@@ -1,0 +1,32 @@
+{
+  "id": 656,
+  "name": "Froakie",
+  "type1": "Water",
+  "type2": null,
+  "hp": 41,
+  "attack": 56,
+  "defense": 40,
+  "sp_atk": 62,
+  "sp_def": 44,
+  "speed": 71,
+  "total": 314,
+  "abilities": [
+    "Torrent",
+    "Protean"
+  ],
+  "height": 0.3,
+  "weight": 7.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Frogadier"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/froakie.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\656_froakie.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1073,
+  "name": "嘉珍果",
+  "english": "Jaboca Berry",
+  "category": "树果",
+  "num": 1073,
+  "spritenum": 1073,
+  "desc": "让宝可梦携带后，在受到物理招式攻击时，能给予对手伤害。",
+  "shortDesc": "让宝可梦携带后，在受到物理招式攻击时，能给予对手伤害。",
+  "gen": 1,
+  "isPokeball": false
+}

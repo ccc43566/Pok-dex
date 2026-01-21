@@ -1,0 +1,12 @@
+{
+  "id": 76,
+  "name": "Charcoal",
+  "english": "charcoal",
+  "category": "道具",
+  "num": 76,
+  "spritenum": 61,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

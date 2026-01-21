@@ -1,0 +1,12 @@
+{
+  "id": 1051,
+  "name": "枝荔果",
+  "english": "Liechi Berry",
+  "category": "树果",
+  "num": 1051,
+  "spritenum": 1051,
+  "desc": "让宝可梦携带后，危机时，自己的攻击就会提高。",
+  "shortDesc": "让宝可梦携带后，危机时，自己的攻击就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

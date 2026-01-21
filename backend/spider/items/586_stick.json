@@ -1,0 +1,12 @@
+{
+  "id": 586,
+  "name": "Stick",
+  "english": "stick",
+  "category": "道具",
+  "num": 586,
+  "spritenum": 475,
+  "desc": "If held by a Farfetchâd, its critical hit ratio is raised by 2 stages.",
+  "shortDesc": "If held by a Farfetchâd, its critical hit ratio is raised by 2 stages.",
+  "gen": 2,
+  "isPokeball": false
+}

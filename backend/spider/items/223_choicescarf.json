@@ -1,0 +1,12 @@
+{
+  "id": 223,
+  "name": "讲究围巾",
+  "english": "Choice Scarf",
+  "category": "道具",
+  "num": 223,
+  "spritenum": 223,
+  "desc": "有点讲究的围巾。虽然携带后速度会提高，但只能使出相同的招式。",
+  "shortDesc": "有点讲究的围巾。虽然携带后速度会提高，但只能使出相同的招式。",
+  "gen": 1,
+  "isPokeball": false
+}

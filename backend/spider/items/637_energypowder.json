@@ -1,0 +1,12 @@
+{
+  "id": 637,
+  "name": "元气粉",
+  "english": "Energy Powder",
+  "category": "回复",
+  "num": 637,
+  "spritenum": 637,
+  "desc": "非常苦的药粉。能让１只宝可梦回复６０ＨＰ。",
+  "shortDesc": "非常苦的药粉。能让１只宝可梦回复６０ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

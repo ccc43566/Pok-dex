@@ -1,0 +1,12 @@
+{
+  "id": 252,
+  "name": "蓝天石板",
+  "english": "Sky Plate",
+  "category": "道具",
+  "num": 252,
+  "spritenum": 252,
+  "desc": "飞行属性的石板。携带后，飞行属性的招式威力就会增强。",
+  "shortDesc": "飞行属性的石板。携带后，飞行属性的招式威力就会增强。",
+  "gen": 1,
+  "isPokeball": false
+}

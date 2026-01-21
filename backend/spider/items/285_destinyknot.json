@@ -1,0 +1,12 @@
+{
+  "id": 285,
+  "name": "红线",
+  "english": "Destiny Knot",
+  "category": "道具",
+  "num": 285,
+  "spritenum": 285,
+  "desc": "长长的鲜红色细线。携带后，在自己着迷时能让对手也着迷。",
+  "shortDesc": "长长的鲜红色细线。携带后，在自己着迷时能让对手也着迷。",
+  "gen": 1,
+  "isPokeball": false
+}

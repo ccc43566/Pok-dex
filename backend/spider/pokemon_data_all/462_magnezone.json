@@ -1,0 +1,28 @@
+{
+  "id": 462,
+  "name": "Magnezone",
+  "type1": "Electric",
+  "type2": "Steel",
+  "hp": 70,
+  "attack": 70,
+  "defense": 115,
+  "sp_atk": 130,
+  "sp_def": 90,
+  "speed": 60,
+  "total": 535,
+  "abilities": [
+    "Magnet Pull",
+    "Sturdy",
+    "Analytic"
+  ],
+  "height": 1.2,
+  "weight": 180.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Magneton",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Thunder Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/magnezone.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\462_magnezone.gif"
+}

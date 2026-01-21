@@ -1,0 +1,32 @@
+{
+  "id": 240,
+  "name": "Magby",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 45,
+  "attack": 75,
+  "defense": 37,
+  "sp_atk": 70,
+  "sp_def": 55,
+  "speed": 83,
+  "total": 365,
+  "abilities": [
+    "Flame Body",
+    "Vital Spirit"
+  ],
+  "height": 0.7,
+  "weight": 21.4,
+  "gender_ratio": {
+    "M": 0.75,
+    "F": 0.25
+  },
+  "evos": [
+    "Magmar"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/magby.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\240_magby.gif"
+}

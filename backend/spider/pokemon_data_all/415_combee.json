@@ -1,0 +1,32 @@
+{
+  "id": 415,
+  "name": "Combee",
+  "type1": "Bug",
+  "type2": "Flying",
+  "hp": 30,
+  "attack": 30,
+  "defense": 42,
+  "sp_atk": 30,
+  "sp_def": 42,
+  "speed": 70,
+  "total": 244,
+  "abilities": [
+    "Honey Gather",
+    "Hustle"
+  ],
+  "height": 0.3,
+  "weight": 5.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Vespiquen"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/combee.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\415_combee.gif"
+}

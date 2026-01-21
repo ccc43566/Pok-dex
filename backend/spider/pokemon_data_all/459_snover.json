@@ -1,0 +1,29 @@
+{
+  "id": 459,
+  "name": "Snover",
+  "type1": "Grass",
+  "type2": "Ice",
+  "hp": 60,
+  "attack": 62,
+  "defense": 50,
+  "sp_atk": 62,
+  "sp_def": 60,
+  "speed": 40,
+  "total": 334,
+  "abilities": [
+    "Snow Warning",
+    "Soundproof"
+  ],
+  "height": 1.0,
+  "weight": 50.5,
+  "gender_ratio": {},
+  "evos": [
+    "Abomasnow"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/snover.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\459_snover.gif"
+}

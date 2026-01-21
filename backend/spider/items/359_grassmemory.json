@@ -1,0 +1,12 @@
+{
+  "id": 359,
+  "name": "青草存储碟",
+  "english": "Grass Memory",
+  "category": "道具",
+  "num": 359,
+  "spritenum": 359,
+  "desc": "装有草属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "shortDesc": "装有草属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "gen": 1,
+  "isPokeball": false
+}

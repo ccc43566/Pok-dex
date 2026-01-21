@@ -1,0 +1,30 @@
+{
+  "id": 177,
+  "name": "Natu",
+  "type1": "Psychic",
+  "type2": "Flying",
+  "hp": 40,
+  "attack": 50,
+  "defense": 45,
+  "sp_atk": 70,
+  "sp_def": 45,
+  "speed": 70,
+  "total": 320,
+  "abilities": [
+    "Synchronize",
+    "Early Bird",
+    "Magic Bounce"
+  ],
+  "height": 0.2,
+  "weight": 2.0,
+  "gender_ratio": {},
+  "evos": [
+    "Xatu"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/natu.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\177_natu.gif"
+}

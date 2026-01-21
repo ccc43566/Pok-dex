@@ -1,0 +1,12 @@
+{
+  "id": 142,
+  "name": "Dragon Gem",
+  "english": "dragongem",
+  "category": "道具",
+  "num": 142,
+  "spritenum": 107,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

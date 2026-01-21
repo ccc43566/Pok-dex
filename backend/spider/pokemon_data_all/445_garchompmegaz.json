@@ -1,0 +1,25 @@
+{
+  "id": 445,
+  "name": "Garchomp-Mega-Z",
+  "type1": "Dragon",
+  "type2": null,
+  "hp": 108,
+  "attack": 130,
+  "defense": 85,
+  "sp_atk": 141,
+  "sp_def": 85,
+  "speed": 151,
+  "total": 700,
+  "abilities": [
+    "Sand Force"
+  ],
+  "height": 1.9,
+  "weight": 99.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/garchomp-megaz.png"
+}

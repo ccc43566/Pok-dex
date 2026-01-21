@@ -1,0 +1,32 @@
+{
+  "id": 388,
+  "name": "Grotle",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 75,
+  "attack": 89,
+  "defense": 85,
+  "sp_atk": 55,
+  "sp_def": 65,
+  "speed": 36,
+  "total": 405,
+  "abilities": [
+    "Overgrow",
+    "Shell Armor"
+  ],
+  "height": 1.1,
+  "weight": 97.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Torterra"
+  ],
+  "prevo": "Turtwig",
+  "evo_level": 18,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/grotle.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\388_grotle.gif"
+}

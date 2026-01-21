@@ -1,0 +1,28 @@
+{
+  "id": 834,
+  "name": "Drednaw-Gmax",
+  "type1": "Water",
+  "type2": "Rock",
+  "hp": 90,
+  "attack": 115,
+  "defense": 90,
+  "sp_atk": 48,
+  "sp_def": 68,
+  "speed": 74,
+  "total": 485,
+  "abilities": [
+    "Strong Jaw",
+    "Shell Armor",
+    "Swift Swim"
+  ],
+  "height": 24.0,
+  "weight": 0.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/drednaw-gmax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\834_drednaw-gmax.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 497,
+  "name": "Ribbon Sweet",
+  "english": "ribbonsweet",
+  "category": "道具",
+  "num": 497,
+  "spritenum": 710,
+  "desc": "Evolves Milcery into Alcremie when held and spun around.",
+  "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
+  "gen": 8,
+  "isPokeball": false
+}

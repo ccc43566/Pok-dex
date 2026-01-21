@@ -1,0 +1,27 @@
+{
+  "id": 847,
+  "name": "Barraskewda",
+  "type1": "Water",
+  "type2": null,
+  "hp": 61,
+  "attack": 123,
+  "defense": 60,
+  "sp_atk": 60,
+  "sp_def": 50,
+  "speed": 136,
+  "total": 490,
+  "abilities": [
+    "Swift Swim",
+    "Propeller Tail"
+  ],
+  "height": 1.3,
+  "weight": 30.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Arrokuda",
+  "evo_level": 26,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/barraskewda.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\847_barraskewda.gif"
+}

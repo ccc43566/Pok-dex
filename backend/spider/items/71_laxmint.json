@@ -1,0 +1,12 @@
+{
+  "id": 71,
+  "name": "乐天薄荷",
+  "english": "Lax Mint",
+  "category": "道具",
+  "num": 71,
+  "spritenum": 71,
+  "desc": "宝可梦闻了这种薄荷之后，会令防御容易提高，而特防则难以提高。",
+  "shortDesc": "宝可梦闻了这种薄荷之后，会令防御容易提高，而特防则难以提高。",
+  "gen": 1,
+  "isPokeball": false
+}

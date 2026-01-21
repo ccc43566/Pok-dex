@@ -1,0 +1,29 @@
+{
+  "id": 397,
+  "name": "Staravia",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 55,
+  "attack": 75,
+  "defense": 50,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "speed": 80,
+  "total": 340,
+  "abilities": [
+    "Intimidate",
+    "Reckless"
+  ],
+  "height": 0.6,
+  "weight": 15.5,
+  "gender_ratio": {},
+  "evos": [
+    "Staraptor"
+  ],
+  "prevo": "Starly",
+  "evo_level": 14,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/staravia.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\397_staravia.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 521,
+  "name": "Sachet",
+  "english": "sachet",
+  "category": "道具",
+  "num": 521,
+  "spritenum": 691,
+  "desc": "Evolves Spritzee into Aromatisse when traded.",
+  "shortDesc": "Evolves Spritzee into Aromatisse when traded.",
+  "gen": 6,
+  "isPokeball": false
+}

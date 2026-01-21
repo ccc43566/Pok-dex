@@ -1,0 +1,26 @@
+{
+  "id": 485,
+  "name": "Heatran-Mega",
+  "type1": "Fire",
+  "type2": "Steel",
+  "hp": 91,
+  "attack": 120,
+  "defense": 106,
+  "sp_atk": 175,
+  "sp_def": 141,
+  "speed": 67,
+  "total": 700,
+  "abilities": [
+    "Flash Fire",
+    "Flame Body"
+  ],
+  "height": 2.8,
+  "weight": 570.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/heatran-mega.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 25,
+  "name": "白银香水",
+  "english": "Super Lure",
+  "category": "道具",
+  "num": 25,
+  "spritenum": 25,
+  "desc": "使用该香水后，稀有宝可梦会更容易出现。效果比引虫香水更持久。",
+  "shortDesc": "使用该香水后，稀有宝可梦会更容易出现。效果比引虫香水更持久。",
+  "gen": 1,
+  "isPokeball": false
+}

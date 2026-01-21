@@ -1,0 +1,12 @@
+{
+  "id": 530,
+  "name": "梦境球",
+  "english": "Dream Ball",
+  "category": "精灵球",
+  "num": 530,
+  "spritenum": 530,
+  "desc": "有点与众不同的球。能很容易地捕捉睡眠状态的宝可梦。",
+  "shortDesc": "有点与众不同的球。能很容易地捕捉睡眠状态的宝可梦。",
+  "gen": 1,
+  "isPokeball": false
+}

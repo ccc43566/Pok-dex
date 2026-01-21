@@ -1,0 +1,12 @@
+{
+  "id": 138,
+  "name": "Draco Plate",
+  "english": "dracoplate",
+  "category": "道具",
+  "num": 138,
+  "spritenum": 105,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

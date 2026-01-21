@@ -1,0 +1,28 @@
+{
+  "id": 713,
+  "name": "Avalugg-Hisui",
+  "type1": "Ice",
+  "type2": "Rock",
+  "hp": 95,
+  "attack": 127,
+  "defense": 184,
+  "sp_atk": 34,
+  "sp_def": 36,
+  "speed": 38,
+  "total": 514,
+  "abilities": [
+    "Strong Jaw",
+    "Ice Body",
+    "Sturdy"
+  ],
+  "height": 1.4,
+  "weight": 262.4,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Bergmite",
+  "evo_level": 37,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/avalugg-hisui.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\713_avalugg-hisui.gif"
+}

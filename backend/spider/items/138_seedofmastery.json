@@ -1,0 +1,12 @@
+{
+  "id": 138,
+  "name": "精通种子",
+  "english": "Seed of Mastery",
+  "category": "道具",
+  "num": 138,
+  "spritenum": 138,
+  "desc": "稀有的种子。将它交给某人就能让宝可梦加强招式。",
+  "shortDesc": "稀有的种子。将它交给某人就能让宝可梦加强招式。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 748,
+  "name": "Toxapex",
+  "type1": "Poison",
+  "type2": "Water",
+  "hp": 50,
+  "attack": 63,
+  "defense": 152,
+  "sp_atk": 53,
+  "sp_def": 142,
+  "speed": 35,
+  "total": 495,
+  "abilities": [
+    "Merciless",
+    "Limber",
+    "Regenerator"
+  ],
+  "height": 0.7,
+  "weight": 14.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Mareanie",
+  "evo_level": 38,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/toxapex.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\748_toxapex.gif"
+}

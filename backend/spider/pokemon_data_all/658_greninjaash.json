@@ -1,0 +1,26 @@
+{
+  "id": 658,
+  "name": "Greninja-Ash",
+  "type1": "Water",
+  "type2": "Dark",
+  "hp": 72,
+  "attack": 145,
+  "defense": 67,
+  "sp_atk": 153,
+  "sp_def": 71,
+  "speed": 132,
+  "total": 640,
+  "abilities": [
+    "Battle Bond"
+  ],
+  "height": 1.5,
+  "weight": 40.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/greninja-ash.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\658_greninja-ash.gif"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 320,
+  "name": "Wailmer",
+  "type1": "Water",
+  "type2": null,
+  "hp": 130,
+  "attack": 70,
+  "defense": 35,
+  "sp_atk": 70,
+  "sp_def": 35,
+  "speed": 60,
+  "total": 400,
+  "abilities": [
+    "Water Veil",
+    "Oblivious",
+    "Pressure"
+  ],
+  "height": 2.0,
+  "weight": 130.0,
+  "gender_ratio": {},
+  "evos": [
+    "Wailord"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/wailmer.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\320_wailmer.gif"
+}

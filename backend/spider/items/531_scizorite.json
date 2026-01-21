@@ -1,0 +1,12 @@
+{
+  "id": 531,
+  "name": "Scizorite",
+  "english": "scizorite",
+  "category": "道具",
+  "num": 531,
+  "spritenum": 605,
+  "desc": "If held by a Scizor, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Scizor, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

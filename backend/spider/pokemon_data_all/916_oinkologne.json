@@ -1,0 +1,28 @@
+{
+  "id": 916,
+  "name": "Oinkologne",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 110,
+  "attack": 100,
+  "defense": 75,
+  "sp_atk": 59,
+  "sp_def": 80,
+  "speed": 65,
+  "total": 489,
+  "abilities": [
+    "Lingering Aroma",
+    "Gluttony",
+    "Thick Fat"
+  ],
+  "height": 1.0,
+  "weight": 120.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Lechonk",
+  "evo_level": 18,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/oinkologne.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\916_oinkologne.gif"
+}

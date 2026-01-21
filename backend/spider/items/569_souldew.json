@@ -1,0 +1,12 @@
+{
+  "id": 569,
+  "name": "Soul Dew",
+  "english": "souldew",
+  "category": "道具",
+  "num": 569,
+  "spritenum": 459,
+  "desc": "If held by a Latias/Latios, its Dragon- and Psychic-type moves have 1.2x power.",
+  "shortDesc": "If held by a Latias/Latios, its Dragon- and Psychic-type moves have 1.2x power.",
+  "gen": 3,
+  "isPokeball": false
+}

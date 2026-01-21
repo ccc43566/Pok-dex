@@ -1,0 +1,12 @@
+{
+  "id": 386,
+  "name": "模仿香草",
+  "english": "Mirror Herb",
+  "category": "道具",
+  "num": 386,
+  "spritenum": 386,
+  "desc": "携带它的宝可梦仅有１次机会可以在对手提高能力时，对其进行模仿并提高同样的能力。",
+  "shortDesc": "携带它的宝可梦仅有１次机会可以在对手提高能力时，对其进行模仿并提高同样的能力。",
+  "gen": 1,
+  "isPokeball": false
+}

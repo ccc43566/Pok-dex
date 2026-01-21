@@ -1,0 +1,26 @@
+{
+  "id": 212,
+  "name": "Scizor-Mega",
+  "type1": "Bug",
+  "type2": "Steel",
+  "hp": 70,
+  "attack": 150,
+  "defense": 140,
+  "sp_atk": 65,
+  "sp_def": 100,
+  "speed": 75,
+  "total": 600,
+  "abilities": [
+    "Technician"
+  ],
+  "height": 2.0,
+  "weight": 125.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/scizor-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\212_scizor-mega.gif"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 331,
+  "name": "Cacnea",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 50,
+  "attack": 85,
+  "defense": 40,
+  "sp_atk": 85,
+  "sp_def": 40,
+  "speed": 35,
+  "total": 335,
+  "abilities": [
+    "Sand Veil",
+    "Water Absorb"
+  ],
+  "height": 0.4,
+  "weight": 51.3,
+  "gender_ratio": {},
+  "evos": [
+    "Cacturne"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/cacnea.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\331_cacnea.gif"
+}

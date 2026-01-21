@@ -1,0 +1,12 @@
+{
+  "id": 517,
+  "name": "竞赛球",
+  "english": "Sport Ball",
+  "category": "精灵球",
+  "num": 517,
+  "spritenum": 517,
+  "desc": "曾在城都地区的捕虫大赛上使用的特殊的球。",
+  "shortDesc": "曾在城都地区的捕虫大赛上使用的特殊的球。",
+  "gen": 1,
+  "isPokeball": false
+}

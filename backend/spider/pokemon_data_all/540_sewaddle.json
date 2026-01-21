@@ -1,0 +1,30 @@
+{
+  "id": 540,
+  "name": "Sewaddle",
+  "type1": "Bug",
+  "type2": "Grass",
+  "hp": 45,
+  "attack": 53,
+  "defense": 70,
+  "sp_atk": 40,
+  "sp_def": 60,
+  "speed": 42,
+  "total": 310,
+  "abilities": [
+    "Swarm",
+    "Chlorophyll",
+    "Overcoat"
+  ],
+  "height": 0.3,
+  "weight": 2.5,
+  "gender_ratio": {},
+  "evos": [
+    "Swadloon"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/sewaddle.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\540_sewaddle.gif"
+}

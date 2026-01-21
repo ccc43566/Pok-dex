@@ -1,0 +1,33 @@
+{
+  "id": 723,
+  "name": "Dartrix",
+  "type1": "Grass",
+  "type2": "Flying",
+  "hp": 78,
+  "attack": 75,
+  "defense": 75,
+  "sp_atk": 70,
+  "sp_def": 70,
+  "speed": 52,
+  "total": 420,
+  "abilities": [
+    "Overgrow",
+    "Long Reach"
+  ],
+  "height": 0.7,
+  "weight": 16.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Decidueye",
+    "Decidueye-Hisui"
+  ],
+  "prevo": "Rowlet",
+  "evo_level": 17,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/dartrix.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\723_dartrix.gif"
+}

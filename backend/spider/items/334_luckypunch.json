@@ -1,0 +1,12 @@
+{
+  "id": 334,
+  "name": "Lucky Punch",
+  "english": "luckypunch",
+  "category": "道具",
+  "num": 334,
+  "spritenum": 261,
+  "desc": "If held by a Chansey, its critical hit ratio is raised by 2 stages.",
+  "shortDesc": "If held by a Chansey, its critical hit ratio is raised by 2 stages.",
+  "gen": 2,
+  "isPokeball": false
+}

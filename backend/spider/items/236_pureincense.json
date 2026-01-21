@@ -1,0 +1,12 @@
+{
+  "id": 236,
+  "name": "洁净薰香",
+  "english": "Pure Incense",
+  "category": "道具",
+  "num": 236,
+  "spritenum": 236,
+  "desc": "让排在最前面的宝可梦携带后，野生宝可梦就会不容易出现。",
+  "shortDesc": "让排在最前面的宝可梦携带后，野生宝可梦就会不容易出现。",
+  "gen": 1,
+  "isPokeball": false
+}

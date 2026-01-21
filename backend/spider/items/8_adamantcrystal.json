@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "name": "Adamant Crystal",
+  "english": "adamantcrystal",
+  "category": "道具",
+  "num": 8,
+  "spritenum": 741,
+  "desc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
+  "shortDesc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
+  "gen": 8,
+  "isPokeball": false
+}

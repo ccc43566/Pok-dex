@@ -1,0 +1,12 @@
+{
+  "id": 627,
+  "name": "解冻药",
+  "english": "Ice Heal",
+  "category": "回复",
+  "num": 627,
+  "spritenum": 627,
+  "desc": "喷雾式药水。能治愈１只宝可梦的冰冻状态。",
+  "shortDesc": "喷雾式药水。能治愈１只宝可梦的冰冻状态。",
+  "gen": 1,
+  "isPokeball": false
+}

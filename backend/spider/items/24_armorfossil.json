@@ -1,0 +1,12 @@
+{
+  "id": 24,
+  "name": "Armor Fossil",
+  "english": "armorfossil",
+  "category": "道具",
+  "num": 24,
+  "spritenum": 12,
+  "desc": "Can be revived into Shieldon.",
+  "shortDesc": "Can be revived into Shieldon.",
+  "gen": 4,
+  "isPokeball": false
+}

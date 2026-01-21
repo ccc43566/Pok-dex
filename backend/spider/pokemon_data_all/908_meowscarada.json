@@ -1,0 +1,30 @@
+{
+  "id": 908,
+  "name": "Meowscarada",
+  "type1": "Grass",
+  "type2": "Dark",
+  "hp": 76,
+  "attack": 110,
+  "defense": 70,
+  "sp_atk": 81,
+  "sp_def": 70,
+  "speed": 123,
+  "total": 530,
+  "abilities": [
+    "Overgrow",
+    "Protean"
+  ],
+  "height": 1.5,
+  "weight": 31.2,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Floragato",
+  "evo_level": 36,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/meowscarada.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\908_meowscarada.gif"
+}

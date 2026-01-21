@@ -1,0 +1,12 @@
+{
+  "id": 501,
+  "name": "甜松露",
+  "english": "Candy Truffle",
+  "category": "道具",
+  "num": 501,
+  "spritenum": 501,
+  "desc": "充满了不可思议能量的甘甜菇类。可作为各种道具的材料。",
+  "shortDesc": "充满了不可思议能量的甘甜菇类。可作为各种道具的材料。",
+  "gen": 1,
+  "isPokeball": false
+}

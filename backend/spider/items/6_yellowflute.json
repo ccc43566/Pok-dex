@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "name": "黄色玻璃哨",
+  "english": "Yellow Flute",
+  "category": "道具",
+  "num": 6,
+  "spritenum": 6,
+  "desc": "以黄色玻璃制成的哨子。可以治愈混乱状态。",
+  "shortDesc": "以黄色玻璃制成的哨子。可以治愈混乱状态。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 167,
+  "name": "光粉",
+  "english": "Bright Powder",
+  "category": "道具",
+  "num": 167,
+  "spritenum": 167,
+  "desc": "闪闪发光的粉末。携带后，光芒会迷惑对手，从而使其招式变得不容易命中。",
+  "shortDesc": "闪闪发光的粉末。携带后，光芒会迷惑对手，从而使其招式变得不容易命中。",
+  "gen": 1,
+  "isPokeball": false
+}

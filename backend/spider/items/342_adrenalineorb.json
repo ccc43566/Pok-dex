@@ -1,0 +1,12 @@
+{
+  "id": 342,
+  "name": "胆怯球",
+  "english": "Adrenaline Orb",
+  "category": "道具",
+  "num": 342,
+  "spritenum": 342,
+  "desc": "让宝可梦携带后，在受到威吓时速度会提高。",
+  "shortDesc": "让宝可梦携带后，在受到威吓时速度会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

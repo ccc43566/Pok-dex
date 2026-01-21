@@ -1,0 +1,12 @@
+{
+  "id": 227,
+  "name": "贝壳之铃",
+  "english": "Shell Bell",
+  "category": "道具",
+  "num": 227,
+  "spritenum": 227,
+  "desc": "当携带它的宝可梦攻击对手并造成伤害时，能回复少量ＨＰ。",
+  "shortDesc": "当携带它的宝可梦攻击对手并造成伤害时，能回复少量ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

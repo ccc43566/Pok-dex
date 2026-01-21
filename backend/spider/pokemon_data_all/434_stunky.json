@@ -1,0 +1,30 @@
+{
+  "id": 434,
+  "name": "Stunky",
+  "type1": "Poison",
+  "type2": "Dark",
+  "hp": 63,
+  "attack": 63,
+  "defense": 47,
+  "sp_atk": 41,
+  "sp_def": 41,
+  "speed": 74,
+  "total": 329,
+  "abilities": [
+    "Stench",
+    "Aftermath",
+    "Keen Eye"
+  ],
+  "height": 0.4,
+  "weight": 19.2,
+  "gender_ratio": {},
+  "evos": [
+    "Skuntank"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/stunky.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\434_stunky.gif"
+}

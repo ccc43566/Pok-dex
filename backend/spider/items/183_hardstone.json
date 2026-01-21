@@ -1,0 +1,12 @@
+{
+  "id": 183,
+  "name": "硬石头",
+  "english": "Hard Stone",
+  "category": "道具",
+  "num": 183,
+  "spritenum": 183,
+  "desc": "绝对不会裂开的石头。携带后，岩石属性的招式威力就会提高。",
+  "shortDesc": "绝对不会裂开的石头。携带后，岩石属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

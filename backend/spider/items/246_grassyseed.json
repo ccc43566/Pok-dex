@@ -1,0 +1,12 @@
+{
+  "id": 246,
+  "name": "Grassy Seed",
+  "english": "grassyseed",
+  "category": "道具",
+  "num": 246,
+  "spritenum": 667,
+  "desc": "If the terrain is Grassy Terrain, raises holder",
+  "shortDesc": "If the terrain is Grassy Terrain, raises holder",
+  "gen": 7,
+  "isPokeball": false
+}

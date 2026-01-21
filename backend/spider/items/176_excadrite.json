@@ -1,0 +1,12 @@
+{
+  "id": 176,
+  "name": "Excadrite",
+  "english": "excadrite",
+  "category": "道具",
+  "num": 176,
+  "spritenum": 553,
+  "desc": "If held by an Excadrill, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by an Excadrill, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

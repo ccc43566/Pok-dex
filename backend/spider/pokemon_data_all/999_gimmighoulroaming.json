@@ -1,0 +1,28 @@
+{
+  "id": 999,
+  "name": "Gimmighoul-Roaming",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 45,
+  "attack": 30,
+  "defense": 25,
+  "sp_atk": 75,
+  "sp_def": 45,
+  "speed": 80,
+  "total": 300,
+  "abilities": [
+    "Run Away"
+  ],
+  "height": 0.1,
+  "weight": 0.1,
+  "gender_ratio": {},
+  "evos": [
+    "Gholdengo"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gimmighoul-roaming.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\999_gimmighoul-roaming.gif"
+}

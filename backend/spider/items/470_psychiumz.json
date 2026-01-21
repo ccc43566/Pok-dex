@@ -1,0 +1,12 @@
+{
+  "id": 470,
+  "name": "Psychium Z",
+  "english": "psychiumz",
+  "category": "道具",
+  "num": 470,
+  "spritenum": 641,
+  "desc": "If holder has a Psychic move, this item allows it to use a Psychic Z-Move.",
+  "shortDesc": "If holder has a Psychic move, this item allows it to use a Psychic Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

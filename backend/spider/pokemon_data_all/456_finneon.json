@@ -1,0 +1,30 @@
+{
+  "id": 456,
+  "name": "Finneon",
+  "type1": "Water",
+  "type2": null,
+  "hp": 49,
+  "attack": 49,
+  "defense": 56,
+  "sp_atk": 49,
+  "sp_def": 61,
+  "speed": 66,
+  "total": 330,
+  "abilities": [
+    "Swift Swim",
+    "Storm Drain",
+    "Water Veil"
+  ],
+  "height": 0.4,
+  "weight": 7.0,
+  "gender_ratio": {},
+  "evos": [
+    "Lumineon"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/finneon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\456_finneon.gif"
+}

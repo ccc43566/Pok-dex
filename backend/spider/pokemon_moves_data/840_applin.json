@@ -1,0 +1,23 @@
+{
+  "id": 840,
+  "name": "applin",
+  "level_up": [
+    "astonish",
+    "withdraw"
+  ],
+  "egg_moves": [
+    "defensecurl",
+    "recycle",
+    "rollout",
+    "suckerpunch"
+  ],
+  "tm_moves": [
+    "attract",
+    "pounce",
+    "terablast"
+  ],
+  "tutor_moves": [
+    "dracometeor",
+    "grassyglide"
+  ]
+}

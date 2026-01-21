@@ -1,0 +1,12 @@
+{
+  "id": 730,
+  "name": "TR55",
+  "english": "tr55",
+  "category": "道具",
+  "num": 730,
+  "spritenum": 730,
+  "desc": "Teaches certain Pokemon the move Flare Blitz. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Flare Blitz. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

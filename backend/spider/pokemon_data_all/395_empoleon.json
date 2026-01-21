@@ -1,0 +1,30 @@
+{
+  "id": 395,
+  "name": "Empoleon",
+  "type1": "Water",
+  "type2": "Steel",
+  "hp": 84,
+  "attack": 86,
+  "defense": 88,
+  "sp_atk": 111,
+  "sp_def": 101,
+  "speed": 60,
+  "total": 530,
+  "abilities": [
+    "Torrent",
+    "Competitive"
+  ],
+  "height": 1.7,
+  "weight": 84.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Prinplup",
+  "evo_level": 36,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/empoleon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\395_empoleon.gif"
+}

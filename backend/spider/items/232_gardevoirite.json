@@ -1,0 +1,12 @@
+{
+  "id": 232,
+  "name": "Gardevoirite",
+  "english": "gardevoirite",
+  "category": "道具",
+  "num": 232,
+  "spritenum": 587,
+  "desc": "If held by a Gardevoir, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Gardevoir, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

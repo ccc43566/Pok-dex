@@ -1,0 +1,12 @@
+{
+  "id": 823,
+  "name": "Ultra Ball",
+  "english": "ultraball",
+  "category": "道具",
+  "num": 823,
+  "spritenum": 521,
+  "desc": "An ultra-performance Ball that provides a higher catch rate than a Great Ball.",
+  "shortDesc": "An ultra-performance Ball that provides a higher catch rate than a Great Ball.",
+  "gen": 1,
+  "isPokeball": true
+}

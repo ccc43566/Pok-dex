@@ -1,0 +1,26 @@
+{
+  "id": 800,
+  "name": "Necrozma",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 97,
+  "attack": 107,
+  "defense": 101,
+  "sp_atk": 127,
+  "sp_def": 89,
+  "speed": 79,
+  "total": 600,
+  "abilities": [
+    "Prism Armor"
+  ],
+  "height": 2.4,
+  "weight": 230.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/necrozma.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\800_necrozma.gif"
+}

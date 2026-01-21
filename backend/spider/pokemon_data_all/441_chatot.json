@@ -1,0 +1,28 @@
+{
+  "id": 441,
+  "name": "Chatot",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 76,
+  "attack": 65,
+  "defense": 45,
+  "sp_atk": 92,
+  "sp_def": 42,
+  "speed": 91,
+  "total": 411,
+  "abilities": [
+    "Keen Eye",
+    "Tangled Feet",
+    "Big Pecks"
+  ],
+  "height": 0.5,
+  "weight": 1.9,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/chatot.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\441_chatot.gif"
+}

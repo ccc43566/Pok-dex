@@ -1,0 +1,12 @@
+{
+  "id": 552,
+  "name": "Silver Powder",
+  "english": "silverpowder",
+  "category": "道具",
+  "num": 552,
+  "spritenum": 447,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

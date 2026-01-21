@@ -1,0 +1,30 @@
+{
+  "id": 23,
+  "name": "Ekans",
+  "type1": "Poison",
+  "type2": null,
+  "hp": 35,
+  "attack": 60,
+  "defense": 44,
+  "sp_atk": 40,
+  "sp_def": 54,
+  "speed": 55,
+  "total": 288,
+  "abilities": [
+    "Intimidate",
+    "Shed Skin",
+    "Unnerve"
+  ],
+  "height": 2.0,
+  "weight": 6.9,
+  "gender_ratio": {},
+  "evos": [
+    "Arbok"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ekans.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\23_ekans.gif"
+}

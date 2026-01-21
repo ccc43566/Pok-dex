@@ -1,0 +1,12 @@
+{
+  "id": 804,
+  "name": "TR92",
+  "english": "tr92",
+  "category": "道具",
+  "num": 804,
+  "spritenum": 738,
+  "desc": "Teaches certain Pokemon the move Dazzling Gleam. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Dazzling Gleam. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

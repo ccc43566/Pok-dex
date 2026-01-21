@@ -1,0 +1,12 @@
+{
+  "id": 852,
+  "name": "Wide Lens",
+  "english": "widelens",
+  "category": "道具",
+  "num": 852,
+  "spritenum": 537,
+  "desc": "The accuracy of attacks by the holder is 1.1x.",
+  "shortDesc": "The accuracy of attacks by the holder is 1.1x.",
+  "gen": 4,
+  "isPokeball": false
+}

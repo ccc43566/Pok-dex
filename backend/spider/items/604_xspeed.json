@@ -1,0 +1,12 @@
+{
+  "id": 604,
+  "name": "速度强化",
+  "english": "X Speed",
+  "category": "战斗道具",
+  "num": 604,
+  "spritenum": 604,
+  "desc": "大幅提高战斗中宝可梦速度的道具。离场后，效果便会消失。",
+  "shortDesc": "大幅提高战斗中宝可梦速度的道具。离场后，效果便会消失。",
+  "gen": 1,
+  "isPokeball": false
+}

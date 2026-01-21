@@ -1,0 +1,12 @@
+{
+  "id": 84,
+  "name": "Chesto Berry",
+  "english": "chestoberry",
+  "category": "道具",
+  "num": 84,
+  "spritenum": 65,
+  "desc": "Holder wakes up if it is asleep. Single use.",
+  "shortDesc": "Holder wakes up if it is asleep. Single use.",
+  "gen": 3,
+  "isPokeball": false
+}

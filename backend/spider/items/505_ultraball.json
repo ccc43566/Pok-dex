@@ -1,0 +1,12 @@
+{
+  "id": 505,
+  "name": "高级球",
+  "english": "Ultra Ball",
+  "category": "精灵球",
+  "num": 505,
+  "spritenum": 505,
+  "desc": "比起超级球来更容易捉到宝可梦的，性能非常不错的球。",
+  "shortDesc": "比起超级球来更容易捉到宝可梦的，性能非常不错的球。",
+  "gen": 1,
+  "isPokeball": false
+}

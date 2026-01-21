@@ -1,0 +1,12 @@
+{
+  "id": 1130,
+  "name": "探测器",
+  "english": "Scanner",
+  "category": "重要物品",
+  "num": 1130,
+  "spritenum": 1130,
+  "desc": "在海紫堇中找到的道具。",
+  "shortDesc": "在海紫堇中找到的道具。",
+  "gen": 1,
+  "isPokeball": false
+}

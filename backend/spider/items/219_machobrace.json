@@ -1,0 +1,12 @@
+{
+  "id": 219,
+  "name": "强制锻炼器",
+  "english": "Macho Brace",
+  "category": "道具",
+  "num": 219,
+  "spritenum": 219,
+  "desc": "又硬又重的锻炼器。虽然携带后速度会降低，但会比平时更容易茁壮成长。",
+  "shortDesc": "又硬又重的锻炼器。虽然携带后速度会降低，但会比平时更容易茁壮成长。",
+  "gen": 1,
+  "isPokeball": false
+}

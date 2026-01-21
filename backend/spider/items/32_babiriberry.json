@@ -1,0 +1,12 @@
+{
+  "id": 32,
+  "name": "Babiri Berry",
+  "english": "babiriberry",
+  "category": "道具",
+  "num": 32,
+  "spritenum": 17,
+  "desc": "Halves damage taken from a supereffective Steel-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Steel-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

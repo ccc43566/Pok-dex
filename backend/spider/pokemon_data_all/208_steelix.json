@@ -1,0 +1,28 @@
+{
+  "id": 208,
+  "name": "Steelix",
+  "type1": "Steel",
+  "type2": "Ground",
+  "hp": 75,
+  "attack": 85,
+  "defense": 200,
+  "sp_atk": 55,
+  "sp_def": 65,
+  "speed": 30,
+  "total": 510,
+  "abilities": [
+    "Rock Head",
+    "Sturdy",
+    "Sheer Force"
+  ],
+  "height": 9.2,
+  "weight": 400.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Onix",
+  "evo_level": null,
+  "evo_type": "trade",
+  "evo_item": "Metal Coat",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/steelix.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\208_steelix.gif"
+}

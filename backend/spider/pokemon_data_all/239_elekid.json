@@ -1,0 +1,32 @@
+{
+  "id": 239,
+  "name": "Elekid",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 45,
+  "attack": 63,
+  "defense": 37,
+  "sp_atk": 65,
+  "sp_def": 55,
+  "speed": 95,
+  "total": 360,
+  "abilities": [
+    "Static",
+    "Vital Spirit"
+  ],
+  "height": 0.6,
+  "weight": 23.5,
+  "gender_ratio": {
+    "M": 0.75,
+    "F": 0.25
+  },
+  "evos": [
+    "Electabuzz"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/elekid.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\239_elekid.gif"
+}

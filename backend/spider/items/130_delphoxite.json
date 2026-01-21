@@ -1,0 +1,12 @@
+{
+  "id": 130,
+  "name": "Delphoxite",
+  "english": "delphoxite",
+  "category": "道具",
+  "num": 130,
+  "spritenum": 559,
+  "desc": "If held by a Delphox, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Delphox, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

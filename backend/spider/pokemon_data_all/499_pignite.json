@@ -1,0 +1,32 @@
+{
+  "id": 499,
+  "name": "Pignite",
+  "type1": "Fire",
+  "type2": "Fighting",
+  "hp": 90,
+  "attack": 93,
+  "defense": 55,
+  "sp_atk": 70,
+  "sp_def": 55,
+  "speed": 55,
+  "total": 418,
+  "abilities": [
+    "Blaze",
+    "Thick Fat"
+  ],
+  "height": 1.0,
+  "weight": 55.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Emboar"
+  ],
+  "prevo": "Tepig",
+  "evo_level": 17,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/pignite.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\499_pignite.gif"
+}

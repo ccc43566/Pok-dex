@@ -1,0 +1,12 @@
+{
+  "id": 465,
+  "name": "Psychic Gem",
+  "english": "psychicgem",
+  "category": "道具",
+  "num": 465,
+  "spritenum": 369,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

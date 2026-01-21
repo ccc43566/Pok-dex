@@ -1,0 +1,26 @@
+{
+  "id": 970,
+  "name": "Glimmora-Mega",
+  "type1": "Rock",
+  "type2": "Poison",
+  "hp": 83,
+  "attack": 90,
+  "defense": 105,
+  "sp_atk": 150,
+  "sp_def": 96,
+  "speed": 101,
+  "total": 625,
+  "abilities": [
+    "Toxic Debris",
+    "Corrosion"
+  ],
+  "height": 2.8,
+  "weight": 77.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/glimmora-mega.png"
+}

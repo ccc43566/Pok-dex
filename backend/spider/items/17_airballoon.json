@@ -1,0 +1,12 @@
+{
+  "id": 17,
+  "name": "Air Balloon",
+  "english": "airballoon",
+  "category": "道具",
+  "num": 17,
+  "spritenum": 6,
+  "desc": "Holder is immune to Ground-type attacks. Pops when holder is hit.",
+  "shortDesc": "Holder is immune to Ground-type attacks. Pops when holder is hit.",
+  "gen": 5,
+  "isPokeball": false
+}

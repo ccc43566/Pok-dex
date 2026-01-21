@@ -1,0 +1,12 @@
+{
+  "id": 208,
+  "name": "消除麻痹的果实",
+  "english": "PRZCureBerry",
+  "category": "道具",
+  "num": 208,
+  "spritenum": 208,
+  "desc": "携带后，可以治愈自己的麻痹状态。",
+  "shortDesc": "携带后，可以治愈自己的麻痹状态。",
+  "gen": 1,
+  "isPokeball": false
+}

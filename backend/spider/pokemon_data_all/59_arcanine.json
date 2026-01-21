@@ -1,0 +1,31 @@
+{
+  "id": 59,
+  "name": "Arcanine",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 90,
+  "attack": 110,
+  "defense": 80,
+  "sp_atk": 100,
+  "sp_def": 80,
+  "speed": 95,
+  "total": 555,
+  "abilities": [
+    "Intimidate",
+    "Flash Fire",
+    "Justified"
+  ],
+  "height": 1.9,
+  "weight": 155.0,
+  "gender_ratio": {
+    "M": 0.75,
+    "F": 0.25
+  },
+  "evos": [],
+  "prevo": "Growlithe",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Fire Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/arcanine.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\59_arcanine.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 266,
+  "name": "电力增幅器",
+  "english": "Electirizer",
+  "category": "道具",
+  "num": 266,
+  "spritenum": 266,
+  "desc": "积蓄着庞大电气力量的箱子。某种宝可梦很喜欢它。",
+  "shortDesc": "积蓄着庞大电气力量的箱子。某种宝可梦很喜欢它。",
+  "gen": 1,
+  "isPokeball": false
+}

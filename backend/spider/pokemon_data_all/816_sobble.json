@@ -1,0 +1,32 @@
+{
+  "id": 816,
+  "name": "Sobble",
+  "type1": "Water",
+  "type2": null,
+  "hp": 50,
+  "attack": 40,
+  "defense": 40,
+  "sp_atk": 70,
+  "sp_def": 40,
+  "speed": 70,
+  "total": 310,
+  "abilities": [
+    "Torrent",
+    "Sniper"
+  ],
+  "height": 0.3,
+  "weight": 4.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Drizzile"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/sobble.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\816_sobble.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 320,
+  "name": "Life Orb",
+  "english": "lifeorb",
+  "category": "道具",
+  "num": 320,
+  "spritenum": 249,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

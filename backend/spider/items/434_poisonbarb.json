@@ -1,0 +1,12 @@
+{
+  "id": 434,
+  "name": "Poison Barb",
+  "english": "poisonbarb",
+  "category": "道具",
+  "num": 434,
+  "spritenum": 343,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

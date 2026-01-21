@@ -1,0 +1,12 @@
+{
+  "id": 229,
+  "name": "Ganlon Berry",
+  "english": "ganlonberry",
+  "category": "道具",
+  "num": 229,
+  "spritenum": 158,
+  "desc": "Raises holder",
+  "shortDesc": "Raises holder",
+  "gen": 3,
+  "isPokeball": false
+}

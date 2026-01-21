@@ -1,0 +1,12 @@
+{
+  "id": 281,
+  "name": "Ice Memory",
+  "english": "icememory",
+  "category": "道具",
+  "num": 281,
+  "spritenum": 681,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

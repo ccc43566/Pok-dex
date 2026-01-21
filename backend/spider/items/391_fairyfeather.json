@@ -1,0 +1,12 @@
+{
+  "id": 391,
+  "name": "妖精之羽",
+  "english": "Fairy Feather",
+  "category": "道具",
+  "num": 391,
+  "spritenum": 391,
+  "desc": "接触到光后就会微微发光的羽毛。携带后，妖精属性的招式威力就会提高。",
+  "shortDesc": "接触到光后就会微微发光的羽毛。携带后，妖精属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

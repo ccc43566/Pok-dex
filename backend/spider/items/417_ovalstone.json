@@ -1,0 +1,12 @@
+{
+  "id": 417,
+  "name": "Oval Stone",
+  "english": "ovalstone",
+  "category": "道具",
+  "num": 417,
+  "spritenum": 321,
+  "desc": "Evolves Happiny into Chansey when held and leveled up during the day.",
+  "shortDesc": "Evolves Happiny into Chansey when held and leveled up during the day.",
+  "gen": 4,
+  "isPokeball": false
+}

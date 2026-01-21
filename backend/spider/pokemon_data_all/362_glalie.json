@@ -1,0 +1,28 @@
+{
+  "id": 362,
+  "name": "Glalie",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 80,
+  "attack": 80,
+  "defense": 80,
+  "sp_atk": 80,
+  "sp_def": 80,
+  "speed": 80,
+  "total": 480,
+  "abilities": [
+    "Inner Focus",
+    "Ice Body",
+    "Moody"
+  ],
+  "height": 1.5,
+  "weight": 256.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Snorunt",
+  "evo_level": 42,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/glalie.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\362_glalie.gif"
+}

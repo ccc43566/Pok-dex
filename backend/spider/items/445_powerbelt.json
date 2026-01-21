@@ -1,0 +1,12 @@
+{
+  "id": 445,
+  "name": "Power Belt",
+  "english": "powerbelt",
+  "category": "道具",
+  "num": 445,
+  "spritenum": 356,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

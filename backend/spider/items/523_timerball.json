@@ -1,0 +1,12 @@
+{
+  "id": 523,
+  "name": "计时球",
+  "english": "Timer Ball",
+  "category": "精灵球",
+  "num": 523,
+  "spritenum": 523,
+  "desc": "有点与众不同的球。对手行动得越多，宝可梦就会越容易捕捉。",
+  "shortDesc": "有点与众不同的球。对手行动得越多，宝可梦就会越容易捕捉。",
+  "gen": 1,
+  "isPokeball": false
+}

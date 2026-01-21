@@ -1,0 +1,12 @@
+{
+  "id": 638,
+  "name": "TR09",
+  "english": "tr09",
+  "category": "道具",
+  "num": 638,
+  "spritenum": 733,
+  "desc": "Teaches certain Pokemon the move Thunder. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Thunder. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1350,
+  "name": "同步器",
+  "english": "Synchro Machine",
+  "category": "重要物品",
+  "num": 1350,
+  "spritenum": 1350,
+  "desc": "能够和宝可梦的情感同步，让宝可梦帮忙做各种事情的装置。由于是试制品，所以外观很简约。",
+  "shortDesc": "能够和宝可梦的情感同步，让宝可梦帮忙做各种事情的装置。由于是试制品，所以外观很简约。",
+  "gen": 1,
+  "isPokeball": false
+}

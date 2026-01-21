@@ -1,0 +1,28 @@
+{
+  "id": 941,
+  "name": "Kilowattrel",
+  "type1": "Electric",
+  "type2": "Flying",
+  "hp": 70,
+  "attack": 70,
+  "defense": 60,
+  "sp_atk": 105,
+  "sp_def": 60,
+  "speed": 125,
+  "total": 490,
+  "abilities": [
+    "Wind Power",
+    "Volt Absorb",
+    "Competitive"
+  ],
+  "height": 1.4,
+  "weight": 38.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Wattrel",
+  "evo_level": 25,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/kilowattrel.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\941_kilowattrel.gif"
+}

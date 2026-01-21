@@ -1,0 +1,12 @@
+{
+  "id": 778,
+  "name": "TR79",
+  "english": "tr79",
+  "category": "道具",
+  "num": 778,
+  "spritenum": 729,
+  "desc": "Teaches certain Pokemon the move Heavy Slam. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Heavy Slam. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

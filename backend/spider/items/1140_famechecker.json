@@ -1,0 +1,12 @@
+{
+  "id": 1140,
+  "name": "声音记录器",
+  "english": "Fame Checker",
+  "category": "重要物品",
+  "num": 1140,
+  "spritenum": 1140,
+  "desc": "可以重复查看打听到的有名人物的东西。",
+  "shortDesc": "可以重复查看打听到的有名人物的东西。",
+  "gen": 1,
+  "isPokeball": false
+}

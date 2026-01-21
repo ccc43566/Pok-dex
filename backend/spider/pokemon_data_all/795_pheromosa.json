@@ -1,0 +1,26 @@
+{
+  "id": 795,
+  "name": "Pheromosa",
+  "type1": "Bug",
+  "type2": "Fighting",
+  "hp": 71,
+  "attack": 137,
+  "defense": 37,
+  "sp_atk": 137,
+  "sp_def": 37,
+  "speed": 151,
+  "total": 570,
+  "abilities": [
+    "Beast Boost"
+  ],
+  "height": 1.8,
+  "weight": 25.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/pheromosa.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\795_pheromosa.gif"
+}

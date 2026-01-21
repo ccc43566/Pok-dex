@@ -1,0 +1,28 @@
+{
+  "id": 594,
+  "name": "Alomomola",
+  "type1": "Water",
+  "type2": null,
+  "hp": 165,
+  "attack": 75,
+  "defense": 80,
+  "sp_atk": 40,
+  "sp_def": 45,
+  "speed": 65,
+  "total": 470,
+  "abilities": [
+    "Healer",
+    "Hydration",
+    "Regenerator"
+  ],
+  "height": 1.2,
+  "weight": 31.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/alomomola.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\594_alomomola.gif"
+}

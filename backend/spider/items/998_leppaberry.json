@@ -1,0 +1,12 @@
+{
+  "id": 998,
+  "name": "苹野果",
+  "english": "Leppa Berry",
+  "category": "树果",
+  "num": 998,
+  "spritenum": 998,
+  "desc": "让宝可梦携带后，可以回复１０ＰＰ。",
+  "shortDesc": "让宝可梦携带后，可以回复１０ＰＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 610,
+  "name": "Axew",
+  "type1": "Dragon",
+  "type2": null,
+  "hp": 46,
+  "attack": 87,
+  "defense": 60,
+  "sp_atk": 30,
+  "sp_def": 40,
+  "speed": 57,
+  "total": 320,
+  "abilities": [
+    "Rivalry",
+    "Mold Breaker",
+    "Unnerve"
+  ],
+  "height": 0.6,
+  "weight": 18.0,
+  "gender_ratio": {},
+  "evos": [
+    "Fraxure"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/axew.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\610_axew.gif"
+}

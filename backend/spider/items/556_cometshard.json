@@ -1,0 +1,12 @@
+{
+  "id": 556,
+  "name": "彗星碎片",
+  "english": "Comet Shard",
+  "category": "宝物",
+  "num": 556,
+  "spritenum": 556,
+  "desc": "彗星临近时，掉落到地表上的碎片。可以在商店高价出售。",
+  "shortDesc": "彗星临近时，掉落到地表上的碎片。可以在商店高价出售。",
+  "gen": 1,
+  "isPokeball": false
+}

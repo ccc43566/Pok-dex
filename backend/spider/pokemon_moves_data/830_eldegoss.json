@@ -1,0 +1,52 @@
+{
+  "id": 830,
+  "name": "eldegoss",
+  "level_up": [
+    "aromatherapy",
+    "cottonguard",
+    "cottonspore",
+    "hypervoice",
+    "leafage",
+    "leafstorm",
+    "leaftornado",
+    "rapidspin",
+    "razorleaf",
+    "round",
+    "sing",
+    "sweetscent",
+    "synthesis"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "attract",
+    "bulletseed",
+    "charm",
+    "endure",
+    "energyball",
+    "facade",
+    "gigadrain",
+    "gigaimpact",
+    "grassknot",
+    "grassyterrain",
+    "helpinghand",
+    "hyperbeam",
+    "hypervoice",
+    "leafstorm",
+    "lightscreen",
+    "magicalleaf",
+    "pollenpuff",
+    "protect",
+    "rest",
+    "round",
+    "seedbomb",
+    "sleeptalk",
+    "snore",
+    "solarbeam",
+    "substitute",
+    "sunnyday",
+    "weatherball"
+  ],
+  "tutor_moves": [
+    "grassyglide"
+  ]
+}

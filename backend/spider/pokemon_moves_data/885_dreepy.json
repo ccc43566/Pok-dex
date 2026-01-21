@@ -1,0 +1,42 @@
+{
+  "id": 885,
+  "name": "dreepy",
+  "level_up": [
+    "astonish",
+    "bite",
+    "infestation",
+    "quickattack"
+  ],
+  "egg_moves": [
+    "confuseray",
+    "curse",
+    "disable",
+    "doubleteam",
+    "dragontail",
+    "grudge",
+    "suckerpunch"
+  ],
+  "tm_moves": [
+    "attract",
+    "batonpass",
+    "confuseray",
+    "curse",
+    "dracometeor",
+    "dragontail",
+    "endure",
+    "facade",
+    "helpinghand",
+    "protect",
+    "rest",
+    "round",
+    "sleeptalk",
+    "snore",
+    "substitute",
+    "swift",
+    "terablast",
+    "thunderwave"
+  ],
+  "tutor_moves": [
+    "dracometeor"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 655,
+  "name": "Delphox-Mega",
+  "type1": "Fire",
+  "type2": "Psychic",
+  "hp": 75,
+  "attack": 69,
+  "defense": 72,
+  "sp_atk": 159,
+  "sp_def": 125,
+  "speed": 134,
+  "total": 634,
+  "abilities": [
+    "Blaze",
+    "Magician"
+  ],
+  "height": 1.5,
+  "weight": 39.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/delphox-mega.png"
+}

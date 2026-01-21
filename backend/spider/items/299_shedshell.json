@@ -1,0 +1,12 @@
+{
+  "id": 299,
+  "name": "美丽空壳",
+  "english": "Shed Shell",
+  "category": "道具",
+  "num": 299,
+  "spritenum": 299,
+  "desc": "结实坚硬的空壳。携带它的宝可梦必定可以和后备的宝可梦进行替换。",
+  "shortDesc": "结实坚硬的空壳。携带它的宝可梦必定可以和后备的宝可梦进行替换。",
+  "gen": 1,
+  "isPokeball": false
+}

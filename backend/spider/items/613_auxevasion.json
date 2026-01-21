@@ -1,0 +1,12 @@
+{
+  "id": 613,
+  "name": "闪避强化",
+  "english": "Aux Evasion",
+  "category": "战斗道具",
+  "num": 613,
+  "spritenum": 613,
+  "desc": "让宝可梦在战斗中变得较不易被对手招式命中的道具。离场后，效果便会消失。",
+  "shortDesc": "让宝可梦在战斗中变得较不易被对手招式命中的道具。离场后，效果便会消失。",
+  "gen": 1,
+  "isPokeball": false
+}

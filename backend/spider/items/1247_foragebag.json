@@ -1,0 +1,12 @@
+{
+  "id": 1247,
+  "name": "材料袋",
+  "english": "Forage Bag",
+  "category": "重要物品",
+  "num": 1247,
+  "spritenum": 1247,
+  "desc": "将丛林里收集到的材料装在一起的袋子。在玛奥的考验中使用。",
+  "shortDesc": "将丛林里收集到的材料装在一起的袋子。在玛奥的考验中使用。",
+  "gen": 1,
+  "isPokeball": false
+}

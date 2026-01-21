@@ -1,0 +1,26 @@
+{
+  "id": 991,
+  "name": "Iron Bundle",
+  "type1": "Ice",
+  "type2": "Water",
+  "hp": 56,
+  "attack": 80,
+  "defense": 114,
+  "sp_atk": 124,
+  "sp_def": 60,
+  "speed": 136,
+  "total": 570,
+  "abilities": [
+    "Quark Drive"
+  ],
+  "height": 0.6,
+  "weight": 11.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/ironbundle.png",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\991_ironbundle.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 499,
+  "name": "Rindo Berry",
+  "english": "rindoberry",
+  "category": "道具",
+  "num": 499,
+  "spritenum": 409,
+  "desc": "Halves damage taken from a supereffective Grass-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Grass-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

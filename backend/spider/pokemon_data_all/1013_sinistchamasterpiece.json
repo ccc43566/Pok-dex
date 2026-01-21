@@ -1,0 +1,26 @@
+{
+  "id": 1013,
+  "name": "Sinistcha-Masterpiece",
+  "type1": "Grass",
+  "type2": "Ghost",
+  "hp": 71,
+  "attack": 60,
+  "defense": 106,
+  "sp_atk": 121,
+  "sp_def": 80,
+  "speed": 70,
+  "total": 508,
+  "abilities": [
+    "Hospitality",
+    "Heatproof"
+  ],
+  "height": 0.2,
+  "weight": 2.2,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Poltchageist-Artisan",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Masterpiece Teacup",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/sinistchamasterpiece.png"
+}

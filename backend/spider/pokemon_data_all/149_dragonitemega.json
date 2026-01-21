@@ -1,0 +1,27 @@
+{
+  "id": 149,
+  "name": "Dragonite-Mega",
+  "type1": "Dragon",
+  "type2": "Flying",
+  "hp": 91,
+  "attack": 124,
+  "defense": 115,
+  "sp_atk": 145,
+  "sp_def": 125,
+  "speed": 100,
+  "total": 700,
+  "abilities": [
+    "Inner Focus",
+    "Multiscale"
+  ],
+  "height": 2.2,
+  "weight": 290.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/dragonite-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\149_dragonite-mega.gif"
+}

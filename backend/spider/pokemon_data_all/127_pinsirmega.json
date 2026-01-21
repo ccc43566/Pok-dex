@@ -1,0 +1,26 @@
+{
+  "id": 127,
+  "name": "Pinsir-Mega",
+  "type1": "Bug",
+  "type2": "Flying",
+  "hp": 65,
+  "attack": 155,
+  "defense": 120,
+  "sp_atk": 65,
+  "sp_def": 90,
+  "speed": 105,
+  "total": 600,
+  "abilities": [
+    "Aerilate"
+  ],
+  "height": 1.7,
+  "weight": 59.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pinsir-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\127_pinsir-mega.gif"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 582,
+  "name": "Vanillite",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 36,
+  "attack": 50,
+  "defense": 50,
+  "sp_atk": 65,
+  "sp_def": 60,
+  "speed": 44,
+  "total": 305,
+  "abilities": [
+    "Ice Body",
+    "Snow Cloak",
+    "Weak Armor"
+  ],
+  "height": 0.4,
+  "weight": 5.7,
+  "gender_ratio": {},
+  "evos": [
+    "Vanillish"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/vanillite.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\582_vanillite.gif"
+}

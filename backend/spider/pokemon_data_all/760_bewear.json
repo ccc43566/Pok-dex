@@ -1,0 +1,28 @@
+{
+  "id": 760,
+  "name": "Bewear",
+  "type1": "Normal",
+  "type2": "Fighting",
+  "hp": 120,
+  "attack": 125,
+  "defense": 80,
+  "sp_atk": 55,
+  "sp_def": 60,
+  "speed": 60,
+  "total": 500,
+  "abilities": [
+    "Fluffy",
+    "Klutz",
+    "Unnerve"
+  ],
+  "height": 2.1,
+  "weight": 135.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Stufful",
+  "evo_level": 27,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/bewear.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\760_bewear.gif"
+}

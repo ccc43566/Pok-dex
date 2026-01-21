@@ -1,0 +1,12 @@
+{
+  "id": 203,
+  "name": "速度粉",
+  "english": "Quick Powder",
+  "category": "道具",
+  "num": 203,
+  "spritenum": 203,
+  "desc": "让百变怪携带后，速度就会提高的神奇粉末。非常细腻坚硬。",
+  "shortDesc": "让百变怪携带后，速度就会提高的神奇粉末。非常细腻坚硬。",
+  "gen": 1,
+  "isPokeball": false
+}

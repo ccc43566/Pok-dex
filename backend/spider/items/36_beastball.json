@@ -1,0 +1,12 @@
+{
+  "id": 36,
+  "name": "Beast Ball",
+  "english": "beastball",
+  "category": "道具",
+  "num": 36,
+  "spritenum": 661,
+  "desc": "A special Poke Ball designed to catch Ultra Beasts.",
+  "shortDesc": "A special Poke Ball designed to catch Ultra Beasts.",
+  "gen": 7,
+  "isPokeball": true
+}

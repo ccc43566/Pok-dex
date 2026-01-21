@@ -1,0 +1,27 @@
+{
+  "id": 414,
+  "name": "Mothim",
+  "type1": "Bug",
+  "type2": "Flying",
+  "hp": 70,
+  "attack": 94,
+  "defense": 50,
+  "sp_atk": 94,
+  "sp_def": 50,
+  "speed": 66,
+  "total": 424,
+  "abilities": [
+    "Swarm",
+    "Tinted Lens"
+  ],
+  "height": 0.9,
+  "weight": 23.3,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Burmy",
+  "evo_level": 20,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/mothim.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\414_mothim.gif"
+}

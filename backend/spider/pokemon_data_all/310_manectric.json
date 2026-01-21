@@ -1,0 +1,28 @@
+{
+  "id": 310,
+  "name": "Manectric",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 70,
+  "attack": 75,
+  "defense": 60,
+  "sp_atk": 105,
+  "sp_def": 60,
+  "speed": 105,
+  "total": 475,
+  "abilities": [
+    "Static",
+    "Lightning Rod",
+    "Minus"
+  ],
+  "height": 1.5,
+  "weight": 40.2,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Electrike",
+  "evo_level": 26,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/manectric.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\310_manectric.gif"
+}

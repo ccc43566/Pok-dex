@@ -21,6 +21,59 @@
       </div>
     </div>
 
+    <div class="generation-filter">
+      <div class="generation-dropdown">
+        <div
+          class="generation-dropdown-header"
+          @click="toggleGenerationDropdown"
+        >
+          <div class="generation-name">
+            {{ selectedGeneration ? `第${selectedGeneration}世代` : '选择世代' }}
+          </div>
+          <div v-if="selectedGeneration" class="generation-sprites">
+            <div
+              v-for="example in generations.find(gen => gen.id === selectedGeneration).examples"
+              :key="example.id"
+              class="generation-sprite"
+              :style="{ backgroundImage: `url(${getPokemonImage(example, true)})` }"
+              :title="example.name"
+            ></div>
+          </div>
+          <div v-if="selectedGeneration" class="generation-range">
+            #{{ generations.find(gen => gen.id === selectedGeneration).startId }}-
+            {{ generations.find(gen => gen.id === selectedGeneration).endId }}
+          </div>
+          <div class="dropdown-arrow" :class="{ open: isDropdownOpen }">▼</div>
+        </div>
+        <div
+          class="generation-dropdown-menu"
+          :class="{ open: isDropdownOpen }"
+        >
+          <div
+            v-for="gen in generations"
+            :key="gen.id"
+            class="generation-tab"
+            :class="{ active: selectedGeneration === gen.id }"
+            @click="handleGenerationFilter(gen.id)"
+          >
+            <div class="generation-header">
+              <div class="generation-name">第{{ gen.id }}世代</div>
+              <div class="generation-sprites">
+                <div
+                  v-for="example in gen.examples"
+                  :key="example.id"
+                  class="generation-sprite"
+                  :style="{ backgroundImage: `url(${getPokemonImage(example, true)})` }"
+                  :title="example.name"
+                ></div>
+              </div>
+              <div class="generation-range">#{{ gen.startId }}-{{ gen.endId }}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div v-if="loading" class="loading">
       <p>加载中...</p>
     </div>
@@ -92,13 +145,26 @@ export default {
       error: null,
       searchQuery: '',
       selectedType: '',
+      selectedGeneration: null,
       skip: 0,
       limit: 50,
       hasMore: true,
+      isDropdownOpen: false,
       availableTypes: [
         'Normal', 'Fire', 'Water', 'Grass', 'Electric', 'Ice', 'Fighting',
         'Poison', 'Ground', 'Flying', 'Psychic', 'Bug', 'Rock', 'Ghost',
         'Dragon', 'Dark', 'Steel', 'Fairy'
+      ],
+      generations: [
+        { id: 1, startId: 1, endId: 151, examples: [{ id: 1, name: 'Bulbasaur' }, { id: 4, name: 'Charmander' }, { id: 7, name: 'Squirtle' }] },
+        { id: 2, startId: 152, endId: 251, examples: [{ id: 152, name: 'Chikorita' }, { id: 155, name: 'Cyndaquil' }, { id: 158, name: 'Totodile' }] },
+        { id: 3, startId: 252, endId: 386, examples: [{ id: 252, name: 'Treecko' }, { id: 255, name: 'Torchic' }, { id: 258, name: 'Mudkip' }] },
+        { id: 4, startId: 387, endId: 493, examples: [{ id: 387, name: 'Turtwig' }, { id: 390, name: 'Chimchar' }, { id: 393, name: 'Piplup' }] },
+        { id: 5, startId: 494, endId: 649, examples: [{ id: 495, name: 'Snivy' }, { id: 498, name: 'Tepig' }, { id: 501, name: 'Oshawott' }] },
+        { id: 6, startId: 650, endId: 721, examples: [{ id: 650, name: 'Chespin' }, { id: 653, name: 'Fennekin' }, { id: 656, name: 'Froakie' }] },
+        { id: 7, startId: 722, endId: 809, examples: [{ id: 722, name: 'Rowlet' }, { id: 725, name: 'Litten' }, { id: 728, name: 'Popplio' }] },
+        { id: 8, startId: 810, endId: 905, examples: [{ id: 810, name: 'Grookey' }, { id: 813, name: 'Scorbunny' }, { id: 816, name: 'Sobble' }] },
+        { id: 9, startId: 906, endId: 1025, examples: [{ id: 906, name: 'Sprigatito' }, { id: 909, name: 'Fuecoco' }, { id: 912, name: 'Quaxly' }] }
       ]
     }
   },
@@ -124,6 +190,18 @@ export default {
 
         if (this.selectedType) {
           params.type_filter = this.selectedType
+        }
+
+        if (this.selectedGeneration) {
+          params.generation = this.selectedGeneration
+        }
+
+        if (this.selectedGeneration) {
+          params.generation = this.selectedGeneration
+        }
+
+        if (this.selectedGeneration) {
+          params.generation = this.selectedGeneration
         }
 
         const data = await pokemonAPI.getPokemon(params)
@@ -154,6 +232,10 @@ export default {
 
         if (this.selectedType) {
           params.type_filter = this.selectedType
+        }
+
+        if (this.selectedGeneration) {
+          params.generation = this.selectedGeneration
         }
 
         const data = await pokemonAPI.getPokemon(params)
@@ -198,6 +280,16 @@ export default {
       this.loadPokemon(true)
     },
 
+    toggleGenerationDropdown() {
+      this.isDropdownOpen = !this.isDropdownOpen
+    },
+
+    handleGenerationFilter(generationId) {
+      this.selectedGeneration = this.selectedGeneration === generationId ? null : generationId
+      this.isDropdownOpen = false // 选择后关闭下拉框
+      this.loadPokemon(true)
+    },
+
     goToDetail(id) {
       this.$router.push(`/pokemon/${id}`)
     },
@@ -209,27 +301,33 @@ export default {
       return types
     },
 
-    getPokemonImage(pokemon) {
-      // 优先使用数据库中的image_path，如果没有则生成路径
-      if (pokemon.image_path) {
-        // 从image_path中提取文件名
-        const pathParts = pokemon.image_path.split(/[/\\]/)
-        const filename = pathParts[pathParts.length - 1]
-        return `/images/${filename}`
+    getPokemonImage(pokemon, isGenerationSelector = false) {
+      // 世代选择器中的御三家使用PNG，其他都使用GIF
+      const safeName = pokemon.name.toLowerCase()
+        .replace(/[^a-z0-9]/g, '') // 只保留字母和数字
+        .replace(/\s+/g, '') // 移除空格
+
+      // 检查是否是世代御三家
+      const starterIds = [1, 4, 7, 152, 155, 158, 252, 255, 258, 387, 390, 393, 495, 498, 501, 650, 653, 656, 722, 725, 728, 810, 813, 816, 906, 909, 912]
+
+      if (isGenerationSelector && starterIds.includes(pokemon.id)) {
+        // 世代选择器中的御三家使用PNG
+        return `/png-images/${pokemon.id}_${safeName}.png`
       } else {
-        // 生成默认路径，清理名字中的特殊字符
-        const safeName = pokemon.name.toLowerCase()
-          .replace(/[^a-z0-9]/g, '') // 只保留字母和数字
-          .replace(/\s+/g, '') // 移除空格
+        // 所有展示页面都使用GIF（如果有的话）
         return `/images/${pokemon.id}_${safeName}.gif`
       }
     },
 
     handleImageError(event) {
-      // 使用默认图片，但只在真正需要时
+      // 首先尝试加载PNG版本，如果失败则显示默认图片
       const img = event.target
-      if (!img.src.includes('25_pikachu.gif')) {
-        // 如果不是已经在显示默认图片，则显示默认图片
+      const src = img.src
+      if (src.endsWith('.gif')) {
+        // 如果是GIF图片加载失败，尝试加载PNG版本
+        img.src = src.replace('.gif', '.png')
+      } else if (!img.src.includes('25_pikachu.gif')) {
+        // 如果已经是PNG或其他格式，且不是默认图片，则显示默认图片
         img.src = '/images/25_pikachu.gif'
         img.onerror = null // 防止无限循环
       }
@@ -293,9 +391,143 @@ export default {
   min-width: 150px;
 }
 
+.generation-filter {
+  margin-bottom: 2rem;
+}
+
+.generation-dropdown {
+  position: relative;
+  max-width: 100%;
+}
+
+.generation-dropdown-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  cursor: pointer;
+  background: white;
+  transition: all 0.3s ease;
+}
+
+.generation-dropdown-header:hover {
+  border-color: #667eea;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.generation-dropdown-menu {
+  position: absolute;
+  top: calc(100% + 5px);
+  left: 0;
+  right: 0;
+  background: white;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  z-index: 100;
+  max-height: 400px;
+  overflow-y: auto;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: all 0.3s ease;
+}
+
+.generation-dropdown-menu.open {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.dropdown-arrow {
+  margin-left: 1rem;
+  transition: transform 0.3s ease;
+  color: #667eea;
+  font-size: 0.8rem;
+}
+
+.dropdown-arrow.open {
+  transform: rotate(180deg);
+}
+
+.generation-tab {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  padding: 1rem;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: white;
+}
+
+.generation-tab:last-child {
+  border-bottom: none;
+  border-radius: 0 0 8px 8px;
+}
+
+.generation-tab:first-child {
+  border-radius: 8px 8px 0 0;
+}
+
+.generation-tab:hover {
+  background: #f0f2ff;
+}
+
+.generation-tab.active {
+  background: #e8ecff;
+  border-left: 4px solid #667eea;
+}
+
+.generation-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.generation-name {
+  font-weight: bold;
+  font-size: 1rem;
+  color: #333;
+  min-width: 80px;
+}
+
+.generation-sprites {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  flex-grow: 1;
+  align-items: center;
+  height: 44px;
+  min-height: 44px;
+}
+
+.generation-sprite {
+  width: 40px;
+  height: 40px;
+  min-width: 40px;
+  min-height: 40px;
+  background-size: 85%;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+
+.generation-range {
+  font-size: 0.9rem;
+  color: #666;
+  font-weight: normal;
+  min-width: 100px;
+  text-align: right;
+}
+
 .pokemon-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
   gap: 1.5rem;
   margin-bottom: 2rem;
 }
@@ -315,7 +547,7 @@ export default {
 }
 
 .pokemon-image {
-  height: 200px;
+  height: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -330,25 +562,28 @@ export default {
 }
 
 .pokemon-info {
-  padding: 1rem;
+  padding: 0.5rem;
 }
 
 .pokemon-info h3 {
   margin: 0 0 0.5rem 0;
   color: #333;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
+  text-align: center;
 }
 
 .types {
   display: flex;
-  gap: 0.5rem;
+  gap: 0.3rem;
   margin-bottom: 0.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .type-badge {
-  padding: 0.25rem 0.5rem;
-  border-radius: 12px;
-  font-size: 0.8rem;
+  padding: 0.15rem 0.35rem;
+  border-radius: 10px;
+  font-size: 0.65rem;
   font-weight: bold;
   color: white;
   text-transform: uppercase;
@@ -375,8 +610,9 @@ export default {
 .type-fairy { background: #EE99AC; }
 
 .stats {
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   color: #666;
+  text-align: center;
 }
 
 .loading, .error, .no-results {

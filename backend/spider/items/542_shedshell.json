@@ -1,0 +1,12 @@
+{
+  "id": 542,
+  "name": "Shed Shell",
+  "english": "shedshell",
+  "category": "道具",
+  "num": 542,
+  "spritenum": 437,
+  "desc": "Holder cannot be prevented from choosing to switch out by any effect.",
+  "shortDesc": "Holder cannot be prevented from choosing to switch out by any effect.",
+  "gen": 4,
+  "isPokeball": false
+}

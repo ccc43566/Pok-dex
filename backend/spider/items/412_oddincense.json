@@ -1,0 +1,12 @@
+{
+  "id": 412,
+  "name": "Odd Incense",
+  "english": "oddincense",
+  "category": "道具",
+  "num": 412,
+  "spritenum": 312,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

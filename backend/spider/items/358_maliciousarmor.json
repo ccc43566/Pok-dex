@@ -1,0 +1,12 @@
+{
+  "id": 358,
+  "name": "Malicious Armor",
+  "english": "maliciousarmor",
+  "category": "道具",
+  "num": 358,
+  "spritenum": 744,
+  "desc": "Evolves Charcadet into Ceruledge when used.",
+  "shortDesc": "Evolves Charcadet into Ceruledge when used.",
+  "gen": 9,
+  "isPokeball": false
+}

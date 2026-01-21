@@ -1,0 +1,12 @@
+{
+  "id": 425,
+  "name": "Petaya Berry",
+  "english": "petayaberry",
+  "category": "道具",
+  "num": 425,
+  "spritenum": 335,
+  "desc": "Raises holder",
+  "shortDesc": "Raises holder",
+  "gen": 3,
+  "isPokeball": false
+}

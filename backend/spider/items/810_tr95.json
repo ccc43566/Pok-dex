@@ -1,0 +1,12 @@
+{
+  "id": 810,
+  "name": "TR95",
+  "english": "tr95",
+  "category": "道具",
+  "num": 810,
+  "spritenum": 737,
+  "desc": "Teaches certain Pokemon the move Throat Chop. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Throat Chop. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

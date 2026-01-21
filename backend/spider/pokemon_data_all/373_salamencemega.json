@@ -1,0 +1,26 @@
+{
+  "id": 373,
+  "name": "Salamence-Mega",
+  "type1": "Dragon",
+  "type2": "Flying",
+  "hp": 95,
+  "attack": 145,
+  "defense": 130,
+  "sp_atk": 120,
+  "sp_def": 90,
+  "speed": 120,
+  "total": 700,
+  "abilities": [
+    "Aerilate"
+  ],
+  "height": 1.8,
+  "weight": 112.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/salamence-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\373_salamence-mega.gif"
+}

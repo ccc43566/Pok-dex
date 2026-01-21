@@ -1,0 +1,12 @@
+{
+  "id": 1074,
+  "name": "雾莲果",
+  "english": "Rowap Berry",
+  "category": "树果",
+  "num": 1074,
+  "spritenum": 1074,
+  "desc": "让宝可梦携带后，在受到特殊招式攻击时，能给予对手伤害。",
+  "shortDesc": "让宝可梦携带后，在受到特殊招式攻击时，能给予对手伤害。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 561,
+  "name": "古代铜币",
+  "english": "Relic Copper",
+  "category": "宝物",
+  "num": 561,
+  "spritenum": 561,
+  "desc": "约３０００年前的文明使用的铜币。",
+  "shortDesc": "约３０００年前的文明使用的铜币。",
+  "gen": 1,
+  "isPokeball": false
+}

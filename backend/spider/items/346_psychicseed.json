@@ -1,0 +1,12 @@
+{
+  "id": 346,
+  "name": "精神种子",
+  "english": "Psychic Seed",
+  "category": "道具",
+  "num": 346,
+  "spritenum": 346,
+  "desc": "让宝可梦携带后，在精神场地上使用，特防就会提高。",
+  "shortDesc": "让宝可梦携带后，在精神场地上使用，特防就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

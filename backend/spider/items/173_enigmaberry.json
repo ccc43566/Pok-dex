@@ -1,0 +1,12 @@
+{
+  "id": 173,
+  "name": "Enigma Berry",
+  "english": "enigmaberry",
+  "category": "道具",
+  "num": 173,
+  "spritenum": 124,
+  "desc": "Restores 1/4 max HP after holder is hit by a supereffective move. Single use.",
+  "shortDesc": "Restores 1/4 max HP after holder is hit by a supereffective move. Single use.",
+  "gen": 3,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 782,
+  "name": "TR81",
+  "english": "tr81",
+  "category": "道具",
+  "num": 782,
+  "spritenum": 737,
+  "desc": "Teaches certain Pokemon the move Foul Play. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Foul Play. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 154,
+  "name": "Meganium",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 80,
+  "attack": 82,
+  "defense": 100,
+  "sp_atk": 83,
+  "sp_def": 100,
+  "speed": 80,
+  "total": 525,
+  "abilities": [
+    "Overgrow",
+    "Leaf Guard"
+  ],
+  "height": 1.8,
+  "weight": 100.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Bayleef",
+  "evo_level": 32,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/meganium.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\154_meganium.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 108,
+  "name": "Cornn Berry",
+  "english": "cornnberry",
+  "category": "道具",
+  "num": 108,
+  "spritenum": 81,
+  "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "gen": 3,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 317,
+  "name": "Leppa Berry",
+  "english": "leppaberry",
+  "category": "道具",
+  "num": 317,
+  "spritenum": 244,
+  "desc": "Restores 10 PP to the first of the holder",
+  "shortDesc": "Restores 10 PP to the first of the holder",
+  "gen": 3,
+  "isPokeball": false
+}

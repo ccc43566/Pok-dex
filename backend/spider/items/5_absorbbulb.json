@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "name": "Absorb Bulb",
+  "english": "absorbbulb",
+  "category": "道具",
+  "num": 5,
+  "spritenum": 2,
+  "desc": "Raises holder",
+  "shortDesc": "Raises holder",
+  "gen": 5,
+  "isPokeball": false
+}

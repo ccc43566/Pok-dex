@@ -1,0 +1,12 @@
+{
+  "id": 668,
+  "name": "TR24",
+  "english": "tr24",
+  "category": "道具",
+  "num": 668,
+  "spritenum": 736,
+  "desc": "Teaches certain Pokemon the move Outrage. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Outrage. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

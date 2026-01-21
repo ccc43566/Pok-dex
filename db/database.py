@@ -1,5 +1,6 @@
 # database.py
 import os
+import json
 try:
     from .pokemon_db_init import PokemonDB
 except ImportError:
@@ -29,17 +30,21 @@ def insert_pokemon(pokemon_data):
     # 使用PokemonDB实例的数据库连接
     try:
         cursor = db_instance.conn.cursor()
+        # 将gender_ratio转换为JSON字符串
+        gender_ratio_json = json.dumps(pokemon_data.get("gender_ratio", {})) if pokemon_data.get("gender_ratio") else None
+
         sql = """
         INSERT OR IGNORE INTO pokemon
-        (id, name, jp_name, en_name, type1, type2, hp, attack, defense, sp_atk, sp_def, speed, total, description, image_path)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        (id, name, jp_name, en_name, type1, type2, hp, attack, defense, sp_atk, sp_def, speed, total, height, weight, gender_ratio, description, image_path)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """
         cursor.execute(sql, (
             pokemon_data["id"], pokemon_data["name"], pokemon_data.get("jp_name"),
             pokemon_data.get("en_name"), pokemon_data["type1"], pokemon_data.get("type2"),
             pokemon_data["hp"], pokemon_data["attack"], pokemon_data["defense"],
             pokemon_data["sp_atk"], pokemon_data["sp_def"], pokemon_data["speed"],
-            pokemon_data["total"], pokemon_data.get("description"), pokemon_data.get("image_path")
+            pokemon_data["total"], pokemon_data.get("height"), pokemon_data.get("weight"),
+            gender_ratio_json, pokemon_data.get("description"), pokemon_data.get("image_path")
         ))
         db_instance.conn.commit()
         print(f"成功插入宝可梦: {pokemon_data['name']}")
@@ -209,6 +214,45 @@ def get_evolutions(pokemon_id):
         return [dict(zip(columns, row)) for row in rows]
     except Exception as e:
         print(f"查询进化信息失败: {e}")
+        return []
+
+def insert_item(item_data):
+    """插入物品信息"""
+    if db_instance is None:
+        init_db()
+
+    try:
+        cursor = db_instance.conn.cursor()
+        sql = """
+        INSERT OR IGNORE INTO items
+        (id, name, english, category, num, spritenum, desc, shortDesc, gen, isPokeball)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """
+        cursor.execute(sql, (
+            item_data["id"], item_data["name"], item_data.get("english"),
+            item_data.get("category"), item_data.get("num"),
+            item_data.get("spritenum"), item_data.get("desc"),
+            item_data.get("shortDesc"), item_data.get("gen"),
+            item_data.get("isPokeball")
+        ))
+        db_instance.conn.commit()
+        print(f"成功插入物品: {item_data['name']}")
+    except Exception as e:
+        print(f"插入物品失败: {e}")
+
+def get_all_items():
+    """获取所有物品信息"""
+    if db_instance is None:
+        init_db()
+
+    try:
+        cursor = db_instance.conn.cursor()
+        cursor.execute("SELECT * FROM items ORDER BY id")
+        rows = cursor.fetchall()
+        columns = [desc[0] for desc in cursor.description]
+        return [dict(zip(columns, row)) for row in rows]
+    except Exception as e:
+        print(f"查询所有物品失败: {e}")
         return []
 
 def close_db():

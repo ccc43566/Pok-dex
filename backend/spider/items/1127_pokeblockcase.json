@@ -1,0 +1,12 @@
+{
+  "id": 1127,
+  "name": "宝可方块盒",
+  "english": "Pokéblock Case",
+  "category": "重要物品",
+  "num": 1127,
+  "spritenum": 1127,
+  "desc": "可以用来放置用树果混合器制造的宝可方块的盒子。",
+  "shortDesc": "可以用来放置用树果混合器制造的宝可方块的盒子。",
+  "gen": 1,
+  "isPokeball": false
+}

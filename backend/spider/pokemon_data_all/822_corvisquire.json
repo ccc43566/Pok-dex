@@ -1,0 +1,30 @@
+{
+  "id": 822,
+  "name": "Corvisquire",
+  "type1": "Flying",
+  "type2": null,
+  "hp": 68,
+  "attack": 67,
+  "defense": 55,
+  "sp_atk": 43,
+  "sp_def": 55,
+  "speed": 77,
+  "total": 365,
+  "abilities": [
+    "Keen Eye",
+    "Unnerve",
+    "Big Pecks"
+  ],
+  "height": 0.8,
+  "weight": 16.0,
+  "gender_ratio": {},
+  "evos": [
+    "Corviknight"
+  ],
+  "prevo": "Rookidee",
+  "evo_level": 18,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/corvisquire.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\822_corvisquire.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 484,
+  "name": "玉石",
+  "english": "Tumblestone",
+  "category": "道具",
+  "num": 484,
+  "spritenum": 484,
+  "desc": "不可思议的圆形石头。与球果组合后，能够激发出精灵球的性能。",
+  "shortDesc": "不可思议的圆形石头。与球果组合后，能够激发出精灵球的性能。",
+  "gen": 1,
+  "isPokeball": false
+}

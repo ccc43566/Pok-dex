@@ -1,0 +1,12 @@
+{
+  "id": 310,
+  "name": "红牌",
+  "english": "Red Card",
+  "category": "道具",
+  "num": 310,
+  "spritenum": 310,
+  "desc": "有着神奇力量的卡片。携带后，能让使用了招式的对手退场。",
+  "shortDesc": "有着神奇力量的卡片。携带后，能让使用了招式的对手退场。",
+  "gen": 1,
+  "isPokeball": false
+}

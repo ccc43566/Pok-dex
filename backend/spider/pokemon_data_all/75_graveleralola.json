@@ -1,0 +1,30 @@
+{
+  "id": 75,
+  "name": "Graveler-Alola",
+  "type1": "Rock",
+  "type2": "Electric",
+  "hp": 55,
+  "attack": 95,
+  "defense": 115,
+  "sp_atk": 45,
+  "sp_def": 45,
+  "speed": 35,
+  "total": 390,
+  "abilities": [
+    "Magnet Pull",
+    "Sturdy",
+    "Galvanize"
+  ],
+  "height": 1.0,
+  "weight": 110.0,
+  "gender_ratio": {},
+  "evos": [
+    "Golem-Alola"
+  ],
+  "prevo": "Geodude-Alola",
+  "evo_level": 25,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/graveler-alola.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\75_graveler-alola.gif"
+}

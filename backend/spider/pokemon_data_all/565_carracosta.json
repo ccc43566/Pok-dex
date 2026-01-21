@@ -1,0 +1,31 @@
+{
+  "id": 565,
+  "name": "Carracosta",
+  "type1": "Water",
+  "type2": "Rock",
+  "hp": 74,
+  "attack": 108,
+  "defense": 133,
+  "sp_atk": 83,
+  "sp_def": 65,
+  "speed": 32,
+  "total": 495,
+  "abilities": [
+    "Solid Rock",
+    "Sturdy",
+    "Swift Swim"
+  ],
+  "height": 1.2,
+  "weight": 81.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Tirtouga",
+  "evo_level": 37,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/carracosta.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\565_carracosta.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 351,
+  "name": "毒存储碟",
+  "english": "Poison Memory",
+  "category": "道具",
+  "num": 351,
+  "spritenum": 351,
+  "desc": "装有毒属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "shortDesc": "装有毒属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "gen": 1,
+  "isPokeball": false
+}

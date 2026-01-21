@@ -1,0 +1,13 @@
+{
+  "id": 790,
+  "name": "cosmoem",
+  "level_up": [
+    "cosmicpower",
+    "teleport"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "cosmicpower"
+  ],
+  "tutor_moves": []
+}

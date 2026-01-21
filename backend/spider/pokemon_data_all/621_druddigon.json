@@ -1,0 +1,28 @@
+{
+  "id": 621,
+  "name": "Druddigon",
+  "type1": "Dragon",
+  "type2": null,
+  "hp": 77,
+  "attack": 120,
+  "defense": 90,
+  "sp_atk": 60,
+  "sp_def": 90,
+  "speed": 48,
+  "total": 485,
+  "abilities": [
+    "Rough Skin",
+    "Sheer Force",
+    "Mold Breaker"
+  ],
+  "height": 1.6,
+  "weight": 139.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/druddigon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\621_druddigon.gif"
+}

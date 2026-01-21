@@ -1,0 +1,12 @@
+{
+  "id": 289,
+  "name": "Insect Plate",
+  "english": "insectplate",
+  "category": "道具",
+  "num": 289,
+  "spritenum": 223,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 880,
+  "name": "Dracozolt",
+  "type1": "Electric",
+  "type2": "Dragon",
+  "hp": 90,
+  "attack": 100,
+  "defense": 90,
+  "sp_atk": 80,
+  "sp_def": 70,
+  "speed": 75,
+  "total": 505,
+  "abilities": [
+    "Volt Absorb",
+    "Hustle",
+    "Sand Rush"
+  ],
+  "height": 1.8,
+  "weight": 190.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/dracozolt.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\880_dracozolt.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 626,
+  "name": "灼伤药",
+  "english": "Burn Heal",
+  "category": "回复",
+  "num": 626,
+  "spritenum": 626,
+  "desc": "喷雾式药水。能治愈１只宝可梦的灼伤状态。",
+  "shortDesc": "喷雾式药水。能治愈１只宝可梦的灼伤状态。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 27,
+  "name": "Sandshrew",
+  "type1": "Ground",
+  "type2": null,
+  "hp": 50,
+  "attack": 75,
+  "defense": 85,
+  "sp_atk": 20,
+  "sp_def": 30,
+  "speed": 40,
+  "total": 300,
+  "abilities": [
+    "Sand Veil",
+    "Sand Rush"
+  ],
+  "height": 0.6,
+  "weight": 12.0,
+  "gender_ratio": {},
+  "evos": [
+    "Sandslash"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/sandshrew.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\27_sandshrew.gif"
+}

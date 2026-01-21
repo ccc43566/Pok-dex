@@ -1,0 +1,12 @@
+{
+  "id": 239,
+  "name": "Gold Bottle Cap",
+  "english": "goldbottlecap",
+  "category": "道具",
+  "num": 239,
+  "spritenum": 697,
+  "desc": "Used for Hyper Training. All of a Pokemon",
+  "shortDesc": "Used for Hyper Training. All of a Pokemon",
+  "gen": 7,
+  "isPokeball": false
+}

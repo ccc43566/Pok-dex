@@ -1,0 +1,30 @@
+{
+  "id": 710,
+  "name": "Pumpkaboo",
+  "type1": "Ghost",
+  "type2": "Grass",
+  "hp": 49,
+  "attack": 66,
+  "defense": 70,
+  "sp_atk": 44,
+  "sp_def": 55,
+  "speed": 51,
+  "total": 335,
+  "abilities": [
+    "Pickup",
+    "Frisk",
+    "Insomnia"
+  ],
+  "height": 0.4,
+  "weight": 5.0,
+  "gender_ratio": {},
+  "evos": [
+    "Gourgeist"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pumpkaboo.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\710_pumpkaboo.gif"
+}

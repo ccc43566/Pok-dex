@@ -1,0 +1,12 @@
+{
+  "id": 421,
+  "name": "Passho Berry",
+  "english": "passhoberry",
+  "category": "道具",
+  "num": 421,
+  "spritenum": 329,
+  "desc": "Halves damage taken from a supereffective Water-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Water-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

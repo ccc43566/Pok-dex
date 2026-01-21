@@ -1,0 +1,12 @@
+{
+  "id": 758,
+  "name": "TR69",
+  "english": "tr69",
+  "category": "道具",
+  "num": 758,
+  "spritenum": 734,
+  "desc": "Teaches certain Pokemon the move Zen Headbutt. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Zen Headbutt. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

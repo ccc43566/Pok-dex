@@ -1,0 +1,12 @@
+{
+  "id": 271,
+  "name": "锐利之牙",
+  "english": "Razor Fang",
+  "category": "道具",
+  "num": 271,
+  "spritenum": 271,
+  "desc": "尖锐的牙齿。携带后，在给予伤害时，有时会让对手畏缩。",
+  "shortDesc": "尖锐的牙齿。携带后，在给予伤害时，有时会让对手畏缩。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 596,
+  "name": "化石龙",
+  "english": "Fossilized Drake",
+  "category": "道具",
+  "num": 596,
+  "spritenum": 596,
+  "desc": "远古时代的宝可梦化石残片。它曾栖息于陆地，本来面目至今仍是未解之谜。",
+  "shortDesc": "远古时代的宝可梦化石残片。它曾栖息于陆地，本来面目至今仍是未解之谜。",
+  "gen": 1,
+  "isPokeball": false
+}

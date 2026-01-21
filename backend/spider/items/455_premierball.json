@@ -1,0 +1,12 @@
+{
+  "id": 455,
+  "name": "Premier Ball",
+  "english": "premierball",
+  "category": "道具",
+  "num": 455,
+  "spritenum": 363,
+  "desc": "A rare Poke Ball that has been crafted to commemorate an event.",
+  "shortDesc": "A rare Poke Ball that has been crafted to commemorate an event.",
+  "gen": 3,
+  "isPokeball": true
+}

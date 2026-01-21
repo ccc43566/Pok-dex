@@ -1,0 +1,43 @@
+{
+  "id": 868,
+  "name": "milcery",
+  "level_up": [
+    "acidarmor",
+    "aromatherapy",
+    "aromaticmist",
+    "attract",
+    "charm",
+    "dazzlinggleam",
+    "drainingkiss",
+    "entrainment",
+    "mistyterrain",
+    "recover",
+    "sweetkiss",
+    "sweetscent",
+    "tackle"
+  ],
+  "egg_moves": [
+    "babydolleyes",
+    "lastresort"
+  ],
+  "tm_moves": [
+    "attract",
+    "charm",
+    "dazzlinggleam",
+    "drainingkiss",
+    "endure",
+    "facade",
+    "fling",
+    "helpinghand",
+    "mistyterrain",
+    "protect",
+    "rest",
+    "round",
+    "sleeptalk",
+    "snore",
+    "storedpower",
+    "substitute",
+    "terablast"
+  ],
+  "tutor_moves": []
+}

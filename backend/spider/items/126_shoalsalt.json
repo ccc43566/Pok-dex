@@ -1,0 +1,12 @@
+{
+  "id": 126,
+  "name": "浅滩海盐",
+  "english": "Shoal Salt",
+  "category": "道具",
+  "num": 126,
+  "spritenum": 126,
+  "desc": "在浅滩洞穴这地方找到的海盐。",
+  "shortDesc": "在浅滩洞穴这地方找到的海盐。",
+  "gen": 1,
+  "isPokeball": false
+}

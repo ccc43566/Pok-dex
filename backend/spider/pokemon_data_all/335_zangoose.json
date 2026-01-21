@@ -1,0 +1,27 @@
+{
+  "id": 335,
+  "name": "Zangoose",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 73,
+  "attack": 115,
+  "defense": 60,
+  "sp_atk": 60,
+  "sp_def": 60,
+  "speed": 90,
+  "total": 458,
+  "abilities": [
+    "Immunity",
+    "Toxic Boost"
+  ],
+  "height": 1.3,
+  "weight": 40.3,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/zangoose.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\335_zangoose.gif"
+}

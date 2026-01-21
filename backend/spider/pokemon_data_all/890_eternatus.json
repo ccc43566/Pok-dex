@@ -1,0 +1,26 @@
+{
+  "id": 890,
+  "name": "Eternatus",
+  "type1": "Poison",
+  "type2": "Dragon",
+  "hp": 140,
+  "attack": 85,
+  "defense": 95,
+  "sp_atk": 145,
+  "sp_def": 95,
+  "speed": 130,
+  "total": 690,
+  "abilities": [
+    "Pressure"
+  ],
+  "height": 20.0,
+  "weight": 950.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/eternatus.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\890_eternatus.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 272,
+  "name": "Heavy-Duty Boots",
+  "english": "heavydutyboots",
+  "category": "道具",
+  "num": 272,
+  "spritenum": 715,
+  "desc": "When switching in, the holder is unaffected by hazards on its side of the field.",
+  "shortDesc": "When switching in, the holder is unaffected by hazards on its side of the field.",
+  "gen": 8,
+  "isPokeball": false
+}

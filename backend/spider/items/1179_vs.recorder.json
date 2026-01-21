@@ -1,0 +1,12 @@
+{
+  "id": 1179,
+  "name": "对战记录器",
+  "english": "Vs. Recorder",
+  "category": "重要物品",
+  "num": 1179,
+  "spritenum": 1179,
+  "desc": "很酷的机器。可以记录和朋友或在特殊设施里的对战过程。",
+  "shortDesc": "很酷的机器。可以记录和朋友或在特殊设施里的对战过程。",
+  "gen": 1,
+  "isPokeball": false
+}

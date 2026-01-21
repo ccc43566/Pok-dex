@@ -1,0 +1,26 @@
+{
+  "id": 670,
+  "name": "Floette-Mega",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 74,
+  "attack": 85,
+  "defense": 87,
+  "sp_atk": 155,
+  "sp_def": 148,
+  "speed": 102,
+  "total": 651,
+  "abilities": [
+    "Flower Veil",
+    "Symbiosis"
+  ],
+  "height": 0.2,
+  "weight": 100.8,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/floette-mega.png"
+}

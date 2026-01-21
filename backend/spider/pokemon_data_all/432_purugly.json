@@ -1,0 +1,31 @@
+{
+  "id": 432,
+  "name": "Purugly",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 71,
+  "attack": 82,
+  "defense": 64,
+  "sp_atk": 64,
+  "sp_def": 59,
+  "speed": 112,
+  "total": 452,
+  "abilities": [
+    "Thick Fat",
+    "Own Tempo",
+    "Defiant"
+  ],
+  "height": 1.0,
+  "weight": 43.8,
+  "gender_ratio": {
+    "M": 0.25,
+    "F": 0.75
+  },
+  "evos": [],
+  "prevo": "Glameow",
+  "evo_level": 38,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/purugly.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\432_purugly.gif"
+}

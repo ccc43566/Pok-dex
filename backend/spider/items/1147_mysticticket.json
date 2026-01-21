@@ -1,0 +1,12 @@
+{
+  "id": 1147,
+  "name": "神秘船票",
+  "english": "MysticTicket",
+  "category": "重要物品",
+  "num": 1147,
+  "spritenum": 1147,
+  "desc": "前往肚脐岩时必要的船票。神秘地发着光。",
+  "shortDesc": "前往肚脐岩时必要的船票。神秘地发着光。",
+  "gen": 1,
+  "isPokeball": false
+}

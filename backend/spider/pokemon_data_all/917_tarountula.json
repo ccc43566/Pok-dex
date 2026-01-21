@@ -1,0 +1,29 @@
+{
+  "id": 917,
+  "name": "Tarountula",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 35,
+  "attack": 41,
+  "defense": 45,
+  "sp_atk": 29,
+  "sp_def": 40,
+  "speed": 20,
+  "total": 210,
+  "abilities": [
+    "Insomnia",
+    "Stakeout"
+  ],
+  "height": 0.3,
+  "weight": 4.0,
+  "gender_ratio": {},
+  "evos": [
+    "Spidops"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/tarountula.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\917_tarountula.gif"
+}

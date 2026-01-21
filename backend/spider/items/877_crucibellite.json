@@ -1,0 +1,12 @@
+{
+  "id": 877,
+  "name": "Crucibellite",
+  "english": "crucibellite",
+  "category": "道具",
+  "num": 877,
+  "spritenum": 577,
+  "desc": "If held by a Crucibelle, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Crucibelle, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

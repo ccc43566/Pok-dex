@@ -1,0 +1,12 @@
+{
+  "id": 282,
+  "name": "节拍器",
+  "english": "Metronome",
+  "category": "道具",
+  "num": 282,
+  "spritenum": 282,
+  "desc": "携带后，连续使出相同招式时，威力就会提高。不再使出相同招式时，威力就会复原。",
+  "shortDesc": "携带后，连续使出相同招式时，威力就会提高。不再使出相同招式时，威力就会复原。",
+  "gen": 1,
+  "isPokeball": false
+}

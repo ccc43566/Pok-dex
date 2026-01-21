@@ -1,0 +1,12 @@
+{
+  "id": 820,
+  "name": "Twisted Spoon",
+  "english": "twistedspoon",
+  "category": "道具",
+  "num": 820,
+  "spritenum": 520,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

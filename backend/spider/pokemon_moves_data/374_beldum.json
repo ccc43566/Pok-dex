@@ -1,0 +1,24 @@
+{
+  "id": 374,
+  "name": "beldum",
+  "level_up": [
+    "tackle",
+    "takedown"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "irondefense",
+    "ironhead",
+    "steelbeam",
+    "takedown",
+    "terablast",
+    "zenheadbutt"
+  ],
+  "tutor_moves": [
+    "headbutt",
+    "irondefense",
+    "ironhead",
+    "steelbeam",
+    "zenheadbutt"
+  ]
+}

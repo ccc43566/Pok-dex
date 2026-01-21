@@ -1,0 +1,12 @@
+{
+  "id": 1328,
+  "name": "净空石板",
+  "english": "Blank Plate",
+  "category": "重要物品",
+  "num": 1328,
+  "spritenum": 1328,
+  "desc": "一般属性的石板。对某种宝可梦使用，可使其获得一般属性的力量。",
+  "shortDesc": "一般属性的石板。对某种宝可梦使用，可使其获得一般属性的力量。",
+  "gen": 1,
+  "isPokeball": false
+}

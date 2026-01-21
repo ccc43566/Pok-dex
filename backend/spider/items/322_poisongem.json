@@ -1,0 +1,12 @@
+{
+  "id": 322,
+  "name": "毒之宝石",
+  "english": "Poison Gem",
+  "category": "道具",
+  "num": 322,
+  "spritenum": 322,
+  "desc": "毒属性的宝石。携带后，毒属性的招式威力仅会增强１次。",
+  "shortDesc": "毒属性的宝石。携带后，毒属性的招式威力仅会增强１次。",
+  "gen": 1,
+  "isPokeball": false
+}

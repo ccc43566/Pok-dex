@@ -1,0 +1,12 @@
+{
+  "id": 350,
+  "name": "Magmarizer",
+  "english": "magmarizer",
+  "category": "道具",
+  "num": 350,
+  "spritenum": 272,
+  "desc": "Evolves Magmar into Magmortar when traded.",
+  "shortDesc": "Evolves Magmar into Magmortar when traded.",
+  "gen": 4,
+  "isPokeball": false
+}

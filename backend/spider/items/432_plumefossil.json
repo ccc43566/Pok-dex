@@ -1,0 +1,12 @@
+{
+  "id": 432,
+  "name": "Plume Fossil",
+  "english": "plumefossil",
+  "category": "道具",
+  "num": 432,
+  "spritenum": 339,
+  "desc": "Can be revived into Archen.",
+  "shortDesc": "Can be revived into Archen.",
+  "gen": 5,
+  "isPokeball": false
+}

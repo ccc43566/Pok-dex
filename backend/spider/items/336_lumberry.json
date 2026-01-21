@@ -1,0 +1,12 @@
+{
+  "id": 336,
+  "name": "Lum Berry",
+  "english": "lumberry",
+  "category": "道具",
+  "num": 336,
+  "spritenum": 262,
+  "desc": "Holder cures itself if it has a non-volatile status or is confused. Single use.",
+  "shortDesc": "Holder cures itself if it has a non-volatile status or is confused. Single use.",
+  "gen": 3,
+  "isPokeball": false
+}

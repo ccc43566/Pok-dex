@@ -1,0 +1,12 @@
+{
+  "id": 47,
+  "name": "菇诱团",
+  "english": "Mushroom Cake",
+  "category": "道具",
+  "num": 47,
+  "spritenum": 47,
+  "desc": "由蘑菇与诱团原料糅合而成。对怪兽类和龙类宝可梦有着很强的吸引力。",
+  "shortDesc": "由蘑菇与诱团原料糅合而成。对怪兽类和龙类宝可梦有着很强的吸引力。",
+  "gen": 1,
+  "isPokeball": false
+}

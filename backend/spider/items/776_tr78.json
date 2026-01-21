@@ -1,0 +1,12 @@
+{
+  "id": 776,
+  "name": "TR78",
+  "english": "tr78",
+  "category": "道具",
+  "num": 776,
+  "spritenum": 724,
+  "desc": "Teaches certain Pokemon the move Sludge Wave. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Sludge Wave. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

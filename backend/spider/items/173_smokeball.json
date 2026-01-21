@@ -1,0 +1,12 @@
+{
+  "id": 173,
+  "name": "烟雾球",
+  "english": "Smoke Ball",
+  "category": "道具",
+  "num": 173,
+  "spritenum": 173,
+  "desc": "携带它的宝可梦在和野生宝可梦的战斗中绝对可以逃走。",
+  "shortDesc": "携带它的宝可梦在和野生宝可梦的战斗中绝对可以逃走。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": 369,
+  "name": "Relicanth",
+  "type1": "Water",
+  "type2": "Rock",
+  "hp": 100,
+  "attack": 90,
+  "defense": 130,
+  "sp_atk": 45,
+  "sp_def": 65,
+  "speed": 55,
+  "total": 485,
+  "abilities": [
+    "Swift Swim",
+    "Rock Head",
+    "Sturdy"
+  ],
+  "height": 1.0,
+  "weight": 23.4,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/relicanth.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\369_relicanth.gif"
+}

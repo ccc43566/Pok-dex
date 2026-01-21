@@ -1,0 +1,26 @@
+{
+  "id": 1004,
+  "name": "Chi-Yu",
+  "type1": "Dark",
+  "type2": "Fire",
+  "hp": 55,
+  "attack": 80,
+  "defense": 80,
+  "sp_atk": 135,
+  "sp_def": 120,
+  "speed": 100,
+  "total": 570,
+  "abilities": [
+    "Beads of Ruin"
+  ],
+  "height": 0.4,
+  "weight": 4.9,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/chiyu.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\1004_chiyu.gif"
+}

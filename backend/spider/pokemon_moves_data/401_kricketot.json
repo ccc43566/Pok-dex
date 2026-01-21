@@ -1,0 +1,28 @@
+{
+  "id": 401,
+  "name": "kricketot",
+  "level_up": [
+    "bide",
+    "bugbite",
+    "growl",
+    "strugglebug",
+    "tackle"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "bugbite",
+    "endeavor",
+    "lunge",
+    "skittersmack",
+    "strugglebug",
+    "terablast"
+  ],
+  "tutor_moves": [
+    "bugbite",
+    "endeavor",
+    "mudslap",
+    "snore",
+    "stringshot",
+    "uproar"
+  ]
+}

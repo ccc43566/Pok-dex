@@ -1,0 +1,12 @@
+{
+  "id": 997,
+  "name": "利木果",
+  "english": "Aspear Berry",
+  "category": "树果",
+  "num": 997,
+  "spritenum": 997,
+  "desc": "让宝可梦携带后，可以治愈冰冻。",
+  "shortDesc": "让宝可梦携带后，可以治愈冰冻。",
+  "gen": 1,
+  "isPokeball": false
+}

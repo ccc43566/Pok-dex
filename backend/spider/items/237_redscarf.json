@@ -1,0 +1,12 @@
+{
+  "id": 237,
+  "name": "红色头巾",
+  "english": "Red Scarf",
+  "category": "道具",
+  "num": 237,
+  "spritenum": 237,
+  "desc": "携带它去参加华丽大赛的宝可梦会比平时看上去更加帅气。",
+  "shortDesc": "携带它去参加华丽大赛的宝可梦会比平时看上去更加帅气。",
+  "gen": 1,
+  "isPokeball": false
+}

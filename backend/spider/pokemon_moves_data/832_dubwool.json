@@ -1,0 +1,51 @@
+{
+  "id": 832,
+  "name": "dubwool",
+  "level_up": [
+    "copycat",
+    "cottonguard",
+    "defensecurl",
+    "doubleedge",
+    "doublekick",
+    "growl",
+    "guardsplit",
+    "guardswap",
+    "headbutt",
+    "lastresort",
+    "reversal",
+    "tackle",
+    "takedown"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "agility",
+    "attract",
+    "batonpass",
+    "bodypress",
+    "bodyslam",
+    "bounce",
+    "electroball",
+    "endure",
+    "facade",
+    "gigaimpact",
+    "guardswap",
+    "hyperbeam",
+    "megakick",
+    "payback",
+    "protect",
+    "rest",
+    "retaliate",
+    "reversal",
+    "round",
+    "sleeptalk",
+    "snore",
+    "substitute",
+    "swordsdance",
+    "thunderwave",
+    "wildcharge",
+    "zenheadbutt"
+  ],
+  "tutor_moves": [
+    "grassyglide"
+  ]
+}

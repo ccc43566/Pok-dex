@@ -1,0 +1,21 @@
+{
+  "id": 602,
+  "name": "tynamo",
+  "level_up": [
+    "chargebeam",
+    "spark",
+    "tackle",
+    "thunderwave"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "charge",
+    "chargebeam",
+    "knockoff",
+    "terablast",
+    "thunderwave"
+  ],
+  "tutor_moves": [
+    "magnetrise"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 250,
+  "name": "Greninjite",
+  "english": "greninjite",
+  "category": "道具",
+  "num": 250,
+  "spritenum": 560,
+  "desc": "If held by a Greninja, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Greninja, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

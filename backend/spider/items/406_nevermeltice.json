@@ -1,0 +1,12 @@
+{
+  "id": 406,
+  "name": "Never-Melt Ice",
+  "english": "nevermeltice",
+  "category": "道具",
+  "num": 406,
+  "spritenum": 305,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

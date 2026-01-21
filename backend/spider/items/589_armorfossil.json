@@ -1,0 +1,12 @@
+{
+  "id": 589,
+  "name": "盾甲化石",
+  "english": "Armor Fossil",
+  "category": "道具",
+  "num": 589,
+  "spritenum": 589,
+  "desc": "很久以前生活在地上的古代宝可梦的化石。好像是领饰的一部分。",
+  "shortDesc": "很久以前生活在地上的古代宝可梦的化石。好像是领饰的一部分。",
+  "gen": 1,
+  "isPokeball": false
+}

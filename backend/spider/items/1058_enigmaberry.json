@@ -1,0 +1,12 @@
+{
+  "id": 1058,
+  "name": "谜芝果",
+  "english": "Enigma Berry",
+  "category": "树果",
+  "num": 1058,
+  "spritenum": 1058,
+  "desc": "让宝可梦携带后，在受到效果绝佳的招式攻击时，可以回复ＨＰ。",
+  "shortDesc": "让宝可梦携带后，在受到效果绝佳的招式攻击时，可以回复ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

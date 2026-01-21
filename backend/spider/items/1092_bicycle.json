@@ -1,0 +1,12 @@
+{
+  "id": 1092,
+  "name": "自行车",
+  "english": "Bicycle",
+  "category": "重要物品",
+  "num": 1092,
+  "spritenum": 1092,
+  "desc": "能比跑步鞋跑得还快的折叠式自行车。",
+  "shortDesc": "能比跑步鞋跑得还快的折叠式自行车。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 866,
+  "name": "Bitter Berry",
+  "english": "bitterberry",
+  "category": "道具",
+  "num": 866,
+  "spritenum": 334,
+  "desc": "(Gen 2) Holder is cured if it is confused. Single use.",
+  "shortDesc": "(Gen 2) Holder is cured if it is confused. Single use.",
+  "gen": 2,
+  "isPokeball": false
+}

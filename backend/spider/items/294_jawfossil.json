@@ -1,0 +1,12 @@
+{
+  "id": 294,
+  "name": "Jaw Fossil",
+  "english": "jawfossil",
+  "category": "道具",
+  "num": 294,
+  "spritenum": 694,
+  "desc": "Can be revived into Tyrunt.",
+  "shortDesc": "Can be revived into Tyrunt.",
+  "gen": 6,
+  "isPokeball": false
+}

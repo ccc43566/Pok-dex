@@ -1,0 +1,26 @@
+{
+  "id": 806,
+  "name": "Blacephalon",
+  "type1": "Fire",
+  "type2": "Ghost",
+  "hp": 53,
+  "attack": 127,
+  "defense": 53,
+  "sp_atk": 151,
+  "sp_def": 79,
+  "speed": 107,
+  "total": 570,
+  "abilities": [
+    "Beast Boost"
+  ],
+  "height": 1.8,
+  "weight": 13.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/blacephalon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\806_blacephalon.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 655,
+  "name": "心形甜点",
+  "english": "Sweet Heart",
+  "category": "回复",
+  "num": 655,
+  "spritenum": 655,
+  "desc": "非常甜腻的巧克力。能让１只宝可梦回复２０ＨＰ。",
+  "shortDesc": "非常甜腻的巧克力。能让１只宝可梦回复２０ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

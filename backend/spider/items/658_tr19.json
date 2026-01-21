@@ -1,0 +1,12 @@
+{
+  "id": 658,
+  "name": "TR19",
+  "english": "tr19",
+  "category": "道具",
+  "num": 658,
+  "spritenum": 721,
+  "desc": "Teaches certain Pokemon the move Tri Attack. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Tri Attack. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

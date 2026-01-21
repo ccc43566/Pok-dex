@@ -1,0 +1,12 @@
+{
+  "id": 602,
+  "name": "Tanga Berry",
+  "english": "tangaberry",
+  "category": "道具",
+  "num": 602,
+  "spritenum": 487,
+  "desc": "Halves damage taken from a supereffective Bug-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Bug-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

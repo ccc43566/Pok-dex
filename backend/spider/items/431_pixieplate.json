@@ -1,0 +1,12 @@
+{
+  "id": 431,
+  "name": "Pixie Plate",
+  "english": "pixieplate",
+  "category": "道具",
+  "num": 431,
+  "spritenum": 610,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 6,
+  "isPokeball": false
+}

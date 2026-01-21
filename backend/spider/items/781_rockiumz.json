@@ -1,0 +1,12 @@
+{
+  "id": 781,
+  "name": "岩石Ｚ",
+  "english": "Rockium Z",
+  "category": "Ｚ纯晶",
+  "num": 781,
+  "spritenum": 781,
+  "desc": "Ｚ力量的结晶。会将岩石属性的招式升级成Ｚ招式。",
+  "shortDesc": "Ｚ力量的结晶。会将岩石属性的招式升级成Ｚ招式。",
+  "gen": 1,
+  "isPokeball": false
+}

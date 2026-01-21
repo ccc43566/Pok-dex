@@ -1,0 +1,12 @@
+{
+  "id": 574,
+  "name": "Splash Plate",
+  "english": "splashplate",
+  "category": "道具",
+  "num": 574,
+  "spritenum": 463,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

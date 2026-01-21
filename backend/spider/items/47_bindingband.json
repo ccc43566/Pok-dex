@@ -1,0 +1,12 @@
+{
+  "id": 47,
+  "name": "Binding Band",
+  "english": "bindingband",
+  "category": "道具",
+  "num": 47,
+  "spritenum": 31,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

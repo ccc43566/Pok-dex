@@ -1,0 +1,12 @@
+{
+  "id": 509,
+  "name": "Room Service",
+  "english": "roomservice",
+  "category": "道具",
+  "num": 509,
+  "spritenum": 717,
+  "desc": "If Trick Room is active, the holder",
+  "shortDesc": "If Trick Room is active, the holder",
+  "gen": 8,
+  "isPokeball": false
+}

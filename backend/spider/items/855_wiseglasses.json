@@ -1,0 +1,12 @@
+{
+  "id": 855,
+  "name": "Wise Glasses",
+  "english": "wiseglasses",
+  "category": "道具",
+  "num": 855,
+  "spritenum": 539,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

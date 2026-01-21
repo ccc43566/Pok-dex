@@ -1,0 +1,26 @@
+{
+  "id": 768,
+  "name": "Golisopod",
+  "type1": "Bug",
+  "type2": "Water",
+  "hp": 75,
+  "attack": 125,
+  "defense": 140,
+  "sp_atk": 60,
+  "sp_def": 90,
+  "speed": 40,
+  "total": 530,
+  "abilities": [
+    "Emergency Exit"
+  ],
+  "height": 2.0,
+  "weight": 108.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Wimpod",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/golisopod.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\768_golisopod.gif"
+}

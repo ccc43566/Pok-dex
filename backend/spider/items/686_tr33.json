@@ -1,0 +1,12 @@
+{
+  "id": 686,
+  "name": "TR33",
+  "english": "tr33",
+  "category": "道具",
+  "num": 686,
+  "spritenum": 728,
+  "desc": "Teaches certain Pokemon the move Shadow Ball. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Shadow Ball. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

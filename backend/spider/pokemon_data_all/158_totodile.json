@@ -1,0 +1,32 @@
+{
+  "id": 158,
+  "name": "Totodile",
+  "type1": "Water",
+  "type2": null,
+  "hp": 50,
+  "attack": 65,
+  "defense": 64,
+  "sp_atk": 44,
+  "sp_def": 48,
+  "speed": 43,
+  "total": 314,
+  "abilities": [
+    "Torrent",
+    "Sheer Force"
+  ],
+  "height": 0.6,
+  "weight": 9.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Croconaw"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/totodile.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\158_totodile.gif"
+}

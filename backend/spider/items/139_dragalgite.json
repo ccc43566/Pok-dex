@@ -1,0 +1,12 @@
+{
+  "id": 139,
+  "name": "Dragalgite",
+  "english": "dragalgite",
+  "category": "道具",
+  "num": 139,
+  "spritenum": 565,
+  "desc": "If held by a Dragalge, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Dragalge, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

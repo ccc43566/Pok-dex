@@ -1,0 +1,30 @@
+{
+  "id": 50,
+  "name": "Diglett",
+  "type1": "Ground",
+  "type2": null,
+  "hp": 10,
+  "attack": 55,
+  "defense": 25,
+  "sp_atk": 35,
+  "sp_def": 45,
+  "speed": 95,
+  "total": 265,
+  "abilities": [
+    "Sand Veil",
+    "Arena Trap",
+    "Sand Force"
+  ],
+  "height": 0.2,
+  "weight": 0.8,
+  "gender_ratio": {},
+  "evos": [
+    "Dugtrio"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/diglett.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\50_diglett.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1222,
+  "name": "衣物箱",
+  "english": "Travel Trunk",
+  "category": "重要物品",
+  "num": 1222,
+  "spritenum": 1222,
+  "desc": "能塞入任意时尚物品，收纳能力极佳的轻箱子。",
+  "shortDesc": "能塞入任意时尚物品，收纳能力极佳的轻箱子。",
+  "gen": 1,
+  "isPokeball": false
+}

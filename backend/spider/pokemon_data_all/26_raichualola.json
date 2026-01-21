@@ -1,0 +1,26 @@
+{
+  "id": 26,
+  "name": "Raichu-Alola",
+  "type1": "Electric",
+  "type2": "Psychic",
+  "hp": 60,
+  "attack": 85,
+  "defense": 50,
+  "sp_atk": 95,
+  "sp_def": 85,
+  "speed": 110,
+  "total": 485,
+  "abilities": [
+    "Surge Surfer"
+  ],
+  "height": 0.7,
+  "weight": 21.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Pikachu",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Thunder Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/raichu-alola.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\26_raichu-alola.gif"
+}

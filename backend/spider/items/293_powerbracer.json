@@ -1,0 +1,12 @@
+{
+  "id": 293,
+  "name": "力量护腕",
+  "english": "Power Bracer",
+  "category": "道具",
+  "num": 293,
+  "spritenum": 293,
+  "desc": "虽然携带后速度会降低，但宝可梦的攻击会比平时成长得更高。",
+  "shortDesc": "虽然携带后速度会降低，但宝可梦的攻击会比平时成长得更高。",
+  "gen": 1,
+  "isPokeball": false
+}

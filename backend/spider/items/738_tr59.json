@@ -1,0 +1,12 @@
+{
+  "id": 738,
+  "name": "TR59",
+  "english": "tr59",
+  "category": "道具",
+  "num": 738,
+  "spritenum": 732,
+  "desc": "Teaches certain Pokemon the move Seed Bomb. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Seed Bomb. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

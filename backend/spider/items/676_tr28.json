@@ -1,0 +1,12 @@
+{
+  "id": 676,
+  "name": "TR28",
+  "english": "tr28",
+  "category": "道具",
+  "num": 676,
+  "spritenum": 727,
+  "desc": "Teaches certain Pokemon the move Megahorn. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Megahorn. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 259,
+  "name": "钢铁石板",
+  "english": "Iron Plate",
+  "category": "道具",
+  "num": 259,
+  "spritenum": 259,
+  "desc": "钢属性的石板。携带后，钢属性的招式威力就会增强。",
+  "shortDesc": "钢属性的石板。携带后，钢属性的招式威力就会增强。",
+  "gen": 1,
+  "isPokeball": false
+}

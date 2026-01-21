@@ -1,0 +1,12 @@
+{
+  "id": 289,
+  "name": "炽热岩石",
+  "english": "Heat Rock",
+  "category": "道具",
+  "num": 289,
+  "spritenum": 289,
+  "desc": "携带它的宝可梦使出大晴天的话，晴天的时间就会比平时更长。",
+  "shortDesc": "携带它的宝可梦使出大晴天的话，晴天的时间就会比平时更长。",
+  "gen": 1,
+  "isPokeball": false
+}

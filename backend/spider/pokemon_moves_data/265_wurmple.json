@@ -1,0 +1,18 @@
+{
+  "id": 265,
+  "name": "wurmple",
+  "level_up": [
+    "bugbite",
+    "poisonsting",
+    "stringshot",
+    "tackle"
+  ],
+  "egg_moves": [],
+  "tm_moves": [],
+  "tutor_moves": [
+    "bugbite",
+    "electroweb",
+    "snore",
+    "stringshot"
+  ]
+}

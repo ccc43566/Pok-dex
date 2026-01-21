@@ -1,0 +1,28 @@
+{
+  "id": 623,
+  "name": "Golurk",
+  "type1": "Ground",
+  "type2": "Ghost",
+  "hp": 89,
+  "attack": 124,
+  "defense": 80,
+  "sp_atk": 55,
+  "sp_def": 80,
+  "speed": 55,
+  "total": 483,
+  "abilities": [
+    "Iron Fist",
+    "Klutz",
+    "No Guard"
+  ],
+  "height": 2.8,
+  "weight": 330.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Golett",
+  "evo_level": 43,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/golurk.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\623_golurk.gif"
+}

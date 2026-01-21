@@ -1,0 +1,12 @@
+{
+  "id": 283,
+  "name": "黑色铁球",
+  "english": "Iron Ball",
+  "category": "道具",
+  "num": 283,
+  "spritenum": 283,
+  "desc": "携带后，速度会降低。飞行属性以及飘浮宝可梦会被地面招式击中。",
+  "shortDesc": "携带后，速度会降低。飞行属性以及飘浮宝可梦会被地面招式击中。",
+  "gen": 1,
+  "isPokeball": false
+}

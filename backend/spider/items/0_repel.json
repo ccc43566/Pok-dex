@@ -1,0 +1,12 @@
+{
+  "id": 0,
+  "name": "除虫喷雾",
+  "english": "Repel",
+  "category": "道具",
+  "num": 0,
+  "spritenum": 0,
+  "desc": "使用后，在较短的一段时间内，弱小的野生宝可梦将完全不会出现。",
+  "shortDesc": "使用后，在较短的一段时间内，弱小的野生宝可梦将完全不会出现。",
+  "gen": 1,
+  "isPokeball": false
+}

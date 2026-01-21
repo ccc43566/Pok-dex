@@ -1,0 +1,30 @@
+{
+  "id": 544,
+  "name": "Whirlipede",
+  "type1": "Bug",
+  "type2": "Poison",
+  "hp": 40,
+  "attack": 55,
+  "defense": 99,
+  "sp_atk": 40,
+  "sp_def": 79,
+  "speed": 47,
+  "total": 360,
+  "abilities": [
+    "Poison Point",
+    "Swarm",
+    "Speed Boost"
+  ],
+  "height": 1.2,
+  "weight": 58.5,
+  "gender_ratio": {},
+  "evos": [
+    "Scolipede"
+  ],
+  "prevo": "Venipede",
+  "evo_level": 22,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/whirlipede.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\544_whirlipede.gif"
+}

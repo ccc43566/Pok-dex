@@ -1,0 +1,12 @@
+{
+  "id": 625,
+  "name": "解毒药",
+  "english": "Antidote",
+  "category": "回复",
+  "num": 625,
+  "spritenum": 625,
+  "desc": "喷雾式药水。能治愈１只宝可梦的中毒状态。",
+  "shortDesc": "喷雾式药水。能治愈１只宝可梦的中毒状态。",
+  "gen": 1,
+  "isPokeball": false
+}

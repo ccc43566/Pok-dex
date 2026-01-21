@@ -1,0 +1,12 @@
+{
+  "id": 436,
+  "name": "Poison Gem",
+  "english": "poisongem",
+  "category": "道具",
+  "num": 436,
+  "spritenum": 344,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

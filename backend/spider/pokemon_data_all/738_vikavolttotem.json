@@ -1,0 +1,26 @@
+{
+  "id": 738,
+  "name": "Vikavolt-Totem",
+  "type1": "Bug",
+  "type2": "Electric",
+  "hp": 77,
+  "attack": 70,
+  "defense": 90,
+  "sp_atk": 145,
+  "sp_def": 75,
+  "speed": 43,
+  "total": 500,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 2.6,
+  "weight": 147.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/vikavolt-totem.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\738_vikavolt-totem.gif"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 718,
+  "name": "Zygarde-Complete",
+  "type1": "Dragon",
+  "type2": "Ground",
+  "hp": 216,
+  "attack": 100,
+  "defense": 121,
+  "sp_atk": 91,
+  "sp_def": 95,
+  "speed": 85,
+  "total": 708,
+  "abilities": [
+    "Power Construct"
+  ],
+  "height": 4.5,
+  "weight": 610.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/zygarde-complete.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\718_zygarde-complete.gif"
+}

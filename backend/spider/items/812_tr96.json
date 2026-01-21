@@ -1,0 +1,12 @@
+{
+  "id": 812,
+  "name": "TR96",
+  "english": "tr96",
+  "category": "道具",
+  "num": 812,
+  "spritenum": 727,
+  "desc": "Teaches certain Pokemon the move Pollen Puff. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Pollen Puff. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

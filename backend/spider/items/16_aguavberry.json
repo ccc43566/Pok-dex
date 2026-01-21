@@ -1,0 +1,12 @@
+{
+  "id": 16,
+  "name": "Aguav Berry",
+  "english": "aguavberry",
+  "category": "道具",
+  "num": 16,
+  "spritenum": 5,
+  "desc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use.",
+  "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use.",
+  "gen": 3,
+  "isPokeball": false
+}

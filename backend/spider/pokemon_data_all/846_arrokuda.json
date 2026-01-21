@@ -1,0 +1,29 @@
+{
+  "id": 846,
+  "name": "Arrokuda",
+  "type1": "Water",
+  "type2": null,
+  "hp": 41,
+  "attack": 63,
+  "defense": 40,
+  "sp_atk": 40,
+  "sp_def": 30,
+  "speed": 66,
+  "total": 280,
+  "abilities": [
+    "Swift Swim",
+    "Propeller Tail"
+  ],
+  "height": 0.5,
+  "weight": 1.0,
+  "gender_ratio": {},
+  "evos": [
+    "Barraskewda"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/arrokuda.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\846_arrokuda.gif"
+}

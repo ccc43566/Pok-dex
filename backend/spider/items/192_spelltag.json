@@ -1,0 +1,12 @@
+{
+  "id": 192,
+  "name": "诅咒之符",
+  "english": "Spell Tag",
+  "category": "道具",
+  "num": 192,
+  "spritenum": 192,
+  "desc": "古怪可怕的咒符。携带后，幽灵属性的招式威力就会提高。",
+  "shortDesc": "古怪可怕的咒符。携带后，幽灵属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

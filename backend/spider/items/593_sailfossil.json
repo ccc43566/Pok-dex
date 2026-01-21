@@ -1,0 +1,12 @@
+{
+  "id": 593,
+  "name": "鳍之化石",
+  "english": "Sail Fossil",
+  "category": "道具",
+  "num": 593,
+  "spritenum": 593,
+  "desc": "很久以前生活在地上的古代宝可梦的化石。好像是头鳍的一部分。",
+  "shortDesc": "很久以前生活在地上的古代宝可梦的化石。好像是头鳍的一部分。",
+  "gen": 1,
+  "isPokeball": false
+}

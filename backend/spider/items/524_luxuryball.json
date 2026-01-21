@@ -1,0 +1,12 @@
+{
+  "id": 524,
+  "name": "豪华球",
+  "english": "Luxury Ball",
+  "category": "精灵球",
+  "num": 524,
+  "spritenum": 524,
+  "desc": "住着十分惬意的球。捉到的野生宝可梦会变得容易和训练家亲密。",
+  "shortDesc": "住着十分惬意的球。捉到的野生宝可梦会变得容易和训练家亲密。",
+  "gen": 1,
+  "isPokeball": false
+}

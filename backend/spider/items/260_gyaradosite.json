@@ -1,0 +1,12 @@
+{
+  "id": 260,
+  "name": "Gyaradosite",
+  "english": "gyaradosite",
+  "category": "道具",
+  "num": 260,
+  "spritenum": 589,
+  "desc": "If held by a Gyarados, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Gyarados, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

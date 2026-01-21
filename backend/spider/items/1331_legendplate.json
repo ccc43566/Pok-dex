@@ -1,0 +1,12 @@
+{
+  "id": 1331,
+  "name": "传说石板",
+  "english": "Legend Plate",
+  "category": "重要物品",
+  "num": 1331,
+  "spritenum": 1331,
+  "desc": "蕴含着万物之力的石板。对某种宝可梦使用，可使其获得一切属性的力量。",
+  "shortDesc": "蕴含着万物之力的石板。对某种宝可梦使用，可使其获得一切属性的力量。",
+  "gen": 1,
+  "isPokeball": false
+}

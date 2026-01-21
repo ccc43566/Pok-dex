@@ -1,0 +1,12 @@
+{
+  "id": 81,
+  "name": "Cheri Berry",
+  "english": "cheriberry",
+  "category": "道具",
+  "num": 81,
+  "spritenum": 63,
+  "desc": "Holder cures itself if it is paralyzed. Single use.",
+  "shortDesc": "Holder cures itself if it is paralyzed. Single use.",
+  "gen": 3,
+  "isPokeball": false
+}

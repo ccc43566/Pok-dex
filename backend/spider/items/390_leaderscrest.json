@@ -1,0 +1,12 @@
+{
+  "id": 390,
+  "name": "头领凭证",
+  "english": "Leader's Crest",
+  "category": "道具",
+  "num": 390,
+  "spritenum": 390,
+  "desc": "像久经岁月的刃器一样的碎片。只有率领着驹刀小兵群体的劈斩司令能携带着。",
+  "shortDesc": "像久经岁月的刃器一样的碎片。只有率领着驹刀小兵群体的劈斩司令能携带着。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": 744,
+  "name": "Rockruff",
+  "type1": "Rock",
+  "type2": null,
+  "hp": 45,
+  "attack": 65,
+  "defense": 40,
+  "sp_atk": 30,
+  "sp_def": 40,
+  "speed": 60,
+  "total": 280,
+  "abilities": [
+    "Keen Eye",
+    "Vital Spirit",
+    "Steadfast"
+  ],
+  "height": 0.5,
+  "weight": 9.2,
+  "gender_ratio": {},
+  "evos": [
+    "Lycanroc",
+    "Lycanroc-Midnight"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/rockruff.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\744_rockruff.gif"
+}

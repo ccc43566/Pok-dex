@@ -1,0 +1,12 @@
+{
+  "id": 995,
+  "name": "桃桃果",
+  "english": "Pecha Berry",
+  "category": "树果",
+  "num": 995,
+  "spritenum": 995,
+  "desc": "让宝可梦携带后，可以治愈中毒。",
+  "shortDesc": "让宝可梦携带后，可以治愈中毒。",
+  "gen": 1,
+  "isPokeball": false
+}

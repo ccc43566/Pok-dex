@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "name": "Adamant Orb",
+  "english": "adamantorb",
+  "category": "道具",
+  "num": 9,
+  "spritenum": 4,
+  "desc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
+  "shortDesc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
+  "gen": 4,
+  "isPokeball": false
+}

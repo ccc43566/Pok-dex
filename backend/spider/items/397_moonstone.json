@@ -1,0 +1,12 @@
+{
+  "id": 397,
+  "name": "Moon Stone",
+  "english": "moonstone",
+  "category": "道具",
+  "num": 397,
+  "spritenum": 295,
+  "desc": "Evolves Nidorina into Nidoqueen, Nidorino into Nidoking, Clefairy into Clefable, Jigglypuff into Wigglytuff, Skitty into Delcatty, and Munna into Musharna when used.",
+  "shortDesc": "Evolves certain species of Pokemon when used.",
+  "gen": 1,
+  "isPokeball": false
+}

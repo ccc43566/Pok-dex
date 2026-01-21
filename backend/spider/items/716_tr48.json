@@ -1,0 +1,12 @@
+{
+  "id": 716,
+  "name": "TR48",
+  "english": "tr48",
+  "category": "道具",
+  "num": 716,
+  "spritenum": 722,
+  "desc": "Teaches certain Pokemon the move Bulk Up. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Bulk Up. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

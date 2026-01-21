@@ -1,0 +1,12 @@
+{
+  "id": 30,
+  "name": "折价券",
+  "english": "Discount Coupon",
+  "category": "道具",
+  "num": 30,
+  "spritenum": 30,
+  "desc": "在时装店买道具时，能以比平时更低的价格购买的券。",
+  "shortDesc": "在时装店买道具时，能以比平时更低的价格购买的券。",
+  "gen": 1,
+  "isPokeball": false
+}

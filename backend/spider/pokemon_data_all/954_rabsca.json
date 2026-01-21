@@ -1,0 +1,27 @@
+{
+  "id": 954,
+  "name": "Rabsca",
+  "type1": "Bug",
+  "type2": "Psychic",
+  "hp": 75,
+  "attack": 50,
+  "defense": 85,
+  "sp_atk": 115,
+  "sp_def": 100,
+  "speed": 45,
+  "total": 470,
+  "abilities": [
+    "Synchronize",
+    "Telepathy"
+  ],
+  "height": 0.3,
+  "weight": 3.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Rellor",
+  "evo_level": null,
+  "evo_type": "other",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/rabsca.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\954_rabsca.gif"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 868,
+  "name": "Milcery",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 45,
+  "attack": 40,
+  "defense": 40,
+  "sp_atk": 50,
+  "sp_def": 61,
+  "speed": 34,
+  "total": 270,
+  "abilities": [
+    "Sweet Veil",
+    "Aroma Veil"
+  ],
+  "height": 0.2,
+  "weight": 0.3,
+  "gender_ratio": {},
+  "evos": [
+    "Alcremie"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/milcery.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\868_milcery.gif"
+}

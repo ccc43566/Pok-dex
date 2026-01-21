@@ -1,0 +1,12 @@
+{
+  "id": 718,
+  "name": "TR49",
+  "english": "tr49",
+  "category": "道具",
+  "num": 718,
+  "spritenum": 734,
+  "desc": "Teaches certain Pokemon the move Calm Mind. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Calm Mind. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

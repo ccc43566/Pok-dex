@@ -1,0 +1,12 @@
+{
+  "id": 307,
+  "name": "Latiasite",
+  "english": "latiasite",
+  "category": "道具",
+  "num": 307,
+  "spritenum": 629,
+  "desc": "If held by a Latias, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Latias, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

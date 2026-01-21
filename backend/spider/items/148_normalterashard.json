@@ -1,0 +1,12 @@
+{
+  "id": 148,
+  "name": "一般太晶碎块",
+  "english": "Normal Tera Shard",
+  "category": "帕底亚",
+  "num": 148,
+  "spritenum": 148,
+  "desc": "打倒太晶宝可梦时，破碎掉的太晶宝石有极低概率会结晶成此物。",
+  "shortDesc": "打倒太晶宝可梦时，破碎掉的太晶宝石有极低概率会结晶成此物。",
+  "gen": 1,
+  "isPokeball": false
+}

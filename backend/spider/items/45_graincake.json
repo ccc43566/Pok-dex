@@ -1,0 +1,12 @@
+{
+  "id": 45,
+  "name": "谷诱团",
+  "english": "Grain Cake",
+  "category": "道具",
+  "num": 45,
+  "spritenum": 45,
+  "desc": "由谷物与诱团原料糅合而成。对陆地上的宝可梦有着很强的吸引力。",
+  "shortDesc": "由谷物与诱团原料糅合而成。对陆地上的宝可梦有着很强的吸引力。",
+  "gen": 1,
+  "isPokeball": false
+}

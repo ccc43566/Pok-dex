@@ -1,0 +1,12 @@
+{
+  "id": 1282,
+  "name": "露营组合",
+  "english": "Camping Gear",
+  "category": "重要物品",
+  "num": 1282,
+  "spritenum": 1282,
+  "desc": "可以在旷野地带或露营营地上搭起帐篷，在那里制作料理。",
+  "shortDesc": "可以在旷野地带或露营营地上搭起帐篷，在那里制作料理。",
+  "gen": 1,
+  "isPokeball": false
+}

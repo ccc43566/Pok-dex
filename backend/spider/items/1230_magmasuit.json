@@ -1,0 +1,12 @@
+{
+  "id": 1230,
+  "name": "熔岩装",
+  "english": "Magma Suit",
+  "category": "重要物品",
+  "num": 1230,
+  "spritenum": 1230,
+  "desc": "集熔岩队科学技术于一身的服装。能承受任何冲击。",
+  "shortDesc": "集熔岩队科学技术于一身的服装。能承受任何冲击。",
+  "gen": 1,
+  "isPokeball": false
+}

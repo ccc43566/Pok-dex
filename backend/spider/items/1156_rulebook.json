@@ -1,0 +1,12 @@
+{
+  "id": 1156,
+  "name": "规则书",
+  "english": "Rule Book",
+  "category": "重要物品",
+  "num": 1156,
+  "spritenum": 1156,
+  "desc": "写着对战规则。在进行连接对战时，可以选择规则。",
+  "shortDesc": "写着对战规则。在进行连接对战时，可以选择规则。",
+  "gen": 1,
+  "isPokeball": false
+}

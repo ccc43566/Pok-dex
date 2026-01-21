@@ -1,0 +1,12 @@
+{
+  "id": 1195,
+  "name": "自由船票",
+  "english": "Liberty Pass",
+  "category": "重要物品",
+  "num": 1195,
+  "spritenum": 1195,
+  "desc": "用于前往自由庭园岛的特殊船票。可以从飞云市上船。",
+  "shortDesc": "用于前往自由庭园岛的特殊船票。可以从飞云市上船。",
+  "gen": 1,
+  "isPokeball": false
+}

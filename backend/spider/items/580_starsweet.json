@@ -1,0 +1,12 @@
+{
+  "id": 580,
+  "name": "Star Sweet",
+  "english": "starsweet",
+  "category": "道具",
+  "num": 580,
+  "spritenum": 709,
+  "desc": "Evolves Milcery into Alcremie when held and spun around.",
+  "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
+  "gen": 8,
+  "isPokeball": false
+}

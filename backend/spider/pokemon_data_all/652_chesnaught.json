@@ -1,0 +1,30 @@
+{
+  "id": 652,
+  "name": "Chesnaught",
+  "type1": "Grass",
+  "type2": "Fighting",
+  "hp": 88,
+  "attack": 107,
+  "defense": 122,
+  "sp_atk": 74,
+  "sp_def": 75,
+  "speed": 64,
+  "total": 530,
+  "abilities": [
+    "Overgrow",
+    "Bulletproof"
+  ],
+  "height": 1.6,
+  "weight": 90.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Quilladin",
+  "evo_level": 36,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/chesnaught.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\652_chesnaught.gif"
+}

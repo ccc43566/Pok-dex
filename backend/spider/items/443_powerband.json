@@ -1,0 +1,12 @@
+{
+  "id": 443,
+  "name": "Power Band",
+  "english": "powerband",
+  "category": "道具",
+  "num": 443,
+  "spritenum": 355,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

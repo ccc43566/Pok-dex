@@ -1,0 +1,12 @@
+{
+  "id": 1072,
+  "name": "释陀果",
+  "english": "Custap Berry",
+  "category": "树果",
+  "num": 1072,
+  "spritenum": 1072,
+  "desc": "让宝可梦携带后，危机时，行动仅会变快１次。",
+  "shortDesc": "让宝可梦携带后，危机时，行动仅会变快１次。",
+  "gen": 1,
+  "isPokeball": false
+}

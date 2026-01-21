@@ -1,0 +1,12 @@
+{
+  "id": 129,
+  "name": "释出之玉",
+  "english": "Pass Orb",
+  "category": "道具",
+  "num": 129,
+  "spritenum": 129,
+  "desc": "在这块神奇的玉石里，封存着用于产生释出之力的合众之力。",
+  "shortDesc": "在这块神奇的玉石里，封存着用于产生释出之力的合众之力。",
+  "gen": 1,
+  "isPokeball": false
+}

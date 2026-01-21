@@ -1,0 +1,28 @@
+{
+  "id": 164,
+  "name": "Noctowl",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 100,
+  "attack": 50,
+  "defense": 50,
+  "sp_atk": 86,
+  "sp_def": 96,
+  "speed": 70,
+  "total": 452,
+  "abilities": [
+    "Insomnia",
+    "Keen Eye",
+    "Tinted Lens"
+  ],
+  "height": 1.6,
+  "weight": 40.8,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Hoothoot",
+  "evo_level": 20,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/noctowl.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\164_noctowl.gif"
+}

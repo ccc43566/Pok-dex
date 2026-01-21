@@ -1,0 +1,12 @@
+{
+  "id": 79,
+  "name": "Charizardite Y",
+  "english": "charizarditey",
+  "category": "道具",
+  "num": 79,
+  "spritenum": 586,
+  "desc": "If held by a Charizard, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Charizard, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

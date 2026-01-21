@@ -1,0 +1,12 @@
+{
+  "id": 1241,
+  "name": "钥石",
+  "english": "Key Stone",
+  "category": "重要物品",
+  "num": 1241,
+  "spritenum": 1241,
+  "desc": "蕴藏着未知力量的石头。能与超级石产生反应，让宝可梦进行超级进化。",
+  "shortDesc": "蕴藏着未知力量的石头。能与超级石产生反应，让宝可梦进行超级进化。",
+  "gen": 1,
+  "isPokeball": false
+}

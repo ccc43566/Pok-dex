@@ -1,0 +1,30 @@
+{
+  "id": 708,
+  "name": "Phantump",
+  "type1": "Ghost",
+  "type2": "Grass",
+  "hp": 43,
+  "attack": 70,
+  "defense": 48,
+  "sp_atk": 50,
+  "sp_def": 60,
+  "speed": 38,
+  "total": 309,
+  "abilities": [
+    "Natural Cure",
+    "Frisk",
+    "Harvest"
+  ],
+  "height": 0.4,
+  "weight": 7.0,
+  "gender_ratio": {},
+  "evos": [
+    "Trevenant"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/phantump.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\708_phantump.gif"
+}

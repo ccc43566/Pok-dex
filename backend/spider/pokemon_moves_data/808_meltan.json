@@ -1,0 +1,34 @@
+{
+  "id": 808,
+  "name": "meltan",
+  "level_up": [
+    "acidarmor",
+    "flashcannon",
+    "harden",
+    "headbutt",
+    "tailwhip",
+    "thundershock",
+    "thunderwave"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "endure",
+    "facade",
+    "flashcannon",
+    "gyroball",
+    "headbutt",
+    "irondefense",
+    "protect",
+    "rest",
+    "round",
+    "sleeptalk",
+    "snore",
+    "substitute",
+    "thunderbolt",
+    "thunderwave",
+    "toxic"
+  ],
+  "tutor_moves": [
+    "steelbeam"
+  ]
+}

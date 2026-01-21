@@ -1,0 +1,33 @@
+{
+  "id": 67,
+  "name": "Machoke",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 80,
+  "attack": 100,
+  "defense": 70,
+  "sp_atk": 50,
+  "sp_def": 60,
+  "speed": 45,
+  "total": 405,
+  "abilities": [
+    "Guts",
+    "No Guard",
+    "Steadfast"
+  ],
+  "height": 1.5,
+  "weight": 70.5,
+  "gender_ratio": {
+    "M": 0.75,
+    "F": 0.25
+  },
+  "evos": [
+    "Machamp"
+  ],
+  "prevo": "Machop",
+  "evo_level": 28,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/machoke.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\67_machoke.gif"
+}

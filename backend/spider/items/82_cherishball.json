@@ -1,0 +1,12 @@
+{
+  "id": 82,
+  "name": "Cherish Ball",
+  "english": "cherishball",
+  "category": "道具",
+  "num": 82,
+  "spritenum": 64,
+  "desc": "A rare Poke Ball that has been crafted to commemorate an occasion.",
+  "shortDesc": "A rare Poke Ball that has been crafted to commemorate an occasion.",
+  "gen": 4,
+  "isPokeball": true
+}

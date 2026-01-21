@@ -1,0 +1,12 @@
+{
+  "id": 119,
+  "name": "凡作茶碗",
+  "english": "Unremarkable Teacup",
+  "category": "道具",
+  "num": 119,
+  "spritenum": 119,
+  "desc": "这个神奇的茶碗可以使特定的宝可梦进化。虽然破裂了，但泡出来的茶会很香。",
+  "shortDesc": "这个神奇的茶碗可以使特定的宝可梦进化。虽然破裂了，但泡出来的茶会很香。",
+  "gen": 1,
+  "isPokeball": false
+}

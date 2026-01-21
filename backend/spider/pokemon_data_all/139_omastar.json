@@ -1,0 +1,31 @@
+{
+  "id": 139,
+  "name": "Omastar",
+  "type1": "Rock",
+  "type2": "Water",
+  "hp": 70,
+  "attack": 60,
+  "defense": 125,
+  "sp_atk": 115,
+  "sp_def": 70,
+  "speed": 55,
+  "total": 495,
+  "abilities": [
+    "Swift Swim",
+    "Shell Armor",
+    "Weak Armor"
+  ],
+  "height": 1.0,
+  "weight": 35.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Omanyte",
+  "evo_level": 40,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/omastar.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\139_omastar.gif"
+}

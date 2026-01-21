@@ -16,11 +16,14 @@ DATA_URL = "https://play.pokemonshowdown.com/data/pokedex.js"
 # 获取脚本所在目录
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(SCRIPT_DIR, "pokemon_data_all")
-IMAGE_FOLDER = os.path.join(SCRIPT_DIR, "pokemon_images")
+IMAGE_FOLDER = os.path.join(SCRIPT_DIR, "pokemon_gif_images")
 
 # 创建文件夹（如果不存在）
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(IMAGE_FOLDER, exist_ok=True)
+MISSING_FOLDER = os.path.join(SCRIPT_DIR, "爬取图片失败的宝可梦")
+os.makedirs(MISSING_FOLDER, exist_ok=True)
+MISSING_FILE = os.path.join(MISSING_FOLDER, "missing_images.txt")
 
 def extract_pokemon_data(js_content, pokemon_key):
     """从JavaScript内容中提取特定宝可梦的数据"""
@@ -102,6 +105,39 @@ def extract_pokemon_data(js_content, pokemon_key):
     weight_match = re.search(r'weightkg:\s*([\d.]+)', pokemon_str)
     if weight_match:
         data['weightkg'] = float(weight_match.group(1))
+
+    # 解析genderRatio（雌雄比例）
+    gender_match = re.search(r'genderRatio:\s*{([^}]*)}', pokemon_str)
+    if gender_match:
+        gender_str = gender_match.group(1)
+        gender_data = {}
+        gender_matches = re.findall(r'([MF]):\s*([\d.]+)', gender_str)
+        for gender, ratio in gender_matches:
+            gender_data[gender] = float(ratio)
+        data['genderRatio'] = gender_data
+
+    # 解析进化相关字段
+    evos_match = re.search(r'evos:\s*\[([^\]]*)\]', pokemon_str)
+    if evos_match:
+        evos_str = evos_match.group(1)
+        evos = re.findall(r'["\']([^"\']+)["\']', evos_str)
+        data['evos'] = evos
+
+    prevo_match = re.search(r'prevo:\s*["\']([^"\']+)["\']', pokemon_str)
+    if prevo_match:
+        data['prevo'] = prevo_match.group(1)
+
+    evo_level_match = re.search(r'evoLevel:\s*(\d+)', pokemon_str)
+    if evo_level_match:
+        data['evoLevel'] = int(evo_level_match.group(1))
+
+    evo_type_match = re.search(r'evoType:\s*["\']([^"\']+)["\']', pokemon_str)
+    if evo_type_match:
+        data['evoType'] = evo_type_match.group(1)
+
+    evo_item_match = re.search(r'evoItem:\s*["\']([^"\']+)["\']', pokemon_str)
+    if evo_item_match:
+        data['evoItem'] = evo_item_match.group(1)
 
     return data
 
@@ -235,10 +271,12 @@ async def get_pokemon_stats_from_web(pokemon_name, session):
         print(f"  从Bulbapedia抓取数据失败 {pokemon_name}: {e}")
         return {}
 
-async def get_pokemon_data(pokemon_name, js_content, session, semaphore):
+async def get_pokemon_data(pokemon_name, js_content, session, semaphore, correct_names=None, missing_pokemon=None):
     """从预加载的数据中获取单个宝可梦的数据，如果JS数据不完整则从网页补充"""
     async with semaphore:  # 限制并发数
         pokemon_key = pokemon_name.lower()
+        # 使用正确的名称映射来构建图片URL
+        correct_key = correct_names.get(pokemon_key, pokemon_key) if correct_names else pokemon_key
 
         # 提取JS数据作为基础数据
         pokemon = extract_pokemon_data(js_content, pokemon_key)
@@ -299,14 +337,24 @@ async def get_pokemon_data(pokemon_name, js_content, session, semaphore):
         data['height'] = pokemon.get('heightm', 0)
         data['weight'] = pokemon.get('weightkg', 0)
 
-        # 6. 获取图片 URL（构造Pokemon Showdown的图片URL）
+        # 6. 获取雌雄比例（从JS数据）
+        data['gender_ratio'] = pokemon.get('genderRatio', {})
+
+        # 7. 获取进化信息（从JS数据）
+        data['evos'] = pokemon.get('evos', [])
+        data['prevo'] = pokemon.get('prevo')
+        data['evo_level'] = pokemon.get('evoLevel')
+        data['evo_type'] = pokemon.get('evoType')
+        data['evo_item'] = pokemon.get('evoItem')
+
+        # 8. 获取图片 URL（构造Pokemon Showdown的图片URL）
         if data['id']:
             # 优先尝试下载动画GIF
-            sprite_url = f"https://play.pokemonshowdown.com/sprites/ani/{pokemon_key}.gif"
+            sprite_url = f"https://play.pokemonshowdown.com/sprites/gen5ani/{correct_key}.gif"
             data['image_url'] = sprite_url
 
             # 下载图片并保存
-            filename = f"{data['id']}_{pokemon_key}.gif"
+            filename = f"{data['id']}_{correct_key}.gif"
             filepath = os.path.join(IMAGE_FOLDER, filename)
             try:
                 async with session.get(sprite_url, timeout=aiohttp.ClientTimeout(total=10)) as img_response:
@@ -315,31 +363,64 @@ async def get_pokemon_data(pokemon_name, js_content, session, semaphore):
                         async with aiofiles.open(filepath, 'wb') as f:
                             await f.write(content)
                         data['image_path'] = filepath
-                        print(f"下载动画GIF成功: {pokemon_name}")
+                        print(f"下载动画GIF成功（来自sprites/gen5ani）: {pokemon_name}")
                     else:
-                        # 如果动画GIF不存在，尝试下载静态图片
-                        static_url = f"https://play.pokemonshowdown.com/sprites/gen5/{pokemon_key}.png"
-                        data['image_url'] = static_url
-                        filename = f"{data['id']}_{pokemon_key}.png"
-                        filepath = os.path.join(IMAGE_FOLDER, filename)
+                        # 如果不存在，尝试从ani下载GIF
+                        gif_url = f"https://play.pokemonshowdown.com/sprites/ani/{correct_key}.gif"
+                        data['image_url'] = gif_url
                         try:
-                            async with session.get(static_url, timeout=aiohttp.ClientTimeout(total=10)) as static_response:
-                                if static_response.status == 200:
-                                    content = await static_response.read()
+                            async with session.get(gif_url, timeout=aiohttp.ClientTimeout(total=10)) as gif_response:
+                                if gif_response.status == 200:
+                                    content = await gif_response.read()
                                     async with aiofiles.open(filepath, 'wb') as f:
                                         await f.write(content)
                                     data['image_path'] = filepath
-                                    print(f"下载静态图片成功: {pokemon_name}")
+                                    print(f"下载GIF图片成功（来自sprites/ani）: {pokemon_name}")
                                 else:
-                                    print(f"静态图片也不存在: {pokemon_name}")
+                                    # 如果GIF都不存在，尝试下载静态图片
+                                    static_url = f"https://play.pokemonshowdown.com/sprites/gen5/{correct_key}.png"
+                                    data['image_url'] = static_url
+                                    filename = f"{data['id']}_{correct_key}.png"
+                                    filepath = os.path.join(IMAGE_FOLDER, filename)
+                                    try:
+                                        async with session.get(static_url, timeout=aiohttp.ClientTimeout(total=10)) as static_response:
+                                            if static_response.status == 200:
+                                                content = await static_response.read()
+                                                async with aiofiles.open(filepath, 'wb') as f:
+                                                    await f.write(content)
+                                                data['image_path'] = filepath
+                                                print(f"下载静态图片成功: {pokemon_name}")
+                                            else:
+                                                missing_pokemon.append(pokemon_name)
+                                                print(f"静态图片也不存在: {pokemon_name}")
+                                    except Exception as e3:
+                                        print(f"下载静态图片失败 {pokemon_name}: {e3}")
                         except Exception as e2:
-                            print(f"下载静态图片失败 {pokemon_name}: {e2}")
+                            print(f"下载GIF失败 {pokemon_name}: {e2}")
+                            # 如果GIF失败，尝试下载静态图片
+                            static_url = f"https://play.pokemonshowdown.com/sprites/gen5/{correct_key}.png"
+                            data['image_url'] = static_url
+                            filename = f"{data['id']}_{correct_key}.png"
+                            filepath = os.path.join(IMAGE_FOLDER, filename)
+                            try:
+                                async with session.get(static_url, timeout=aiohttp.ClientTimeout(total=10)) as static_response:
+                                    if static_response.status == 200:
+                                        content = await static_response.read()
+                                        async with aiofiles.open(filepath, 'wb') as f:
+                                            await f.write(content)
+                                        data['image_path'] = filepath
+                                        print(f"下载静态图片成功: {pokemon_name}")
+                                    else:
+                                        missing_pokemon.append(pokemon_name)
+                                        print(f"静态图片也不存在: {pokemon_name}")
+                            except Exception as e3:
+                                print(f"下载静态图片失败 {pokemon_name}: {e3}")
             except Exception as e:
                 print(f"下载动画GIF失败 {pokemon_name}: {e}")
                 # 如果动画GIF失败，尝试下载静态图片
-                static_url = f"https://play.pokemonshowdown.com/sprites/gen5/{pokemon_key}.png"
+                static_url = f"https://play.pokemonshowdown.com/sprites/gen5/{correct_key}.png"
                 data['image_url'] = static_url
-                filename = f"{data['id']}_{pokemon_key}.png"
+                filename = f"{data['id']}_{correct_key}.png"
                 filepath = os.path.join(IMAGE_FOLDER, filename)
                 try:
                     async with session.get(static_url, timeout=aiohttp.ClientTimeout(total=10)) as static_response:
@@ -350,6 +431,7 @@ async def get_pokemon_data(pokemon_name, js_content, session, semaphore):
                             data['image_path'] = filepath
                             print(f"下载静态图片成功: {pokemon_name}")
                         else:
+                            missing_pokemon.append(pokemon_name)
                             print(f"静态图片也不存在: {pokemon_name}")
                 except Exception as e2:
                     print(f"下载静态图片失败 {pokemon_name}: {e2}")
@@ -421,6 +503,51 @@ async def main():
     if selected_pokemon:
         print(f"范围: {selected_pokemon[0]} (ID: {start_id}) 到 {selected_pokemon[-1]} (ID: {end_id})")
 
+    # 构建正确的名称映射，用于图片URL
+    # 已知变体后缀列表
+    variant_suffixes = {
+        'mega', 'gmax', 'x', 'y', 'attack', 'defense', 'speed', 'alola', 'galar', 'hisui', 'paldea',
+        'sandy', 'trash', 'sunny', 'rainy', 'snowy', 'fan', 'frost', 'heat', 'mow', 'wash', 'crowned',
+        'eternal', 'terastal', 'stellar', 'therian', 'incarnate', 'sky', 'black', 'white', 'resolute',
+        'pirouette', 'ash', 'origin', 'land', 'speed', 'alolatotem', 'paldeaaqua', 'paldeacombat',
+        'paldeablaze', 'starter', 'megaz', 'primal', 'sunshine', 'bug', 'dark', 'fire', 'dragon',
+        'flying', 'electric', 'fairy', 'ice', 'grass', 'psychic', 'rock', 'poison', 'water', 'ground',
+        'fighting', 'ghost', 'steel', 'bluestriped', 'whitestriped', 'galarzen', 'zen', 'bond',
+        'pokeball', 'fancy', 'blade', 'small', 'large', 'super', 'neutral', 'complete', 'unbound',
+        '10', 'totem', 'pompom', 'pau', 'sensu', 'dusk', 'school', 'midnight', 'busted',
+        'bustedtotem', 'dawnwings', 'duskmane', 'ultra', 'originalmega', 'original', 'gorging',
+        'gulping', 'lowkey', 'lowkeygmax', 'antique', 'noice', 'hangry', 'rapidstrike',
+        'rapidstrikegmax', 'eternamax', 'dada', 'shadow', 'bloodmoon', 'four', 'blue', 'yellow',
+        'white', 'hero', 'droopy', 'stretchy', 'curly', 'threesegment', 'roaming', 'hearthflame',
+        'cornerstone', 'tealtera', 'cornerstonetera', 'hearthflametera', 'wellspring',
+        'wellspringtera'
+    }
+
+    correct_names = {}
+    previous_base = None
+    for name in selected_pokemon:
+        lower_name = name.lower()
+        if previous_base and lower_name.startswith(previous_base):
+            suffix = lower_name[len(previous_base):]
+            # 检查suffix是否以已知变体开头，并且剩余部分也是变体或空
+            converted = False
+            for suffix_candidate in sorted(variant_suffixes, key=len, reverse=True):
+                if suffix.startswith(suffix_candidate):
+                    remaining = suffix[len(suffix_candidate):]
+                    if remaining == "" or remaining in variant_suffixes:
+                        formatted_suffix = f"{suffix_candidate}{remaining}"
+                        correct_names[lower_name] = f"{previous_base}-{formatted_suffix}"
+                        converted = True
+                        break
+            if not converted:
+                # 不是变体，设置为基础名称
+                correct_names[lower_name] = lower_name
+                previous_base = lower_name
+        else:
+            # 基础名称
+            correct_names[lower_name] = lower_name
+            previous_base = lower_name
+
     # 确认开始
     confirm = input("确认开始爬取? (y/n): ")
     if confirm.lower() != 'y':
@@ -431,15 +558,16 @@ async def main():
     print("\n开始爬取...")
     successful = 0
     failed = 0
+    missing_pokemon = []
 
     # 限制并发数为10，避免过多的并发请求
     semaphore = asyncio.Semaphore(10)
 
-    async def process_pokemon(pokemon_name):
+    async def process_pokemon(pokemon_name, correct_names, missing_pokemon):
         nonlocal successful, failed
         try:
             async with aiohttp.ClientSession(headers=headers) as session:
-                data = await get_pokemon_data(pokemon_name, js_content, session, semaphore)
+                data = await get_pokemon_data(pokemon_name, js_content, session, semaphore, correct_names, missing_pokemon)
                 if data:
                     # 保存单个宝可梦数据
                     filename = f"{data['id']}_{pokemon_name}.json"
@@ -457,7 +585,7 @@ async def main():
             return False
 
     # 并发处理所有宝可梦
-    tasks = [process_pokemon(pokemon_name) for pokemon_name in selected_pokemon]
+    tasks = [process_pokemon(pokemon_name, correct_names, missing_pokemon) for pokemon_name in selected_pokemon]
     results = await asyncio.gather(*tasks, return_exceptions=True)
 
     print()  # 换行
@@ -467,6 +595,15 @@ async def main():
     print(f"失败: {failed} 只")
     print(f"数据保存到: {OUTPUT_DIR}/")
     print(f"图片保存到: {IMAGE_FOLDER}/")
+
+    # 保存缺失图片的宝可梦列表
+    if missing_pokemon:
+        with open(MISSING_FILE, 'w', encoding='utf-8') as f:
+            for name in missing_pokemon:
+                f.write(name + '\n')
+        print(f"缺失图片的宝可梦已保存到: {MISSING_FILE}")
+    else:
+        print("所有宝可梦图片均下载成功！")
 
 if __name__ == "__main__":
     asyncio.run(main())

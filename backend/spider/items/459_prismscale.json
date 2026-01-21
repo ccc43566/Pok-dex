@@ -1,0 +1,12 @@
+{
+  "id": 459,
+  "name": "Prism Scale",
+  "english": "prismscale",
+  "category": "道具",
+  "num": 459,
+  "spritenum": 365,
+  "desc": "Evolves Feebas into Milotic when traded.",
+  "shortDesc": "Evolves Feebas into Milotic when traded.",
+  "gen": 5,
+  "isPokeball": false
+}

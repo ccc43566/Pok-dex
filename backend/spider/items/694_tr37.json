@@ -1,0 +1,12 @@
+{
+  "id": 694,
+  "name": "TR37",
+  "english": "tr37",
+  "category": "道具",
+  "num": 694,
+  "spritenum": 737,
+  "desc": "Teaches certain Pokemon the move Taunt. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Taunt. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

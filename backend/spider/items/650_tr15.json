@@ -1,0 +1,12 @@
+{
+  "id": 650,
+  "name": "TR15",
+  "english": "tr15",
+  "category": "道具",
+  "num": 650,
+  "spritenum": 730,
+  "desc": "Teaches certain Pokemon the move Fire Blast. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Fire Blast. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

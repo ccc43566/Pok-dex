@@ -1,0 +1,12 @@
+{
+  "id": 575,
+  "name": "Spooky Plate",
+  "english": "spookyplate",
+  "category": "道具",
+  "num": 575,
+  "spritenum": 464,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

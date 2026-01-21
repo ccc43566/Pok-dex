@@ -1,0 +1,12 @@
+{
+  "id": 485,
+  "name": "木材",
+  "english": "Wood",
+  "category": "道具",
+  "num": 485,
+  "spritenum": 485,
+  "desc": "从生活用品到工艺品，能在制作各种物品时作为材料的好用木材。",
+  "shortDesc": "从生活用品到工艺品，能在制作各种物品时作为材料的好用木材。",
+  "gen": 1,
+  "isPokeball": false
+}

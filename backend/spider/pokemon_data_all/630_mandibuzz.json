@@ -1,0 +1,28 @@
+{
+  "id": 630,
+  "name": "Mandibuzz",
+  "type1": "Dark",
+  "type2": "Flying",
+  "hp": 110,
+  "attack": 65,
+  "defense": 105,
+  "sp_atk": 55,
+  "sp_def": 95,
+  "speed": 80,
+  "total": 510,
+  "abilities": [
+    "Big Pecks",
+    "Overcoat",
+    "Weak Armor"
+  ],
+  "height": 1.2,
+  "weight": 39.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Vullaby",
+  "evo_level": 54,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/mandibuzz.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\630_mandibuzz.gif"
+}

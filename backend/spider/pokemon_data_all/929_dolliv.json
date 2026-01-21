@@ -1,0 +1,29 @@
+{
+  "id": 929,
+  "name": "Dolliv",
+  "type1": "Grass",
+  "type2": "Normal",
+  "hp": 52,
+  "attack": 53,
+  "defense": 60,
+  "sp_atk": 78,
+  "sp_def": 78,
+  "speed": 33,
+  "total": 354,
+  "abilities": [
+    "Early Bird",
+    "Harvest"
+  ],
+  "height": 0.6,
+  "weight": 11.9,
+  "gender_ratio": {},
+  "evos": [
+    "Arboliva"
+  ],
+  "prevo": "Smoliv",
+  "evo_level": 25,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/dolliv.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\929_dolliv.gif"
+}

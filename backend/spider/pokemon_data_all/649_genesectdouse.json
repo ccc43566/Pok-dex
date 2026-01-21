@@ -1,0 +1,25 @@
+{
+  "id": 649,
+  "name": "Genesect-Douse",
+  "type1": "Bug",
+  "type2": "Steel",
+  "hp": 71,
+  "attack": 120,
+  "defense": 95,
+  "sp_atk": 120,
+  "sp_def": 95,
+  "speed": 99,
+  "total": 600,
+  "abilities": [
+    "Download"
+  ],
+  "height": 1.5,
+  "weight": 82.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/genesectdouse.png"
+}

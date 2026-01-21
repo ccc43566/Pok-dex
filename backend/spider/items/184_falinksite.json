@@ -1,0 +1,12 @@
+{
+  "id": 184,
+  "name": "Falinksite",
+  "english": "falinksite",
+  "category": "道具",
+  "num": 184,
+  "spritenum": 570,
+  "desc": "If held by a Falinks, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Falinks, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

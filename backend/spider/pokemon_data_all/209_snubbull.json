@@ -1,0 +1,33 @@
+{
+  "id": 209,
+  "name": "Snubbull",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 60,
+  "attack": 80,
+  "defense": 50,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "speed": 30,
+  "total": 300,
+  "abilities": [
+    "Intimidate",
+    "Run Away",
+    "Rattled"
+  ],
+  "height": 0.6,
+  "weight": 7.8,
+  "gender_ratio": {
+    "M": 0.25,
+    "F": 0.75
+  },
+  "evos": [
+    "Granbull"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/snubbull.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\209_snubbull.gif"
+}

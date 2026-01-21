@@ -1,0 +1,12 @@
+{
+  "id": 634,
+  "name": "TR07",
+  "english": "tr07",
+  "category": "道具",
+  "num": 634,
+  "spritenum": 722,
+  "desc": "Teaches certain Pokemon the move Low Kick. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Low Kick. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 248,
+  "name": "Tyranitar-Mega",
+  "type1": "Rock",
+  "type2": "Dark",
+  "hp": 100,
+  "attack": 164,
+  "defense": 150,
+  "sp_atk": 95,
+  "sp_def": 120,
+  "speed": 71,
+  "total": 700,
+  "abilities": [
+    "Sand Stream"
+  ],
+  "height": 2.5,
+  "weight": 255.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/tyranitar-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\248_tyranitar-mega.gif"
+}

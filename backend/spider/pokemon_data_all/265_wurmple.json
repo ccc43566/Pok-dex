@@ -1,0 +1,30 @@
+{
+  "id": 265,
+  "name": "Wurmple",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 45,
+  "attack": 45,
+  "defense": 35,
+  "sp_atk": 20,
+  "sp_def": 30,
+  "speed": 20,
+  "total": 195,
+  "abilities": [
+    "Shield Dust",
+    "Run Away"
+  ],
+  "height": 0.3,
+  "weight": 3.6,
+  "gender_ratio": {},
+  "evos": [
+    "Silcoon",
+    "Cascoon"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/wurmple.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\265_wurmple.gif"
+}

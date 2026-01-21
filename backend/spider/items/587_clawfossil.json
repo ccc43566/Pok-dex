@@ -1,0 +1,12 @@
+{
+  "id": 587,
+  "name": "爪子化石",
+  "english": "Claw Fossil",
+  "category": "道具",
+  "num": 587,
+  "spritenum": 587,
+  "desc": "很久以前栖息在海里的古代宝可梦的化石。好像是爪子的一部分。",
+  "shortDesc": "很久以前栖息在海里的古代宝可梦的化石。好像是爪子的一部分。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 389,
+  "name": "Torterra",
+  "type1": "Grass",
+  "type2": "Ground",
+  "hp": 95,
+  "attack": 109,
+  "defense": 105,
+  "sp_atk": 75,
+  "sp_def": 85,
+  "speed": 56,
+  "total": 525,
+  "abilities": [
+    "Overgrow",
+    "Shell Armor"
+  ],
+  "height": 2.2,
+  "weight": 310.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Grotle",
+  "evo_level": 32,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/torterra.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\389_torterra.gif"
+}

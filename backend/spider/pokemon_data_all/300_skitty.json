@@ -1,0 +1,33 @@
+{
+  "id": 300,
+  "name": "Skitty",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 50,
+  "attack": 45,
+  "defense": 45,
+  "sp_atk": 35,
+  "sp_def": 35,
+  "speed": 50,
+  "total": 260,
+  "abilities": [
+    "Cute Charm",
+    "Normalize",
+    "Wonder Skin"
+  ],
+  "height": 0.6,
+  "weight": 11.0,
+  "gender_ratio": {
+    "M": 0.25,
+    "F": 0.75
+  },
+  "evos": [
+    "Delcatty"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/skitty.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\300_skitty.gif"
+}

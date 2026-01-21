@@ -1,0 +1,30 @@
+{
+  "id": 183,
+  "name": "Marill",
+  "type1": "Water",
+  "type2": "Fairy",
+  "hp": 70,
+  "attack": 20,
+  "defense": 50,
+  "sp_atk": 20,
+  "sp_def": 50,
+  "speed": 40,
+  "total": 250,
+  "abilities": [
+    "Thick Fat",
+    "Huge Power",
+    "Sap Sipper"
+  ],
+  "height": 0.4,
+  "weight": 8.5,
+  "gender_ratio": {},
+  "evos": [
+    "Azumarill"
+  ],
+  "prevo": "Azurill",
+  "evo_level": null,
+  "evo_type": "levelFriendship",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/marill.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\183_marill.gif"
+}

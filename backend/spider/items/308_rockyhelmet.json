@@ -1,0 +1,12 @@
+{
+  "id": 308,
+  "name": "凸凸头盔",
+  "english": "Rocky Helmet",
+  "category": "道具",
+  "num": 308,
+  "spritenum": 308,
+  "desc": "让宝可梦携带后，在受到打击招式攻击时，能给予对手伤害。",
+  "shortDesc": "让宝可梦携带后，在受到打击招式攻击时，能给予对手伤害。",
+  "gen": 1,
+  "isPokeball": false
+}

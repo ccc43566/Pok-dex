@@ -1,0 +1,12 @@
+{
+  "id": 154,
+  "name": "Dusk Ball",
+  "english": "duskball",
+  "category": "道具",
+  "num": 154,
+  "spritenum": 115,
+  "desc": "A Poke Ball that makes it easier to catch wild Pokemon at night or in caves.",
+  "shortDesc": "A Poke Ball that makes it easier to catch wild Pokemon at night or in caves.",
+  "gen": 4,
+  "isPokeball": true
+}

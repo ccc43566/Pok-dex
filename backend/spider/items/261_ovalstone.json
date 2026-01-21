@@ -1,0 +1,12 @@
+{
+  "id": 261,
+  "name": "浑圆之石",
+  "english": "Oval Stone",
+  "category": "道具",
+  "num": 261,
+  "spritenum": 261,
+  "desc": "能让某些特定宝可梦进化的神奇石头。像珠子一般圆润。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇石头。像珠子一般圆润。",
+  "gen": 1,
+  "isPokeball": false
+}

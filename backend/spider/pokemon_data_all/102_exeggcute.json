@@ -1,0 +1,30 @@
+{
+  "id": 102,
+  "name": "Exeggcute",
+  "type1": "Grass",
+  "type2": "Psychic",
+  "hp": 60,
+  "attack": 40,
+  "defense": 80,
+  "sp_atk": 60,
+  "sp_def": 45,
+  "speed": 40,
+  "total": 325,
+  "abilities": [
+    "Chlorophyll",
+    "Harvest"
+  ],
+  "height": 0.4,
+  "weight": 2.5,
+  "gender_ratio": {},
+  "evos": [
+    "Exeggutor",
+    "Exeggutor-Alola"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/exeggcute.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\102_exeggcute.gif"
+}

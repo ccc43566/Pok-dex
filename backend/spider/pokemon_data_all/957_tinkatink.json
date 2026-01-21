@@ -1,0 +1,30 @@
+{
+  "id": 957,
+  "name": "Tinkatink",
+  "type1": "Fairy",
+  "type2": "Steel",
+  "hp": 50,
+  "attack": 45,
+  "defense": 45,
+  "sp_atk": 35,
+  "sp_def": 64,
+  "speed": 58,
+  "total": 297,
+  "abilities": [
+    "Mold Breaker",
+    "Own Tempo",
+    "Pickpocket"
+  ],
+  "height": 0.4,
+  "weight": 8.9,
+  "gender_ratio": {},
+  "evos": [
+    "Tinkatuff"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/tinkatink.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\957_tinkatink.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1143,
+  "name": "教学电视",
+  "english": "Teachy TV",
+  "category": "重要物品",
+  "num": 1143,
+  "spritenum": 1143,
+  "desc": "可以收看对新手训练家有帮助的节目的电视。",
+  "shortDesc": "可以收看对新手训练家有帮助的节目的电视。",
+  "gen": 1,
+  "isPokeball": false
+}

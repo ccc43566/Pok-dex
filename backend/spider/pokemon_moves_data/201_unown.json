@@ -1,0 +1,12 @@
+{
+  "id": 201,
+  "name": "unown",
+  "level_up": [
+    "hiddenpower"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "hiddenpower"
+  ],
+  "tutor_moves": []
+}

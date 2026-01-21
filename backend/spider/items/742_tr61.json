@@ -1,0 +1,12 @@
+{
+  "id": 742,
+  "name": "TR61",
+  "english": "tr61",
+  "category": "道具",
+  "num": 742,
+  "spritenum": 727,
+  "desc": "Teaches certain Pokemon the move Bug Buzz. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Bug Buzz. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

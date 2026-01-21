@@ -1,0 +1,31 @@
+{
+  "id": 439,
+  "name": "Mime Jr.",
+  "type1": "Psychic",
+  "type2": "Fairy",
+  "hp": 20,
+  "attack": 25,
+  "defense": 45,
+  "sp_atk": 70,
+  "sp_def": 90,
+  "speed": 60,
+  "total": 310,
+  "abilities": [
+    "Soundproof",
+    "Filter",
+    "Technician"
+  ],
+  "height": 0.6,
+  "weight": 13.0,
+  "gender_ratio": {},
+  "evos": [
+    "Mr. Mime",
+    "Mr. Mime-Galar"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/mimejr.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\439_mimejr.gif"
+}

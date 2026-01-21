@@ -1,0 +1,12 @@
+{
+  "id": 335,
+  "name": "打空保险",
+  "english": "Blunder Policy",
+  "category": "道具",
+  "num": 335,
+  "spritenum": 335,
+  "desc": "招式因命中率影响而落空时，速度会大幅提高。",
+  "shortDesc": "招式因命中率影响而落空时，速度会大幅提高。",
+  "gen": 1,
+  "isPokeball": false
+}

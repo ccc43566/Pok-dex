@@ -1,0 +1,12 @@
+{
+  "id": 441,
+  "name": "神奇糖果",
+  "english": "Rare Candy",
+  "category": "阿罗拉",
+  "num": 441,
+  "spritenum": 441,
+  "desc": "充满能量的糖果。将它交给宝可梦后，１只宝可梦的等级仅会提高１。",
+  "shortDesc": "充满能量的糖果。将它交给宝可梦后，１只宝可梦的等级仅会提高１。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 932,
+  "name": "Nacli",
+  "type1": "Rock",
+  "type2": null,
+  "hp": 55,
+  "attack": 55,
+  "defense": 75,
+  "sp_atk": 35,
+  "sp_def": 35,
+  "speed": 25,
+  "total": 280,
+  "abilities": [
+    "Purifying Salt",
+    "Sturdy",
+    "Clear Body"
+  ],
+  "height": 0.4,
+  "weight": 16.0,
+  "gender_ratio": {},
+  "evos": [
+    "Naclstack"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/nacli.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\932_nacli.gif"
+}

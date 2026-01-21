@@ -1,0 +1,12 @@
+{
+  "id": 352,
+  "name": "Magnet",
+  "english": "magnet",
+  "category": "道具",
+  "num": 352,
+  "spritenum": 273,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

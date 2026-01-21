@@ -1,0 +1,12 @@
+{
+  "id": 1138,
+  "name": "得文侦测镜",
+  "english": "Devon Scope",
+  "category": "重要物品",
+  "num": 1138,
+  "spritenum": 1138,
+  "desc": "会对看不见的宝可梦起反应，并发出声音的得文特制产品。",
+  "shortDesc": "会对看不见的宝可梦起反应，并发出声音的得文特制产品。",
+  "gen": 1,
+  "isPokeball": false
+}

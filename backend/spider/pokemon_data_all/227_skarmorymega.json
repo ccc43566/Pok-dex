@@ -1,0 +1,28 @@
+{
+  "id": 227,
+  "name": "Skarmory-Mega",
+  "type1": "Steel",
+  "type2": "Flying",
+  "hp": 65,
+  "attack": 140,
+  "defense": 110,
+  "sp_atk": 40,
+  "sp_def": 100,
+  "speed": 110,
+  "total": 565,
+  "abilities": [
+    "Keen Eye",
+    "Sturdy",
+    "Weak Armor"
+  ],
+  "height": 1.7,
+  "weight": 40.4,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/skarmory-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\227_skarmory-mega.gif"
+}

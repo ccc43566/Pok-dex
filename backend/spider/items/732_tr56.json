@@ -1,0 +1,12 @@
+{
+  "id": 732,
+  "name": "TR56",
+  "english": "tr56",
+  "category": "道具",
+  "num": 732,
+  "spritenum": 722,
+  "desc": "Teaches certain Pokemon the move Aura Sphere. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Aura Sphere. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1288,
+  "name": "防晃护符",
+  "english": "Catching Charm",
+  "category": "重要物品",
+  "num": 1288,
+  "spritenum": 1288,
+  "desc": "带上这个神奇的可增强稳定性的护身符，就能更容易触发会心捕捉。",
+  "shortDesc": "带上这个神奇的可增强稳定性的护身符，就能更容易触发会心捕捉。",
+  "gen": 1,
+  "isPokeball": false
+}

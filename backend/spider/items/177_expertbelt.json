@@ -1,0 +1,12 @@
+{
+  "id": 177,
+  "name": "Expert Belt",
+  "english": "expertbelt",
+  "category": "道具",
+  "num": 177,
+  "spritenum": 132,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

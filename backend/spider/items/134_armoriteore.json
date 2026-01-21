@@ -1,0 +1,12 @@
+{
+  "id": 134,
+  "name": "铠甲矿石",
+  "english": "Armorite Ore",
+  "category": "道具",
+  "num": 134,
+  "spritenum": 134,
+  "desc": "能够在铠岛找出的珍稀石头。把它送给铠岛的收藏家，就会有好事发生。",
+  "shortDesc": "能够在铠岛找出的珍稀石头。把它送给铠岛的收藏家，就会有好事发生。",
+  "gen": 1,
+  "isPokeball": false
+}

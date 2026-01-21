@@ -1,0 +1,30 @@
+{
+  "id": 557,
+  "name": "Dwebble",
+  "type1": "Bug",
+  "type2": "Rock",
+  "hp": 50,
+  "attack": 65,
+  "defense": 85,
+  "sp_atk": 35,
+  "sp_def": 35,
+  "speed": 55,
+  "total": 325,
+  "abilities": [
+    "Sturdy",
+    "Shell Armor",
+    "Weak Armor"
+  ],
+  "height": 0.3,
+  "weight": 14.5,
+  "gender_ratio": {},
+  "evos": [
+    "Crustle"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/dwebble.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\557_dwebble.gif"
+}

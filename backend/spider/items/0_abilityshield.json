@@ -1,0 +1,12 @@
+{
+  "id": 0,
+  "name": "Ability Shield",
+  "english": "abilityshield",
+  "category": "道具",
+  "num": 0,
+  "spritenum": 746,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 9,
+  "isPokeball": false
+}

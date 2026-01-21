@@ -1,0 +1,12 @@
+{
+  "id": 562,
+  "name": "Snorlium Z",
+  "english": "snorliumz",
+  "category": "道具",
+  "num": 562,
+  "spritenum": 656,
+  "desc": "If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake.",
+  "shortDesc": "If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake.",
+  "gen": 7,
+  "isPokeball": false
+}

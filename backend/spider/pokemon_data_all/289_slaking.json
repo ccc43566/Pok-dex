@@ -1,0 +1,26 @@
+{
+  "id": 289,
+  "name": "Slaking",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 150,
+  "attack": 160,
+  "defense": 100,
+  "sp_atk": 95,
+  "sp_def": 65,
+  "speed": 100,
+  "total": 670,
+  "abilities": [
+    "Truant"
+  ],
+  "height": 2.0,
+  "weight": 130.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Vigoroth",
+  "evo_level": 36,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/slaking.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\289_slaking.gif"
+}

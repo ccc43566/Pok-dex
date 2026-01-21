@@ -1,0 +1,12 @@
+{
+  "id": 22,
+  "name": "树叶信",
+  "english": "Leaf Letter",
+  "category": "道具",
+  "num": 22,
+  "spritenum": 22,
+  "desc": "以树叶制作的信件。上面留有皮卡丘的足迹，好像是要表达些什么。",
+  "shortDesc": "以树叶制作的信件。上面留有皮卡丘的足迹，好像是要表达些什么。",
+  "gen": 1,
+  "isPokeball": false
+}

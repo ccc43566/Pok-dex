@@ -1,0 +1,53 @@
+{
+  "id": 825,
+  "name": "dottler",
+  "level_up": [
+    "confusion",
+    "lightscreen",
+    "reflect",
+    "strugglebug"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "allyswitch",
+    "attract",
+    "bodypress",
+    "bugbuzz",
+    "calmmind",
+    "endure",
+    "energyball",
+    "facade",
+    "futuresight",
+    "guardswap",
+    "helpinghand",
+    "imprison",
+    "irondefense",
+    "leechlife",
+    "lightscreen",
+    "magicroom",
+    "payback",
+    "powerswap",
+    "protect",
+    "psychic",
+    "psychicterrain",
+    "psyshock",
+    "reflect",
+    "rest",
+    "round",
+    "safeguard",
+    "shadowball",
+    "skillswap",
+    "sleeptalk",
+    "snore",
+    "solarbeam",
+    "storedpower",
+    "substitute",
+    "trick",
+    "trickroom",
+    "wonderroom",
+    "zenheadbutt"
+  ],
+  "tutor_moves": [
+    "expandingforce"
+  ]
+}

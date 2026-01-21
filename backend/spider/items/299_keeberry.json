@@ -1,0 +1,12 @@
+{
+  "id": 299,
+  "name": "Kee Berry",
+  "english": "keeberry",
+  "category": "道具",
+  "num": 299,
+  "spritenum": 593,
+  "desc": "Raises holder",
+  "shortDesc": "Raises holder",
+  "gen": 6,
+  "isPokeball": false
+}

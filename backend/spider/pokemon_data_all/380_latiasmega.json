@@ -1,0 +1,26 @@
+{
+  "id": 380,
+  "name": "Latias-Mega",
+  "type1": "Dragon",
+  "type2": "Psychic",
+  "hp": 80,
+  "attack": 100,
+  "defense": 120,
+  "sp_atk": 140,
+  "sp_def": 150,
+  "speed": 110,
+  "total": 700,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 1.8,
+  "weight": 52.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/latias-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\380_latias-mega.gif"
+}

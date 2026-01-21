@@ -1,0 +1,12 @@
+{
+  "id": 181,
+  "name": "电气球",
+  "english": "Light Ball",
+  "category": "道具",
+  "num": 181,
+  "spritenum": 181,
+  "desc": "让皮卡丘携带后，攻击和特攻的威力就会提高的神奇之球。",
+  "shortDesc": "让皮卡丘携带后，攻击和特攻的威力就会提高的神奇之球。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 848,
+  "name": "Whipped Dream",
+  "english": "whippeddream",
+  "category": "道具",
+  "num": 848,
+  "spritenum": 692,
+  "desc": "Evolves Swirlix into Slurpuff when traded.",
+  "shortDesc": "Evolves Swirlix into Slurpuff when traded.",
+  "gen": 6,
+  "isPokeball": false
+}

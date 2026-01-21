@@ -1,0 +1,12 @@
+{
+  "id": 541,
+  "name": "Sharpedonite",
+  "english": "sharpedonite",
+  "category": "道具",
+  "num": 541,
+  "spritenum": 619,
+  "desc": "If held by a Sharpedo, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Sharpedo, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

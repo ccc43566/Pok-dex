@@ -1,0 +1,12 @@
+{
+  "id": 662,
+  "name": "TR21",
+  "english": "tr21",
+  "category": "道具",
+  "num": 662,
+  "spritenum": 722,
+  "desc": "Teaches certain Pokemon the move Reversal. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Reversal. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

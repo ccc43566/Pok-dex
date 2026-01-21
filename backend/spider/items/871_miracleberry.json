@@ -1,0 +1,12 @@
+{
+  "id": 871,
+  "name": "Miracle Berry",
+  "english": "miracleberry",
+  "category": "道具",
+  "num": 871,
+  "spritenum": 262,
+  "desc": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.",
+  "shortDesc": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.",
+  "gen": 2,
+  "isPokeball": false
+}

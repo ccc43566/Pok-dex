@@ -1,0 +1,32 @@
+{
+  "id": 390,
+  "name": "Chimchar",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 44,
+  "attack": 58,
+  "defense": 44,
+  "sp_atk": 58,
+  "sp_def": 44,
+  "speed": 61,
+  "total": 309,
+  "abilities": [
+    "Blaze",
+    "Iron Fist"
+  ],
+  "height": 0.5,
+  "weight": 6.2,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Monferno"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/chimchar.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\390_chimchar.gif"
+}

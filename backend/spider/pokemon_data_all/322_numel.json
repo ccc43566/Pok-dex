@@ -1,0 +1,30 @@
+{
+  "id": 322,
+  "name": "Numel",
+  "type1": "Fire",
+  "type2": "Ground",
+  "hp": 60,
+  "attack": 60,
+  "defense": 40,
+  "sp_atk": 65,
+  "sp_def": 45,
+  "speed": 35,
+  "total": 305,
+  "abilities": [
+    "Oblivious",
+    "Simple",
+    "Own Tempo"
+  ],
+  "height": 0.7,
+  "weight": 24.0,
+  "gender_ratio": {},
+  "evos": [
+    "Camerupt"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/numel.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\322_numel.gif"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 555,
+  "name": "Darmanitan-Galar-Zen",
+  "type1": "Ice",
+  "type2": "Fire",
+  "hp": 105,
+  "attack": 160,
+  "defense": 55,
+  "sp_atk": 30,
+  "sp_def": 55,
+  "speed": 135,
+  "total": 540,
+  "abilities": [
+    "Zen Mode"
+  ],
+  "height": 1.7,
+  "weight": 120.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/darmanitan-galarzen.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\555_darmanitan-galarzen.gif"
+}

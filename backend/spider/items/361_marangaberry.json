@@ -1,0 +1,12 @@
+{
+  "id": 361,
+  "name": "Maranga Berry",
+  "english": "marangaberry",
+  "category": "道具",
+  "num": 361,
+  "spritenum": 597,
+  "desc": "Raises holder",
+  "shortDesc": "Raises holder",
+  "gen": 6,
+  "isPokeball": false
+}

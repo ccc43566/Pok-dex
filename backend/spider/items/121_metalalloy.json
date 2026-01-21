@@ -1,0 +1,12 @@
+{
+  "id": 121,
+  "name": "复合金属",
+  "english": "Metal Alloy",
+  "category": "道具",
+  "num": 121,
+  "spritenum": 121,
+  "desc": "能让某些特定宝可梦进化的神奇金属。由多个层次叠加而成。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇金属。由多个层次叠加而成。",
+  "gen": 1,
+  "isPokeball": false
+}

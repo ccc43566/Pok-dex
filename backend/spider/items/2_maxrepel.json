@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "黄金喷雾",
+  "english": "Max Repel",
+  "category": "道具",
+  "num": 2,
+  "spritenum": 2,
+  "desc": "弱小的野生宝可梦将完全不会出现。效果比白银喷雾更持久。",
+  "shortDesc": "弱小的野生宝可梦将完全不会出现。效果比白银喷雾更持久。",
+  "gen": 1,
+  "isPokeball": false
+}

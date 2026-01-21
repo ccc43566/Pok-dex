@@ -1,0 +1,12 @@
+{
+  "id": 49,
+  "name": "Black Belt",
+  "english": "blackbelt",
+  "category": "道具",
+  "num": 49,
+  "spritenum": 32,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

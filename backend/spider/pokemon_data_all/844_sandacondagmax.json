@@ -1,0 +1,28 @@
+{
+  "id": 844,
+  "name": "Sandaconda-Gmax",
+  "type1": "Ground",
+  "type2": null,
+  "hp": 72,
+  "attack": 107,
+  "defense": 125,
+  "sp_atk": 65,
+  "sp_def": 70,
+  "speed": 71,
+  "total": 510,
+  "abilities": [
+    "Sand Spit",
+    "Shed Skin",
+    "Sand Veil"
+  ],
+  "height": 22.0,
+  "weight": 0.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/sandaconda-gmax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\844_sandaconda-gmax.gif"
+}

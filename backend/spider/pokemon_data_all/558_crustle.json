@@ -1,0 +1,28 @@
+{
+  "id": 558,
+  "name": "Crustle",
+  "type1": "Bug",
+  "type2": "Rock",
+  "hp": 70,
+  "attack": 105,
+  "defense": 125,
+  "sp_atk": 65,
+  "sp_def": 75,
+  "speed": 45,
+  "total": 485,
+  "abilities": [
+    "Sturdy",
+    "Shell Armor",
+    "Weak Armor"
+  ],
+  "height": 1.4,
+  "weight": 200.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Dwebble",
+  "evo_level": 34,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/crustle.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\558_crustle.gif"
+}

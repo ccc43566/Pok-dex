@@ -1,0 +1,28 @@
+{
+  "id": 49,
+  "name": "Venomoth",
+  "type1": "Bug",
+  "type2": "Poison",
+  "hp": 70,
+  "attack": 65,
+  "defense": 60,
+  "sp_atk": 90,
+  "sp_def": 75,
+  "speed": 90,
+  "total": 450,
+  "abilities": [
+    "Shield Dust",
+    "Tinted Lens",
+    "Wonder Skin"
+  ],
+  "height": 1.5,
+  "weight": 12.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Venonat",
+  "evo_level": 31,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/venomoth.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\49_venomoth.gif"
+}

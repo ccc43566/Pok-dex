@@ -1,0 +1,29 @@
+{
+  "id": 356,
+  "name": "Dusclops",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 40,
+  "attack": 70,
+  "defense": 130,
+  "sp_atk": 60,
+  "sp_def": 130,
+  "speed": 25,
+  "total": 455,
+  "abilities": [
+    "Pressure",
+    "Frisk"
+  ],
+  "height": 1.6,
+  "weight": 30.6,
+  "gender_ratio": {},
+  "evos": [
+    "Dusknoir"
+  ],
+  "prevo": "Duskull",
+  "evo_level": 37,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/dusclops.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\356_dusclops.gif"
+}

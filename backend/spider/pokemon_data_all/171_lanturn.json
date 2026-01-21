@@ -1,0 +1,28 @@
+{
+  "id": 171,
+  "name": "Lanturn",
+  "type1": "Water",
+  "type2": "Electric",
+  "hp": 125,
+  "attack": 58,
+  "defense": 58,
+  "sp_atk": 76,
+  "sp_def": 76,
+  "speed": 67,
+  "total": 460,
+  "abilities": [
+    "Volt Absorb",
+    "Illuminate",
+    "Water Absorb"
+  ],
+  "height": 1.2,
+  "weight": 22.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Chinchou",
+  "evo_level": 27,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/lanturn.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\171_lanturn.gif"
+}

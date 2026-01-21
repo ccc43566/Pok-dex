@@ -1,0 +1,12 @@
+{
+  "id": 512,
+  "name": "Root Fossil",
+  "english": "rootfossil",
+  "category": "道具",
+  "num": 512,
+  "spritenum": 418,
+  "desc": "Can be revived into Lileep.",
+  "shortDesc": "Can be revived into Lileep.",
+  "gen": 3,
+  "isPokeball": false
+}

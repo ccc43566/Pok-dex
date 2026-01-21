@@ -1,0 +1,12 @@
+{
+  "id": 1204,
+  "name": "闪耀护符",
+  "english": "Shiny Charm",
+  "category": "重要物品",
+  "num": 1204,
+  "spritenum": 1204,
+  "desc": "拥有它之后，据说会更容易遇见发光宝可梦的神奇闪光护符。",
+  "shortDesc": "拥有它之后，据说会更容易遇见发光宝可梦的神奇闪光护符。",
+  "gen": 1,
+  "isPokeball": false
+}

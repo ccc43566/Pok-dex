@@ -1,0 +1,12 @@
+{
+  "id": 1217,
+  "name": "常见石",
+  "english": "Common Stone",
+  "category": "重要物品",
+  "num": 1217,
+  "spritenum": 1217,
+  "desc": "在有些人看来可能会觉得它十分贵重。但其实是块普通的石头。",
+  "shortDesc": "在有些人看来可能会觉得它十分贵重。但其实是块普通的石头。",
+  "gen": 1,
+  "isPokeball": false
+}

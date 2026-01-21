@@ -1,0 +1,27 @@
+{
+  "id": 477,
+  "name": "Dusknoir",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 45,
+  "attack": 100,
+  "defense": 135,
+  "sp_atk": 65,
+  "sp_def": 135,
+  "speed": 45,
+  "total": 525,
+  "abilities": [
+    "Pressure",
+    "Frisk"
+  ],
+  "height": 2.2,
+  "weight": 106.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Dusclops",
+  "evo_level": null,
+  "evo_type": "trade",
+  "evo_item": "Reaper Cloth",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/dusknoir.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\477_dusknoir.gif"
+}

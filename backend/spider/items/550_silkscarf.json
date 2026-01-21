@@ -1,0 +1,12 @@
+{
+  "id": 550,
+  "name": "Silk Scarf",
+  "english": "silkscarf",
+  "category": "道具",
+  "num": 550,
+  "spritenum": 444,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 3,
+  "isPokeball": false
+}

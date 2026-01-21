@@ -1,0 +1,12 @@
+{
+  "id": 958,
+  "name": "生菜",
+  "english": "Lettuce",
+  "category": "皮卡丘",
+  "num": 958,
+  "spritenum": 958,
+  "desc": "带苦味的食材。因为味道朴素，所以能与各种食材搭配享用。",
+  "shortDesc": "带苦味的食材。因为味道朴素，所以能与各种食材搭配享用。",
+  "gen": 1,
+  "isPokeball": false
+}

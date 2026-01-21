@@ -1,0 +1,12 @@
+{
+  "id": 304,
+  "name": "Lagging Tail",
+  "english": "laggingtail",
+  "category": "道具",
+  "num": 304,
+  "spritenum": 237,
+  "desc": "Holder moves last in its priority bracket.",
+  "shortDesc": "Holder moves last in its priority bracket.",
+  "gen": 4,
+  "isPokeball": false
+}

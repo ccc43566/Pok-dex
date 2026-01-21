@@ -1,0 +1,30 @@
+{
+  "id": 348,
+  "name": "Armaldo",
+  "type1": "Rock",
+  "type2": "Bug",
+  "hp": 75,
+  "attack": 125,
+  "defense": 100,
+  "sp_atk": 70,
+  "sp_def": 80,
+  "speed": 45,
+  "total": 495,
+  "abilities": [
+    "Battle Armor",
+    "Swift Swim"
+  ],
+  "height": 1.5,
+  "weight": 68.2,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Anorith",
+  "evo_level": 40,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/armaldo.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\348_armaldo.gif"
+}

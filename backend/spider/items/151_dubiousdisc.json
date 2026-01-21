@@ -1,0 +1,12 @@
+{
+  "id": 151,
+  "name": "Dubious Disc",
+  "english": "dubiousdisc",
+  "category": "道具",
+  "num": 151,
+  "spritenum": 113,
+  "desc": "Evolves Porygon2 into Porygon-Z when traded.",
+  "shortDesc": "Evolves Porygon2 into Porygon-Z when traded.",
+  "gen": 4,
+  "isPokeball": false
+}

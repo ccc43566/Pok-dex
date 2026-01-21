@@ -1,0 +1,12 @@
+{
+  "id": 1095,
+  "name": "钥匙卡",
+  "english": "Card Key",
+  "category": "重要物品",
+  "num": 1095,
+  "spritenum": 1095,
+  "desc": "用来打开位于金黄市的西尔佛公司总部大厦门锁的卡片式钥匙。",
+  "shortDesc": "用来打开位于金黄市的西尔佛公司总部大厦门锁的卡片式钥匙。",
+  "gen": 1,
+  "isPokeball": false
+}

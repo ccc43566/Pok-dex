@@ -1,0 +1,12 @@
+{
+  "id": 287,
+  "name": "冰冷岩石",
+  "english": "Icy Rock",
+  "category": "道具",
+  "num": 287,
+  "spritenum": 287,
+  "desc": "携带它的宝可梦使出冰雹的话，冰雹的时间就会比平时更长。",
+  "shortDesc": "携带它的宝可梦使出冰雹的话，冰雹的时间就会比平时更长。",
+  "gen": 1,
+  "isPokeball": false
+}

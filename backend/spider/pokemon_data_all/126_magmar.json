@@ -1,0 +1,32 @@
+{
+  "id": 126,
+  "name": "Magmar",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 65,
+  "attack": 95,
+  "defense": 57,
+  "sp_atk": 100,
+  "sp_def": 85,
+  "speed": 93,
+  "total": 495,
+  "abilities": [
+    "Flame Body",
+    "Vital Spirit"
+  ],
+  "height": 1.3,
+  "weight": 44.5,
+  "gender_ratio": {
+    "M": 0.75,
+    "F": 0.25
+  },
+  "evos": [
+    "Magmortar"
+  ],
+  "prevo": "Magby",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/magmar.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\126_magmar.gif"
+}

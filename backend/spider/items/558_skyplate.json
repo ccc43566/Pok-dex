@@ -1,0 +1,12 @@
+{
+  "id": 558,
+  "name": "Sky Plate",
+  "english": "skyplate",
+  "category": "道具",
+  "num": 558,
+  "spritenum": 450,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

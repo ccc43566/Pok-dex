@@ -1,0 +1,12 @@
+{
+  "id": 50,
+  "name": "ＰＰ极限提升剂",
+  "english": "PP Max",
+  "category": "道具",
+  "num": 50,
+  "spritenum": 50,
+  "desc": "能将宝可梦学会的其中１个招式的ＰＰ最大值提至最高。",
+  "shortDesc": "能将宝可梦学会的其中１个招式的ＰＰ最大值提至最高。",
+  "gen": 1,
+  "isPokeball": false
+}

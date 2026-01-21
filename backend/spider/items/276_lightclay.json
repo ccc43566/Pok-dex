@@ -1,0 +1,12 @@
+{
+  "id": 276,
+  "name": "光之黏土",
+  "english": "Light Clay",
+  "category": "道具",
+  "num": 276,
+  "spritenum": 276,
+  "desc": "当携带它的宝可梦使出光墙或反射壁时，效果会比平时持续得更长。",
+  "shortDesc": "当携带它的宝可梦使出光墙或反射壁时，效果会比平时持续得更长。",
+  "gen": 1,
+  "isPokeball": false
+}

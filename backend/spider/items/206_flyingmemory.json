@@ -1,0 +1,12 @@
+{
+  "id": 206,
+  "name": "Flying Memory",
+  "english": "flyingmemory",
+  "category": "道具",
+  "num": 206,
+  "spritenum": 669,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 107,
+  "name": "甜甜苹果",
+  "english": "Sweet Apple",
+  "category": "道具",
+  "num": 107,
+  "spritenum": 107,
+  "desc": "这种神奇的苹果可以使特定的宝可梦进化。吃起来非常甜美。",
+  "shortDesc": "这种神奇的苹果可以使特定的宝可梦进化。吃起来非常甜美。",
+  "gen": 1,
+  "isPokeball": false
+}

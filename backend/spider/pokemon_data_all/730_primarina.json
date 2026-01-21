@@ -1,0 +1,30 @@
+{
+  "id": 730,
+  "name": "Primarina",
+  "type1": "Water",
+  "type2": "Fairy",
+  "hp": 80,
+  "attack": 74,
+  "defense": 74,
+  "sp_atk": 126,
+  "sp_def": 116,
+  "speed": 60,
+  "total": 530,
+  "abilities": [
+    "Torrent",
+    "Liquid Voice"
+  ],
+  "height": 1.8,
+  "weight": 44.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Brionne",
+  "evo_level": 34,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/primarina.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\730_primarina.gif"
+}

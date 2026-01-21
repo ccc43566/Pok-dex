@@ -1,0 +1,28 @@
+{
+  "id": 702,
+  "name": "Dedenne",
+  "type1": "Electric",
+  "type2": "Fairy",
+  "hp": 67,
+  "attack": 58,
+  "defense": 57,
+  "sp_atk": 81,
+  "sp_def": 67,
+  "speed": 101,
+  "total": 431,
+  "abilities": [
+    "Cheek Pouch",
+    "Pickup",
+    "Plus"
+  ],
+  "height": 0.2,
+  "weight": 2.2,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/dedenne.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\702_dedenne.gif"
+}

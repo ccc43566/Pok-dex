@@ -1,0 +1,27 @@
+{
+  "id": 701,
+  "name": "Hawlucha-Mega",
+  "type1": "Fighting",
+  "type2": "Flying",
+  "hp": 78,
+  "attack": 137,
+  "defense": 100,
+  "sp_atk": 74,
+  "sp_def": 93,
+  "speed": 118,
+  "total": 600,
+  "abilities": [
+    "Limber",
+    "Unburden",
+    "Mold Breaker"
+  ],
+  "height": 1.0,
+  "weight": 25.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/hawlucha-mega.png"
+}

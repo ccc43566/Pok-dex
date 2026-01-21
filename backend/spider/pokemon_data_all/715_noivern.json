@@ -1,0 +1,28 @@
+{
+  "id": 715,
+  "name": "Noivern",
+  "type1": "Flying",
+  "type2": "Dragon",
+  "hp": 85,
+  "attack": 70,
+  "defense": 80,
+  "sp_atk": 97,
+  "sp_def": 80,
+  "speed": 123,
+  "total": 535,
+  "abilities": [
+    "Frisk",
+    "Infiltrator",
+    "Telepathy"
+  ],
+  "height": 1.5,
+  "weight": 85.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Noibat",
+  "evo_level": 48,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/noivern.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\715_noivern.gif"
+}

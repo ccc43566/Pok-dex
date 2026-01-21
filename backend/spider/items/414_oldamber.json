@@ -1,0 +1,12 @@
+{
+  "id": 414,
+  "name": "Old Amber",
+  "english": "oldamber",
+  "category": "道具",
+  "num": 414,
+  "spritenum": 314,
+  "desc": "Can be revived into Aerodactyl.",
+  "shortDesc": "Can be revived into Aerodactyl.",
+  "gen": 3,
+  "isPokeball": false
+}

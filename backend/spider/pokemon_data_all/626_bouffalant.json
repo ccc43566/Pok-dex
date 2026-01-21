@@ -1,0 +1,28 @@
+{
+  "id": 626,
+  "name": "Bouffalant",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 95,
+  "attack": 110,
+  "defense": 95,
+  "sp_atk": 40,
+  "sp_def": 95,
+  "speed": 55,
+  "total": 490,
+  "abilities": [
+    "Reckless",
+    "Sap Sipper",
+    "Soundproof"
+  ],
+  "height": 1.6,
+  "weight": 94.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/bouffalant.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\626_bouffalant.gif"
+}

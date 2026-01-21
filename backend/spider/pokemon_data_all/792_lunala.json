@@ -1,0 +1,26 @@
+{
+  "id": 792,
+  "name": "Lunala",
+  "type1": "Psychic",
+  "type2": "Ghost",
+  "hp": 137,
+  "attack": 113,
+  "defense": 89,
+  "sp_atk": 137,
+  "sp_def": 107,
+  "speed": 97,
+  "total": 680,
+  "abilities": [
+    "Shadow Shield"
+  ],
+  "height": 4.0,
+  "weight": 120.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Cosmoem",
+  "evo_level": 53,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/lunala.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\792_lunala.gif"
+}

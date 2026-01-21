@@ -1,0 +1,12 @@
+{
+  "id": 80,
+  "name": "Charti Berry",
+  "english": "chartiberry",
+  "category": "道具",
+  "num": 80,
+  "spritenum": 62,
+  "desc": "Halves damage taken from a supereffective Rock-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Rock-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

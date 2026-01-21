@@ -1,0 +1,12 @@
+{
+  "id": 456,
+  "name": "Pretty Feather",
+  "english": "prettyfeather",
+  "category": "道具",
+  "num": 456,
+  "spritenum": 1,
+  "desc": "Though this feather is beautiful, it",
+  "shortDesc": "Though this feather is beautiful, it",
+  "gen": 5,
+  "isPokeball": false
+}

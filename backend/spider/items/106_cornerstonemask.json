@@ -1,0 +1,12 @@
+{
+  "id": 106,
+  "name": "Cornerstone Mask",
+  "english": "cornerstonemask",
+  "category": "道具",
+  "num": 106,
+  "spritenum": 758,
+  "desc": "Ogerpon-Cornerstone: 1.2x power attacks; Terastallize to gain Embody Aspect.",
+  "shortDesc": "Ogerpon-Cornerstone: 1.2x power attacks; Terastallize to gain Embody Aspect.",
+  "gen": 9,
+  "isPokeball": false
+}

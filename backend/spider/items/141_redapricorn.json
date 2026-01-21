@@ -1,0 +1,12 @@
+{
+  "id": 141,
+  "name": "红球果",
+  "english": "Red Apricorn",
+  "category": "球果",
+  "num": 141,
+  "spritenum": 141,
+  "desc": "红色的球果。有种刺鼻的气味。",
+  "shortDesc": "红色的球果。有种刺鼻的气味。",
+  "gen": 1,
+  "isPokeball": false
+}

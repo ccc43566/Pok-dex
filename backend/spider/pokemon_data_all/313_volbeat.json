@@ -1,0 +1,28 @@
+{
+  "id": 313,
+  "name": "Volbeat",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 65,
+  "attack": 73,
+  "defense": 75,
+  "sp_atk": 47,
+  "sp_def": 85,
+  "speed": 85,
+  "total": 430,
+  "abilities": [
+    "Illuminate",
+    "Swarm",
+    "Prankster"
+  ],
+  "height": 0.7,
+  "weight": 17.7,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/volbeat.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\313_volbeat.gif"
+}

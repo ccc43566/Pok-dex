@@ -1,0 +1,28 @@
+{
+  "id": 553,
+  "name": "Krookodile",
+  "type1": "Ground",
+  "type2": "Dark",
+  "hp": 95,
+  "attack": 117,
+  "defense": 80,
+  "sp_atk": 65,
+  "sp_def": 70,
+  "speed": 92,
+  "total": 519,
+  "abilities": [
+    "Intimidate",
+    "Moxie",
+    "Anger Point"
+  ],
+  "height": 1.5,
+  "weight": 96.3,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Krokorok",
+  "evo_level": 40,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/krookodile.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\553_krookodile.gif"
+}

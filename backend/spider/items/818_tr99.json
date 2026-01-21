@@ -1,0 +1,12 @@
+{
+  "id": 818,
+  "name": "TR99",
+  "english": "tr99",
+  "category": "道具",
+  "num": 818,
+  "spritenum": 722,
+  "desc": "Teaches certain Pokemon the move Body Press. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Body Press. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

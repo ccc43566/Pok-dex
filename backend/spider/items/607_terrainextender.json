@@ -1,0 +1,12 @@
+{
+  "id": 607,
+  "name": "Terrain Extender",
+  "english": "terrainextender",
+  "category": "道具",
+  "num": 607,
+  "spritenum": 662,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

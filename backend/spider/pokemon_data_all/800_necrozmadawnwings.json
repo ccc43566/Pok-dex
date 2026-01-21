@@ -1,0 +1,26 @@
+{
+  "id": 800,
+  "name": "Necrozma-Dawn-Wings",
+  "type1": "Psychic",
+  "type2": "Ghost",
+  "hp": 97,
+  "attack": 113,
+  "defense": 109,
+  "sp_atk": 157,
+  "sp_def": 127,
+  "speed": 77,
+  "total": 680,
+  "abilities": [
+    "Prism Armor"
+  ],
+  "height": 4.2,
+  "weight": 350.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/necrozma-dawnwings.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\800_necrozma-dawnwings.gif"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 372,
+  "name": "Shelgon",
+  "type1": "Dragon",
+  "type2": null,
+  "hp": 65,
+  "attack": 95,
+  "defense": 100,
+  "sp_atk": 60,
+  "sp_def": 50,
+  "speed": 50,
+  "total": 420,
+  "abilities": [
+    "Rock Head",
+    "Overcoat"
+  ],
+  "height": 1.1,
+  "weight": 110.5,
+  "gender_ratio": {},
+  "evos": [
+    "Salamence"
+  ],
+  "prevo": "Bagon",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/shelgon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\372_shelgon.gif"
+}

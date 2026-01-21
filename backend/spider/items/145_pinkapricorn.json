@@ -1,0 +1,12 @@
+{
+  "id": 145,
+  "name": "粉球果",
+  "english": "Pink Apricorn",
+  "category": "球果",
+  "num": 145,
+  "spritenum": 145,
+  "desc": "粉红色的球果。有种甜甜的，好闻的香味。",
+  "shortDesc": "粉红色的球果。有种甜甜的，好闻的香味。",
+  "gen": 1,
+  "isPokeball": false
+}

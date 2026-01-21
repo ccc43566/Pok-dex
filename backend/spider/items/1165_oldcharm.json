@@ -1,0 +1,12 @@
+{
+  "id": 1165,
+  "name": "古代护符",
+  "english": "Old Charm",
+  "category": "重要物品",
+  "num": 1165,
+  "spritenum": 1165,
+  "desc": "要交给神和镇上长老的远古护符。由宝可梦的骨头制成。",
+  "shortDesc": "要交给神和镇上长老的远古护符。由宝可梦的骨头制成。",
+  "gen": 1,
+  "isPokeball": false
+}

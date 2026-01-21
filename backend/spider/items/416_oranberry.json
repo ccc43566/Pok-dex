@@ -1,0 +1,12 @@
+{
+  "id": 416,
+  "name": "Oran Berry",
+  "english": "oranberry",
+  "category": "道具",
+  "num": 416,
+  "spritenum": 319,
+  "desc": "Restores 10 HP when at 1/2 max HP or less. Single use.",
+  "shortDesc": "Restores 10 HP when at 1/2 max HP or less. Single use.",
+  "gen": 3,
+  "isPokeball": false
+}

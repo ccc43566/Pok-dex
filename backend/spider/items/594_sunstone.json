@@ -1,0 +1,12 @@
+{
+  "id": 594,
+  "name": "Sun Stone",
+  "english": "sunstone",
+  "category": "道具",
+  "num": 594,
+  "spritenum": 480,
+  "desc": "Evolves Gloom into Bellossom, Sunkern into Sunflora, Cottonee into Whimsicott, Petilil into Lilligant, and Helioptile into Heliolisk when used.",
+  "shortDesc": "Evolves certain species of Pokemon when used.",
+  "gen": 2,
+  "isPokeball": false
+}

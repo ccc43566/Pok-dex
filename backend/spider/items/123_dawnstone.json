@@ -1,0 +1,12 @@
+{
+  "id": 123,
+  "name": "Dawn Stone",
+  "english": "dawnstone",
+  "category": "道具",
+  "num": 123,
+  "spritenum": 92,
+  "desc": "Evolves male Kirlia into Gallade and female Snorunt into Froslass when used.",
+  "shortDesc": "Evolves certain species of Pokemon when used.",
+  "gen": 4,
+  "isPokeball": false
+}

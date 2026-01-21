@@ -1,0 +1,12 @@
+{
+  "id": 581,
+  "name": "南国贝壳",
+  "english": "Tropical Shell",
+  "category": "宝物",
+  "num": 581,
+  "spritenum": 581,
+  "desc": "美丽的白色贝壳。或许是从温暖的海域那里漂流到这里的。",
+  "shortDesc": "美丽的白色贝壳。或许是从温暖的海域那里漂流到这里的。",
+  "gen": 1,
+  "isPokeball": false
+}

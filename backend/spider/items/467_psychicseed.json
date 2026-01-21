@@ -1,0 +1,12 @@
+{
+  "id": 467,
+  "name": "Psychic Seed",
+  "english": "psychicseed",
+  "category": "道具",
+  "num": 467,
+  "spritenum": 665,
+  "desc": "If the terrain is Psychic Terrain, raises holder",
+  "shortDesc": "If the terrain is Psychic Terrain, raises holder",
+  "gen": 7,
+  "isPokeball": false
+}

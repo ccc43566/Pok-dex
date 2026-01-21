@@ -1,0 +1,12 @@
+{
+  "id": 1405,
+  "name": "捕捉碰碰",
+  "english": "Roto Catch",
+  "category": "道具",
+  "num": 1405,
+  "spritenum": 1405,
+  "desc": "洛托姆之力的一种，使用后，眼前的野生宝可梦会变得非常容易捕捉。",
+  "shortDesc": "洛托姆之力的一种，使用后，眼前的野生宝可梦会变得非常容易捕捉。",
+  "gen": 1,
+  "isPokeball": false
+}

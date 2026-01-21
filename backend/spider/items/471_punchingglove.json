@@ -1,0 +1,12 @@
+{
+  "id": 471,
+  "name": "Punching Glove",
+  "english": "punchingglove",
+  "category": "道具",
+  "num": 471,
+  "spritenum": 749,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 9,
+  "isPokeball": false
+}

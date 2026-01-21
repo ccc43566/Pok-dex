@@ -1,0 +1,12 @@
+{
+  "id": 69,
+  "name": "Bug Memory",
+  "english": "bugmemory",
+  "category": "道具",
+  "num": 69,
+  "spritenum": 673,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

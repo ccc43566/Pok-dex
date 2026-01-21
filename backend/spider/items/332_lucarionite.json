@@ -1,0 +1,12 @@
+{
+  "id": 332,
+  "name": "Lucarionite",
+  "english": "lucarionite",
+  "category": "道具",
+  "num": 332,
+  "spritenum": 594,
+  "desc": "If held by a Lucario, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Lucario, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

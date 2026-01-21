@@ -1,0 +1,32 @@
+{
+  "id": 2,
+  "name": "Ivysaur",
+  "type1": "Grass",
+  "type2": "Poison",
+  "hp": 60,
+  "attack": 62,
+  "defense": 63,
+  "sp_atk": 80,
+  "sp_def": 80,
+  "speed": 60,
+  "total": 405,
+  "abilities": [
+    "Overgrow",
+    "Chlorophyll"
+  ],
+  "height": 1.0,
+  "weight": 13.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Venusaur"
+  ],
+  "prevo": "Bulbasaur",
+  "evo_level": 16,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ivysaur.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\2_ivysaur.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 788,
+  "name": "TR84",
+  "english": "tr84",
+  "category": "道具",
+  "num": 788,
+  "spritenum": 731,
+  "desc": "Teaches certain Pokemon the move Scald. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Scald. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

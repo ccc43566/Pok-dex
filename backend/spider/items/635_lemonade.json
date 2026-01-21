@@ -1,0 +1,12 @@
+{
+  "id": 635,
+  "name": "果汁牛奶",
+  "english": "Lemonade",
+  "category": "回复",
+  "num": 635,
+  "spritenum": 635,
+  "desc": "非常香甜的牛奶。能让１只宝可梦回复７０ＨＰ。",
+  "shortDesc": "非常香甜的牛奶。能让１只宝可梦回复７０ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

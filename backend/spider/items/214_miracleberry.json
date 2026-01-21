@@ -1,0 +1,12 @@
+{
+  "id": 214,
+  "name": "奇迹的果实",
+  "english": "MiracleBerry",
+  "category": "道具",
+  "num": 214,
+  "spritenum": 214,
+  "desc": "携带后，可以治愈自己所有的异常状态。",
+  "shortDesc": "携带后，可以治愈自己所有的异常状态。",
+  "gen": 1,
+  "isPokeball": false
+}

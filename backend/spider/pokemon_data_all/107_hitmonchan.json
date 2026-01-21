@@ -1,0 +1,28 @@
+{
+  "id": 107,
+  "name": "Hitmonchan",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 50,
+  "attack": 105,
+  "defense": 79,
+  "sp_atk": 35,
+  "sp_def": 110,
+  "speed": 76,
+  "total": 455,
+  "abilities": [
+    "Keen Eye",
+    "Iron Fist",
+    "Inner Focus"
+  ],
+  "height": 1.4,
+  "weight": 50.2,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Tyrogue",
+  "evo_level": 20,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/hitmonchan.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\107_hitmonchan.gif"
+}

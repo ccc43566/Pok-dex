@@ -1,0 +1,12 @@
+{
+  "id": 68,
+  "name": "Buginium Z",
+  "english": "buginiumz",
+  "category": "道具",
+  "num": 68,
+  "spritenum": 642,
+  "desc": "If holder has a Bug move, this item allows it to use a Bug Z-Move.",
+  "shortDesc": "If holder has a Bug move, this item allows it to use a Bug Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

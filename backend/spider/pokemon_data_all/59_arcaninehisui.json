@@ -1,0 +1,31 @@
+{
+  "id": 59,
+  "name": "Arcanine-Hisui",
+  "type1": "Fire",
+  "type2": "Rock",
+  "hp": 95,
+  "attack": 115,
+  "defense": 80,
+  "sp_atk": 95,
+  "sp_def": 80,
+  "speed": 90,
+  "total": 555,
+  "abilities": [
+    "Intimidate",
+    "Flash Fire",
+    "Rock Head"
+  ],
+  "height": 2.0,
+  "weight": 168.0,
+  "gender_ratio": {
+    "M": 0.75,
+    "F": 0.25
+  },
+  "evos": [],
+  "prevo": "Growlithe-Hisui",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Fire Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/arcanine-hisui.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\59_arcanine-hisui.gif"
+}

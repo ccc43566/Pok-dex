@@ -1,0 +1,27 @@
+{
+  "id": 243,
+  "name": "Raikou",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 90,
+  "attack": 85,
+  "defense": 75,
+  "sp_atk": 115,
+  "sp_def": 100,
+  "speed": 115,
+  "total": 580,
+  "abilities": [
+    "Pressure",
+    "Inner Focus"
+  ],
+  "height": 1.9,
+  "weight": 178.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/raikou.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\243_raikou.gif"
+}

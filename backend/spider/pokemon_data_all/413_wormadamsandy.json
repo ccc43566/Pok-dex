@@ -1,0 +1,27 @@
+{
+  "id": 413,
+  "name": "Wormadam-Sandy",
+  "type1": "Bug",
+  "type2": "Ground",
+  "hp": 60,
+  "attack": 79,
+  "defense": 105,
+  "sp_atk": 59,
+  "sp_def": 85,
+  "speed": 36,
+  "total": 424,
+  "abilities": [
+    "Anticipation",
+    "Overcoat"
+  ],
+  "height": 0.5,
+  "weight": 6.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Burmy",
+  "evo_level": 20,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/wormadam-sandy.png",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\413_wormadam-sandy.png"
+}

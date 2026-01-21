@@ -1,0 +1,12 @@
+{
+  "id": 128,
+  "name": "Deep Sea Tooth",
+  "english": "deepseatooth",
+  "category": "道具",
+  "num": 128,
+  "spritenum": 94,
+  "desc": "If held by a Clamperl, its Sp. Atk is doubled. Evolves Clamperl into Huntail when traded.",
+  "shortDesc": "If held by a Clamperl, its Sp. Atk is doubled.",
+  "gen": 3,
+  "isPokeball": false
+}

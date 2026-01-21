@@ -1,0 +1,12 @@
+{
+  "id": 297,
+  "name": "Kasib Berry",
+  "english": "kasibberry",
+  "category": "道具",
+  "num": 297,
+  "spritenum": 233,
+  "desc": "Halves damage taken from a supereffective Ghost-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Ghost-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

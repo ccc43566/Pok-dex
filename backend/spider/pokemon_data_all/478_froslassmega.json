@@ -1,0 +1,27 @@
+{
+  "id": 478,
+  "name": "Froslass-Mega",
+  "type1": "Ice",
+  "type2": "Ghost",
+  "hp": 70,
+  "attack": 80,
+  "defense": 70,
+  "sp_atk": 140,
+  "sp_def": 100,
+  "speed": 120,
+  "total": 580,
+  "abilities": [
+    "Snow Cloak",
+    "Cursed Body"
+  ],
+  "height": 2.6,
+  "weight": 29.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/froslass-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\478_froslass-mega.gif"
+}

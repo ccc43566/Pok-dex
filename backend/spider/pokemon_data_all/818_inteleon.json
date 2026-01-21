@@ -1,0 +1,30 @@
+{
+  "id": 818,
+  "name": "Inteleon",
+  "type1": "Water",
+  "type2": null,
+  "hp": 70,
+  "attack": 85,
+  "defense": 65,
+  "sp_atk": 125,
+  "sp_def": 65,
+  "speed": 120,
+  "total": 530,
+  "abilities": [
+    "Torrent",
+    "Sniper"
+  ],
+  "height": 1.9,
+  "weight": 45.2,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Drizzile",
+  "evo_level": 35,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/inteleon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\818_inteleon.gif"
+}

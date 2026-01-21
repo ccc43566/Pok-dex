@@ -1,0 +1,12 @@
+{
+  "id": 370,
+  "name": "Mental Herb",
+  "english": "mentalherb",
+  "category": "道具",
+  "num": 370,
+  "spritenum": 285,
+  "desc": "Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment. Single use.",
+  "shortDesc": "Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment. Single use.",
+  "gen": 3,
+  "isPokeball": false
+}

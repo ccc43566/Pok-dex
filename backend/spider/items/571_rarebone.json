@@ -1,0 +1,12 @@
+{
+  "id": 571,
+  "name": "贵重骨头",
+  "english": "Rare Bone",
+  "category": "宝物",
+  "num": 571,
+  "spritenum": 571,
+  "desc": "在宝可梦考古学上非常贵重的骨头。可以在商店高价出售。",
+  "shortDesc": "在宝可梦考古学上非常贵重的骨头。可以在商店高价出售。",
+  "gen": 1,
+  "isPokeball": false
+}

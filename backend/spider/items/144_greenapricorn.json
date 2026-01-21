@@ -1,0 +1,12 @@
+{
+  "id": 144,
+  "name": "绿球果",
+  "english": "Green Apricorn",
+  "category": "球果",
+  "num": 144,
+  "spritenum": 144,
+  "desc": "绿色的球果。有种焦香的香味，非常神奇。",
+  "shortDesc": "绿色的球果。有种焦香的香味，非常神奇。",
+  "gen": 1,
+  "isPokeball": false
+}

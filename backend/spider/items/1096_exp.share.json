@@ -1,0 +1,12 @@
+{
+  "id": 1096,
+  "name": "学习装置",
+  "english": "Exp. Share",
+  "category": "重要物品",
+  "num": 1096,
+  "spritenum": 1096,
+  "desc": "打开开关后，能让同行的所有宝可梦获得经验值的装置。",
+  "shortDesc": "打开开关后，能让同行的所有宝可梦获得经验值的装置。",
+  "gen": 1,
+  "isPokeball": false
+}

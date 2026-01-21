@@ -1,0 +1,12 @@
+{
+  "id": 343,
+  "name": "大地膜",
+  "english": "Terrain Extender",
+  "category": "道具",
+  "num": 343,
+  "spritenum": 343,
+  "desc": "当携带它的宝可梦利用招式或特性展开场地时，场地的持续时间会比平时更长。",
+  "shortDesc": "当携带它的宝可梦利用招式或特性展开场地时，场地的持续时间会比平时更长。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1053,
+  "name": "沙鳞果",
+  "english": "Salac Berry",
+  "category": "树果",
+  "num": 1053,
+  "spritenum": 1053,
+  "desc": "让宝可梦携带后，危机时，自己的速度就会提高。",
+  "shortDesc": "让宝可梦携带后，危机时，自己的速度就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

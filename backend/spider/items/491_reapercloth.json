@@ -1,0 +1,12 @@
+{
+  "id": 491,
+  "name": "Reaper Cloth",
+  "english": "reapercloth",
+  "category": "道具",
+  "num": 491,
+  "spritenum": 385,
+  "desc": "Evolves Dusclops into Dusknoir when traded.",
+  "shortDesc": "Evolves Dusclops into Dusknoir when traded.",
+  "gen": 4,
+  "isPokeball": false
+}

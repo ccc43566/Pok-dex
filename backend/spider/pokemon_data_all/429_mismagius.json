@@ -1,0 +1,26 @@
+{
+  "id": 429,
+  "name": "Mismagius",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 60,
+  "attack": 60,
+  "defense": 60,
+  "sp_atk": 105,
+  "sp_def": 105,
+  "speed": 105,
+  "total": 495,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 0.9,
+  "weight": 4.4,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Misdreavus",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Dusk Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/mismagius.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\429_mismagius.gif"
+}

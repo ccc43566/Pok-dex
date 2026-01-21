@@ -1,0 +1,12 @@
+{
+  "id": 131,
+  "name": "Destiny Knot",
+  "english": "destinyknot",
+  "category": "道具",
+  "num": 131,
+  "spritenum": 95,
+  "desc": "If holder becomes infatuated, the other Pokemon also becomes infatuated.",
+  "shortDesc": "If holder becomes infatuated, the other Pokemon also becomes infatuated.",
+  "gen": 4,
+  "isPokeball": false
+}

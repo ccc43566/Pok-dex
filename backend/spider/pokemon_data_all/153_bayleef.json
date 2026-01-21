@@ -1,0 +1,32 @@
+{
+  "id": 153,
+  "name": "Bayleef",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 60,
+  "attack": 62,
+  "defense": 80,
+  "sp_atk": 63,
+  "sp_def": 80,
+  "speed": 60,
+  "total": 405,
+  "abilities": [
+    "Overgrow",
+    "Leaf Guard"
+  ],
+  "height": 1.2,
+  "weight": 15.8,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Meganium"
+  ],
+  "prevo": "Chikorita",
+  "evo_level": 16,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/bayleef.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\153_bayleef.gif"
+}

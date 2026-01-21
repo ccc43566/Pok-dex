@@ -1,0 +1,12 @@
+{
+  "id": 250,
+  "name": "剧毒石板",
+  "english": "Toxic Plate",
+  "category": "道具",
+  "num": 250,
+  "spritenum": 250,
+  "desc": "毒属性的石板。携带后，毒属性的招式威力就会增强。",
+  "shortDesc": "毒属性的石板。携带后，毒属性的招式威力就会增强。",
+  "gen": 1,
+  "isPokeball": false
+}

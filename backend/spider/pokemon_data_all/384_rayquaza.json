@@ -1,0 +1,26 @@
+{
+  "id": 384,
+  "name": "Rayquaza",
+  "type1": "Dragon",
+  "type2": "Flying",
+  "hp": 105,
+  "attack": 150,
+  "defense": 90,
+  "sp_atk": 150,
+  "sp_def": 90,
+  "speed": 95,
+  "total": 680,
+  "abilities": [
+    "Air Lock"
+  ],
+  "height": 7.0,
+  "weight": 206.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/rayquaza.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\384_rayquaza.gif"
+}

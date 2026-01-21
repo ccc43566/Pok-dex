@@ -1,0 +1,12 @@
+{
+  "id": 640,
+  "name": "TR10",
+  "english": "tr10",
+  "category": "道具",
+  "num": 640,
+  "spritenum": 725,
+  "desc": "Teaches certain Pokemon the move Earthquake. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Earthquake. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1000,
+  "name": "柿仔果",
+  "english": "Persim Berry",
+  "category": "树果",
+  "num": 1000,
+  "spritenum": 1000,
+  "desc": "让宝可梦携带后，可以治愈混乱。",
+  "shortDesc": "让宝可梦携带后，可以治愈混乱。",
+  "gen": 1,
+  "isPokeball": false
+}

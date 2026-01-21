@@ -1,0 +1,12 @@
+{
+  "id": 746,
+  "name": "TR63",
+  "english": "tr63",
+  "category": "道具",
+  "num": 746,
+  "spritenum": 726,
+  "desc": "Teaches certain Pokemon the move Power Gem. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Power Gem. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

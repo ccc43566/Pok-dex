@@ -1,0 +1,12 @@
+{
+  "id": 1187,
+  "name": "ＧＢ播放器",
+  "english": "GB Sounds",
+  "category": "重要物品",
+  "num": 1187,
+  "spritenum": 1187,
+  "desc": "可以听到怀旧歌曲的音乐播放器。可用一个开关切换歌曲。",
+  "shortDesc": "可以听到怀旧歌曲的音乐播放器。可用一个开关切换歌曲。",
+  "gen": 1,
+  "isPokeball": false
+}

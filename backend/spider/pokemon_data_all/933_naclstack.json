@@ -1,0 +1,30 @@
+{
+  "id": 933,
+  "name": "Naclstack",
+  "type1": "Rock",
+  "type2": null,
+  "hp": 60,
+  "attack": 60,
+  "defense": 100,
+  "sp_atk": 35,
+  "sp_def": 65,
+  "speed": 35,
+  "total": 355,
+  "abilities": [
+    "Purifying Salt",
+    "Sturdy",
+    "Clear Body"
+  ],
+  "height": 0.6,
+  "weight": 105.0,
+  "gender_ratio": {},
+  "evos": [
+    "Garganacl"
+  ],
+  "prevo": "Nacli",
+  "evo_level": 24,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/naclstack.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\933_naclstack.gif"
+}

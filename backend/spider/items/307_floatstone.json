@@ -1,0 +1,12 @@
+{
+  "id": 307,
+  "name": "轻石",
+  "english": "Float Stone",
+  "category": "道具",
+  "num": 307,
+  "spritenum": 307,
+  "desc": "非常轻的石头。携带后，宝可梦的体重会变轻。",
+  "shortDesc": "非常轻的石头。携带后，宝可梦的体重会变轻。",
+  "gen": 1,
+  "isPokeball": false
+}

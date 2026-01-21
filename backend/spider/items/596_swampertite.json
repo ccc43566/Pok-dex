@@ -1,0 +1,12 @@
+{
+  "id": 596,
+  "name": "Swampertite",
+  "english": "swampertite",
+  "category": "道具",
+  "num": 596,
+  "spritenum": 612,
+  "desc": "If held by a Swampert, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Swampert, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

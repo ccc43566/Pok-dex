@@ -1,0 +1,12 @@
+{
+  "id": 1107,
+  "name": "定期月票",
+  "english": "Pass",
+  "category": "重要物品",
+  "num": 1107,
+  "spritenum": 1107,
+  "desc": "可以搭乘列车。",
+  "shortDesc": "可以搭乘列车。",
+  "gen": 1,
+  "isPokeball": false
+}

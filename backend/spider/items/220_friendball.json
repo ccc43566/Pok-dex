@@ -1,0 +1,12 @@
+{
+  "id": 220,
+  "name": "Friend Ball",
+  "english": "friendball",
+  "category": "道具",
+  "num": 220,
+  "spritenum": 153,
+  "desc": "A Poke Ball that makes caught Pokemon more friendly.",
+  "shortDesc": "A Poke Ball that makes caught Pokemon more friendly.",
+  "gen": 2,
+  "isPokeball": true
+}

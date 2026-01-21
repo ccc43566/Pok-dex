@@ -1,0 +1,12 @@
+{
+  "id": 536,
+  "name": "挖洞钻",
+  "english": "Digger Drill",
+  "category": "宝物",
+  "num": 536,
+  "spritenum": 536,
+  "desc": "能够在墙上钻洞，以建造秘密基地的一次性钻头。",
+  "shortDesc": "能够在墙上钻洞，以建造秘密基地的一次性钻头。",
+  "gen": 1,
+  "isPokeball": false
+}

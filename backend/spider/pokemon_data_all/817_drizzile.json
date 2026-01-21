@@ -1,0 +1,32 @@
+{
+  "id": 817,
+  "name": "Drizzile",
+  "type1": "Water",
+  "type2": null,
+  "hp": 65,
+  "attack": 60,
+  "defense": 55,
+  "sp_atk": 95,
+  "sp_def": 55,
+  "speed": 90,
+  "total": 420,
+  "abilities": [
+    "Torrent",
+    "Sniper"
+  ],
+  "height": 0.7,
+  "weight": 11.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Inteleon"
+  ],
+  "prevo": "Sobble",
+  "evo_level": 16,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/drizzile.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\817_drizzile.gif"
+}

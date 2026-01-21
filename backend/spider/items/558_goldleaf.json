@@ -1,0 +1,12 @@
+{
+  "id": 558,
+  "name": "金色叶子",
+  "english": "Gold Leaf",
+  "category": "宝物",
+  "num": 558,
+  "spritenum": 558,
+  "desc": "神奇的金色叶子。至今仍未发现能长出这种叶子的树木。",
+  "shortDesc": "神奇的金色叶子。至今仍未发现能长出这种叶子的树木。",
+  "gen": 1,
+  "isPokeball": false
+}

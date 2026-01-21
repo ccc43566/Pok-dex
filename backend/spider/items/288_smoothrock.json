@@ -1,0 +1,12 @@
+{
+  "id": 288,
+  "name": "沙沙岩石",
+  "english": "Smooth Rock",
+  "category": "道具",
+  "num": 288,
+  "spritenum": 288,
+  "desc": "携带它的宝可梦使出沙暴的话，沙暴的时间就会比平时更长。",
+  "shortDesc": "携带它的宝可梦使出沙暴的话，沙暴的时间就会比平时更长。",
+  "gen": 1,
+  "isPokeball": false
+}

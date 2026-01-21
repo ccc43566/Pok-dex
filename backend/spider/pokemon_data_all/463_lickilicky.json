@@ -1,0 +1,28 @@
+{
+  "id": 463,
+  "name": "Lickilicky",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 110,
+  "attack": 85,
+  "defense": 95,
+  "sp_atk": 80,
+  "sp_def": 95,
+  "speed": 50,
+  "total": 515,
+  "abilities": [
+    "Own Tempo",
+    "Oblivious",
+    "Cloud Nine"
+  ],
+  "height": 1.7,
+  "weight": 140.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Lickitung",
+  "evo_level": null,
+  "evo_type": "levelMove",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/lickilicky.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\463_lickilicky.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 532,
+  "name": "飞羽球",
+  "english": "Feather Ball",
+  "category": "精灵球",
+  "num": 532,
+  "spritenum": 532,
+  "desc": "能直线高速飞行的球。在捕捉动作快速的宝可梦及飞在高空的宝可梦时十分有效。",
+  "shortDesc": "能直线高速飞行的球。在捕捉动作快速的宝可梦及飞在高空的宝可梦时十分有效。",
+  "gen": 1,
+  "isPokeball": false
+}

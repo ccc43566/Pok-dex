@@ -1,0 +1,12 @@
+{
+  "id": 216,
+  "name": "白色香草",
+  "english": "White Herb",
+  "category": "道具",
+  "num": 216,
+  "spritenum": 216,
+  "desc": "当携带它的宝可梦能力降低时，仅能回到之前的状态１次。",
+  "shortDesc": "当携带它的宝可梦能力降低时，仅能回到之前的状态１次。",
+  "gen": 1,
+  "isPokeball": false
+}

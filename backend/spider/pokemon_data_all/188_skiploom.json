@@ -1,0 +1,30 @@
+{
+  "id": 188,
+  "name": "Skiploom",
+  "type1": "Grass",
+  "type2": "Flying",
+  "hp": 55,
+  "attack": 45,
+  "defense": 50,
+  "sp_atk": 45,
+  "sp_def": 65,
+  "speed": 80,
+  "total": 340,
+  "abilities": [
+    "Chlorophyll",
+    "Leaf Guard",
+    "Infiltrator"
+  ],
+  "height": 0.6,
+  "weight": 1.0,
+  "gender_ratio": {},
+  "evos": [
+    "Jumpluff"
+  ],
+  "prevo": "Hoppip",
+  "evo_level": 18,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/skiploom.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\188_skiploom.gif"
+}

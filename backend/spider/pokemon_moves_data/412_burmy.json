@@ -1,0 +1,21 @@
+{
+  "id": 412,
+  "name": "burmy",
+  "level_up": [
+    "bugbite",
+    "hiddenpower",
+    "protect",
+    "tackle"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "hiddenpower",
+    "protect"
+  ],
+  "tutor_moves": [
+    "bugbite",
+    "electroweb",
+    "snore",
+    "stringshot"
+  ]
+}

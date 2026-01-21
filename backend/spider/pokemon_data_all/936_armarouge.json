@@ -1,0 +1,27 @@
+{
+  "id": 936,
+  "name": "Armarouge",
+  "type1": "Fire",
+  "type2": "Psychic",
+  "hp": 85,
+  "attack": 60,
+  "defense": 100,
+  "sp_atk": 125,
+  "sp_def": 80,
+  "speed": 75,
+  "total": 525,
+  "abilities": [
+    "Flash Fire",
+    "Weak Armor"
+  ],
+  "height": 1.5,
+  "weight": 85.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Charcadet",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Auspicious Armor",
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/armarouge.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\936_armarouge.gif"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 285,
+  "name": "Shroomish",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 60,
+  "attack": 40,
+  "defense": 60,
+  "sp_atk": 40,
+  "sp_def": 60,
+  "speed": 35,
+  "total": 295,
+  "abilities": [
+    "Effect Spore",
+    "Poison Heal",
+    "Quick Feet"
+  ],
+  "height": 0.4,
+  "weight": 4.5,
+  "gender_ratio": {},
+  "evos": [
+    "Breloom"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/shroomish.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\285_shroomish.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1077,
+  "name": "香罗果",
+  "english": "Maranga Berry",
+  "category": "树果",
+  "num": 1077,
+  "spritenum": 1077,
+  "desc": "让宝可梦携带后，在受到特殊招式攻击时，自己的特防就会提高。",
+  "shortDesc": "让宝可梦携带后，在受到特殊招式攻击时，自己的特防就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

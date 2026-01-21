@@ -1,0 +1,31 @@
+{
+  "id": 297,
+  "name": "Hariyama",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 144,
+  "attack": 120,
+  "defense": 60,
+  "sp_atk": 40,
+  "sp_def": 60,
+  "speed": 50,
+  "total": 474,
+  "abilities": [
+    "Thick Fat",
+    "Guts",
+    "Sheer Force"
+  ],
+  "height": 2.3,
+  "weight": 253.8,
+  "gender_ratio": {
+    "M": 0.75,
+    "F": 0.25
+  },
+  "evos": [],
+  "prevo": "Makuhita",
+  "evo_level": 24,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/hariyama.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\297_hariyama.gif"
+}

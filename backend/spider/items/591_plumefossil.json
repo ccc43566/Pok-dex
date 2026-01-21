@@ -1,0 +1,12 @@
+{
+  "id": 591,
+  "name": "羽毛化石",
+  "english": "Plume Fossil",
+  "category": "道具",
+  "num": 591,
+  "spritenum": 591,
+  "desc": "据说是鸟宝可梦的祖先，古代宝可梦的化石。好像是翅膀的一部分。",
+  "shortDesc": "据说是鸟宝可梦的祖先，古代宝可梦的化石。好像是翅膀的一部分。",
+  "gen": 1,
+  "isPokeball": false
+}

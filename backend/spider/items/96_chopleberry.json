@@ -1,0 +1,12 @@
+{
+  "id": 96,
+  "name": "Chople Berry",
+  "english": "chopleberry",
+  "category": "道具",
+  "num": 96,
+  "spritenum": 71,
+  "desc": "Halves damage taken from a supereffective Fighting-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Fighting-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

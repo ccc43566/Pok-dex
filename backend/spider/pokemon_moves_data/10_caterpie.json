@@ -1,0 +1,19 @@
+{
+  "id": 10,
+  "name": "caterpie",
+  "level_up": [
+    "bugbite",
+    "stringshot",
+    "tackle"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "electroweb"
+  ],
+  "tutor_moves": [
+    "bugbite",
+    "electroweb",
+    "snore",
+    "stringshot"
+  ]
+}

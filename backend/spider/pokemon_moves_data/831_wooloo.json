@@ -1,0 +1,44 @@
+{
+  "id": 831,
+  "name": "wooloo",
+  "level_up": [
+    "copycat",
+    "cottonguard",
+    "defensecurl",
+    "doubleedge",
+    "doublekick",
+    "growl",
+    "guardsplit",
+    "guardswap",
+    "headbutt",
+    "reversal",
+    "tackle",
+    "takedown"
+  ],
+  "egg_moves": [
+    "counter",
+    "stomp",
+    "swagger"
+  ],
+  "tm_moves": [
+    "agility",
+    "attract",
+    "electroball",
+    "endure",
+    "facade",
+    "guardswap",
+    "payback",
+    "protect",
+    "rest",
+    "reversal",
+    "round",
+    "sleeptalk",
+    "snore",
+    "substitute",
+    "thunderwave",
+    "wildcharge"
+  ],
+  "tutor_moves": [
+    "grassyglide"
+  ]
+}

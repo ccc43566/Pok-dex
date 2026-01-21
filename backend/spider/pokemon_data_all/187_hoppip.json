@@ -1,0 +1,30 @@
+{
+  "id": 187,
+  "name": "Hoppip",
+  "type1": "Grass",
+  "type2": "Flying",
+  "hp": 35,
+  "attack": 35,
+  "defense": 40,
+  "sp_atk": 35,
+  "sp_def": 55,
+  "speed": 50,
+  "total": 250,
+  "abilities": [
+    "Chlorophyll",
+    "Leaf Guard",
+    "Infiltrator"
+  ],
+  "height": 0.4,
+  "weight": 0.5,
+  "gender_ratio": {},
+  "evos": [
+    "Skiploom"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/hoppip.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\187_hoppip.gif"
+}

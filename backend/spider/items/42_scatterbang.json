@@ -1,0 +1,12 @@
+{
+  "id": 42,
+  "name": "声弹",
+  "english": "Scatter Bang",
+  "category": "道具",
+  "num": 42,
+  "spritenum": 42,
+  "desc": "丢向地面后会发出巨大的声响，将弱小的宝可梦赶走。",
+  "shortDesc": "丢向地面后会发出巨大的声响，将弱小的宝可梦赶走。",
+  "gen": 1,
+  "isPokeball": false
+}

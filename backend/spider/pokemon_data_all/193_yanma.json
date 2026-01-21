@@ -1,0 +1,30 @@
+{
+  "id": 193,
+  "name": "Yanma",
+  "type1": "Bug",
+  "type2": "Flying",
+  "hp": 65,
+  "attack": 65,
+  "defense": 45,
+  "sp_atk": 75,
+  "sp_def": 45,
+  "speed": 95,
+  "total": 390,
+  "abilities": [
+    "Speed Boost",
+    "Compound Eyes",
+    "Frisk"
+  ],
+  "height": 1.2,
+  "weight": 38.0,
+  "gender_ratio": {},
+  "evos": [
+    "Yanmega"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/yanma.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\193_yanma.gif"
+}

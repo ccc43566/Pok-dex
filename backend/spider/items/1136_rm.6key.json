@@ -1,0 +1,12 @@
+{
+  "id": 1136,
+  "name": "６号客房的钥匙",
+  "english": "Rm. 6 Key",
+  "category": "重要物品",
+  "num": 1136,
+  "spritenum": 1136,
+  "desc": "进入海紫堇的房间时所需的钥匙。",
+  "shortDesc": "进入海紫堇的房间时所需的钥匙。",
+  "gen": 1,
+  "isPokeball": false
+}

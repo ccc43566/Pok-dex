@@ -1,0 +1,12 @@
+{
+  "id": 36,
+  "name": "糯糯菇",
+  "english": "Springy Mushroom",
+  "category": "道具",
+  "num": 36,
+  "spritenum": 36,
+  "desc": "硕大而成熟的蘑菇。是怪兽类和龙类宝可梦喜爱的食物，能吸引它们聚集到投向的地方。",
+  "shortDesc": "硕大而成熟的蘑菇。是怪兽类和龙类宝可梦喜爱的食物，能吸引它们聚集到投向的地方。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 984,
+  "name": "Great Tusk",
+  "type1": "Ground",
+  "type2": "Fighting",
+  "hp": 115,
+  "attack": 131,
+  "defense": 131,
+  "sp_atk": 53,
+  "sp_def": 53,
+  "speed": 87,
+  "total": 570,
+  "abilities": [
+    "Protosynthesis"
+  ],
+  "height": 2.2,
+  "weight": 320.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/greattusk.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\984_greattusk.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 388,
+  "name": "Mind Plate",
+  "english": "mindplate",
+  "category": "道具",
+  "num": 388,
+  "spritenum": 291,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

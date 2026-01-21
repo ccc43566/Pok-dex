@@ -1,0 +1,12 @@
+{
+  "id": 571,
+  "name": "Spell Tag",
+  "english": "spelltag",
+  "category": "道具",
+  "num": 571,
+  "spritenum": 461,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

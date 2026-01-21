@@ -1,0 +1,12 @@
+{
+  "id": 556,
+  "name": "Skull Fossil",
+  "english": "skullfossil",
+  "category": "道具",
+  "num": 556,
+  "spritenum": 449,
+  "desc": "Can be revived into Cranidos.",
+  "shortDesc": "Can be revived into Cranidos.",
+  "gen": 4,
+  "isPokeball": false
+}

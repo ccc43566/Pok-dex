@@ -1,0 +1,12 @@
+{
+  "id": 1146,
+  "name": "茶",
+  "english": "Tea",
+  "category": "重要物品",
+  "num": 1146,
+  "spritenum": 1146,
+  "desc": "有一点点苦，却又芬芳宜人的香茶。抿一口，清咽润喉。",
+  "shortDesc": "有一点点苦，却又芬芳宜人的香茶。抿一口，清咽润喉。",
+  "gen": 1,
+  "isPokeball": false
+}

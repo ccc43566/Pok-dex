@@ -1,0 +1,12 @@
+{
+  "id": 180,
+  "name": "Fairy Feather",
+  "english": "fairyfeather",
+  "category": "道具",
+  "num": 180,
+  "spritenum": 754,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 9,
+  "isPokeball": false
+}

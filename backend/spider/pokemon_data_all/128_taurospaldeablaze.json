@@ -1,0 +1,28 @@
+{
+  "id": 128,
+  "name": "Tauros-Paldea-Blaze",
+  "type1": "Fighting",
+  "type2": "Fire",
+  "hp": 75,
+  "attack": 110,
+  "defense": 105,
+  "sp_atk": 30,
+  "sp_def": 70,
+  "speed": 100,
+  "total": 490,
+  "abilities": [
+    "Intimidate",
+    "Anger Point",
+    "Cud Chew"
+  ],
+  "height": 1.4,
+  "weight": 85.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/tauros-paldeablaze.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\128_tauros-paldeablaze.gif"
+}

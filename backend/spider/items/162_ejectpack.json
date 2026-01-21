@@ -1,0 +1,12 @@
+{
+  "id": 162,
+  "name": "Eject Pack",
+  "english": "ejectpack",
+  "category": "道具",
+  "num": 162,
+  "spritenum": 714,
+  "desc": "If the holder",
+  "shortDesc": "If the holder",
+  "gen": 8,
+  "isPokeball": false
+}

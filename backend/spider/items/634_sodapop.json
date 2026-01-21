@@ -1,0 +1,12 @@
+{
+  "id": 634,
+  "name": "劲爽汽水",
+  "english": "Soda Pop",
+  "category": "回复",
+  "num": 634,
+  "spritenum": 634,
+  "desc": "翻腾着气泡的汽水。能让１只宝可梦回复５０ＨＰ。",
+  "shortDesc": "翻腾着气泡的汽水。能让１只宝可梦回复５０ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

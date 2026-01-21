@@ -1,0 +1,12 @@
+{
+  "id": 862,
+  "name": "Zygardite",
+  "english": "zygardite",
+  "category": "道具",
+  "num": 862,
+  "spritenum": 568,
+  "desc": "If held by a Zygarde in Complete Forme, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Zygarde in Complete Forme, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

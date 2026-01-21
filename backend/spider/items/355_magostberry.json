@@ -1,0 +1,12 @@
+{
+  "id": 355,
+  "name": "Magost Berry",
+  "english": "magostberry",
+  "category": "道具",
+  "num": 355,
+  "spritenum": 275,
+  "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "gen": 3,
+  "isPokeball": false
+}

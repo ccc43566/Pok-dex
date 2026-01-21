@@ -1,0 +1,12 @@
+{
+  "id": 253,
+  "name": "神奇石板",
+  "english": "Mind Plate",
+  "category": "道具",
+  "num": 253,
+  "spritenum": 253,
+  "desc": "超能力属性的石板。携带后，超能力属性的招式威力就会增强。",
+  "shortDesc": "超能力属性的石板。携带后，超能力属性的招式威力就会增强。",
+  "gen": 1,
+  "isPokeball": false
+}

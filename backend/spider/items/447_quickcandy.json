@@ -1,0 +1,12 @@
+{
+  "id": 447,
+  "name": "敏捷糖果",
+  "english": "Quick Candy",
+  "category": "阿罗拉",
+  "num": 447,
+  "spritenum": 447,
+  "desc": "充满能量的糖果。能提高宝可梦的速度。",
+  "shortDesc": "充满能量的糖果。能提高宝可梦的速度。",
+  "gen": 1,
+  "isPokeball": false
+}

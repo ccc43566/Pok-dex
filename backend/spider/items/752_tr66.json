@@ -1,0 +1,12 @@
+{
+  "id": 752,
+  "name": "TR66",
+  "english": "tr66",
+  "category": "道具",
+  "num": 752,
+  "spritenum": 723,
+  "desc": "Teaches certain Pokemon the move Brave Bird. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Brave Bird. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

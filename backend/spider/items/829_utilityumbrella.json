@@ -1,0 +1,12 @@
+{
+  "id": 829,
+  "name": "Utility Umbrella",
+  "english": "utilityumbrella",
+  "category": "道具",
+  "num": 829,
+  "spritenum": 718,
+  "desc": "The holder ignores rain- and sun-based effects, including those of its Ability unless it is Orichalcum Pulse or Protosynthesis. Damage and accuracy calculations from attacks used by the holder are affected by rain and sun, but not attacks used against the holder.",
+  "shortDesc": "The holder ignores rain- and sun-based effects.",
+  "gen": 8,
+  "isPokeball": false
+}

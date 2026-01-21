@@ -1,0 +1,12 @@
+{
+  "id": 60,
+  "name": "智力之羽",
+  "english": "Genius Wing",
+  "category": "道具",
+  "num": 60,
+  "spritenum": 60,
+  "desc": "用于宝可梦的道具。能稍微提高１只宝可梦的特攻的基础点数。",
+  "shortDesc": "用于宝可梦的道具。能稍微提高１只宝可梦的特攻的基础点数。",
+  "gen": 1,
+  "isPokeball": false
+}

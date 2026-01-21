@@ -1,0 +1,12 @@
+{
+  "id": 265,
+  "name": "Heal Ball",
+  "english": "healball",
+  "category": "道具",
+  "num": 265,
+  "spritenum": 188,
+  "desc": "A remedial Poke Ball that restores the caught Pokemon",
+  "shortDesc": "A remedial Poke Ball that restores the caught Pokemon",
+  "gen": 4,
+  "isPokeball": true
+}

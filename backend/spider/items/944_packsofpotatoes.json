@@ -1,0 +1,12 @@
+{
+  "id": 944,
+  "name": "袋装土豆",
+  "english": "Packs of Potatoes",
+  "category": "皮卡丘",
+  "num": 944,
+  "spritenum": 944,
+  "desc": "在露营营地制作料理时会使用的一种食材。土豆能中和辣味，使整道料理的滋味变得柔和。",
+  "shortDesc": "在露营营地制作料理时会使用的一种食材。土豆能中和辣味，使整道料理的滋味变得柔和。",
+  "gen": 1,
+  "isPokeball": false
+}

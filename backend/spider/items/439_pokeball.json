@@ -1,0 +1,12 @@
+{
+  "id": 439,
+  "name": "Poke Ball",
+  "english": "pokeball",
+  "category": "道具",
+  "num": 439,
+  "spritenum": 345,
+  "desc": "A device for catching wild Pokemon. It is designed as a capsule system.",
+  "shortDesc": "A device for catching wild Pokemon. It is designed as a capsule system.",
+  "gen": 1,
+  "isPokeball": true
+}

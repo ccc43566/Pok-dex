@@ -1,0 +1,32 @@
+{
+  "id": 159,
+  "name": "Croconaw",
+  "type1": "Water",
+  "type2": null,
+  "hp": 65,
+  "attack": 80,
+  "defense": 80,
+  "sp_atk": 59,
+  "sp_def": 63,
+  "speed": 58,
+  "total": 405,
+  "abilities": [
+    "Torrent",
+    "Sheer Force"
+  ],
+  "height": 1.1,
+  "weight": 25.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Feraligatr"
+  ],
+  "prevo": "Totodile",
+  "evo_level": 18,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/croconaw.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\159_croconaw.gif"
+}

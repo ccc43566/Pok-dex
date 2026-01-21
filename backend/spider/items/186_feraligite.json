@@ -1,0 +1,12 @@
+{
+  "id": 186,
+  "name": "Feraligite",
+  "english": "feraligite",
+  "category": "道具",
+  "num": 186,
+  "spritenum": 549,
+  "desc": "If held by a Feraligatr, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Feraligatr, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

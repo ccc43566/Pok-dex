@@ -1,0 +1,12 @@
+{
+  "id": 1029,
+  "name": "刺角果",
+  "english": "Spelon Berry",
+  "category": "树果",
+  "num": 1029,
+  "spritenum": 1029,
+  "desc": "用于制作宝可方块，制作出来的宝可方块可用来打磨可爱。在其他地区很少见的树果。",
+  "shortDesc": "用于制作宝可方块，制作出来的宝可方块可用来打磨可爱。在其他地区很少见的树果。",
+  "gen": 1,
+  "isPokeball": false
+}

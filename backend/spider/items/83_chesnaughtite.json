@@ -1,0 +1,12 @@
+{
+  "id": 83,
+  "name": "Chesnaughtite",
+  "english": "chesnaughtite",
+  "category": "道具",
+  "num": 83,
+  "spritenum": 558,
+  "desc": "If held by a Chesnaught, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Chesnaught, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

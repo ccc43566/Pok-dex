@@ -1,0 +1,28 @@
+{
+  "id": 518,
+  "name": "Musharna",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 116,
+  "attack": 55,
+  "defense": 85,
+  "sp_atk": 107,
+  "sp_def": 95,
+  "speed": 29,
+  "total": 487,
+  "abilities": [
+    "Forewarn",
+    "Synchronize",
+    "Telepathy"
+  ],
+  "height": 1.1,
+  "weight": 60.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Munna",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Moon Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/musharna.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\518_musharna.gif"
+}

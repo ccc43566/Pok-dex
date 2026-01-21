@@ -1,0 +1,12 @@
+{
+  "id": 616,
+  "name": "颠倒烧",
+  "english": "Swap Snack",
+  "category": "战斗道具",
+  "num": 616,
+  "spritenum": 616,
+  "desc": "不可思议的食物。使用后可让宝可梦的进攻力和防守力暂时互换。",
+  "shortDesc": "不可思议的食物。使用后可让宝可梦的进攻力和防守力暂时互换。",
+  "gen": 1,
+  "isPokeball": false
+}

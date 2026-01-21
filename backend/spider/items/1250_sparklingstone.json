@@ -1,0 +1,12 @@
+{
+  "id": 1250,
+  "name": "光辉石",
+  "english": "Sparkling Stone",
+  "category": "重要物品",
+  "num": 1250,
+  "spritenum": 1250,
+  "desc": "从被认为是阿罗拉守护神的宝可梦那里得到的石头。据说其光辉下有着某种秘密。",
+  "shortDesc": "从被认为是阿罗拉守护神的宝可梦那里得到的石头。据说其光辉下有着某种秘密。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 186,
+  "name": "黑带",
+  "english": "Black Belt",
+  "category": "道具",
+  "num": 186,
+  "spritenum": 186,
+  "desc": "能振作精神的带子。携带后，格斗属性的招式威力就会提高。",
+  "shortDesc": "能振作精神的带子。携带后，格斗属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

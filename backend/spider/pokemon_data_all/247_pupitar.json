@@ -1,0 +1,28 @@
+{
+  "id": 247,
+  "name": "Pupitar",
+  "type1": "Rock",
+  "type2": "Ground",
+  "hp": 70,
+  "attack": 84,
+  "defense": 70,
+  "sp_atk": 65,
+  "sp_def": 70,
+  "speed": 51,
+  "total": 410,
+  "abilities": [
+    "Shed Skin"
+  ],
+  "height": 1.2,
+  "weight": 152.0,
+  "gender_ratio": {},
+  "evos": [
+    "Tyranitar"
+  ],
+  "prevo": "Larvitar",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/pupitar.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\247_pupitar.gif"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 718,
+  "name": "Zygarde-10%",
+  "type1": "Dragon",
+  "type2": "Ground",
+  "hp": 54,
+  "attack": 100,
+  "defense": 71,
+  "sp_atk": 61,
+  "sp_def": 85,
+  "speed": 115,
+  "total": 486,
+  "abilities": [
+    "Aura Break"
+  ],
+  "height": 1.2,
+  "weight": 33.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/zygarde-10.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\718_zygarde-10.gif"
+}

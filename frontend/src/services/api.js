@@ -29,14 +29,14 @@ api.interceptors.response.use(
     console.error('API Error:', error)
     if (error.response) {
       // 服务器返回错误状态码
-      const message = error.response.data.detail || '请求失败'
+      const message = error.response.data.detail || error.response.data.message || '请求失败'
       throw new Error(message)
     } else if (error.request) {
       // 网络错误
       throw new Error('网络连接失败，请检查后端服务是否运行')
     } else {
       // 其他错误
-      throw new Error(error.message)
+      throw new Error(error.message || '未知错误')
     }
   }
 )
@@ -56,6 +56,21 @@ export const pokemonAPI = {
   // 搜索宝可梦
   searchPokemon(name) {
     return api.get(`/pokemon/search/${name}`)
+  },
+
+  // 获取宝可梦进化信息
+  getPokemonEvolutions(id) {
+    return api.get(`/pokemon/${id}/evolutions`)
+  },
+
+  // 获取物品列表
+  getItems(params = {}) {
+    return api.get('/items', { params })
+  },
+
+  // 获取技能列表
+  getMoves(params = {}) {
+    return api.get('/moves', { params })
   },
 
   // 获取统计信息

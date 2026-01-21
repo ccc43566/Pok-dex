@@ -1,0 +1,12 @@
+{
+  "id": 233,
+  "name": "涟漪薰香",
+  "english": "Wave Incense",
+  "category": "道具",
+  "num": 233,
+  "spritenum": 233,
+  "desc": "有着神奇香气的薰香。携带后，水属性的招式威力就会提高。",
+  "shortDesc": "有着神奇香气的薰香。携带后，水属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

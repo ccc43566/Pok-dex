@@ -1,0 +1,12 @@
+{
+  "id": 455,
+  "name": "力量糖果XL",
+  "english": "Mighty Candy XL",
+  "category": "阿罗拉",
+  "num": 455,
+  "spritenum": 455,
+  "desc": "充满能量的超大糖果。能让等级60以上的宝可梦的攻击上升。",
+  "shortDesc": "充满能量的超大糖果。能让等级60以上的宝可梦的攻击上升。",
+  "gen": 1,
+  "isPokeball": false
+}

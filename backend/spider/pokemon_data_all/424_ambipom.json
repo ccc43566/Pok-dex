@@ -1,0 +1,28 @@
+{
+  "id": 424,
+  "name": "Ambipom",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 75,
+  "attack": 100,
+  "defense": 66,
+  "sp_atk": 60,
+  "sp_def": 66,
+  "speed": 115,
+  "total": 482,
+  "abilities": [
+    "Technician",
+    "Pickup",
+    "Skill Link"
+  ],
+  "height": 1.2,
+  "weight": 20.3,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Aipom",
+  "evo_level": null,
+  "evo_type": "levelMove",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ambipom.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\424_ambipom.gif"
+}

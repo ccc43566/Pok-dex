@@ -1,0 +1,28 @@
+{
+  "id": 609,
+  "name": "Chandelure",
+  "type1": "Ghost",
+  "type2": "Fire",
+  "hp": 60,
+  "attack": 55,
+  "defense": 90,
+  "sp_atk": 145,
+  "sp_def": 90,
+  "speed": 80,
+  "total": 520,
+  "abilities": [
+    "Flash Fire",
+    "Flame Body",
+    "Infiltrator"
+  ],
+  "height": 1.0,
+  "weight": 34.3,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Lampent",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Dusk Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/chandelure.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\609_chandelure.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 364,
+  "name": "Masterpiece Teacup",
+  "english": "masterpieceteacup",
+  "category": "道具",
+  "num": 364,
+  "spritenum": 757,
+  "desc": "Evolves Poltchageist-Artisan into Sinistcha-Masterpiece when used.",
+  "shortDesc": "Evolves Poltchageist-Artisan into Sinistcha-Masterpiece when used.",
+  "gen": 9,
+  "isPokeball": false
+}

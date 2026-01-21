@@ -1,0 +1,25 @@
+{
+  "id": 807,
+  "name": "Zeraora-Mega",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 88,
+  "attack": 157,
+  "defense": 75,
+  "sp_atk": 147,
+  "sp_def": 80,
+  "speed": 153,
+  "total": 700,
+  "abilities": [
+    "Volt Absorb"
+  ],
+  "height": 1.5,
+  "weight": 44.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/zeraora-mega.png"
+}

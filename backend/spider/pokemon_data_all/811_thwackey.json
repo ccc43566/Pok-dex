@@ -1,0 +1,32 @@
+{
+  "id": 811,
+  "name": "Thwackey",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 70,
+  "attack": 85,
+  "defense": 70,
+  "sp_atk": 55,
+  "sp_def": 60,
+  "speed": 80,
+  "total": 420,
+  "abilities": [
+    "Overgrow",
+    "Grassy Surge"
+  ],
+  "height": 0.7,
+  "weight": 14.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Rillaboom"
+  ],
+  "prevo": "Grookey",
+  "evo_level": 16,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/thwackey.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\811_thwackey.gif"
+}

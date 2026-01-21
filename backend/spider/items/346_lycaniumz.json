@@ -1,0 +1,12 @@
+{
+  "id": 346,
+  "name": "Lycanium Z",
+  "english": "lycaniumz",
+  "category": "道具",
+  "num": 346,
+  "spritenum": 689,
+  "desc": "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.",
+  "shortDesc": "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.",
+  "gen": 7,
+  "isPokeball": false
+}

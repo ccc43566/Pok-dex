@@ -1,0 +1,12 @@
+{
+  "id": 68,
+  "name": "勇敢薄荷",
+  "english": "Brave Mint",
+  "category": "道具",
+  "num": 68,
+  "spritenum": 68,
+  "desc": "宝可梦闻了这种薄荷之后，会令攻击容易提高，而速度则难以提高。",
+  "shortDesc": "宝可梦闻了这种薄荷之后，会令攻击容易提高，而速度则难以提高。",
+  "gen": 1,
+  "isPokeball": false
+}

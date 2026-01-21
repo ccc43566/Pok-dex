@@ -1,0 +1,12 @@
+{
+  "id": 137,
+  "name": "Douse Drive",
+  "english": "dousedrive",
+  "category": "道具",
+  "num": 137,
+  "spritenum": 103,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

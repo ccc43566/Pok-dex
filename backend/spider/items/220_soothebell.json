@@ -1,0 +1,12 @@
+{
+  "id": 220,
+  "name": "安抚之铃",
+  "english": "Soothe Bell",
+  "category": "道具",
+  "num": 220,
+  "spritenum": 220,
+  "desc": "音色悦耳的铃铛。携带它的宝可梦会受到安抚，变得容易和训练家亲密。",
+  "shortDesc": "音色悦耳的铃铛。携带它的宝可梦会受到安抚，变得容易和训练家亲密。",
+  "gen": 1,
+  "isPokeball": false
+}

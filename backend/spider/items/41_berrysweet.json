@@ -1,0 +1,12 @@
+{
+  "id": 41,
+  "name": "Berry Sweet",
+  "english": "berrysweet",
+  "category": "道具",
+  "num": 41,
+  "spritenum": 706,
+  "desc": "Evolves Milcery into Alcremie when held and spun around.",
+  "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
+  "gen": 8,
+  "isPokeball": false
+}

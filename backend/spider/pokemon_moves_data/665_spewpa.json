@@ -1,0 +1,22 @@
+{
+  "id": 665,
+  "name": "spewpa",
+  "level_up": [
+    "harden",
+    "protect"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "bugbite",
+    "irondefense",
+    "pounce",
+    "protect",
+    "strugglebug",
+    "terablast"
+  ],
+  "tutor_moves": [
+    "bugbite",
+    "electroweb",
+    "irondefense"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 870,
+  "name": "Falinks-Mega",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 65,
+  "attack": 135,
+  "defense": 135,
+  "sp_atk": 70,
+  "sp_def": 65,
+  "speed": 100,
+  "total": 570,
+  "abilities": [
+    "Battle Armor",
+    "Defiant"
+  ],
+  "height": 1.6,
+  "weight": 99.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/falinks-mega.png"
+}

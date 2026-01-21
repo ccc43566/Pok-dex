@@ -1,0 +1,12 @@
+{
+  "id": 322,
+  "name": "Light Ball",
+  "english": "lightball",
+  "category": "道具",
+  "num": 322,
+  "spritenum": 251,
+  "desc": "If held by a Pikachu, its Attack and Sp. Atk are doubled.",
+  "shortDesc": "If held by a Pikachu, its Attack and Sp. Atk are doubled.",
+  "gen": 2,
+  "isPokeball": false
+}

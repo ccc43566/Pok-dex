@@ -1,0 +1,30 @@
+{
+  "id": 864,
+  "name": "Cursola",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 60,
+  "attack": 95,
+  "defense": 50,
+  "sp_atk": 145,
+  "sp_def": 130,
+  "speed": 30,
+  "total": 510,
+  "abilities": [
+    "Weak Armor",
+    "Perish Body"
+  ],
+  "height": 1.0,
+  "weight": 0.4,
+  "gender_ratio": {
+    "M": 0.25,
+    "F": 0.75
+  },
+  "evos": [],
+  "prevo": "Corsola-Galar",
+  "evo_level": 38,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/cursola.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\864_cursola.gif"
+}

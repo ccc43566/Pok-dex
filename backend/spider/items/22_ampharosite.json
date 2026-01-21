@@ -1,0 +1,12 @@
+{
+  "id": 22,
+  "name": "Ampharosite",
+  "english": "ampharosite",
+  "category": "道具",
+  "num": 22,
+  "spritenum": 580,
+  "desc": "If held by an Ampharos, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by an Ampharos, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

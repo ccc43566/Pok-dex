@@ -1,0 +1,27 @@
+{
+  "id": 442,
+  "name": "Spiritomb",
+  "type1": "Ghost",
+  "type2": "Dark",
+  "hp": 50,
+  "attack": 92,
+  "defense": 108,
+  "sp_atk": 92,
+  "sp_def": 108,
+  "speed": 35,
+  "total": 485,
+  "abilities": [
+    "Pressure",
+    "Infiltrator"
+  ],
+  "height": 1.0,
+  "weight": 108.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/spiritomb.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\442_spiritomb.gif"
+}

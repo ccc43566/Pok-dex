@@ -1,0 +1,33 @@
+{
+  "id": 446,
+  "name": "Munchlax",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 135,
+  "attack": 85,
+  "defense": 40,
+  "sp_atk": 40,
+  "sp_def": 85,
+  "speed": 5,
+  "total": 390,
+  "abilities": [
+    "Pickup",
+    "Thick Fat",
+    "Gluttony"
+  ],
+  "height": 0.6,
+  "weight": 105.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Snorlax"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/munchlax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\446_munchlax.gif"
+}

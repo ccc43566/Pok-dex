@@ -1,0 +1,12 @@
+{
+  "id": 1227,
+  "name": "得文潜水装备",
+  "english": "Devon Scuba Gear",
+  "category": "重要物品",
+  "num": 1227,
+  "spritenum": 1227,
+  "desc": "潜水时装备在身上用来呼吸氧气的面罩。得文制造。",
+  "shortDesc": "潜水时装备在身上用来呼吸氧气的面罩。得文制造。",
+  "gen": 1,
+  "isPokeball": false
+}

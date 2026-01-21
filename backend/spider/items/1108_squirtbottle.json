@@ -1,0 +1,12 @@
+{
+  "id": 1108,
+  "name": "杰尼龟喷壶",
+  "english": "Squirt Bottle",
+  "category": "重要物品",
+  "num": 1108,
+  "spritenum": 1108,
+  "desc": "浇水的道具。能让树果种植盆里的树果快快长大。",
+  "shortDesc": "浇水的道具。能让树果种植盆里的树果快快长大。",
+  "gen": 1,
+  "isPokeball": false
+}

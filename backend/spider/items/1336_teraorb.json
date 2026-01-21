@@ -1,0 +1,12 @@
+{
+  "id": 1336,
+  "name": "太晶珠",
+  "english": "Tera Orb",
+  "category": "重要物品",
+  "num": 1336,
+  "spritenum": 1336,
+  "desc": "蕴藏着结晶之力的宝珠。经过蓄能之后，能够让宝可梦太晶化。",
+  "shortDesc": "蕴藏着结晶之力的宝珠。经过蓄能之后，能够让宝可梦太晶化。",
+  "gen": 1,
+  "isPokeball": false
+}

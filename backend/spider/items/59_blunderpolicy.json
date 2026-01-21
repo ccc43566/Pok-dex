@@ -1,0 +1,12 @@
+{
+  "id": 59,
+  "name": "Blunder Policy",
+  "english": "blunderpolicy",
+  "category": "道具",
+  "num": 59,
+  "spritenum": 716,
+  "desc": "If the holder misses due to accuracy, its Speed is raised by 2 stages. Single use.",
+  "shortDesc": "If the holder misses due to accuracy, its Speed is raised by 2 stages. Single use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 394,
+  "name": "Prinplup",
+  "type1": "Water",
+  "type2": null,
+  "hp": 64,
+  "attack": 66,
+  "defense": 68,
+  "sp_atk": 81,
+  "sp_def": 76,
+  "speed": 50,
+  "total": 405,
+  "abilities": [
+    "Torrent",
+    "Competitive"
+  ],
+  "height": 0.8,
+  "weight": 23.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Empoleon"
+  ],
+  "prevo": "Piplup",
+  "evo_level": 16,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/prinplup.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\394_prinplup.gif"
+}

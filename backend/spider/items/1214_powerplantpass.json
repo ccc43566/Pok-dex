@@ -1,0 +1,12 @@
+{
+  "id": 1214,
+  "name": "发电厂通行证",
+  "english": "Power Plant Pass",
+  "category": "重要物品",
+  "num": 1214,
+  "spritenum": 1214,
+  "desc": "该通行证可用作进入１３号道路上的发电厂时所需的身份证明。",
+  "shortDesc": "该通行证可用作进入１３号道路上的发电厂时所需的身份证明。",
+  "gen": 1,
+  "isPokeball": false
+}

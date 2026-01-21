@@ -1,0 +1,27 @@
+{
+  "id": 855,
+  "name": "Polteageist-Antique",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 60,
+  "attack": 65,
+  "defense": 65,
+  "sp_atk": 134,
+  "sp_def": 114,
+  "speed": 70,
+  "total": 508,
+  "abilities": [
+    "Weak Armor",
+    "Cursed Body"
+  ],
+  "height": 0.2,
+  "weight": 0.4,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Sinistea-Antique",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Chipped Pot",
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/polteageist-antique.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\855_polteageist-antique.gif"
+}

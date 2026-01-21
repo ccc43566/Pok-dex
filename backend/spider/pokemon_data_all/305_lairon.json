@@ -1,0 +1,30 @@
+{
+  "id": 305,
+  "name": "Lairon",
+  "type1": "Steel",
+  "type2": "Rock",
+  "hp": 60,
+  "attack": 90,
+  "defense": 140,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "speed": 40,
+  "total": 430,
+  "abilities": [
+    "Sturdy",
+    "Rock Head",
+    "Heavy Metal"
+  ],
+  "height": 0.9,
+  "weight": 120.0,
+  "gender_ratio": {},
+  "evos": [
+    "Aggron"
+  ],
+  "prevo": "Aron",
+  "evo_level": 32,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/lairon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\305_lairon.gif"
+}

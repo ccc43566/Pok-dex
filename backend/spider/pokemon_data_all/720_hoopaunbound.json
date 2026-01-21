@@ -1,0 +1,26 @@
+{
+  "id": 720,
+  "name": "Hoopa-Unbound",
+  "type1": "Psychic",
+  "type2": "Dark",
+  "hp": 80,
+  "attack": 160,
+  "defense": 60,
+  "sp_atk": 170,
+  "sp_def": 130,
+  "speed": 80,
+  "total": 680,
+  "abilities": [
+    "Magician"
+  ],
+  "height": 6.5,
+  "weight": 490.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/hoopa-unbound.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\720_hoopa-unbound.gif"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 352,
+  "name": "Kecleon",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 60,
+  "attack": 90,
+  "defense": 70,
+  "sp_atk": 60,
+  "sp_def": 120,
+  "speed": 40,
+  "total": 440,
+  "abilities": [
+    "Color Change",
+    "Protean"
+  ],
+  "height": 1.0,
+  "weight": 22.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/kecleon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\352_kecleon.gif"
+}

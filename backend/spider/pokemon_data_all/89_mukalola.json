@@ -1,0 +1,28 @@
+{
+  "id": 89,
+  "name": "Muk-Alola",
+  "type1": "Poison",
+  "type2": "Dark",
+  "hp": 105,
+  "attack": 105,
+  "defense": 75,
+  "sp_atk": 65,
+  "sp_def": 100,
+  "speed": 50,
+  "total": 500,
+  "abilities": [
+    "Poison Touch",
+    "Gluttony",
+    "Power of Alchemy"
+  ],
+  "height": 1.0,
+  "weight": 52.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Grimer-Alola",
+  "evo_level": 38,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/muk-alola.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\89_muk-alola.gif"
+}

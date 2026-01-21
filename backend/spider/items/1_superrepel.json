@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "白银喷雾",
+  "english": "Super Repel",
+  "category": "道具",
+  "num": 1,
+  "spritenum": 1,
+  "desc": "弱小的野生宝可梦将完全不会出现。效果比除虫喷雾更持久。",
+  "shortDesc": "弱小的野生宝可梦将完全不会出现。效果比除虫喷雾更持久。",
+  "gen": 1,
+  "isPokeball": false
+}

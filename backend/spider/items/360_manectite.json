@@ -1,0 +1,12 @@
+{
+  "id": 360,
+  "name": "Manectite",
+  "english": "manectite",
+  "category": "道具",
+  "num": 360,
+  "spritenum": 596,
+  "desc": "If held by a Manectric, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Manectric, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

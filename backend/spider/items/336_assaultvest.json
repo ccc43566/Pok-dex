@@ -1,0 +1,12 @@
+{
+  "id": 336,
+  "name": "突击背心",
+  "english": "Assault Vest",
+  "category": "道具",
+  "num": 336,
+  "spritenum": 336,
+  "desc": "会变得富有攻击性的背心。虽然携带后特防会提高，但会无法使出变化招式。",
+  "shortDesc": "会变得富有攻击性的背心。虽然携带后特防会提高，但会无法使出变化招式。",
+  "gen": 1,
+  "isPokeball": false
+}

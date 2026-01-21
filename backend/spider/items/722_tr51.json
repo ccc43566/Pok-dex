@@ -1,0 +1,12 @@
+{
+  "id": 722,
+  "name": "TR51",
+  "english": "tr51",
+  "category": "道具",
+  "num": 722,
+  "spritenum": 736,
+  "desc": "Teaches certain Pokemon the move Dragon Dance. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Dragon Dance. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

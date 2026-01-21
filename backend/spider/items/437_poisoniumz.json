@@ -1,0 +1,12 @@
+{
+  "id": 437,
+  "name": "Poisonium Z",
+  "english": "poisoniumz",
+  "category": "道具",
+  "num": 437,
+  "spritenum": 638,
+  "desc": "If holder has a Poison move, this item allows it to use a Poison Z-Move.",
+  "shortDesc": "If holder has a Poison move, this item allows it to use a Poison Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

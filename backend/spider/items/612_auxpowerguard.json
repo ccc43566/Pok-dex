@@ -1,0 +1,12 @@
+{
+  "id": 612,
+  "name": "多重强化",
+  "english": "Aux Powerguard",
+  "category": "战斗道具",
+  "num": 612,
+  "spritenum": 612,
+  "desc": "大大提高战斗中宝可梦进攻力和防守力的道具。离场后，效果便会消失。",
+  "shortDesc": "大大提高战斗中宝可梦进攻力和防守力的道具。离场后，效果便会消失。",
+  "gen": 1,
+  "isPokeball": false
+}

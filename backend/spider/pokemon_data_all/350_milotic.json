@@ -1,0 +1,28 @@
+{
+  "id": 350,
+  "name": "Milotic",
+  "type1": "Water",
+  "type2": null,
+  "hp": 95,
+  "attack": 60,
+  "defense": 79,
+  "sp_atk": 100,
+  "sp_def": 125,
+  "speed": 81,
+  "total": 540,
+  "abilities": [
+    "Marvel Scale",
+    "Competitive",
+    "Cute Charm"
+  ],
+  "height": 6.2,
+  "weight": 162.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Feebas",
+  "evo_level": null,
+  "evo_type": "trade",
+  "evo_item": "Prism Scale",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/milotic.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\350_milotic.gif"
+}

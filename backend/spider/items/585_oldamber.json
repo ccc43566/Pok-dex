@@ -1,0 +1,12 @@
+{
+  "id": 585,
+  "name": "秘密琥珀",
+  "english": "Old Amber",
+  "category": "道具",
+  "num": 585,
+  "spritenum": 585,
+  "desc": "封存着古代宝可梦遗传基因的琥珀，透着点红色。",
+  "shortDesc": "封存着古代宝可梦遗传基因的琥珀，透着点红色。",
+  "gen": 1,
+  "isPokeball": false
+}

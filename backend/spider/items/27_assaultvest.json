@@ -1,0 +1,12 @@
+{
+  "id": 27,
+  "name": "Assault Vest",
+  "english": "assaultvest",
+  "category": "道具",
+  "num": 27,
+  "spritenum": 581,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 6,
+  "isPokeball": false
+}

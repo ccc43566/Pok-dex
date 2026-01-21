@@ -1,0 +1,30 @@
+{
+  "id": 699,
+  "name": "Aurorus",
+  "type1": "Rock",
+  "type2": "Ice",
+  "hp": 123,
+  "attack": 77,
+  "defense": 72,
+  "sp_atk": 99,
+  "sp_def": 92,
+  "speed": 58,
+  "total": 521,
+  "abilities": [
+    "Refrigerate",
+    "Snow Warning"
+  ],
+  "height": 2.7,
+  "weight": 225.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Amaura",
+  "evo_level": 39,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/aurorus.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\699_aurorus.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 174,
+  "name": "不变之石",
+  "english": "Everstone",
+  "category": "道具",
+  "num": 174,
+  "spritenum": 174,
+  "desc": "携带后，宝可梦在此期间不会进化的神奇石头。",
+  "shortDesc": "携带后，宝可梦在此期间不会进化的神奇石头。",
+  "gen": 1,
+  "isPokeball": false
+}

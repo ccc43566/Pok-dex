@@ -1,0 +1,30 @@
+{
+  "id": 263,
+  "name": "Zigzagoon-Galar",
+  "type1": "Dark",
+  "type2": "Normal",
+  "hp": 38,
+  "attack": 30,
+  "defense": 41,
+  "sp_atk": 30,
+  "sp_def": 41,
+  "speed": 60,
+  "total": 240,
+  "abilities": [
+    "Pickup",
+    "Gluttony",
+    "Quick Feet"
+  ],
+  "height": 0.4,
+  "weight": 17.5,
+  "gender_ratio": {},
+  "evos": [
+    "Linoone-Galar"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/zigzagoon-galar.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\263_zigzagoon-galar.gif"
+}

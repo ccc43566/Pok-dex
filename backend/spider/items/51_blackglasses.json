@@ -1,0 +1,12 @@
+{
+  "id": 51,
+  "name": "Black Glasses",
+  "english": "blackglasses",
+  "category": "道具",
+  "num": 51,
+  "spritenum": 35,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

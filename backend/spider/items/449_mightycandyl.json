@@ -1,0 +1,12 @@
+{
+  "id": 449,
+  "name": "力量糖果L",
+  "english": "Mighty Candy L",
+  "category": "阿罗拉",
+  "num": 449,
+  "spritenum": 449,
+  "desc": "充满能量的大糖果。能让等级30以上的宝可梦的攻击上升。",
+  "shortDesc": "充满能量的大糖果。能让等级30以上的宝可梦的攻击上升。",
+  "gen": 1,
+  "isPokeball": false
+}

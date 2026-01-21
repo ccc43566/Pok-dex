@@ -1,0 +1,28 @@
+{
+  "id": 675,
+  "name": "Pangoro",
+  "type1": "Fighting",
+  "type2": "Dark",
+  "hp": 95,
+  "attack": 124,
+  "defense": 78,
+  "sp_atk": 69,
+  "sp_def": 71,
+  "speed": 58,
+  "total": 495,
+  "abilities": [
+    "Iron Fist",
+    "Mold Breaker",
+    "Scrappy"
+  ],
+  "height": 2.1,
+  "weight": 136.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Pancham",
+  "evo_level": 32,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/pangoro.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\675_pangoro.gif"
+}

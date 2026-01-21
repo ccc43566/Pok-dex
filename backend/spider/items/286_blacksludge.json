@@ -1,0 +1,12 @@
+{
+  "id": 286,
+  "name": "黑色污泥",
+  "english": "Black Sludge",
+  "category": "道具",
+  "num": 286,
+  "spritenum": 286,
+  "desc": "携带后，毒属性的宝可梦会缓缓回复ＨＰ。其他属性的话，ＨＰ则会减少。",
+  "shortDesc": "携带后，毒属性的宝可梦会缓缓回复ＨＰ。其他属性的话，ＨＰ则会减少。",
+  "gen": 1,
+  "isPokeball": false
+}

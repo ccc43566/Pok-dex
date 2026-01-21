@@ -1,0 +1,31 @@
+{
+  "id": 36,
+  "name": "Clefable-Mega",
+  "type1": "Fairy",
+  "type2": "Flying",
+  "hp": 95,
+  "attack": 80,
+  "defense": 93,
+  "sp_atk": 135,
+  "sp_def": 110,
+  "speed": 70,
+  "total": 583,
+  "abilities": [
+    "Cute Charm",
+    "Magic Guard",
+    "Unaware"
+  ],
+  "height": 1.7,
+  "weight": 42.3,
+  "gender_ratio": {
+    "M": 0.25,
+    "F": 0.75
+  },
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/clefable-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\36_clefable-mega.gif"
+}

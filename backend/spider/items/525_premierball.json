@@ -1,0 +1,12 @@
+{
+  "id": 525,
+  "name": "纪念球",
+  "english": "Premier Ball",
+  "category": "精灵球",
+  "num": 525,
+  "spritenum": 525,
+  "desc": "有点珍贵的球。特制出来的某种纪念品。",
+  "shortDesc": "有点珍贵的球。特制出来的某种纪念品。",
+  "gen": 1,
+  "isPokeball": false
+}

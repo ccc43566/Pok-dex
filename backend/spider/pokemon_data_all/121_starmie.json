@@ -1,0 +1,28 @@
+{
+  "id": 121,
+  "name": "Starmie",
+  "type1": "Water",
+  "type2": "Psychic",
+  "hp": 60,
+  "attack": 75,
+  "defense": 85,
+  "sp_atk": 100,
+  "sp_def": 85,
+  "speed": 115,
+  "total": 520,
+  "abilities": [
+    "Illuminate",
+    "Natural Cure",
+    "Analytic"
+  ],
+  "height": 1.1,
+  "weight": 80.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Staryu",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Water Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/starmie.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\121_starmie.gif"
+}

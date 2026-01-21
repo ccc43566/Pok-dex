@@ -1,0 +1,12 @@
+{
+  "id": 29,
+  "name": "Audinite",
+  "english": "audinite",
+  "category": "道具",
+  "num": 29,
+  "spritenum": 617,
+  "desc": "If held by an Audino, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by an Audino, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 78,
+  "name": "Rapidash-Galar",
+  "type1": "Psychic",
+  "type2": "Fairy",
+  "hp": 65,
+  "attack": 100,
+  "defense": 70,
+  "sp_atk": 80,
+  "sp_def": 80,
+  "speed": 105,
+  "total": 500,
+  "abilities": [
+    "Run Away",
+    "Pastel Veil",
+    "Anticipation"
+  ],
+  "height": 1.7,
+  "weight": 80.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Ponyta-Galar",
+  "evo_level": 40,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/rapidash-galar.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\78_rapidash-galar.gif"
+}

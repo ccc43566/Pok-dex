@@ -1,0 +1,30 @@
+{
+  "id": 353,
+  "name": "Shuppet",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 44,
+  "attack": 75,
+  "defense": 35,
+  "sp_atk": 63,
+  "sp_def": 33,
+  "speed": 45,
+  "total": 295,
+  "abilities": [
+    "Insomnia",
+    "Frisk",
+    "Cursed Body"
+  ],
+  "height": 0.6,
+  "weight": 2.3,
+  "gender_ratio": {},
+  "evos": [
+    "Banette"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/shuppet.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\353_shuppet.gif"
+}

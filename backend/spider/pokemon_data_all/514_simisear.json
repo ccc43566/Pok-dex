@@ -1,0 +1,30 @@
+{
+  "id": 514,
+  "name": "Simisear",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 75,
+  "attack": 98,
+  "defense": 63,
+  "sp_atk": 98,
+  "sp_def": 63,
+  "speed": 101,
+  "total": 498,
+  "abilities": [
+    "Gluttony",
+    "Blaze"
+  ],
+  "height": 1.0,
+  "weight": 28.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Pansear",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Fire Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/simisear.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\514_simisear.gif"
+}

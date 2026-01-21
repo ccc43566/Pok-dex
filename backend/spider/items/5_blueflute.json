@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "name": "蓝色玻璃哨",
+  "english": "Blue Flute",
+  "category": "道具",
+  "num": 5,
+  "spritenum": 5,
+  "desc": "以蓝色玻璃制成的哨子。可以治愈睡眠状态。",
+  "shortDesc": "以蓝色玻璃制成的哨子。可以治愈睡眠状态。",
+  "gen": 1,
+  "isPokeball": false
+}

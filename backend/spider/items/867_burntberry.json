@@ -1,0 +1,12 @@
+{
+  "id": 867,
+  "name": "Burnt Berry",
+  "english": "burntberry",
+  "category": "道具",
+  "num": 867,
+  "spritenum": 13,
+  "desc": "(Gen 2) Holder is cured if it is frozen. Single use.",
+  "shortDesc": "(Gen 2) Holder is cured if it is frozen. Single use.",
+  "gen": 2,
+  "isPokeball": false
+}

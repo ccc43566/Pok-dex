@@ -1,0 +1,12 @@
+{
+  "id": 840,
+  "name": "Wave Incense",
+  "english": "waveincense",
+  "category": "道具",
+  "num": 840,
+  "spritenum": 531,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

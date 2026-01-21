@@ -1,0 +1,12 @@
+{
+  "id": 595,
+  "name": "化石鱼",
+  "english": "Fossilized Fish",
+  "category": "道具",
+  "num": 595,
+  "spritenum": 595,
+  "desc": "远古时代的宝可梦化石残片。它曾栖息于大海，本来面目至今仍是未解之谜。",
+  "shortDesc": "远古时代的宝可梦化石残片。它曾栖息于大海，本来面目至今仍是未解之谜。",
+  "gen": 1,
+  "isPokeball": false
+}

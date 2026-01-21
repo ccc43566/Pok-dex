@@ -1,0 +1,12 @@
+{
+  "id": 206,
+  "name": "果实",
+  "english": "Berry",
+  "category": "道具",
+  "num": 206,
+  "spritenum": 206,
+  "desc": "携带后，可以回復自己１０点体力。",
+  "shortDesc": "携带后，可以回復自己１０点体力。",
+  "gen": 1,
+  "isPokeball": false
+}

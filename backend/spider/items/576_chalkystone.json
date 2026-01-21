@@ -1,0 +1,12 @@
+{
+  "id": 576,
+  "name": "粉笔石",
+  "english": "Chalky Stone",
+  "category": "宝物",
+  "num": 576,
+  "spritenum": 576,
+  "desc": "路边捡到的白白的小石头。",
+  "shortDesc": "路边捡到的白白的小石头。",
+  "gen": 1,
+  "isPokeball": false
+}

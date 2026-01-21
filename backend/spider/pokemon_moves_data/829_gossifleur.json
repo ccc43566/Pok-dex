@@ -1,0 +1,53 @@
+{
+  "id": 829,
+  "name": "gossifleur",
+  "level_up": [
+    "aromatherapy",
+    "hypervoice",
+    "leafage",
+    "leafstorm",
+    "leaftornado",
+    "rapidspin",
+    "razorleaf",
+    "round",
+    "sing",
+    "sweetscent",
+    "synthesis"
+  ],
+  "egg_moves": [
+    "growth",
+    "leechseed",
+    "poisonpowder",
+    "sleeppowder",
+    "stunspore",
+    "worryseed"
+  ],
+  "tm_moves": [
+    "attract",
+    "bulletseed",
+    "charm",
+    "endure",
+    "energyball",
+    "facade",
+    "gigadrain",
+    "grassknot",
+    "grassyterrain",
+    "helpinghand",
+    "hypervoice",
+    "leafstorm",
+    "lightscreen",
+    "magicalleaf",
+    "pollenpuff",
+    "protect",
+    "rest",
+    "round",
+    "sleeptalk",
+    "snore",
+    "solarbeam",
+    "substitute",
+    "sunnyday"
+  ],
+  "tutor_moves": [
+    "grassyglide"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 342,
+  "name": "Crawdaunt",
+  "type1": "Water",
+  "type2": "Dark",
+  "hp": 63,
+  "attack": 120,
+  "defense": 85,
+  "sp_atk": 90,
+  "sp_def": 55,
+  "speed": 55,
+  "total": 468,
+  "abilities": [
+    "Hyper Cutter",
+    "Shell Armor",
+    "Adaptability"
+  ],
+  "height": 1.1,
+  "weight": 32.8,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Corphish",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/crawdaunt.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\342_crawdaunt.gif"
+}

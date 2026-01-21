@@ -1,0 +1,12 @@
+{
+  "id": 816,
+  "name": "TR98",
+  "english": "tr98",
+  "category": "道具",
+  "num": 816,
+  "spritenum": 731,
+  "desc": "Teaches certain Pokemon the move Liquidation. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Liquidation. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

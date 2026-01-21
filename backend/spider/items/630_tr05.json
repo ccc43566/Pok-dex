@@ -1,0 +1,12 @@
+{
+  "id": 630,
+  "name": "TR05",
+  "english": "tr05",
+  "category": "道具",
+  "num": 630,
+  "spritenum": 735,
+  "desc": "Teaches certain Pokemon the move Ice Beam. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Ice Beam. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

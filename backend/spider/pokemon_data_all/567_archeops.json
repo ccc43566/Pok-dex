@@ -1,0 +1,29 @@
+{
+  "id": 567,
+  "name": "Archeops",
+  "type1": "Rock",
+  "type2": "Flying",
+  "hp": 75,
+  "attack": 140,
+  "defense": 65,
+  "sp_atk": 112,
+  "sp_def": 65,
+  "speed": 110,
+  "total": 567,
+  "abilities": [
+    "Defeatist"
+  ],
+  "height": 1.4,
+  "weight": 32.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Archen",
+  "evo_level": 37,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/archeops.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\567_archeops.gif"
+}

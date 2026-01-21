@@ -1,0 +1,12 @@
+{
+  "id": 192,
+  "name": "Fire Memory",
+  "english": "firememory",
+  "category": "道具",
+  "num": 192,
+  "spritenum": 676,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

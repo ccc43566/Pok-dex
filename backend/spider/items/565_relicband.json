@@ -1,0 +1,12 @@
+{
+  "id": 565,
+  "name": "古代手镯",
+  "english": "Relic Band",
+  "category": "宝物",
+  "num": 565,
+  "spritenum": 565,
+  "desc": "约３０００年前的文明制造的手镯。",
+  "shortDesc": "约３０００年前的文明制造的手镯。",
+  "gen": 1,
+  "isPokeball": false
+}

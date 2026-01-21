@@ -1,0 +1,32 @@
+{
+  "id": 412,
+  "name": "Burmy",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 40,
+  "attack": 29,
+  "defense": 45,
+  "sp_atk": 29,
+  "sp_def": 45,
+  "speed": 36,
+  "total": 224,
+  "abilities": [
+    "Shed Skin",
+    "Overcoat"
+  ],
+  "height": 0.2,
+  "weight": 3.4,
+  "gender_ratio": {},
+  "evos": [
+    "Wormadam",
+    "Wormadam-Sandy",
+    "Wormadam-Trash",
+    "Mothim"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/burmy.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\412_burmy.gif"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 935,
+  "name": "charcadet",
+  "level_up": [
+    "astonish",
+    "clearsmog",
+    "ember",
+    "firespin",
+    "flamecharge",
+    "incinerate",
+    "lavaplume",
+    "leer",
+    "nightshade",
+    "willowisp"
+  ],
+  "egg_moves": [
+    "destinybond",
+    "disable",
+    "spite"
+  ],
+  "tm_moves": [
+    "confuseray",
+    "endure",
+    "facade",
+    "fireblast",
+    "firespin",
+    "flamecharge",
+    "flamethrower",
+    "flareblitz",
+    "heatwave",
+    "helpinghand",
+    "nightshade",
+    "overheat",
+    "protect",
+    "rest",
+    "sleeptalk",
+    "spite",
+    "substitute",
+    "sunnyday",
+    "takedown",
+    "terablast",
+    "willowisp"
+  ],
+  "tutor_moves": []
+}

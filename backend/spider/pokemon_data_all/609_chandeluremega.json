@@ -1,0 +1,27 @@
+{
+  "id": 609,
+  "name": "Chandelure-Mega",
+  "type1": "Ghost",
+  "type2": "Fire",
+  "hp": 60,
+  "attack": 75,
+  "defense": 110,
+  "sp_atk": 175,
+  "sp_def": 110,
+  "speed": 90,
+  "total": 620,
+  "abilities": [
+    "Flash Fire",
+    "Flame Body",
+    "Infiltrator"
+  ],
+  "height": 2.5,
+  "weight": 69.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/chandelure-mega.png"
+}

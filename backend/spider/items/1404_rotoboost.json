@@ -1,0 +1,12 @@
+{
+  "id": 1404,
+  "name": "加油碰碰",
+  "english": "Roto Boost",
+  "category": "道具",
+  "num": 1404,
+  "spritenum": 1404,
+  "desc": "洛托姆之力的一种，正在战斗的我方宝可梦的所有能力都会提高。",
+  "shortDesc": "洛托姆之力的一种，正在战斗的我方宝可梦的所有能力都会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

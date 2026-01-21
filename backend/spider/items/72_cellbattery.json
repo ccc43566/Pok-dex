@@ -1,0 +1,12 @@
+{
+  "id": 72,
+  "name": "Cell Battery",
+  "english": "cellbattery",
+  "category": "道具",
+  "num": 72,
+  "spritenum": 60,
+  "desc": "Raises holder",
+  "shortDesc": "Raises holder",
+  "gen": 5,
+  "isPokeball": false
+}

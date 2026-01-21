@@ -1,0 +1,30 @@
+{
+  "id": 38,
+  "name": "Ninetales",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 73,
+  "attack": 76,
+  "defense": 75,
+  "sp_atk": 81,
+  "sp_def": 100,
+  "speed": 100,
+  "total": 505,
+  "abilities": [
+    "Flash Fire",
+    "Drought"
+  ],
+  "height": 1.1,
+  "weight": 19.9,
+  "gender_ratio": {
+    "M": 0.25,
+    "F": 0.75
+  },
+  "evos": [],
+  "prevo": "Vulpix",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Fire Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ninetales.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\38_ninetales.gif"
+}

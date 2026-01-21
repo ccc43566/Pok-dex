@@ -1,0 +1,30 @@
+{
+  "id": 938,
+  "name": "Tadbulb",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 61,
+  "attack": 31,
+  "defense": 41,
+  "sp_atk": 59,
+  "sp_def": 35,
+  "speed": 45,
+  "total": 272,
+  "abilities": [
+    "Own Tempo",
+    "Static",
+    "Damp"
+  ],
+  "height": 0.3,
+  "weight": 0.4,
+  "gender_ratio": {},
+  "evos": [
+    "Bellibolt"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/tadbulb.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\938_tadbulb.gif"
+}

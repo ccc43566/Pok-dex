@@ -1,0 +1,28 @@
+{
+  "id": 601,
+  "name": "Klinklang",
+  "type1": "Steel",
+  "type2": null,
+  "hp": 60,
+  "attack": 100,
+  "defense": 115,
+  "sp_atk": 70,
+  "sp_def": 85,
+  "speed": 90,
+  "total": 520,
+  "abilities": [
+    "Plus",
+    "Minus",
+    "Clear Body"
+  ],
+  "height": 0.6,
+  "weight": 81.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Klang",
+  "evo_level": 49,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/klinklang.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\601_klinklang.gif"
+}

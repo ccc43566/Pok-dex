@@ -1,0 +1,12 @@
+{
+  "id": 300,
+  "name": "Kelpsy Berry",
+  "english": "kelpsyberry",
+  "category": "道具",
+  "num": 300,
+  "spritenum": 235,
+  "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "gen": 3,
+  "isPokeball": false
+}

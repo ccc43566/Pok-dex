@@ -1,0 +1,12 @@
+{
+  "id": 1090,
+  "name": "电梯钥匙",
+  "english": "Lift Key",
+  "category": "重要物品",
+  "num": 1090,
+  "spritenum": 1090,
+  "desc": "带有火箭队标志的钥匙。能启动位于火箭队基地的电梯。",
+  "shortDesc": "带有火箭队标志的钥匙。能启动位于火箭队基地的电梯。",
+  "gen": 1,
+  "isPokeball": false
+}

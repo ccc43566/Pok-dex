@@ -1,0 +1,32 @@
+{
+  "id": 253,
+  "name": "Grovyle",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 50,
+  "attack": 65,
+  "defense": 45,
+  "sp_atk": 85,
+  "sp_def": 65,
+  "speed": 95,
+  "total": 405,
+  "abilities": [
+    "Overgrow",
+    "Unburden"
+  ],
+  "height": 0.9,
+  "weight": 21.6,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Sceptile"
+  ],
+  "prevo": "Treecko",
+  "evo_level": 16,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/grovyle.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\253_grovyle.gif"
+}

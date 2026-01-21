@@ -1,0 +1,27 @@
+{
+  "id": 673,
+  "name": "Gogoat",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 123,
+  "attack": 100,
+  "defense": 62,
+  "sp_atk": 97,
+  "sp_def": 81,
+  "speed": 68,
+  "total": 531,
+  "abilities": [
+    "Sap Sipper",
+    "Grass Pelt"
+  ],
+  "height": 1.7,
+  "weight": 91.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Skiddo",
+  "evo_level": 32,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gogoat.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\673_gogoat.gif"
+}

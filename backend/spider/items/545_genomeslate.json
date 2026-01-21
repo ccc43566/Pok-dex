@@ -1,0 +1,12 @@
+{
+  "id": 545,
+  "name": "基因石板",
+  "english": "Genome Slate",
+  "category": "宝物",
+  "num": 545,
+  "spritenum": 545,
+  "desc": "充满了神秘力量的石板。感觉它与玫瑰公园的基因之厅有着很深的关联。",
+  "shortDesc": "充满了神秘力量的石板。感觉它与玫瑰公园的基因之厅有着很深的关联。",
+  "gen": 1,
+  "isPokeball": false
+}

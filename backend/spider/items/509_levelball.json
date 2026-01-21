@@ -1,0 +1,12 @@
+{
+  "id": 509,
+  "name": "等级球",
+  "english": "Level Ball",
+  "category": "精灵球",
+  "num": 509,
+  "spritenum": 509,
+  "desc": "有点与众不同的球。要捕捉的宝可梦比自己宝可梦的等级越低，就会越容易捕捉。",
+  "shortDesc": "有点与众不同的球。要捕捉的宝可梦比自己宝可梦的等级越低，就会越容易捕捉。",
+  "gen": 1,
+  "isPokeball": false
+}

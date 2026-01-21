@@ -1,0 +1,28 @@
+{
+  "id": 124,
+  "name": "Jynx",
+  "type1": "Ice",
+  "type2": "Psychic",
+  "hp": 65,
+  "attack": 50,
+  "defense": 35,
+  "sp_atk": 115,
+  "sp_def": 95,
+  "speed": 95,
+  "total": 455,
+  "abilities": [
+    "Oblivious",
+    "Forewarn",
+    "Dry Skin"
+  ],
+  "height": 1.4,
+  "weight": 40.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Smoochum",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/jynx.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\124_jynx.gif"
+}

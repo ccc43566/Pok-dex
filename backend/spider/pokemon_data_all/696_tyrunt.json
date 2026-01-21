@@ -1,0 +1,32 @@
+{
+  "id": 696,
+  "name": "Tyrunt",
+  "type1": "Rock",
+  "type2": "Dragon",
+  "hp": 58,
+  "attack": 89,
+  "defense": 77,
+  "sp_atk": 45,
+  "sp_def": 45,
+  "speed": 48,
+  "total": 362,
+  "abilities": [
+    "Strong Jaw",
+    "Sturdy"
+  ],
+  "height": 0.8,
+  "weight": 26.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Tyrantrum"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/tyrunt.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\696_tyrunt.gif"
+}

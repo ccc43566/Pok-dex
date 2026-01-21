@@ -1,0 +1,31 @@
+{
+  "id": 468,
+  "name": "Togekiss",
+  "type1": "Fairy",
+  "type2": "Flying",
+  "hp": 85,
+  "attack": 50,
+  "defense": 95,
+  "sp_atk": 120,
+  "sp_def": 115,
+  "speed": 80,
+  "total": 545,
+  "abilities": [
+    "Hustle",
+    "Serene Grace",
+    "Super Luck"
+  ],
+  "height": 1.5,
+  "weight": 38.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Togetic",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Shiny Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/togekiss.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\468_togekiss.gif"
+}

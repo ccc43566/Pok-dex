@@ -1,0 +1,27 @@
+{
+  "id": 670,
+  "name": "Floette-Eternal",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 74,
+  "attack": 65,
+  "defense": 67,
+  "sp_atk": 125,
+  "sp_def": 128,
+  "speed": 92,
+  "total": 551,
+  "abilities": [
+    "Flower Veil",
+    "Symbiosis"
+  ],
+  "height": 0.2,
+  "weight": 0.9,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/floette-eternal.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\670_floette-eternal.gif"
+}

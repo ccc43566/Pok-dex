@@ -1,0 +1,29 @@
+{
+  "id": 254,
+  "name": "Sceptile-Mega",
+  "type1": "Grass",
+  "type2": "Dragon",
+  "hp": 70,
+  "attack": 110,
+  "defense": 75,
+  "sp_atk": 145,
+  "sp_def": 85,
+  "speed": 145,
+  "total": 630,
+  "abilities": [
+    "Lightning Rod"
+  ],
+  "height": 1.9,
+  "weight": 55.2,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/sceptile-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\254_sceptile-mega.gif"
+}

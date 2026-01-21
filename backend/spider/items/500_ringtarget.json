@@ -1,0 +1,12 @@
+{
+  "id": 500,
+  "name": "Ring Target",
+  "english": "ringtarget",
+  "category": "道具",
+  "num": 500,
+  "spritenum": 410,
+  "desc": "The holder",
+  "shortDesc": "The holder",
+  "gen": 5,
+  "isPokeball": false
+}

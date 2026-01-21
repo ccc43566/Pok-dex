@@ -1,0 +1,30 @@
+{
+  "id": 111,
+  "name": "Rhyhorn",
+  "type1": "Ground",
+  "type2": "Rock",
+  "hp": 80,
+  "attack": 85,
+  "defense": 95,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "speed": 25,
+  "total": 345,
+  "abilities": [
+    "Lightning Rod",
+    "Rock Head",
+    "Reckless"
+  ],
+  "height": 1.0,
+  "weight": 115.0,
+  "gender_ratio": {},
+  "evos": [
+    "Rhydon"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/rhyhorn.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\111_rhyhorn.gif"
+}

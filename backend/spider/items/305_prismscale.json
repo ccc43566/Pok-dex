@@ -1,0 +1,12 @@
+{
+  "id": 305,
+  "name": "美丽鳞片",
+  "english": "Prism Scale",
+  "category": "道具",
+  "num": 305,
+  "spritenum": 305,
+  "desc": "能让某些特定宝可梦进化的神奇鳞片。散发着虹色光辉。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇鳞片。散发着虹色光辉。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 19,
+  "name": "Alakazite",
+  "english": "alakazite",
+  "category": "道具",
+  "num": 19,
+  "spritenum": 579,
+  "desc": "If held by an Alakazam, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by an Alakazam, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

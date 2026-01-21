@@ -1,0 +1,12 @@
+{
+  "id": 230,
+  "name": "Garchompite",
+  "english": "garchompite",
+  "category": "道具",
+  "num": 230,
+  "spritenum": 573,
+  "desc": "If held by a Garchomp, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Garchomp, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 845,
+  "name": "Wellspring Mask",
+  "english": "wellspringmask",
+  "category": "道具",
+  "num": 845,
+  "spritenum": 759,
+  "desc": "Ogerpon-Wellspring: 1.2x power attacks; Terastallize to gain Embody Aspect.",
+  "shortDesc": "Ogerpon-Wellspring: 1.2x power attacks; Terastallize to gain Embody Aspect.",
+  "gen": 9,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 81,
+  "name": "胆小薄荷",
+  "english": "Timid Mint",
+  "category": "道具",
+  "num": 81,
+  "spritenum": 81,
+  "desc": "宝可梦闻了这种薄荷之后，会令速度容易提高，而攻击则难以提高。",
+  "shortDesc": "宝可梦闻了这种薄荷之后，会令速度容易提高，而攻击则难以提高。",
+  "gen": 1,
+  "isPokeball": false
+}

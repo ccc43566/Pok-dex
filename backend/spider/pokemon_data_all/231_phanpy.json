@@ -1,0 +1,29 @@
+{
+  "id": 231,
+  "name": "Phanpy",
+  "type1": "Ground",
+  "type2": null,
+  "hp": 90,
+  "attack": 60,
+  "defense": 60,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "speed": 40,
+  "total": 330,
+  "abilities": [
+    "Pickup",
+    "Sand Veil"
+  ],
+  "height": 0.5,
+  "weight": 33.5,
+  "gender_ratio": {},
+  "evos": [
+    "Donphan"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/phanpy.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\231_phanpy.gif"
+}

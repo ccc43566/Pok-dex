@@ -1,0 +1,28 @@
+{
+  "id": 934,
+  "name": "Garganacl",
+  "type1": "Rock",
+  "type2": null,
+  "hp": 100,
+  "attack": 100,
+  "defense": 130,
+  "sp_atk": 45,
+  "sp_def": 90,
+  "speed": 35,
+  "total": 500,
+  "abilities": [
+    "Purifying Salt",
+    "Sturdy",
+    "Clear Body"
+  ],
+  "height": 2.3,
+  "weight": 240.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Naclstack",
+  "evo_level": 38,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/garganacl.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\934_garganacl.gif"
+}

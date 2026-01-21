@@ -1,0 +1,30 @@
+{
+  "id": 886,
+  "name": "Drakloak",
+  "type1": "Dragon",
+  "type2": "Ghost",
+  "hp": 68,
+  "attack": 80,
+  "defense": 50,
+  "sp_atk": 60,
+  "sp_def": 50,
+  "speed": 102,
+  "total": 410,
+  "abilities": [
+    "Clear Body",
+    "Infiltrator",
+    "Cursed Body"
+  ],
+  "height": 1.4,
+  "weight": 11.0,
+  "gender_ratio": {},
+  "evos": [
+    "Dragapult"
+  ],
+  "prevo": "Dreepy",
+  "evo_level": 50,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/drakloak.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\886_drakloak.gif"
+}

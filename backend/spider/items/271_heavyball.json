@@ -1,0 +1,12 @@
+{
+  "id": 271,
+  "name": "Heavy Ball",
+  "english": "heavyball",
+  "category": "道具",
+  "num": 271,
+  "spritenum": 194,
+  "desc": "A Poke Ball for catching very heavy Pokemon.",
+  "shortDesc": "A Poke Ball for catching very heavy Pokemon.",
+  "gen": 2,
+  "isPokeball": true
+}

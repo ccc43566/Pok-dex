@@ -1,0 +1,28 @@
+{
+  "id": 982,
+  "name": "Dudunsparce",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 125,
+  "attack": 100,
+  "defense": 80,
+  "sp_atk": 85,
+  "sp_def": 75,
+  "speed": 55,
+  "total": 520,
+  "abilities": [
+    "Serene Grace",
+    "Run Away",
+    "Rattled"
+  ],
+  "height": 3.6,
+  "weight": 39.2,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Dunsparce",
+  "evo_level": null,
+  "evo_type": "levelMove",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/dudunsparce.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\982_dudunsparce.gif"
+}

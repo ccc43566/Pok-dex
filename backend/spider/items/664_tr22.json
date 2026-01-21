@@ -1,0 +1,12 @@
+{
+  "id": 664,
+  "name": "TR22",
+  "english": "tr22",
+  "category": "道具",
+  "num": 664,
+  "spritenum": 724,
+  "desc": "Teaches certain Pokemon the move Sludge Bomb. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Sludge Bomb. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 506,
+  "name": "Rock Memory",
+  "english": "rockmemory",
+  "category": "道具",
+  "num": 506,
+  "spritenum": 672,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

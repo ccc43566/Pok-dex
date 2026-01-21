@@ -1,0 +1,32 @@
+{
+  "id": 729,
+  "name": "Brionne",
+  "type1": "Water",
+  "type2": null,
+  "hp": 60,
+  "attack": 69,
+  "defense": 69,
+  "sp_atk": 91,
+  "sp_def": 81,
+  "speed": 50,
+  "total": 420,
+  "abilities": [
+    "Torrent",
+    "Liquid Voice"
+  ],
+  "height": 0.6,
+  "weight": 17.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Primarina"
+  ],
+  "prevo": "Popplio",
+  "evo_level": 17,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/brionne.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\729_brionne.gif"
+}

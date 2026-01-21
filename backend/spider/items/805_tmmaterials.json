@@ -1,0 +1,12 @@
+{
+  "id": 805,
+  "name": "掉落物*",
+  "english": "TM Materials",
+  "category": "白2",
+  "num": 805,
+  "spritenum": 805,
+  "desc": "宝可梦不小心掉落的东西。制作招式学习器时需要用到。",
+  "shortDesc": "宝可梦不小心掉落的东西。制作招式学习器时需要用到。",
+  "gen": 1,
+  "isPokeball": false
+}

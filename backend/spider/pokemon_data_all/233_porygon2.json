@@ -1,0 +1,30 @@
+{
+  "id": 233,
+  "name": "Porygon2",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 85,
+  "attack": 80,
+  "defense": 90,
+  "sp_atk": 105,
+  "sp_def": 95,
+  "speed": 60,
+  "total": 515,
+  "abilities": [
+    "Trace",
+    "Download",
+    "Analytic"
+  ],
+  "height": 0.6,
+  "weight": 32.5,
+  "gender_ratio": {},
+  "evos": [
+    "Porygon-Z"
+  ],
+  "prevo": "Porygon",
+  "evo_level": null,
+  "evo_type": "trade",
+  "evo_item": "Up-Grade",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/porygon2.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\233_porygon2.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 85,
+  "name": "Chilan Berry",
+  "english": "chilanberry",
+  "category": "道具",
+  "num": 85,
+  "spritenum": 66,
+  "desc": "Halves damage taken from a Normal-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a Normal-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 363,
+  "name": "Master Ball",
+  "english": "masterball",
+  "category": "道具",
+  "num": 363,
+  "spritenum": 276,
+  "desc": "The best Ball with the ultimate performance. It will catch any wild Pokemon.",
+  "shortDesc": "The best Ball with the ultimate performance. It will catch any wild Pokemon.",
+  "gen": 1,
+  "isPokeball": true
+}

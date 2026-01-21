@@ -1,0 +1,12 @@
+{
+  "id": 143,
+  "name": "Dragoninite",
+  "english": "dragoninite",
+  "category": "道具",
+  "num": 143,
+  "spritenum": 547,
+  "desc": "If held by a Dragonite, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Dragonite, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

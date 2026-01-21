@@ -1,0 +1,12 @@
+{
+  "id": 259,
+  "name": "Ground Memory",
+  "english": "groundmemory",
+  "category": "道具",
+  "num": 259,
+  "spritenum": 671,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

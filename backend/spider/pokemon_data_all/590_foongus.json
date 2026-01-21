@@ -1,0 +1,29 @@
+{
+  "id": 590,
+  "name": "Foongus",
+  "type1": "Grass",
+  "type2": "Poison",
+  "hp": 69,
+  "attack": 55,
+  "defense": 45,
+  "sp_atk": 55,
+  "sp_def": 55,
+  "speed": 15,
+  "total": 294,
+  "abilities": [
+    "Effect Spore",
+    "Regenerator"
+  ],
+  "height": 0.2,
+  "weight": 1.0,
+  "gender_ratio": {},
+  "evos": [
+    "Amoonguss"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/foongus.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\590_foongus.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 70,
+  "name": "Burn Drive",
+  "english": "burndrive",
+  "category": "道具",
+  "num": 70,
+  "spritenum": 54,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

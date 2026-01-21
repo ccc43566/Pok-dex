@@ -1,0 +1,27 @@
+{
+  "id": 269,
+  "name": "Dustox",
+  "type1": "Bug",
+  "type2": "Poison",
+  "hp": 60,
+  "attack": 50,
+  "defense": 70,
+  "sp_atk": 50,
+  "sp_def": 90,
+  "speed": 65,
+  "total": 385,
+  "abilities": [
+    "Shield Dust",
+    "Compound Eyes"
+  ],
+  "height": 1.2,
+  "weight": 31.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Cascoon",
+  "evo_level": 10,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/dustox.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\269_dustox.gif"
+}

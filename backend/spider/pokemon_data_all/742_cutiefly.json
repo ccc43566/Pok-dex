@@ -1,0 +1,30 @@
+{
+  "id": 742,
+  "name": "Cutiefly",
+  "type1": "Bug",
+  "type2": "Fairy",
+  "hp": 40,
+  "attack": 45,
+  "defense": 40,
+  "sp_atk": 55,
+  "sp_def": 40,
+  "speed": 84,
+  "total": 304,
+  "abilities": [
+    "Honey Gather",
+    "Shield Dust",
+    "Sweet Veil"
+  ],
+  "height": 0.1,
+  "weight": 0.2,
+  "gender_ratio": {},
+  "evos": [
+    "Ribombee"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/cutiefly.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\742_cutiefly.gif"
+}

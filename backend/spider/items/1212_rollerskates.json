@@ -1,0 +1,12 @@
+{
+  "id": 1212,
+  "name": "轮滑鞋",
+  "english": "Roller Skates",
+  "category": "重要物品",
+  "num": 1212,
+  "spritenum": 1212,
+  "desc": "鞋底下装着滑轮。能在地面上滑行，或漂亮地表演特技。",
+  "shortDesc": "鞋底下装着滑轮。能在地面上滑行，或漂亮地表演特技。",
+  "gen": 1,
+  "isPokeball": false
+}

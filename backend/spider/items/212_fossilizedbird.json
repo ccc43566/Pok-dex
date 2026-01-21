@@ -1,0 +1,12 @@
+{
+  "id": 212,
+  "name": "Fossilized Bird",
+  "english": "fossilizedbird",
+  "category": "道具",
+  "num": 212,
+  "spritenum": 700,
+  "desc": "Can revive into Dracozolt with Fossilized Drake or Arctozolt with Fossilized Dino.",
+  "shortDesc": "Can revive into Dracozolt with Fossilized Drake or Arctozolt with Fossilized Dino.",
+  "gen": 8,
+  "isPokeball": false
+}

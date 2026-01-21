@@ -1,0 +1,12 @@
+{
+  "id": 284,
+  "name": "Icicle Plate",
+  "english": "icicleplate",
+  "category": "道具",
+  "num": 284,
+  "spritenum": 220,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

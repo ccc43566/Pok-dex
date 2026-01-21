@@ -1,0 +1,31 @@
+{
+  "id": 68,
+  "name": "Machamp",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 90,
+  "attack": 130,
+  "defense": 80,
+  "sp_atk": 65,
+  "sp_def": 85,
+  "speed": 55,
+  "total": 505,
+  "abilities": [
+    "Guts",
+    "No Guard",
+    "Steadfast"
+  ],
+  "height": 1.6,
+  "weight": 130.0,
+  "gender_ratio": {
+    "M": 0.75,
+    "F": 0.25
+  },
+  "evos": [],
+  "prevo": "Machoke",
+  "evo_level": null,
+  "evo_type": "trade",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/machamp.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\68_machamp.gif"
+}

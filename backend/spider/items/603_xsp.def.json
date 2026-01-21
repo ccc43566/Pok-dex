@@ -1,0 +1,12 @@
+{
+  "id": 603,
+  "name": "特防强化",
+  "english": "X Sp. Def",
+  "category": "战斗道具",
+  "num": 603,
+  "spritenum": 603,
+  "desc": "大幅提高战斗中宝可梦特防的道具。离场后，效果便会消失。",
+  "shortDesc": "大幅提高战斗中宝可梦特防的道具。离场后，效果便会消失。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 82,
+  "name": "Magneton",
+  "type1": "Electric",
+  "type2": "Steel",
+  "hp": 50,
+  "attack": 60,
+  "defense": 95,
+  "sp_atk": 120,
+  "sp_def": 70,
+  "speed": 70,
+  "total": 465,
+  "abilities": [
+    "Magnet Pull",
+    "Sturdy",
+    "Analytic"
+  ],
+  "height": 1.0,
+  "weight": 60.0,
+  "gender_ratio": {},
+  "evos": [
+    "Magnezone"
+  ],
+  "prevo": "Magnemite",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/magneton.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\82_magneton.gif"
+}

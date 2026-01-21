@@ -1,0 +1,12 @@
+{
+  "id": 642,
+  "name": "TR11",
+  "english": "tr11",
+  "category": "道具",
+  "num": 642,
+  "spritenum": 734,
+  "desc": "Teaches certain Pokemon the move Psychic. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Psychic. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

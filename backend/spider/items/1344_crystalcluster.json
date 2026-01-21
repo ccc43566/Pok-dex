@@ -1,0 +1,12 @@
+{
+  "id": 1344,
+  "name": "结晶碎片",
+  "english": "Crystal Cluster",
+  "category": "重要物品",
+  "num": 1344,
+  "spritenum": 1344,
+  "desc": "沉在晶光池池底并闪闪发光的结晶碎片。修理面具时似乎需要用到。",
+  "shortDesc": "沉在晶光池池底并闪闪发光的结晶碎片。修理面具时似乎需要用到。",
+  "gen": 1,
+  "isPokeball": false
+}

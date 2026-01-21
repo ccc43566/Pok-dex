@@ -1,0 +1,30 @@
+{
+  "id": 536,
+  "name": "Palpitoad",
+  "type1": "Water",
+  "type2": "Ground",
+  "hp": 75,
+  "attack": 65,
+  "defense": 55,
+  "sp_atk": 65,
+  "sp_def": 55,
+  "speed": 69,
+  "total": 384,
+  "abilities": [
+    "Swift Swim",
+    "Hydration",
+    "Water Absorb"
+  ],
+  "height": 0.8,
+  "weight": 17.0,
+  "gender_ratio": {},
+  "evos": [
+    "Seismitoad"
+  ],
+  "prevo": "Tympole",
+  "evo_level": 25,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/palpitoad.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\536_palpitoad.gif"
+}

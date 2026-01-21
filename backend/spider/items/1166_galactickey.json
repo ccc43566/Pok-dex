@@ -1,0 +1,12 @@
+{
+  "id": 1166,
+  "name": "银河队钥匙",
+  "english": "Galactic Key",
+  "category": "重要物品",
+  "num": 1166,
+  "spritenum": 1166,
+  "desc": "用于解除银河队基地安全防范系统的钥匙卡。弄丢了的话，好像会受到惩罚。",
+  "shortDesc": "用于解除银河队基地安全防范系统的钥匙卡。弄丢了的话，好像会受到惩罚。",
+  "gen": 1,
+  "isPokeball": false
+}

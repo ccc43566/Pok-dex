@@ -1,0 +1,12 @@
+{
+  "id": 260,
+  "name": "妖精石板",
+  "english": "Pixie Plate",
+  "category": "道具",
+  "num": 260,
+  "spritenum": 260,
+  "desc": "妖精属性的石板。携带后，妖精属性的招式威力就会增强。",
+  "shortDesc": "妖精属性的石板。携带后，妖精属性的招式威力就会增强。",
+  "gen": 1,
+  "isPokeball": false
+}

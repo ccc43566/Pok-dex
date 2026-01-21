@@ -1,0 +1,12 @@
+{
+  "id": 255,
+  "name": "岩石石板",
+  "english": "Stone Plate",
+  "category": "道具",
+  "num": 255,
+  "spritenum": 255,
+  "desc": "岩石属性的石板。携带后，岩石属性的招式威力就会增强。",
+  "shortDesc": "岩石属性的石板。携带后，岩石属性的招式威力就会增强。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 575,
+  "name": "松掉的弹簧",
+  "english": "Stretchy Spring",
+  "category": "宝物",
+  "num": 575,
+  "spritenum": 575,
+  "desc": "细小的弹簧。被拉得太长了，不知道能派上什么用。",
+  "shortDesc": "细小的弹簧。被拉得太长了，不知道能派上什么用。",
+  "gen": 1,
+  "isPokeball": false
+}

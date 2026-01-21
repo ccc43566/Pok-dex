@@ -1,0 +1,12 @@
+{
+  "id": 97,
+  "name": "Claw Fossil",
+  "english": "clawfossil",
+  "category": "道具",
+  "num": 97,
+  "spritenum": 72,
+  "desc": "Can be revived into Anorith.",
+  "shortDesc": "Can be revived into Anorith.",
+  "gen": 3,
+  "isPokeball": false
+}

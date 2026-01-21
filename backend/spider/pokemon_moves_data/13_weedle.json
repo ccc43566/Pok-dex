@@ -1,0 +1,16 @@
+{
+  "id": 13,
+  "name": "weedle",
+  "level_up": [
+    "bugbite",
+    "poisonsting",
+    "stringshot"
+  ],
+  "egg_moves": [],
+  "tm_moves": [],
+  "tutor_moves": [
+    "bugbite",
+    "electroweb",
+    "stringshot"
+  ]
+}

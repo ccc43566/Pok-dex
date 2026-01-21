@@ -1,0 +1,26 @@
+{
+  "id": 115,
+  "name": "Kangaskhan-Mega",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 105,
+  "attack": 125,
+  "defense": 100,
+  "sp_atk": 60,
+  "sp_def": 100,
+  "speed": 100,
+  "total": 590,
+  "abilities": [
+    "Parental Bond"
+  ],
+  "height": 2.2,
+  "weight": 100.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/kangaskhan-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\115_kangaskhan-mega.gif"
+}

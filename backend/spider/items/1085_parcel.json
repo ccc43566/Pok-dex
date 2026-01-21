@@ -1,0 +1,12 @@
+{
+  "id": 1085,
+  "name": "包裹",
+  "english": "Parcel",
+  "category": "重要物品",
+  "num": 1085,
+  "spritenum": 1085,
+  "desc": "这是常青市的友好商店托付给你的包裹。需要将它交给大木博士。",
+  "shortDesc": "这是常青市的友好商店托付给你的包裹。需要将它交给大木博士。",
+  "gen": 1,
+  "isPokeball": false
+}

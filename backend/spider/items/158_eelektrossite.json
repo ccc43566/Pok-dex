@@ -1,0 +1,12 @@
+{
+  "id": 158,
+  "name": "Eelektrossite",
+  "english": "eelektrossite",
+  "category": "道具",
+  "num": 158,
+  "spritenum": 556,
+  "desc": "If held by an Eelektross, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by an Eelektross, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1232,
+  "name": "双人票",
+  "english": "Pair of Tickets",
+  "category": "重要物品",
+  "num": 1232,
+  "spritenum": 1232,
+  "desc": "在绿岭宇宙中心举办的天体展览的双人票。",
+  "shortDesc": "在绿岭宇宙中心举办的天体展览的双人票。",
+  "gen": 1,
+  "isPokeball": false
+}

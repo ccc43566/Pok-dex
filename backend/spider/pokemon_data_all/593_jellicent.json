@@ -1,0 +1,28 @@
+{
+  "id": 593,
+  "name": "Jellicent",
+  "type1": "Water",
+  "type2": "Ghost",
+  "hp": 100,
+  "attack": 60,
+  "defense": 70,
+  "sp_atk": 85,
+  "sp_def": 105,
+  "speed": 60,
+  "total": 480,
+  "abilities": [
+    "Water Absorb",
+    "Cursed Body",
+    "Damp"
+  ],
+  "height": 2.2,
+  "weight": 135.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Frillish",
+  "evo_level": 40,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/jellicent.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\593_jellicent.gif"
+}

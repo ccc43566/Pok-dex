@@ -1,0 +1,28 @@
+{
+  "id": 841,
+  "name": "Flapple-Gmax",
+  "type1": "Grass",
+  "type2": "Dragon",
+  "hp": 70,
+  "attack": 110,
+  "defense": 80,
+  "sp_atk": 95,
+  "sp_def": 60,
+  "speed": 70,
+  "total": 485,
+  "abilities": [
+    "Ripen",
+    "Gluttony",
+    "Hustle"
+  ],
+  "height": 24.0,
+  "weight": 0.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/flapple-gmax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\841_flapple-gmax.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 696,
+  "name": "TR38",
+  "english": "tr38",
+  "category": "道具",
+  "num": 696,
+  "spritenum": 734,
+  "desc": "Teaches certain Pokemon the move Trick. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Trick. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

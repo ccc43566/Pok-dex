@@ -1,0 +1,12 @@
+{
+  "id": 232,
+  "name": "饱腹薰香",
+  "english": "Full Incense",
+  "category": "道具",
+  "num": 232,
+  "spritenum": 232,
+  "desc": "有着神奇香气的薰香。携带后，宝可梦的行动会比平时更加迟缓。",
+  "shortDesc": "有着神奇香气的薰香。携带后，宝可梦的行动会比平时更加迟缓。",
+  "gen": 1,
+  "isPokeball": false
+}

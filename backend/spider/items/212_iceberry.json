@@ -1,0 +1,12 @@
+{
+  "id": 212,
+  "name": "冰冻的果实",
+  "english": "Ice Berry",
+  "category": "道具",
+  "num": 212,
+  "spritenum": 212,
+  "desc": "携带后，可以治愈自己的灼伤状态。",
+  "shortDesc": "携带后，可以治愈自己的灼伤状态。",
+  "gen": 1,
+  "isPokeball": false
+}

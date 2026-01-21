@@ -1,0 +1,27 @@
+{
+  "id": 703,
+  "name": "Carbink",
+  "type1": "Rock",
+  "type2": "Fairy",
+  "hp": 50,
+  "attack": 50,
+  "defense": 150,
+  "sp_atk": 50,
+  "sp_def": 150,
+  "speed": 50,
+  "total": 500,
+  "abilities": [
+    "Clear Body",
+    "Sturdy"
+  ],
+  "height": 0.3,
+  "weight": 5.7,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/carbink.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\703_carbink.gif"
+}

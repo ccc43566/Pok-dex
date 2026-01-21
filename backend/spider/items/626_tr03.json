@@ -1,0 +1,12 @@
+{
+  "id": 626,
+  "name": "TR03",
+  "english": "tr03",
+  "category": "道具",
+  "num": 626,
+  "spritenum": 731,
+  "desc": "Teaches certain Pokemon the move Hydro Pump. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Hydro Pump. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 375,
+  "name": "Metal Coat",
+  "english": "metalcoat",
+  "category": "道具",
+  "num": 375,
+  "spritenum": 286,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

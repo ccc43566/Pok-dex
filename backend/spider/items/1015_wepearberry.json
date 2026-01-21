@@ -1,0 +1,12 @@
+{
+  "id": 1015,
+  "name": "西梨果",
+  "english": "Wepear Berry",
+  "category": "树果",
+  "num": 1015,
+  "spritenum": 1015,
+  "desc": "用于制作宝可方块，制作出来的宝可方块可用来打磨聪明。绿色的果实尝起来是苦的。",
+  "shortDesc": "用于制作宝可方块，制作出来的宝可方块可用来打磨聪明。绿色的果实尝起来是苦的。",
+  "gen": 1,
+  "isPokeball": false
+}

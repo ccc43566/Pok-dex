@@ -109,28 +109,37 @@ async def get_all_pokemon_names():
 
 async def get_pokemon_description_from_52poke(pokemon_name_en, session):
     """从52poke获取宝可梦的中文描述"""
-    # 处理 Alola 形态等特殊形态：使用基础名称构造 URL
-    base_name = pokemon_name_en
+    # 对单引号进行URL编码
+    encoded_name = pokemon_name_en.replace("'", "%27")
 
-    # 检查是否是形态后缀（Alola, Mega, Galar等）
+    # 特殊处理包含特殊字符的宝可梦名称
+    if encoded_name == "Type: Null":
+        # Type: Null 在52poke上可能受到访问限制，返回默认描述
+        return "Type: Null（日文︰タイプ：ヌル，英文︰Type: Null）是人工宝可梦，牠是由一位名叫札格的科学家制造出来的。Type: Null是第一世代以来第一只同时拥有一般和幽灵两种属性的宝可梦。牠的设定是为了测试RKS系统而被创造出来的实验性宝可梦。"
+
+    # 构造URL列表：先尝试完整名称，再尝试基础名称
+    base_name = encoded_name
     form_suffixes = [
         '-Alola', '-Mega', '-Galar', '-Hisui', '-Paldea', '-Gmax', '-Totem', '-Z', '-Blade', '-Shield',
         '-Pom-Pom', '-Pa', '-Sensu', '-Dusk', '-Midnight', '-School',
         '-Bug', '-Dragon', '-Dark', '-Electric', '-Fairy', '-Fire', '-Fighting', '-Flying', '-Ghost', '-Ground', '-Grass', '-Ice', '-Poison', '-Psychic', '-Water', '-Steel', '-Rock',
         '-Meteor', '-Busted', '-Low-Key', '-Antique', '-Four', '-White', '-Blue', '-Yellow', '-Hero',
-        '-Curly', '-Droopy', '-Stretchy', '-Three-Segment', '-Roaming', '-Artisan', '-Masterpiece'
+        '-Curly', '-Droopy', '-Stretchy', '-Three-Segment', '-Roaming', '-Artisan', '-Masterpiece',
+        '-Hoenn', '-Cosplay', '-Belle', '-Libre', '-PhD', '-Pop-Star', '-Partner', '-Rock-Star', '-Sinnoh', '-Unova', '-Starter', '-World', '-Original',
+        '-Mega-X', '-Mega-Y', '-F', '-M', '-Galar', '-Paldea-Blaze', '-Paldea-Aqua', '-Paldea-Combat', '-Spiky-eared', '-Snowy', '-Sunny', '-Rainy',
+        '-Primal', '-Defense', '-Attack', '-Speed', '-Sandy', '-Trash', '-Sunshine', '-Fan', '-Wash', '-Frost', '-Mow', '-Heat', '-Origin', '-Sky',
+        '-White-Striped', '-Blue-Striped', '-Galar-Zen', '-Zen', '-Therian', '-Black', '-Resolute', '-Pirouette', '-Burn', '-Douse', '-Chill', '-Shock',
+        '-Ash', '-Bond', '-Pokeball', '-Fancy', '-Eternal', '-F-Mega', '-M-Mega', '-Small', '-Large', '-Super', '-Neutral', '-Complete', '-10%',
+        '-Unbound', '-Dusk-Mane', '-Ultra', '-Dawn-Wings', '-Original-Mega', '-Gorging', '-Gulping', '-Noice', '-Hangry', '-Crowned', '-Eternamax',
+        '-Rapid-Strike', '-Rapid-Strike-Gmax', '-Dada', '-Shadow', '-Bloodmoon', '-Cornerstone', '-Cornerstone-Tera', '-Hearthflame-Tera', '-Hearthflame',
+        '-Wellspring', '-Teal-Tera', '-Wellspring-Tera', '-Terastal', '-Stellar'
     ]
-    is_form = any(pokemon_name_en.endswith(suffix) for suffix in form_suffixes)
-
-    if is_form:
-        # 如果是形态后缀，去掉所有后缀
-        base_name = pokemon_name_en
-        # 循环去掉所有匹配的后缀
-        while any(base_name.endswith(suffix) for suffix in form_suffixes):
-            for suffix in form_suffixes:
-                if base_name.endswith(suffix):
-                    base_name = base_name[:-len(suffix)]
-                    break
+    # 循环去掉所有匹配的后缀
+    while any(base_name.endswith(suffix) for suffix in form_suffixes):
+        for suffix in form_suffixes:
+            if base_name.endswith(suffix):
+                base_name = base_name[:-len(suffix)]
+                break
 
     # 特殊处理：某些宝可梦的页面名称特殊
     if base_name == "Nidoran":
@@ -140,72 +149,68 @@ async def get_pokemon_description_from_52poke(pokemon_name_en, session):
         elif "M" in pokemon_name_en:
             base_name = "Nidoran♂"
 
-    # 对单引号进行URL编码
-    base_name = base_name.replace("'", "%27")
+    urls = [f"https://wiki.52poke.com/wiki/{encoded_name}", f"https://wiki.52poke.com/wiki/{base_name}"]
 
-    # 特殊处理包含特殊字符的宝可梦名称
-    if base_name == "Type: Null":
-        # Type: Null 在52poke上可能受到访问限制，返回默认描述
-        return "Type: Null（日文︰タイプ：ヌル，英文︰Type: Null）是人工宝可梦，牠是由一位名叫札格的科学家制造出来的。Type: Null是第一世代以来第一只同时拥有一般和幽灵两种属性的宝可梦。牠的设定是为了测试RKS系统而被创造出来的实验性宝可梦。"
+    for url in urls:
+        # 重试机制：最多重试2次
+        for attempt in range(3):
+            try:
+                async with session.get(url, headers=headers, timeout=aiohttp.ClientTimeout(total=10)) as response:
+                    if response.status != 200:
+                        if attempt == 2:  # 最后一次重试
+                            print(f"HTTP错误 {pokemon_name_en}: {response.status}")
+                        await asyncio.sleep(0.3 * (attempt + 1))  # 递增延迟
+                        continue
 
-    url = f"https://wiki.52poke.com/wiki/{base_name}"
+                    content = await response.read()
+                    soup = BeautifulSoup(content, 'html.parser')
 
-    # 重试机制：最多重试2次
-    for attempt in range(3):
-        try:
-            async with session.get(url, headers=headers, timeout=aiohttp.ClientTimeout(total=15)) as response:
-                if response.status != 200:
-                    if attempt == 2:  # 最后一次重试
-                        print(f"HTTP错误 {pokemon_name_en}: {response.status}")
-                    await asyncio.sleep(0.5 * (attempt + 1))  # 递增延迟
+                # 找到正文容器
+                content_div = soup.find('div', id='mw-content-text')
+                if not content_div:
+                    if attempt == 2:
+                        print(f"未找到内容容器 {pokemon_name_en}")
+                    await asyncio.sleep(0.3 * (attempt + 1))
                     continue
 
-                content = await response.read()
-                soup = BeautifulSoup(content, 'html.parser')
+                # 获取所有 <p> 标签
+                all_p_tags = content_div.find_all('p')
 
-            # 找到正文容器
-            content_div = soup.find('div', id='mw-content-text')
-            if not content_div:
+                # 过滤掉不包含宝可梦描述的段落
+                valid_descriptions = []
+                for p_tag in all_p_tags:
+                    p_text = p_tag.get_text(strip=True)
+                    # 跳过太短的段落、包含特定关键词的段落
+                    if (len(p_text) > 20 and  # 确保有足够内容
+                        not p_text.startswith('From ') and  # 跳过图片说明
+                        not p_text.startswith('这是一张') and  # 跳过图片说明
+                        not 'Category:' in p_text and  # 跳过分类链接
+                        not (p_text.startswith('(') and p_text.endswith(')')) and  # 跳过括号内容
+                        not any(skip_word in p_text.lower() for skip_word in ['see also', 'external links', 'references', 'navigation'])):  # 跳过导航内容
+                        valid_descriptions.append(p_text)
+                        if len(valid_descriptions) >= 3:  # 只取前3个有效段落
+                            break
+
+                if not valid_descriptions:
+                    if attempt == 2:
+                        print(f"未找到有效描述段落 {pokemon_name_en}, 总共找到 {len(all_p_tags)} 个 <p> 标签")
+                    await asyncio.sleep(0.3 * (attempt + 1))
+                    continue
+
+                overview = "\n".join(valid_descriptions)
+                return overview
+
+            except asyncio.TimeoutError:
                 if attempt == 2:
-                    print(f"未找到内容容器 {pokemon_name_en}")
-                await asyncio.sleep(0.5 * (attempt + 1))
-                continue
-
-            # 获取所有 <p> 标签
-            all_p_tags = content_div.find_all('p')
-
-            # 过滤掉不包含宝可梦描述的段落
-            valid_descriptions = []
-            for p_tag in all_p_tags:
-                p_text = p_tag.get_text(strip=True)
-                # 跳过太短的段落、包含特定关键词的段落
-                if (len(p_text) > 20 and  # 确保有足够内容
-                    not p_text.startswith('From ') and  # 跳过图片说明
-                    not p_text.startswith('这是一张') and  # 跳过图片说明
-                    not 'Category:' in p_text and  # 跳过分类链接
-                    not (p_text.startswith('(') and p_text.endswith(')')) and  # 跳过括号内容
-                    not any(skip_word in p_text.lower() for skip_word in ['see also', 'external links', 'references', 'navigation'])):  # 跳过导航内容
-                    valid_descriptions.append(p_text)
-                    if len(valid_descriptions) >= 3:  # 只取前3个有效段落
-                        break
-
-            if not valid_descriptions:
+                    print(f"请求超时 {pokemon_name_en}")
+                await asyncio.sleep(0.3 * (attempt + 1))
+            except Exception as e:
                 if attempt == 2:
-                    print(f"未找到有效描述段落 {pokemon_name_en}, 总共找到 {len(all_p_tags)} 个 <p> 标签")
-                await asyncio.sleep(0.5 * (attempt + 1))
-                continue
+                    print(f"获取描述失败 {pokemon_name_en}: {e}")
+                await asyncio.sleep(0.3 * (attempt + 1))
 
-            overview = "\n".join(valid_descriptions)
-            return overview
-
-        except asyncio.TimeoutError:
-            if attempt == 2:
-                print(f"请求超时 {pokemon_name_en}")
-            await asyncio.sleep(0.5 * (attempt + 1))
-        except Exception as e:
-            if attempt == 2:
-                print(f"获取描述失败 {pokemon_name_en}: {e}")
-            await asyncio.sleep(0.5 * (attempt + 1))
+        # 如果这个URL失败了，继续下一个
+        continue
 
     return "未找到描述"
 
@@ -308,8 +313,8 @@ async def main():
     successful = 0
     failed = 0
 
-    # 限制并发数为5，避免过多的并发请求
-    semaphore = asyncio.Semaphore(5)
+    # 限制并发数为10，避免过多的并发请求
+    semaphore = asyncio.Semaphore(10)
 
     async def process_pokemon(pokemon_name):
         nonlocal successful, failed

@@ -1,0 +1,30 @@
+{
+  "id": 543,
+  "name": "Venipede",
+  "type1": "Bug",
+  "type2": "Poison",
+  "hp": 30,
+  "attack": 45,
+  "defense": 59,
+  "sp_atk": 30,
+  "sp_def": 39,
+  "speed": 57,
+  "total": 260,
+  "abilities": [
+    "Poison Point",
+    "Swarm",
+    "Speed Boost"
+  ],
+  "height": 0.4,
+  "weight": 5.3,
+  "gender_ratio": {},
+  "evos": [
+    "Whirlipede"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/venipede.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\543_venipede.gif"
+}

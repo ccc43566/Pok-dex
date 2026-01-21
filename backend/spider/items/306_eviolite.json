@@ -1,0 +1,12 @@
+{
+  "id": 306,
+  "name": "进化奇石",
+  "english": "Eviolite",
+  "category": "道具",
+  "num": 306,
+  "spritenum": 306,
+  "desc": "进化的神奇石块。携带后，还能进化的宝可梦的防御和特防就会提高。",
+  "shortDesc": "进化的神奇石块。携带后，还能进化的宝可梦的防御和特防就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

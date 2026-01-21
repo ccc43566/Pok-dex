@@ -1,0 +1,12 @@
+{
+  "id": 41,
+  "name": "黏丸",
+  "english": "Sticky Glob",
+  "category": "道具",
+  "num": 41,
+  "spritenum": 41,
+  "desc": "黏糊糊的球状物体。用它投中宝可梦能使其动作变得迟缓，有时还会生出破绽。",
+  "shortDesc": "黏糊糊的球状物体。用它投中宝可梦能使其动作变得迟缓，有时还会生出破绽。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 8,
+  "name": "Wartortle",
+  "type1": "Water",
+  "type2": null,
+  "hp": 59,
+  "attack": 63,
+  "defense": 80,
+  "sp_atk": 65,
+  "sp_def": 80,
+  "speed": 58,
+  "total": 405,
+  "abilities": [
+    "Torrent",
+    "Rain Dish"
+  ],
+  "height": 1.0,
+  "weight": 22.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Blastoise"
+  ],
+  "prevo": "Squirtle",
+  "evo_level": 16,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/wartortle.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\8_wartortle.gif"
+}

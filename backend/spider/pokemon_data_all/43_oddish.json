@@ -1,0 +1,29 @@
+{
+  "id": 43,
+  "name": "Oddish",
+  "type1": "Grass",
+  "type2": "Poison",
+  "hp": 45,
+  "attack": 50,
+  "defense": 55,
+  "sp_atk": 75,
+  "sp_def": 65,
+  "speed": 30,
+  "total": 320,
+  "abilities": [
+    "Chlorophyll",
+    "Run Away"
+  ],
+  "height": 0.5,
+  "weight": 5.4,
+  "gender_ratio": {},
+  "evos": [
+    "Gloom"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/oddish.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\43_oddish.gif"
+}

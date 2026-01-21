@@ -1,0 +1,12 @@
+{
+  "id": 356,
+  "name": "钢铁存储碟",
+  "english": "Steel Memory",
+  "category": "道具",
+  "num": 356,
+  "spritenum": 356,
+  "desc": "装有钢属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "shortDesc": "装有钢属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "gen": 1,
+  "isPokeball": false
+}

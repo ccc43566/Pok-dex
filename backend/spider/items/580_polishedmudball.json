@@ -1,0 +1,12 @@
+{
+  "id": 580,
+  "name": "光滑泥球",
+  "english": "Polished Mud Ball",
+  "category": "宝物",
+  "num": 580,
+  "spritenum": 580,
+  "desc": "用泥土制作的丸子。花了大把时间打磨，表面油光水滑。",
+  "shortDesc": "用泥土制作的丸子。花了大把时间打磨，表面油光水滑。",
+  "gen": 1,
+  "isPokeball": false
+}

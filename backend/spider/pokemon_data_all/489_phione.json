@@ -1,0 +1,26 @@
+{
+  "id": 489,
+  "name": "Phione",
+  "type1": "Water",
+  "type2": null,
+  "hp": 80,
+  "attack": 80,
+  "defense": 80,
+  "sp_atk": 80,
+  "sp_def": 80,
+  "speed": 80,
+  "total": 480,
+  "abilities": [
+    "Hydration"
+  ],
+  "height": 0.4,
+  "weight": 3.1,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/phione.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\489_phione.gif"
+}

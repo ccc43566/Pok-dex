@@ -1,0 +1,28 @@
+{
+  "id": 556,
+  "name": "Maractus",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 75,
+  "attack": 86,
+  "defense": 67,
+  "sp_atk": 106,
+  "sp_def": 67,
+  "speed": 60,
+  "total": 461,
+  "abilities": [
+    "Water Absorb",
+    "Chlorophyll",
+    "Storm Drain"
+  ],
+  "height": 1.0,
+  "weight": 28.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/maractus.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\556_maractus.gif"
+}

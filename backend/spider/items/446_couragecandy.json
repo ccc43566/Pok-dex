@@ -1,0 +1,12 @@
+{
+  "id": 446,
+  "name": "心灵糖果",
+  "english": "Courage Candy",
+  "category": "阿罗拉",
+  "num": 446,
+  "spritenum": 446,
+  "desc": "充满能量的糖果。能提高宝可梦的特防。",
+  "shortDesc": "充满能量的糖果。能提高宝可梦的特防。",
+  "gen": 1,
+  "isPokeball": false
+}

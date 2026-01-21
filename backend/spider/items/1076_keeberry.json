@@ -1,0 +1,12 @@
+{
+  "id": 1076,
+  "name": "亚开果",
+  "english": "Kee Berry",
+  "category": "树果",
+  "num": 1076,
+  "spritenum": 1076,
+  "desc": "让宝可梦携带后，在受到物理招式攻击时，自己的防御就会提高。",
+  "shortDesc": "让宝可梦携带后，在受到物理招式攻击时，自己的防御就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

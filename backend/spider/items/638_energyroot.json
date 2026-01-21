@@ -1,0 +1,12 @@
+{
+  "id": 638,
+  "name": "元气根",
+  "english": "Energy Root",
+  "category": "回复",
+  "num": 638,
+  "spritenum": 638,
+  "desc": "非常苦的根。能让１只宝可梦回复１２０ＨＰ。",
+  "shortDesc": "非常苦的根。能让１只宝可梦回复１２０ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

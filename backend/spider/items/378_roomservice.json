@@ -1,0 +1,12 @@
+{
+  "id": 378,
+  "name": "客房服务",
+  "english": "Room Service",
+  "category": "道具",
+  "num": 378,
+  "spritenum": 378,
+  "desc": "让宝可梦携带后，在戏法空间使用时，速度会下降。",
+  "shortDesc": "让宝可梦携带后，在戏法空间使用时，速度会下降。",
+  "gen": 1,
+  "isPokeball": false
+}

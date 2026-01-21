@@ -1,0 +1,28 @@
+{
+  "id": 523,
+  "name": "Zebstrika",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 75,
+  "attack": 100,
+  "defense": 63,
+  "sp_atk": 80,
+  "sp_def": 63,
+  "speed": 116,
+  "total": 497,
+  "abilities": [
+    "Lightning Rod",
+    "Motor Drive",
+    "Sap Sipper"
+  ],
+  "height": 1.6,
+  "weight": 79.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Blitzle",
+  "evo_level": 27,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/zebstrika.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\523_zebstrika.gif"
+}

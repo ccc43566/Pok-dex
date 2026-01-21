@@ -1,0 +1,12 @@
+{
+  "id": 64,
+  "name": "特性膏药",
+  "english": "Ability Patch",
+  "category": "道具",
+  "num": 64,
+  "spritenum": 64,
+  "desc": "可以改变宝可梦特性的膏药。给拥有常见特性的宝可梦使用后，其特性会转变为稀有特性。",
+  "shortDesc": "可以改变宝可梦特性的膏药。给拥有常见特性的宝可梦使用后，其特性会转变为稀有特性。",
+  "gen": 1,
+  "isPokeball": false
+}

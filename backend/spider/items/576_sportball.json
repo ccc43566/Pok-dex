@@ -1,0 +1,12 @@
+{
+  "id": 576,
+  "name": "Sport Ball",
+  "english": "sportball",
+  "category": "道具",
+  "num": 576,
+  "spritenum": 465,
+  "desc": "A special Poke Ball for the Bug-Catching Contest.",
+  "shortDesc": "A special Poke Ball for the Bug-Catching Contest.",
+  "gen": 2,
+  "isPokeball": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": 325,
+  "name": "超能力宝石",
+  "english": "Psychic Gem",
+  "category": "道具",
+  "num": 325,
+  "spritenum": 325,
+  "desc": "超能力属性的宝石。携带后，超能力属性的招式威力仅会增强１次。",
+  "shortDesc": "超能力属性的宝石。携带后，超能力属性的招式威力仅会增强１次。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 615,
+  "name": "双倍腌菜",
+  "english": "Twice-Spiced Radish",
+  "category": "战斗道具",
+  "num": 615,
+  "spritenum": 615,
+  "desc": "可让宝可梦获得加倍效果的腌菜。使用后宝可梦的招式造成的伤害会暂时变成１.５倍。",
+  "shortDesc": "可让宝可梦获得加倍效果的腌菜。使用后宝可梦的招式造成的伤害会暂时变成１.５倍。",
+  "gen": 1,
+  "isPokeball": false
+}

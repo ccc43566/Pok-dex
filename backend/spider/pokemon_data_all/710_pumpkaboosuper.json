@@ -1,0 +1,30 @@
+{
+  "id": 710,
+  "name": "Pumpkaboo-Super",
+  "type1": "Ghost",
+  "type2": "Grass",
+  "hp": 59,
+  "attack": 66,
+  "defense": 70,
+  "sp_atk": 44,
+  "sp_def": 55,
+  "speed": 41,
+  "total": 335,
+  "abilities": [
+    "Pickup",
+    "Frisk",
+    "Insomnia"
+  ],
+  "height": 0.8,
+  "weight": 15.0,
+  "gender_ratio": {},
+  "evos": [
+    "Gourgeist-Super"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pumpkaboo-super.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\710_pumpkaboo-super.gif"
+}

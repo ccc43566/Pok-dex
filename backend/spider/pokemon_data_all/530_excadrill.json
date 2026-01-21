@@ -1,0 +1,28 @@
+{
+  "id": 530,
+  "name": "Excadrill",
+  "type1": "Ground",
+  "type2": "Steel",
+  "hp": 110,
+  "attack": 135,
+  "defense": 60,
+  "sp_atk": 50,
+  "sp_def": 65,
+  "speed": 88,
+  "total": 508,
+  "abilities": [
+    "Sand Rush",
+    "Sand Force",
+    "Mold Breaker"
+  ],
+  "height": 0.7,
+  "weight": 40.4,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Drilbur",
+  "evo_level": 31,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/excadrill.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\530_excadrill.gif"
+}

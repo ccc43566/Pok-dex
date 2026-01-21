@@ -1,0 +1,12 @@
+{
+  "id": 345,
+  "name": "Luxury Ball",
+  "english": "luxuryball",
+  "category": "道具",
+  "num": 345,
+  "spritenum": 266,
+  "desc": "A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly.",
+  "shortDesc": "A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly.",
+  "gen": 3,
+  "isPokeball": true
+}

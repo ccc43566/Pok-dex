@@ -1,0 +1,12 @@
+{
+  "id": 179,
+  "name": "吃剩的东西",
+  "english": "Leftovers",
+  "category": "道具",
+  "num": 179,
+  "spritenum": 179,
+  "desc": "携带后，宝可梦的ＨＰ会在战斗期间缓缓回复。",
+  "shortDesc": "携带后，宝可梦的ＨＰ会在战斗期间缓缓回复。",
+  "gen": 1,
+  "isPokeball": false
+}

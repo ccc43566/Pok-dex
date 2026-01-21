@@ -1,0 +1,12 @@
+{
+  "id": 7,
+  "name": "红色玻璃哨",
+  "english": "Red Flute",
+  "category": "道具",
+  "num": 7,
+  "spritenum": 7,
+  "desc": "以红色玻璃制成的哨子。可以治愈着迷状态。",
+  "shortDesc": "以红色玻璃制成的哨子。可以治愈着迷状态。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 383,
+  "name": "驱劲能量",
+  "english": "Booster Energy",
+  "category": "道具",
+  "num": 383,
+  "spritenum": 383,
+  "desc": "充满能量的胶囊。让有某种特性的宝可梦携带后，其能力会得到提升。",
+  "shortDesc": "充满能量的胶囊。让有某种特性的宝可梦携带后，其能力会得到提升。",
+  "gen": 1,
+  "isPokeball": false
+}

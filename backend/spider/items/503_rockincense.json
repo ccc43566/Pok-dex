@@ -1,0 +1,12 @@
+{
+  "id": 503,
+  "name": "Rock Incense",
+  "english": "rockincense",
+  "category": "道具",
+  "num": 503,
+  "spritenum": 416,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

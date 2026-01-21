@@ -1,0 +1,26 @@
+{
+  "id": 480,
+  "name": "Uxie",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 75,
+  "attack": 75,
+  "defense": 130,
+  "sp_atk": 75,
+  "sp_def": 130,
+  "speed": 95,
+  "total": 580,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 0.3,
+  "weight": 0.3,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/uxie.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\480_uxie.gif"
+}

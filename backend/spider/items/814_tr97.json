@@ -1,0 +1,12 @@
+{
+  "id": 814,
+  "name": "TR97",
+  "english": "tr97",
+  "category": "道具",
+  "num": 814,
+  "spritenum": 734,
+  "desc": "Teaches certain Pokemon the move Psychic Fangs. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Psychic Fangs. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

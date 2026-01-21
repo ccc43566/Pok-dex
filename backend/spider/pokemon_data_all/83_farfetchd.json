@@ -1,0 +1,28 @@
+{
+  "id": 83,
+  "name": "Farfetch’d",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 52,
+  "attack": 90,
+  "defense": 55,
+  "sp_atk": 58,
+  "sp_def": 62,
+  "speed": 60,
+  "total": 377,
+  "abilities": [
+    "Keen Eye",
+    "Inner Focus",
+    "Defiant"
+  ],
+  "height": 0.8,
+  "weight": 15.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/farfetchd.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\83_farfetchd.gif"
+}

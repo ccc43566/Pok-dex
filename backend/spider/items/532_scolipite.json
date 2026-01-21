@@ -1,0 +1,12 @@
+{
+  "id": 532,
+  "name": "Scolipite",
+  "english": "scolipite",
+  "category": "道具",
+  "num": 532,
+  "spritenum": 554,
+  "desc": "If held by a Scolipede, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Scolipede, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 404,
+  "name": "Nest Ball",
+  "english": "nestball",
+  "category": "道具",
+  "num": 404,
+  "spritenum": 303,
+  "desc": "A Poke Ball that works especially well on weaker Pokemon in the wild.",
+  "shortDesc": "A Poke Ball that works especially well on weaker Pokemon in the wild.",
+  "gen": 3,
+  "isPokeball": true
+}

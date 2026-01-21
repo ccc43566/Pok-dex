@@ -1,0 +1,27 @@
+{
+  "id": 952,
+  "name": "Scovillain-Mega",
+  "type1": "Grass",
+  "type2": "Fire",
+  "hp": 65,
+  "attack": 138,
+  "defense": 85,
+  "sp_atk": 138,
+  "sp_def": 85,
+  "speed": 75,
+  "total": 586,
+  "abilities": [
+    "Chlorophyll",
+    "Insomnia",
+    "Moody"
+  ],
+  "height": 1.2,
+  "weight": 22.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/scovillain-mega.png"
+}

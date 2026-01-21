@@ -1,0 +1,12 @@
+{
+  "id": 827,
+  "name": "Up-Grade",
+  "english": "upgrade",
+  "category": "道具",
+  "num": 827,
+  "spritenum": 523,
+  "desc": "Evolves Porygon into Porygon2 when traded.",
+  "shortDesc": "Evolves Porygon into Porygon2 when traded.",
+  "gen": 2,
+  "isPokeball": false
+}

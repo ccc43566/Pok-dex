@@ -1,0 +1,26 @@
+{
+  "id": 791,
+  "name": "Solgaleo",
+  "type1": "Psychic",
+  "type2": "Steel",
+  "hp": 137,
+  "attack": 137,
+  "defense": 107,
+  "sp_atk": 113,
+  "sp_def": 89,
+  "speed": 97,
+  "total": 680,
+  "abilities": [
+    "Full Metal Body"
+  ],
+  "height": 3.4,
+  "weight": 230.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Cosmoem",
+  "evo_level": 53,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/solgaleo.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\791_solgaleo.gif"
+}

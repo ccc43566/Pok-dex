@@ -1,0 +1,12 @@
+{
+  "id": 254,
+  "name": "Griseous Core",
+  "english": "griseouscore",
+  "category": "道具",
+  "num": 254,
+  "spritenum": 743,
+  "desc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.",
+  "shortDesc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.",
+  "gen": 8,
+  "isPokeball": false
+}

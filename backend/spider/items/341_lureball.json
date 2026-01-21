@@ -1,0 +1,12 @@
+{
+  "id": 341,
+  "name": "Lure Ball",
+  "english": "lureball",
+  "category": "道具",
+  "num": 341,
+  "spritenum": 264,
+  "desc": "A Poke Ball for catching Pokemon hooked by a Rod when fishing.",
+  "shortDesc": "A Poke Ball for catching Pokemon hooked by a Rod when fishing.",
+  "gen": 2,
+  "isPokeball": true
+}

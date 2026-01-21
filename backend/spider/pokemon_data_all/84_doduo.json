@@ -1,0 +1,30 @@
+{
+  "id": 84,
+  "name": "Doduo",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 35,
+  "attack": 85,
+  "defense": 45,
+  "sp_atk": 35,
+  "sp_def": 35,
+  "speed": 75,
+  "total": 310,
+  "abilities": [
+    "Run Away",
+    "Early Bird",
+    "Tangled Feet"
+  ],
+  "height": 1.4,
+  "weight": 39.2,
+  "gender_ratio": {},
+  "evos": [
+    "Dodrio"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/doduo.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\84_doduo.gif"
+}

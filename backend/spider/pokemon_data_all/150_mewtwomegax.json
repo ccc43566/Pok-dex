@@ -1,0 +1,26 @@
+{
+  "id": 150,
+  "name": "Mewtwo-Mega-X",
+  "type1": "Psychic",
+  "type2": "Fighting",
+  "hp": 106,
+  "attack": 190,
+  "defense": 100,
+  "sp_atk": 154,
+  "sp_def": 100,
+  "speed": 130,
+  "total": 780,
+  "abilities": [
+    "Steadfast"
+  ],
+  "height": 2.3,
+  "weight": 127.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/mewtwo-megax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\150_mewtwo-megax.gif"
+}

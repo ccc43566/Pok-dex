@@ -1,0 +1,32 @@
+{
+  "id": 757,
+  "name": "Salandit",
+  "type1": "Poison",
+  "type2": "Fire",
+  "hp": 48,
+  "attack": 44,
+  "defense": 40,
+  "sp_atk": 71,
+  "sp_def": 40,
+  "speed": 77,
+  "total": 320,
+  "abilities": [
+    "Corrosion",
+    "Oblivious"
+  ],
+  "height": 0.6,
+  "weight": 4.8,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Salazzle"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/salandit.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\757_salandit.gif"
+}

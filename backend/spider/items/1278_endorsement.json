@@ -1,0 +1,12 @@
+{
+  "id": 1278,
+  "name": "推荐函",
+  "english": "Endorsement",
+  "category": "重要物品",
+  "num": 1278,
+  "spritenum": 1278,
+  "desc": "用于参加道馆挑战这一大赛的推荐函。",
+  "shortDesc": "用于参加道馆挑战这一大赛的推荐函。",
+  "gen": 1,
+  "isPokeball": false
+}

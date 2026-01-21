@@ -1,0 +1,12 @@
+{
+  "id": 502,
+  "name": "诱团原料",
+  "english": "Cake-Lure Base",
+  "category": "道具",
+  "num": 502,
+  "spritenum": 502,
+  "desc": "与宝可梦的食物混合后，香气会更加浓郁的口粮。",
+  "shortDesc": "与宝可梦的食物混合后，香气会更加浓郁的口粮。",
+  "gen": 1,
+  "isPokeball": false
+}

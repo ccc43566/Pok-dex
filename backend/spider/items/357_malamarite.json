@@ -1,0 +1,12 @@
+{
+  "id": 357,
+  "name": "Malamarite",
+  "english": "malamarite",
+  "category": "道具",
+  "num": 357,
+  "spritenum": 563,
+  "desc": "If held by a Malamar, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Malamar, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

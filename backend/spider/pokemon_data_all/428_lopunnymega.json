@@ -1,0 +1,26 @@
+{
+  "id": 428,
+  "name": "Lopunny-Mega",
+  "type1": "Normal",
+  "type2": "Fighting",
+  "hp": 65,
+  "attack": 136,
+  "defense": 94,
+  "sp_atk": 54,
+  "sp_def": 96,
+  "speed": 135,
+  "total": 580,
+  "abilities": [
+    "Scrappy"
+  ],
+  "height": 1.3,
+  "weight": 28.3,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/lopunny-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\428_lopunny-mega.gif"
+}

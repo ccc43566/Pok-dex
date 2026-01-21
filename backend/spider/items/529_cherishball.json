@@ -1,0 +1,12 @@
+{
+  "id": 529,
+  "name": "贵重球",
+  "english": "Cherish Ball",
+  "category": "精灵球",
+  "num": 529,
+  "spritenum": 529,
+  "desc": "相当珍贵的球。特制出来的某种纪念品。",
+  "shortDesc": "相当珍贵的球。特制出来的某种纪念品。",
+  "gen": 1,
+  "isPokeball": false
+}

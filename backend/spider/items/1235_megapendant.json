@@ -1,0 +1,12 @@
+{
+  "id": 1235,
+  "name": "超级吊坠",
+  "english": "Mega Pendant",
+  "category": "重要物品",
+  "num": 1235,
+  "spritenum": 1235,
+  "desc": "蕴藏着未知力量的吊坠。能让携带着超级石战斗的宝可梦进行超级进化。",
+  "shortDesc": "蕴藏着未知力量的吊坠。能让携带着超级石战斗的宝可梦进行超级进化。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 94,
+  "name": "Choice Specs",
+  "english": "choicespecs",
+  "category": "道具",
+  "num": 94,
+  "spritenum": 70,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

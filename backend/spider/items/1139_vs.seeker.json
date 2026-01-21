@@ -1,0 +1,12 @@
+{
+  "id": 1139,
+  "name": "对战搜寻器",
+  "english": "Vs. Seeker",
+  "category": "重要物品",
+  "num": 1139,
+  "spritenum": 1139,
+  "desc": "会告诉你想对战的训练家在哪里的机器。走路就能给电池充电。",
+  "shortDesc": "会告诉你想对战的训练家在哪里的机器。走路就能给电池充电。",
+  "gen": 1,
+  "isPokeball": false
+}

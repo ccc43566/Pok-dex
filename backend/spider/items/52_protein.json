@@ -1,0 +1,12 @@
+{
+  "id": 52,
+  "name": "攻击增强剂",
+  "english": "Protein",
+  "category": "道具",
+  "num": 52,
+  "spritenum": 52,
+  "desc": "宝可梦的营养饮料。能提高１只宝可梦的攻击的基础点数。",
+  "shortDesc": "宝可梦的营养饮料。能提高１只宝可梦的攻击的基础点数。",
+  "gen": 1,
+  "isPokeball": false
+}

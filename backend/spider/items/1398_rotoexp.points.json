@@ -1,0 +1,12 @@
+{
+  "id": 1398,
+  "name": "经验碰碰",
+  "english": "Roto Exp. Points",
+  "category": "道具",
+  "num": 1398,
+  "spritenum": 1398,
+  "desc": "洛托姆之力的一种，对战后能得到的经验值会稍微增加。",
+  "shortDesc": "洛托姆之力的一种，对战后能得到的经验值会稍微增加。",
+  "gen": 1,
+  "isPokeball": false
+}

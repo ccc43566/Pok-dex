@@ -1,0 +1,12 @@
+{
+  "id": 290,
+  "name": "Iron Ball",
+  "english": "ironball",
+  "category": "道具",
+  "num": 290,
+  "spritenum": 224,
+  "desc": "Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage.",
+  "shortDesc": "Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage.",
+  "gen": 4,
+  "isPokeball": false
+}

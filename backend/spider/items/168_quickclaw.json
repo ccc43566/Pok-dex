@@ -1,0 +1,12 @@
+{
+  "id": 168,
+  "name": "先制之爪",
+  "english": "Quick Claw",
+  "category": "道具",
+  "num": 168,
+  "spritenum": 168,
+  "desc": "又轻又尖锐的爪子。携带后，有时能比对手先一步行动。",
+  "shortDesc": "又轻又尖锐的爪子。携带后，有时能比对手先一步行动。",
+  "gen": 1,
+  "isPokeball": false
+}

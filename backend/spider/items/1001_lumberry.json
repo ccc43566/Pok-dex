@@ -1,0 +1,12 @@
+{
+  "id": 1001,
+  "name": "木子果",
+  "english": "Lum Berry",
+  "category": "树果",
+  "num": 1001,
+  "spritenum": 1001,
+  "desc": "让宝可梦携带后，可以治愈所有异常状态。",
+  "shortDesc": "让宝可梦携带后，可以治愈所有异常状态。",
+  "gen": 1,
+  "isPokeball": false
+}

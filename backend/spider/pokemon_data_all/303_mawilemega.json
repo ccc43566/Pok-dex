@@ -1,0 +1,26 @@
+{
+  "id": 303,
+  "name": "Mawile-Mega",
+  "type1": "Steel",
+  "type2": "Fairy",
+  "hp": 50,
+  "attack": 105,
+  "defense": 125,
+  "sp_atk": 55,
+  "sp_def": 95,
+  "speed": 50,
+  "total": 480,
+  "abilities": [
+    "Huge Power"
+  ],
+  "height": 1.0,
+  "weight": 23.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/mawile-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\303_mawile-mega.gif"
+}

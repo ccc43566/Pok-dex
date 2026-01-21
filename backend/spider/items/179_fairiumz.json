@@ -1,0 +1,12 @@
+{
+  "id": 179,
+  "name": "Fairium Z",
+  "english": "fairiumz",
+  "category": "道具",
+  "num": 179,
+  "spritenum": 648,
+  "desc": "If holder has a Fairy move, this item allows it to use a Fairy Z-Move.",
+  "shortDesc": "If holder has a Fairy move, this item allows it to use a Fairy Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

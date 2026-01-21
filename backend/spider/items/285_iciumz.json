@@ -1,0 +1,12 @@
+{
+  "id": 285,
+  "name": "Icium Z",
+  "english": "iciumz",
+  "category": "道具",
+  "num": 285,
+  "spritenum": 636,
+  "desc": "If holder has an Ice move, this item allows it to use an Ice Z-Move.",
+  "shortDesc": "If holder has an Ice move, this item allows it to use an Ice Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

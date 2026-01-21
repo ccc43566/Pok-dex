@@ -1,0 +1,12 @@
+{
+  "id": 301,
+  "name": "King",
+  "english": "kingsrock",
+  "category": "道具",
+  "num": 301,
+  "spritenum": 236,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 410,
+  "name": "Normalium Z",
+  "english": "normaliumz",
+  "category": "道具",
+  "num": 410,
+  "spritenum": 631,
+  "desc": "If holder has a Normal move, this item allows it to use a Normal Z-Move.",
+  "shortDesc": "If holder has a Normal move, this item allows it to use a Normal Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 728,
+  "name": "Popplio",
+  "type1": "Water",
+  "type2": null,
+  "hp": 50,
+  "attack": 54,
+  "defense": 54,
+  "sp_atk": 66,
+  "sp_def": 56,
+  "speed": 40,
+  "total": 320,
+  "abilities": [
+    "Torrent",
+    "Liquid Voice"
+  ],
+  "height": 0.4,
+  "weight": 7.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Brionne"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/popplio.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\728_popplio.gif"
+}

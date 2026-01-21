@@ -1,0 +1,27 @@
+{
+  "id": 249,
+  "name": "Lugia",
+  "type1": "Psychic",
+  "type2": "Flying",
+  "hp": 106,
+  "attack": 90,
+  "defense": 130,
+  "sp_atk": 90,
+  "sp_def": 154,
+  "speed": 110,
+  "total": 680,
+  "abilities": [
+    "Pressure",
+    "Multiscale"
+  ],
+  "height": 5.2,
+  "weight": 216.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/lugia.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\249_lugia.gif"
+}

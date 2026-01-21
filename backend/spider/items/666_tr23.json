@@ -1,0 +1,12 @@
+{
+  "id": 666,
+  "name": "TR23",
+  "english": "tr23",
+  "category": "道具",
+  "num": 666,
+  "spritenum": 725,
+  "desc": "Teaches certain Pokemon the move Spikes. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Spikes. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

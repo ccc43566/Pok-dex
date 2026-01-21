@@ -1,0 +1,12 @@
+{
+  "id": 275,
+  "name": "达人带",
+  "english": "Expert Belt",
+  "category": "道具",
+  "num": 275,
+  "spritenum": 275,
+  "desc": "用惯了的黑色带子。携带后，效果绝佳时的招式威力就会少量提高。",
+  "shortDesc": "用惯了的黑色带子。携带后，效果绝佳时的招式威力就会少量提高。",
+  "gen": 1,
+  "isPokeball": false
+}

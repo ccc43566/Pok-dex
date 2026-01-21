@@ -1,0 +1,29 @@
+{
+  "id": 554,
+  "name": "Darumaka-Galar",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 70,
+  "attack": 90,
+  "defense": 45,
+  "sp_atk": 15,
+  "sp_def": 45,
+  "speed": 50,
+  "total": 315,
+  "abilities": [
+    "Hustle",
+    "Inner Focus"
+  ],
+  "height": 0.7,
+  "weight": 40.0,
+  "gender_ratio": {},
+  "evos": [
+    "Darmanitan-Galar"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/darumaka-galar.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\554_darumaka-galar.gif"
+}

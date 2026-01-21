@@ -1,0 +1,12 @@
+{
+  "id": 159,
+  "name": "Eevium Z",
+  "english": "eeviumz",
+  "category": "道具",
+  "num": 159,
+  "spritenum": 657,
+  "desc": "If held by an Eevee with Last Resort, it can use Extreme Evoboost.",
+  "shortDesc": "If held by an Eevee with Last Resort, it can use Extreme Evoboost.",
+  "gen": 7,
+  "isPokeball": false
+}

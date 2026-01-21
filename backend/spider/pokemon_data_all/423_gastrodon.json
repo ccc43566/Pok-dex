@@ -1,0 +1,28 @@
+{
+  "id": 423,
+  "name": "Gastrodon",
+  "type1": "Water",
+  "type2": "Ground",
+  "hp": 111,
+  "attack": 83,
+  "defense": 68,
+  "sp_atk": 92,
+  "sp_def": 82,
+  "speed": 39,
+  "total": 475,
+  "abilities": [
+    "Sticky Hold",
+    "Storm Drain",
+    "Sand Force"
+  ],
+  "height": 0.9,
+  "weight": 29.9,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Shellos",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/gastrodon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\423_gastrodon.gif"
+}

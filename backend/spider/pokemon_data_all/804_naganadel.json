@@ -1,0 +1,26 @@
+{
+  "id": 804,
+  "name": "Naganadel",
+  "type1": "Poison",
+  "type2": "Dragon",
+  "hp": 73,
+  "attack": 73,
+  "defense": 73,
+  "sp_atk": 127,
+  "sp_def": 73,
+  "speed": 121,
+  "total": 540,
+  "abilities": [
+    "Beast Boost"
+  ],
+  "height": 3.6,
+  "weight": 150.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Poipole",
+  "evo_level": null,
+  "evo_type": "levelMove",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/naganadel.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\804_naganadel.gif"
+}

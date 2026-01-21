@@ -1,0 +1,12 @@
+{
+  "id": 869,
+  "name": "Ice Berry",
+  "english": "iceberry",
+  "category": "道具",
+  "num": 869,
+  "spritenum": 381,
+  "desc": "(Gen 2) Holder is cured if it is burned. Single use.",
+  "shortDesc": "(Gen 2) Holder is cured if it is burned. Single use.",
+  "gen": 2,
+  "isPokeball": false
+}

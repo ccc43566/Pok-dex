@@ -1,0 +1,26 @@
+{
+  "id": 151,
+  "name": "Mew",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 100,
+  "attack": 100,
+  "defense": 100,
+  "sp_atk": 100,
+  "sp_def": 100,
+  "speed": 100,
+  "total": 600,
+  "abilities": [
+    "Synchronize"
+  ],
+  "height": 0.4,
+  "weight": 4.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/mew.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\151_mew.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 445,
+  "name": "知识糖果",
+  "english": "Smart Candy",
+  "category": "阿罗拉",
+  "num": 445,
+  "spritenum": 445,
+  "desc": "充满能量的糖果。能提高宝可梦的特攻。",
+  "shortDesc": "充满能量的糖果。能提高宝可梦的特攻。",
+  "gen": 1,
+  "isPokeball": false
+}

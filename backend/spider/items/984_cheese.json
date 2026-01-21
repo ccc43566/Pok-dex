@@ -1,0 +1,12 @@
+{
+  "id": 984,
+  "name": "芝士片",
+  "english": "Cheese",
+  "category": "皮卡丘",
+  "num": 984,
+  "spritenum": 984,
+  "desc": "带有咸味的食材。切成薄片的芝士。方便使用，适合用作三明治的馅料。",
+  "shortDesc": "带有咸味的食材。切成薄片的芝士。方便使用，适合用作三明治的馅料。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 392,
+  "name": "Infernape",
+  "type1": "Fire",
+  "type2": "Fighting",
+  "hp": 76,
+  "attack": 104,
+  "defense": 71,
+  "sp_atk": 104,
+  "sp_def": 71,
+  "speed": 108,
+  "total": 534,
+  "abilities": [
+    "Blaze",
+    "Iron Fist"
+  ],
+  "height": 1.2,
+  "weight": 55.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Monferno",
+  "evo_level": 36,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/infernape.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\392_infernape.gif"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 12,
+  "name": "Butterfree",
+  "type1": "Bug",
+  "type2": "Flying",
+  "hp": 60,
+  "attack": 45,
+  "defense": 50,
+  "sp_atk": 90,
+  "sp_def": 80,
+  "speed": 70,
+  "total": 395,
+  "abilities": [
+    "Compound Eyes",
+    "Tinted Lens"
+  ],
+  "height": 1.1,
+  "weight": 32.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Metapod",
+  "evo_level": 10,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/butterfree.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\12_butterfree.gif"
+}

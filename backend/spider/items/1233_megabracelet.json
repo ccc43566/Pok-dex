@@ -1,0 +1,12 @@
+{
+  "id": 1233,
+  "name": "超级手镯",
+  "english": "Mega Bracelet",
+  "category": "重要物品",
+  "num": 1233,
+  "spritenum": 1233,
+  "desc": "蕴藏着未知力量的手镯。能让携带着超级石战斗的宝可梦进行超级进化。",
+  "shortDesc": "蕴藏着未知力量的手镯。能让携带着超级石战斗的宝可梦进行超级进化。",
+  "gen": 1,
+  "isPokeball": false
+}

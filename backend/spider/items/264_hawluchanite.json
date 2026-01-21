@@ -1,0 +1,12 @@
+{
+  "id": 264,
+  "name": "Hawluchanite",
+  "english": "hawluchanite",
+  "category": "道具",
+  "num": 264,
+  "spritenum": 566,
+  "desc": "If held by a Hawlucha, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Hawlucha, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

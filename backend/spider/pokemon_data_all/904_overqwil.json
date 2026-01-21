@@ -1,0 +1,28 @@
+{
+  "id": 904,
+  "name": "Overqwil",
+  "type1": "Dark",
+  "type2": "Poison",
+  "hp": 85,
+  "attack": 115,
+  "defense": 95,
+  "sp_atk": 65,
+  "sp_def": 65,
+  "speed": 85,
+  "total": 510,
+  "abilities": [
+    "Poison Point",
+    "Swift Swim",
+    "Intimidate"
+  ],
+  "height": 2.5,
+  "weight": 60.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Qwilfish-Hisui",
+  "evo_level": null,
+  "evo_type": "other",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/overqwil.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\904_overqwil.gif"
+}

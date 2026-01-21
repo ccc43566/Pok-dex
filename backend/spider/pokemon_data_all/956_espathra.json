@@ -1,0 +1,28 @@
+{
+  "id": 956,
+  "name": "Espathra",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 95,
+  "attack": 60,
+  "defense": 60,
+  "sp_atk": 101,
+  "sp_def": 60,
+  "speed": 105,
+  "total": 481,
+  "abilities": [
+    "Opportunist",
+    "Frisk",
+    "Speed Boost"
+  ],
+  "height": 1.9,
+  "weight": 90.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Flittle",
+  "evo_level": 35,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/espathra.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\956_espathra.gif"
+}

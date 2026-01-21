@@ -1,0 +1,12 @@
+{
+  "id": 790,
+  "name": "TR85",
+  "english": "tr85",
+  "category": "道具",
+  "num": 790,
+  "spritenum": 721,
+  "desc": "Teaches certain Pokemon the move Work Up. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Work Up. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

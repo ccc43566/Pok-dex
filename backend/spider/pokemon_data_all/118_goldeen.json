@@ -1,0 +1,30 @@
+{
+  "id": 118,
+  "name": "Goldeen",
+  "type1": "Water",
+  "type2": null,
+  "hp": 45,
+  "attack": 67,
+  "defense": 60,
+  "sp_atk": 35,
+  "sp_def": 50,
+  "speed": 63,
+  "total": 320,
+  "abilities": [
+    "Swift Swim",
+    "Water Veil",
+    "Lightning Rod"
+  ],
+  "height": 0.6,
+  "weight": 15.0,
+  "gender_ratio": {},
+  "evos": [
+    "Seaking"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/goldeen.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\118_goldeen.gif"
+}

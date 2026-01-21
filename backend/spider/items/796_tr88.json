@@ -1,0 +1,12 @@
+{
+  "id": 796,
+  "name": "TR88",
+  "english": "tr88",
+  "category": "道具",
+  "num": 796,
+  "spritenum": 730,
+  "desc": "Teaches certain Pokemon the move Heat Crash. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Heat Crash. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

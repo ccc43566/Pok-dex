@@ -1,0 +1,12 @@
+{
+  "id": 760,
+  "name": "TR70",
+  "english": "tr70",
+  "category": "道具",
+  "num": 760,
+  "spritenum": 729,
+  "desc": "Teaches certain Pokemon the move Flash Cannon. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Flash Cannon. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

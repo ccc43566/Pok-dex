@@ -1,0 +1,28 @@
+{
+  "id": 713,
+  "name": "Avalugg",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 95,
+  "attack": 117,
+  "defense": 184,
+  "sp_atk": 44,
+  "sp_def": 46,
+  "speed": 28,
+  "total": 514,
+  "abilities": [
+    "Own Tempo",
+    "Ice Body",
+    "Sturdy"
+  ],
+  "height": 2.0,
+  "weight": 505.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Bergmite",
+  "evo_level": 37,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/avalugg.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\713_avalugg.gif"
+}

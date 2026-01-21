@@ -1,0 +1,12 @@
+{
+  "id": 1097,
+  "name": "离洞绳",
+  "english": "Escape Rope",
+  "category": "重要物品",
+  "num": 1097,
+  "spritenum": 1097,
+  "desc": "结实的长绳。可以从洞窟或迷宫中脱身。能够反复使用。",
+  "shortDesc": "结实的长绳。可以从洞窟或迷宫中脱身。能够反复使用。",
+  "gen": 1,
+  "isPokeball": false
+}

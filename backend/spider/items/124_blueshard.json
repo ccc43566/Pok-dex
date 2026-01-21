@@ -1,0 +1,12 @@
+{
+  "id": 124,
+  "name": "蓝色碎片",
+  "english": "Blue Shard",
+  "category": "道具",
+  "num": 124,
+  "spritenum": 124,
+  "desc": "蓝色的小碎片。好像是以前制作的某道具的一部分。",
+  "shortDesc": "蓝色的小碎片。好像是以前制作的某道具的一部分。",
+  "gen": 1,
+  "isPokeball": false
+}

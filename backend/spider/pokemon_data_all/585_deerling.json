@@ -1,0 +1,30 @@
+{
+  "id": 585,
+  "name": "Deerling",
+  "type1": "Normal",
+  "type2": "Grass",
+  "hp": 60,
+  "attack": 60,
+  "defense": 50,
+  "sp_atk": 40,
+  "sp_def": 50,
+  "speed": 75,
+  "total": 335,
+  "abilities": [
+    "Chlorophyll",
+    "Sap Sipper",
+    "Serene Grace"
+  ],
+  "height": 0.6,
+  "weight": 19.5,
+  "gender_ratio": {},
+  "evos": [
+    "Sawsbuck"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/deerling.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\585_deerling.gif"
+}

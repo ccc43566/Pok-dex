@@ -1,0 +1,12 @@
+{
+  "id": 318,
+  "name": "Level Ball",
+  "english": "levelball",
+  "category": "道具",
+  "num": 318,
+  "spritenum": 246,
+  "desc": "A Poke Ball for catching Pokemon that are a lower level than your own.",
+  "shortDesc": "A Poke Ball for catching Pokemon that are a lower level than your own.",
+  "gen": 2,
+  "isPokeball": true
+}

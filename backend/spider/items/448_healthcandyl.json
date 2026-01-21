@@ -1,0 +1,12 @@
+{
+  "id": 448,
+  "name": "元气糖果L",
+  "english": "Health Candy L",
+  "category": "阿罗拉",
+  "num": 448,
+  "spritenum": 448,
+  "desc": "充满能量的大糖果。能让等级30以上的宝可梦的体力上升。",
+  "shortDesc": "充满能量的大糖果。能让等级30以上的宝可梦的体力上升。",
+  "gen": 1,
+  "isPokeball": false
+}

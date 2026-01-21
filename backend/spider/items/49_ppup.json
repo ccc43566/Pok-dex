@@ -1,0 +1,12 @@
+{
+  "id": 49,
+  "name": "ＰＰ提升剂",
+  "english": "PP Up",
+  "category": "道具",
+  "num": 49,
+  "spritenum": 49,
+  "desc": "能让宝可梦学会的其中１个招式的ＰＰ最大值少量提高。",
+  "shortDesc": "能让宝可梦学会的其中１个招式的ＰＰ最大值少量提高。",
+  "gen": 1,
+  "isPokeball": false
+}

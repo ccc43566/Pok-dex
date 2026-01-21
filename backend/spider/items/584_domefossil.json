@@ -1,0 +1,12 @@
+{
+  "id": 584,
+  "name": "甲壳化石",
+  "english": "Dome Fossil",
+  "category": "道具",
+  "num": 584,
+  "spritenum": 584,
+  "desc": "很久以前栖息在海里的古代宝可梦的化石。好像是甲壳的一部分。",
+  "shortDesc": "很久以前栖息在海里的古代宝可梦的化石。好像是甲壳的一部分。",
+  "gen": 1,
+  "isPokeball": false
+}

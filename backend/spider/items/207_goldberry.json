@@ -1,0 +1,12 @@
+{
+  "id": 207,
+  "name": "黄金的果实",
+  "english": "Gold Berry",
+  "category": "道具",
+  "num": 207,
+  "spritenum": 207,
+  "desc": "携带后，可以回復自己３０点体力。",
+  "shortDesc": "携带后，可以回復自己３０点体力。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 566,
+  "name": "Soft Sand",
+  "english": "softsand",
+  "category": "道具",
+  "num": 566,
+  "spritenum": 456,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

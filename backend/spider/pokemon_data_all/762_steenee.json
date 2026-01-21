@@ -1,0 +1,30 @@
+{
+  "id": 762,
+  "name": "Steenee",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 52,
+  "attack": 40,
+  "defense": 48,
+  "sp_atk": 40,
+  "sp_def": 48,
+  "speed": 62,
+  "total": 290,
+  "abilities": [
+    "Leaf Guard",
+    "Oblivious",
+    "Sweet Veil"
+  ],
+  "height": 0.7,
+  "weight": 8.2,
+  "gender_ratio": {},
+  "evos": [
+    "Tsareena"
+  ],
+  "prevo": "Bounsweet",
+  "evo_level": 18,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/steenee.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\762_steenee.gif"
+}

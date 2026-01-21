@@ -1,0 +1,12 @@
+{
+  "id": 106,
+  "name": "冰之石",
+  "english": "Ice Stone",
+  "category": "道具",
+  "num": 106,
+  "spritenum": 106,
+  "desc": "能让某些特定宝可梦进化的神奇石头。有着雪花般的花纹。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇石头。有着雪花般的花纹。",
+  "gen": 1,
+  "isPokeball": false
+}

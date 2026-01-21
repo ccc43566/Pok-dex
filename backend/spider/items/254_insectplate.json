@@ -1,0 +1,12 @@
+{
+  "id": 254,
+  "name": "玉虫石板",
+  "english": "Insect Plate",
+  "category": "道具",
+  "num": 254,
+  "spritenum": 254,
+  "desc": "虫属性的石板。携带后，虫属性的招式威力就会增强。",
+  "shortDesc": "虫属性的石板。携带后，虫属性的招式威力就会增强。",
+  "gen": 1,
+  "isPokeball": false
+}

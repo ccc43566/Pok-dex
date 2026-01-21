@@ -1,0 +1,12 @@
+{
+  "id": 194,
+  "name": "木炭",
+  "english": "Charcoal",
+  "category": "道具",
+  "num": 194,
+  "spritenum": 194,
+  "desc": "焚烧用的燃料。携带后，火属性的招式威力就会提高。",
+  "shortDesc": "焚烧用的燃料。携带后，火属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

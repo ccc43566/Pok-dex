@@ -1,0 +1,12 @@
+{
+  "id": 202,
+  "name": "金属粉",
+  "english": "Metal Powder",
+  "category": "道具",
+  "num": 202,
+  "spritenum": 202,
+  "desc": "让百变怪携带后，防御就会提高的神奇粉末。非常细腻坚硬。",
+  "shortDesc": "让百变怪携带后，防御就会提高的神奇粉末。非常细腻坚硬。",
+  "gen": 1,
+  "isPokeball": false
+}

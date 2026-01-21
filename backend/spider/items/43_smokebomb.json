@@ -1,0 +1,12 @@
+{
+  "id": 43,
+  "name": "烟弹",
+  "english": "Smoke Bomb",
+  "category": "道具",
+  "num": 43,
+  "spritenum": 43,
+  "desc": "丢向地面后，飞散的细粉会遮蔽周围的视野，让自己不会被宝可梦察觉。",
+  "shortDesc": "丢向地面后，飞散的细粉会遮蔽周围的视野，让自己不会被宝可梦察觉。",
+  "gen": 1,
+  "isPokeball": false
+}

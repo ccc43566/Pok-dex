@@ -1,0 +1,12 @@
+{
+  "id": 146,
+  "name": "Dragon Scale",
+  "english": "dragonscale",
+  "category": "道具",
+  "num": 146,
+  "spritenum": 108,
+  "desc": "Evolves Seadra into Kingdra when traded.",
+  "shortDesc": "Evolves Seadra into Kingdra when traded.",
+  "gen": 2,
+  "isPokeball": false
+}

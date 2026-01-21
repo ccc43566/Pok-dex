@@ -1,0 +1,33 @@
+{
+  "id": 564,
+  "name": "Tirtouga",
+  "type1": "Water",
+  "type2": "Rock",
+  "hp": 54,
+  "attack": 78,
+  "defense": 103,
+  "sp_atk": 53,
+  "sp_def": 45,
+  "speed": 22,
+  "total": 355,
+  "abilities": [
+    "Solid Rock",
+    "Sturdy",
+    "Swift Swim"
+  ],
+  "height": 0.7,
+  "weight": 16.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Carracosta"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/tirtouga.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\564_tirtouga.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 387,
+  "name": "拳击手套",
+  "english": "Punching Glove",
+  "category": "道具",
+  "num": 387,
+  "spritenum": 387,
+  "desc": "保护拳头的手套。携带后，拳击招式的威力会提高，且变得拳击时不会接触到对手。",
+  "shortDesc": "保护拳头的手套。携带后，拳击招式的威力会提高，且变得拳击时不会接触到对手。",
+  "gen": 1,
+  "isPokeball": false
+}

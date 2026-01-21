@@ -1,0 +1,12 @@
+{
+  "id": 211,
+  "name": "烧烤的果实",
+  "english": "Burnt Berry",
+  "category": "道具",
+  "num": 211,
+  "spritenum": 211,
+  "desc": "携带后，可以治愈自己的冰冻状态。",
+  "shortDesc": "携带后，可以治愈自己的冰冻状态。",
+  "gen": 1,
+  "isPokeball": false
+}

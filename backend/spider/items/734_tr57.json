@@ -1,0 +1,12 @@
+{
+  "id": 734,
+  "name": "TR57",
+  "english": "tr57",
+  "category": "道具",
+  "num": 734,
+  "spritenum": 724,
+  "desc": "Teaches certain Pokemon the move Poison Jab. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Poison Jab. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

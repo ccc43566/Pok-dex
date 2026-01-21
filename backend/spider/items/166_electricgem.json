@@ -1,0 +1,12 @@
+{
+  "id": 166,
+  "name": "Electric Gem",
+  "english": "electricgem",
+  "category": "道具",
+  "num": 166,
+  "spritenum": 120,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

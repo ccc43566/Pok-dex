@@ -1,0 +1,12 @@
+{
+  "id": 218,
+  "name": "强力香草",
+  "english": "Power Herb",
+  "category": "道具",
+  "num": 218,
+  "spritenum": 218,
+  "desc": "携带它的宝可梦仅有１次机会可以在第１回合使出需要蓄力的招式。",
+  "shortDesc": "携带它的宝可梦仅有１次机会可以在第１回合使出需要蓄力的招式。",
+  "gen": 1,
+  "isPokeball": false
+}

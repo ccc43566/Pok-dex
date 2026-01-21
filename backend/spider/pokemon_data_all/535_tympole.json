@@ -1,0 +1,30 @@
+{
+  "id": 535,
+  "name": "Tympole",
+  "type1": "Water",
+  "type2": null,
+  "hp": 50,
+  "attack": 50,
+  "defense": 40,
+  "sp_atk": 50,
+  "sp_def": 40,
+  "speed": 64,
+  "total": 294,
+  "abilities": [
+    "Swift Swim",
+    "Hydration",
+    "Water Absorb"
+  ],
+  "height": 0.5,
+  "weight": 4.5,
+  "gender_ratio": {},
+  "evos": [
+    "Palpitoad"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/tympole.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\535_tympole.gif"
+}

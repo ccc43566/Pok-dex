@@ -1,0 +1,12 @@
+{
+  "id": 109,
+  "name": "Cover Fossil",
+  "english": "coverfossil",
+  "category": "道具",
+  "num": 109,
+  "spritenum": 85,
+  "desc": "Can be revived into Tirtouga.",
+  "shortDesc": "Can be revived into Tirtouga.",
+  "gen": 5,
+  "isPokeball": false
+}

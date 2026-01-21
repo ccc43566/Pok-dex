@@ -1,0 +1,26 @@
+{
+  "id": 229,
+  "name": "Houndoom-Mega",
+  "type1": "Dark",
+  "type2": "Fire",
+  "hp": 75,
+  "attack": 90,
+  "defense": 90,
+  "sp_atk": 140,
+  "sp_def": 90,
+  "speed": 115,
+  "total": 600,
+  "abilities": [
+    "Solar Power"
+  ],
+  "height": 1.9,
+  "weight": 49.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/houndoom-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\229_houndoom-mega.gif"
+}

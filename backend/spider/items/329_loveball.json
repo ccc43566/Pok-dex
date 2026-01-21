@@ -1,0 +1,12 @@
+{
+  "id": 329,
+  "name": "Love Ball",
+  "english": "loveball",
+  "category": "道具",
+  "num": 329,
+  "spritenum": 258,
+  "desc": "Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.",
+  "shortDesc": "Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.",
+  "gen": 2,
+  "isPokeball": true
+}

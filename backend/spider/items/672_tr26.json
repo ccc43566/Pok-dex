@@ -1,0 +1,12 @@
+{
+  "id": 672,
+  "name": "TR26",
+  "english": "tr26",
+  "category": "道具",
+  "num": 672,
+  "spritenum": 721,
+  "desc": "Teaches certain Pokemon the move Endure. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Endure. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

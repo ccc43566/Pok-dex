@@ -1,0 +1,12 @@
+{
+  "id": 463,
+  "name": "经验糖果Ｍ",
+  "english": "Exp. Candy M",
+  "category": "阿罗拉",
+  "num": 463,
+  "spritenum": 463,
+  "desc": "充满能量的糖果。交给１只宝可梦后，可以为它增加经验值。",
+  "shortDesc": "充满能量的糖果。交给１只宝可梦后，可以为它增加经验值。",
+  "gen": 1,
+  "isPokeball": false
+}

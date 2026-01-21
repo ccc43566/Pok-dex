@@ -1,0 +1,12 @@
+{
+  "id": 1224,
+  "name": "超级坠饰",
+  "english": "Mega Charm",
+  "category": "重要物品",
+  "num": 1224,
+  "spritenum": 1224,
+  "desc": "蕴藏着未知力量的坠饰。能让携带着超级石战斗的宝可梦进行超级进化。",
+  "shortDesc": "蕴藏着未知力量的坠饰。能让携带着超级石战斗的宝可梦进行超级进化。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1325,
+  "name": "他人的遗失物",
+  "english": "Lost Satchel",
+  "category": "重要物品",
+  "num": 1325,
+  "spritenum": 1325,
+  "desc": "他人遗失的腰包。",
+  "shortDesc": "他人遗失的腰包。",
+  "gen": 1,
+  "isPokeball": false
+}

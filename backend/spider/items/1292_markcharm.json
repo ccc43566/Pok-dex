@@ -1,0 +1,12 @@
+{
+  "id": 1292,
+  "name": "证章护符",
+  "english": "Mark Charm",
+  "category": "重要物品",
+  "num": 1292,
+  "spritenum": 1292,
+  "desc": "神奇而富有个性的护符。拥有该护符后，会更容易遇到带有证章的宝可梦。",
+  "shortDesc": "神奇而富有个性的护符。拥有该护符后，会更容易遇到带有证章的宝可梦。",
+  "gen": 1,
+  "isPokeball": false
+}

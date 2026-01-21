@@ -1,0 +1,12 @@
+{
+  "id": 422,
+  "name": "Payapa Berry",
+  "english": "payapaberry",
+  "category": "道具",
+  "num": 422,
+  "spritenum": 330,
+  "desc": "Halves damage taken from a supereffective Psychic-type attack. Single use.",
+  "shortDesc": "Halves damage taken from a supereffective Psychic-type attack. Single use.",
+  "gen": 4,
+  "isPokeball": false
+}

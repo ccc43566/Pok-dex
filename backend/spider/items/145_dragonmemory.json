@@ -1,0 +1,12 @@
+{
+  "id": 145,
+  "name": "Dragon Memory",
+  "english": "dragonmemory",
+  "category": "道具",
+  "num": 145,
+  "spritenum": 682,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

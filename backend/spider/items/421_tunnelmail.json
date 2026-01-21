@@ -1,0 +1,12 @@
+{
+  "id": 421,
+  "name": "隧道邮件",
+  "english": "Tunnel Mail",
+  "category": "郵件",
+  "num": 421,
+  "spritenum": 421,
+  "desc": "印有昏暗的煤矿的特殊信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "shortDesc": "印有昏暗的煤矿的特殊信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "gen": 1,
+  "isPokeball": false
+}

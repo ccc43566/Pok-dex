@@ -1,0 +1,12 @@
+{
+  "id": 483,
+  "name": "Rare Bone",
+  "english": "rarebone",
+  "category": "道具",
+  "num": 483,
+  "spritenum": 379,
+  "desc": "No competitive use other than when used with Fling.",
+  "shortDesc": "No competitive use other than when used with Fling.",
+  "gen": 4,
+  "isPokeball": false
+}

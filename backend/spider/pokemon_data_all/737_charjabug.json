@@ -1,0 +1,28 @@
+{
+  "id": 737,
+  "name": "Charjabug",
+  "type1": "Bug",
+  "type2": "Electric",
+  "hp": 57,
+  "attack": 82,
+  "defense": 95,
+  "sp_atk": 55,
+  "sp_def": 75,
+  "speed": 36,
+  "total": 400,
+  "abilities": [
+    "Battery"
+  ],
+  "height": 0.5,
+  "weight": 10.5,
+  "gender_ratio": {},
+  "evos": [
+    "Vikavolt"
+  ],
+  "prevo": "Grubbin",
+  "evo_level": 20,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/charjabug.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\737_charjabug.gif"
+}

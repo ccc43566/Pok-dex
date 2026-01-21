@@ -1,0 +1,28 @@
+{
+  "id": 901,
+  "name": "Ursaluna",
+  "type1": "Ground",
+  "type2": "Normal",
+  "hp": 130,
+  "attack": 140,
+  "defense": 105,
+  "sp_atk": 45,
+  "sp_def": 80,
+  "speed": 50,
+  "total": 550,
+  "abilities": [
+    "Guts",
+    "Bulletproof",
+    "Unnerve"
+  ],
+  "height": 2.4,
+  "weight": 290.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Ursaring",
+  "evo_level": null,
+  "evo_type": "other",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ursaluna.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\901_ursaluna.gif"
+}

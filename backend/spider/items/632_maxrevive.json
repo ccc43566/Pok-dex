@@ -1,0 +1,12 @@
+{
+  "id": 632,
+  "name": "活力块",
+  "english": "Max Revive",
+  "category": "回复",
+  "num": 632,
+  "spritenum": 632,
+  "desc": "能让１只陷入濒死的宝可梦重获生机，并回复所有ＨＰ。",
+  "shortDesc": "能让１只陷入濒死的宝可梦重获生机，并回复所有ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

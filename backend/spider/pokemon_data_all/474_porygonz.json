@@ -1,0 +1,28 @@
+{
+  "id": 474,
+  "name": "Porygon-Z",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 85,
+  "attack": 80,
+  "defense": 70,
+  "sp_atk": 135,
+  "sp_def": 75,
+  "speed": 90,
+  "total": 535,
+  "abilities": [
+    "Adaptability",
+    "Download",
+    "Analytic"
+  ],
+  "height": 0.9,
+  "weight": 34.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Porygon2",
+  "evo_level": null,
+  "evo_type": "trade",
+  "evo_item": "Dubious Disc",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/porygonz.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\474_porygonz.gif"
+}

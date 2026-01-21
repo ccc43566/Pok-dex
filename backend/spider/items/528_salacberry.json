@@ -1,0 +1,12 @@
+{
+  "id": 528,
+  "name": "Salac Berry",
+  "english": "salacberry",
+  "category": "道具",
+  "num": 528,
+  "spritenum": 426,
+  "desc": "Raises holder",
+  "shortDesc": "Raises holder",
+  "gen": 3,
+  "isPokeball": false
+}

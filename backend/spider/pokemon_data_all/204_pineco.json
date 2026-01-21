@@ -1,0 +1,29 @@
+{
+  "id": 204,
+  "name": "Pineco",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 50,
+  "attack": 65,
+  "defense": 90,
+  "sp_atk": 35,
+  "sp_def": 35,
+  "speed": 15,
+  "total": 290,
+  "abilities": [
+    "Sturdy",
+    "Overcoat"
+  ],
+  "height": 0.6,
+  "weight": 7.2,
+  "gender_ratio": {},
+  "evos": [
+    "Forretress"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/pineco.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\204_pineco.gif"
+}

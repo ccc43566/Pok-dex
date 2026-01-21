@@ -1,0 +1,26 @@
+{
+  "id": 338,
+  "name": "Solrock",
+  "type1": "Rock",
+  "type2": "Psychic",
+  "hp": 90,
+  "attack": 95,
+  "defense": 85,
+  "sp_atk": 55,
+  "sp_def": 65,
+  "speed": 70,
+  "total": 460,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 1.2,
+  "weight": 154.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/solrock.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\338_solrock.gif"
+}

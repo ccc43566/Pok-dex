@@ -1,0 +1,12 @@
+{
+  "id": 86,
+  "name": "Chill Drive",
+  "english": "chilldrive",
+  "category": "道具",
+  "num": 86,
+  "spritenum": 67,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

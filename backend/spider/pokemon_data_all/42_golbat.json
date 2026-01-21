@@ -1,0 +1,29 @@
+{
+  "id": 42,
+  "name": "Golbat",
+  "type1": "Poison",
+  "type2": "Flying",
+  "hp": 75,
+  "attack": 80,
+  "defense": 70,
+  "sp_atk": 65,
+  "sp_def": 75,
+  "speed": 90,
+  "total": 455,
+  "abilities": [
+    "Inner Focus",
+    "Infiltrator"
+  ],
+  "height": 1.6,
+  "weight": 55.0,
+  "gender_ratio": {},
+  "evos": [
+    "Crobat"
+  ],
+  "prevo": "Zubat",
+  "evo_level": 22,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/golbat.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\42_golbat.gif"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 681,
+  "name": "Aegislash",
+  "type1": "Steel",
+  "type2": "Ghost",
+  "hp": 60,
+  "attack": 50,
+  "defense": 140,
+  "sp_atk": 50,
+  "sp_def": 140,
+  "speed": 60,
+  "total": 500,
+  "abilities": [
+    "Stance Change"
+  ],
+  "height": 1.7,
+  "weight": 53.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Doublade",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Dusk Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/aegislash.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\681_aegislash.gif"
+}

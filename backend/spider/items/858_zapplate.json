@@ -1,0 +1,12 @@
+{
+  "id": 858,
+  "name": "Zap Plate",
+  "english": "zapplate",
+  "category": "道具",
+  "num": 858,
+  "spritenum": 572,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

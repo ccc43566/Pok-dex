@@ -1,0 +1,28 @@
+{
+  "id": 433,
+  "name": "Chingling",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 45,
+  "attack": 30,
+  "defense": 50,
+  "sp_atk": 65,
+  "sp_def": 50,
+  "speed": 45,
+  "total": 285,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 0.2,
+  "weight": 0.6,
+  "gender_ratio": {},
+  "evos": [
+    "Chimecho"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/chingling.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\433_chingling.gif"
+}

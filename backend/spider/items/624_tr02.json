@@ -1,0 +1,12 @@
+{
+  "id": 624,
+  "name": "TR02",
+  "english": "tr02",
+  "category": "道具",
+  "num": 624,
+  "spritenum": 730,
+  "desc": "Teaches certain Pokemon the move Flamethrower. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Flamethrower. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

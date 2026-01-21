@@ -1,0 +1,29 @@
+{
+  "id": 9,
+  "name": "Blastoise-Mega",
+  "type1": "Water",
+  "type2": null,
+  "hp": 79,
+  "attack": 103,
+  "defense": 120,
+  "sp_atk": 135,
+  "sp_def": 115,
+  "speed": 78,
+  "total": 630,
+  "abilities": [
+    "Mega Launcher"
+  ],
+  "height": 1.6,
+  "weight": 101.1,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/blastoise-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\9_blastoise-mega.gif"
+}

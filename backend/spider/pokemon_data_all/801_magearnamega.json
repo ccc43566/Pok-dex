@@ -1,0 +1,25 @@
+{
+  "id": 801,
+  "name": "Magearna-Mega",
+  "type1": "Steel",
+  "type2": "Fairy",
+  "hp": 80,
+  "attack": 125,
+  "defense": 115,
+  "sp_atk": 170,
+  "sp_def": 115,
+  "speed": 95,
+  "total": 700,
+  "abilities": [
+    "Soul-Heart"
+  ],
+  "height": 1.3,
+  "weight": 248.1,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/magearna-mega.png"
+}

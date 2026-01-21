@@ -1,0 +1,12 @@
+{
+  "id": 228,
+  "name": "海潮薰香",
+  "english": "Sea Incense",
+  "category": "道具",
+  "num": 228,
+  "spritenum": 228,
+  "desc": "有着神奇香气的薰香。携带后，水属性的招式威力就会提高。",
+  "shortDesc": "有着神奇香气的薰香。携带后，水属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

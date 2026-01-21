@@ -1,0 +1,12 @@
+{
+  "id": 37,
+  "name": "Beedrillite",
+  "english": "beedrillite",
+  "category": "道具",
+  "num": 37,
+  "spritenum": 628,
+  "desc": "If held by a Beedrill, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Beedrill, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

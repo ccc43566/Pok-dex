@@ -1,0 +1,27 @@
+{
+  "id": 378,
+  "name": "Regice",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 80,
+  "attack": 50,
+  "defense": 100,
+  "sp_atk": 100,
+  "sp_def": 200,
+  "speed": 50,
+  "total": 580,
+  "abilities": [
+    "Clear Body",
+    "Ice Body"
+  ],
+  "height": 1.8,
+  "weight": 175.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/regice.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\378_regice.gif"
+}

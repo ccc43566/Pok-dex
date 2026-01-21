@@ -1,0 +1,12 @@
+{
+  "id": 198,
+  "name": "丝绸围巾",
+  "english": "Silk Scarf",
+  "category": "道具",
+  "num": 198,
+  "spritenum": 198,
+  "desc": "手感不错的围巾。携带后，一般属性的招式威力就会提高。",
+  "shortDesc": "手感不错的围巾。携带后，一般属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

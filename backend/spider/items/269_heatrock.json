@@ -1,0 +1,12 @@
+{
+  "id": 269,
+  "name": "Heat Rock",
+  "english": "heatrock",
+  "category": "道具",
+  "num": 269,
+  "spritenum": 193,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1202,
+  "name": "许可证",
+  "english": "Permit",
+  "category": "重要物品",
+  "num": 1202,
+  "spritenum": 1202,
+  "desc": "只有极少数人才知道的，进入自然保护区所需的授权卡。",
+  "shortDesc": "只有极少数人才知道的，进入自然保护区所需的授权卡。",
+  "gen": 1,
+  "isPokeball": false
+}

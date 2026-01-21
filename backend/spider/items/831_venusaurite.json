@@ -1,0 +1,12 @@
+{
+  "id": 831,
+  "name": "Venusaurite",
+  "english": "venusaurite",
+  "category": "道具",
+  "num": 831,
+  "spritenum": 608,
+  "desc": "If held by a Venusaur, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Venusaur, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

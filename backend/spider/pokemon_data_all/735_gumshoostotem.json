@@ -1,0 +1,26 @@
+{
+  "id": 735,
+  "name": "Gumshoos-Totem",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 88,
+  "attack": 110,
+  "defense": 60,
+  "sp_atk": 55,
+  "sp_def": 60,
+  "speed": 45,
+  "total": 418,
+  "abilities": [
+    "Adaptability"
+  ],
+  "height": 1.4,
+  "weight": 60.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/gumshoos-totem.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\735_gumshoos-totem.gif"
+}

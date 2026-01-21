@@ -1,0 +1,12 @@
+{
+  "id": 148,
+  "name": "Drampanite",
+  "english": "drampanite",
+  "category": "道具",
+  "num": 148,
+  "spritenum": 569,
+  "desc": "If held by a Drampa, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Drampa, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

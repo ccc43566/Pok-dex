@@ -1,0 +1,27 @@
+{
+  "id": 555,
+  "name": "Darmanitan-Galar",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 105,
+  "attack": 140,
+  "defense": 55,
+  "sp_atk": 30,
+  "sp_def": 55,
+  "speed": 95,
+  "total": 480,
+  "abilities": [
+    "Gorilla Tactics",
+    "Zen Mode"
+  ],
+  "height": 1.7,
+  "weight": 120.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Darumaka-Galar",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Ice Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/darmanitan-galar.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\555_darmanitan-galar.gif"
+}

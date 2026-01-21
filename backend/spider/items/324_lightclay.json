@@ -1,0 +1,12 @@
+{
+  "id": 324,
+  "name": "Light Clay",
+  "english": "lightclay",
+  "category": "道具",
+  "num": 324,
+  "spritenum": 252,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

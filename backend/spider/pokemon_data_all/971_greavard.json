@@ -1,0 +1,29 @@
+{
+  "id": 971,
+  "name": "Greavard",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 50,
+  "attack": 61,
+  "defense": 60,
+  "sp_atk": 30,
+  "sp_def": 55,
+  "speed": 34,
+  "total": 290,
+  "abilities": [
+    "Pickup",
+    "Fluffy"
+  ],
+  "height": 0.6,
+  "weight": 35.0,
+  "gender_ratio": {},
+  "evos": [
+    "Houndstone"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/greavard.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\971_greavard.gif"
+}

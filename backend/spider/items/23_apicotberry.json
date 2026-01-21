@@ -1,0 +1,12 @@
+{
+  "id": 23,
+  "name": "Apicot Berry",
+  "english": "apicotberry",
+  "category": "道具",
+  "num": 23,
+  "spritenum": 10,
+  "desc": "Raises holder",
+  "shortDesc": "Raises holder",
+  "gen": 3,
+  "isPokeball": false
+}

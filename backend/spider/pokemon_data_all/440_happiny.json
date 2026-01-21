@@ -1,0 +1,30 @@
+{
+  "id": 440,
+  "name": "Happiny",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 100,
+  "attack": 5,
+  "defense": 5,
+  "sp_atk": 15,
+  "sp_def": 65,
+  "speed": 30,
+  "total": 220,
+  "abilities": [
+    "Natural Cure",
+    "Serene Grace",
+    "Friend Guard"
+  ],
+  "height": 0.6,
+  "weight": 24.4,
+  "gender_ratio": {},
+  "evos": [
+    "Chansey"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/happiny.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\440_happiny.gif"
+}

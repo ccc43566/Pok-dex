@@ -1,0 +1,12 @@
+{
+  "id": 599,
+  "name": "要害攻击",
+  "english": "Dire Hit",
+  "category": "战斗道具",
+  "num": 599,
+  "spritenum": 599,
+  "desc": "击中要害的几率会大幅提高。只能使用１次。离场后，效果便会消失。",
+  "shortDesc": "击中要害的几率会大幅提高。只能使用１次。离场后，效果便会消失。",
+  "gen": 1,
+  "isPokeball": false
+}

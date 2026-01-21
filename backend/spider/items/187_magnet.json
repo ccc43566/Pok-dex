@@ -1,0 +1,12 @@
+{
+  "id": 187,
+  "name": "磁铁",
+  "english": "Magnet",
+  "category": "道具",
+  "num": 187,
+  "spritenum": 187,
+  "desc": "强力的磁铁。携带后，电属性的招式威力就会提高。",
+  "shortDesc": "强力的磁铁。携带后，电属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

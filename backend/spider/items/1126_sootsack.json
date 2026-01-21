@@ -1,0 +1,12 @@
+{
+  "id": 1126,
+  "name": "集灰袋",
+  "english": "Soot Sack",
+  "category": "重要物品",
+  "num": 1126,
+  "spritenum": 1126,
+  "desc": "将堆积起来的火山灰收集起来的袋子。",
+  "shortDesc": "将堆积起来的火山灰收集起来的袋子。",
+  "gen": 1,
+  "isPokeball": false
+}

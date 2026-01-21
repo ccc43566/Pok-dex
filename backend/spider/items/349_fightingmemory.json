@@ -1,0 +1,12 @@
+{
+  "id": 349,
+  "name": "战斗存储碟",
+  "english": "Fighting Memory",
+  "category": "道具",
+  "num": 349,
+  "spritenum": 349,
+  "desc": "装有格斗属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "shortDesc": "装有格斗属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "gen": 1,
+  "isPokeball": false
+}

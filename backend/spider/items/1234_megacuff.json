@@ -1,0 +1,12 @@
+{
+  "id": 1234,
+  "name": "超级护腕",
+  "english": "Mega Cuff",
+  "category": "重要物品",
+  "num": 1234,
+  "spritenum": 1234,
+  "desc": "蕴藏着未知力量的护腕。能让携带着超级石战斗的宝可梦进行超级进化。",
+  "shortDesc": "蕴藏着未知力量的护腕。能让携带着超级石战斗的宝可梦进行超级进化。",
+  "gen": 1,
+  "isPokeball": false
+}

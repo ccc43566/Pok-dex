@@ -1,0 +1,12 @@
+{
+  "id": 736,
+  "name": "TR58",
+  "english": "tr58",
+  "category": "道具",
+  "num": 736,
+  "spritenum": 737,
+  "desc": "Teaches certain Pokemon the move Dark Pulse. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Dark Pulse. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

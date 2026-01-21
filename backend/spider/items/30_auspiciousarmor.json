@@ -1,0 +1,12 @@
+{
+  "id": 30,
+  "name": "Auspicious Armor",
+  "english": "auspiciousarmor",
+  "category": "道具",
+  "num": 30,
+  "spritenum": 753,
+  "desc": "Evolves Charcadet into Armarouge when used.",
+  "shortDesc": "Evolves Charcadet into Armarouge when used.",
+  "gen": 9,
+  "isPokeball": false
+}

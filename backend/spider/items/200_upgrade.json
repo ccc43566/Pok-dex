@@ -1,0 +1,12 @@
+{
+  "id": 200,
+  "name": "升级数据",
+  "english": "Up-Grade",
+  "category": "道具",
+  "num": 200,
+  "spritenum": 200,
+  "desc": "内部储存了各种信息的透明机器。西尔佛公司制造。",
+  "shortDesc": "内部储存了各种信息的透明机器。西尔佛公司制造。",
+  "gen": 1,
+  "isPokeball": false
+}

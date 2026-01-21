@@ -1,0 +1,12 @@
+{
+  "id": 389,
+  "name": "机变骰子",
+  "english": "Loaded Dice",
+  "category": "道具",
+  "num": 389,
+  "spritenum": 389,
+  "desc": "只会出现好数字的骰子。携带后，在使用连续招式时，能使出较多次招式。",
+  "shortDesc": "只会出现好数字的骰子。携带后，在使用连续招式时，能使出较多次招式。",
+  "gen": 1,
+  "isPokeball": false
+}

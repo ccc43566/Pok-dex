@@ -1,0 +1,27 @@
+{
+  "id": 978,
+  "name": "Tatsugiri-Droopy",
+  "type1": "Dragon",
+  "type2": "Water",
+  "hp": 68,
+  "attack": 50,
+  "defense": 60,
+  "sp_atk": 120,
+  "sp_def": 95,
+  "speed": 82,
+  "total": 475,
+  "abilities": [
+    "Commander",
+    "Storm Drain"
+  ],
+  "height": 0.3,
+  "weight": 8.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/tatsugiri-droopy.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\978_tatsugiri-droopy.gif"
+}

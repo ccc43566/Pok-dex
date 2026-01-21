@@ -1,0 +1,12 @@
+{
+  "id": 560,
+  "name": "巨大金珠",
+  "english": "Big Nugget",
+  "category": "宝物",
+  "num": 560,
+  "spritenum": 560,
+  "desc": "以纯金制成，闪着金光的大珠子。可以在商店高价出售。",
+  "shortDesc": "以纯金制成，闪着金光的大珠子。可以在商店高价出售。",
+  "gen": 1,
+  "isPokeball": false
+}

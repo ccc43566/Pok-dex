@@ -1,0 +1,32 @@
+{
+  "id": 152,
+  "name": "Chikorita",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 45,
+  "attack": 49,
+  "defense": 65,
+  "sp_atk": 49,
+  "sp_def": 65,
+  "speed": 45,
+  "total": 318,
+  "abilities": [
+    "Overgrow",
+    "Leaf Guard"
+  ],
+  "height": 0.9,
+  "weight": 6.4,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Bayleef"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/chikorita.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\152_chikorita.gif"
+}

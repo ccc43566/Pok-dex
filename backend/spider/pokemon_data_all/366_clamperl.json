@@ -1,0 +1,30 @@
+{
+  "id": 366,
+  "name": "Clamperl",
+  "type1": "Water",
+  "type2": null,
+  "hp": 35,
+  "attack": 64,
+  "defense": 85,
+  "sp_atk": 74,
+  "sp_def": 55,
+  "speed": 32,
+  "total": 345,
+  "abilities": [
+    "Shell Armor",
+    "Rattled"
+  ],
+  "height": 0.4,
+  "weight": 52.5,
+  "gender_ratio": {},
+  "evos": [
+    "Huntail",
+    "Gorebyss"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/clamperl.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\366_clamperl.gif"
+}

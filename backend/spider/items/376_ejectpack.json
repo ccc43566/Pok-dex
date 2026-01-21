@@ -1,0 +1,12 @@
+{
+  "id": 376,
+  "name": "避难背包",
+  "english": "Eject Pack",
+  "category": "道具",
+  "num": 376,
+  "spritenum": 376,
+  "desc": "当携带它的宝可梦能力下降时，同行宝可梦就会自动替换上场。",
+  "shortDesc": "当携带它的宝可梦能力下降时，同行宝可梦就会自动替换上场。",
+  "gen": 1,
+  "isPokeball": false
+}

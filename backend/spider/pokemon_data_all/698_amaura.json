@@ -1,0 +1,32 @@
+{
+  "id": 698,
+  "name": "Amaura",
+  "type1": "Rock",
+  "type2": "Ice",
+  "hp": 77,
+  "attack": 59,
+  "defense": 50,
+  "sp_atk": 67,
+  "sp_def": 63,
+  "speed": 46,
+  "total": 362,
+  "abilities": [
+    "Refrigerate",
+    "Snow Warning"
+  ],
+  "height": 1.3,
+  "weight": 25.2,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Aurorus"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/amaura.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\698_amaura.gif"
+}

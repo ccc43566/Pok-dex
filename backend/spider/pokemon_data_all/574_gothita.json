@@ -1,0 +1,33 @@
+{
+  "id": 574,
+  "name": "Gothita",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 45,
+  "attack": 30,
+  "defense": 50,
+  "sp_atk": 55,
+  "sp_def": 65,
+  "speed": 45,
+  "total": 290,
+  "abilities": [
+    "Frisk",
+    "Competitive",
+    "Shadow Tag"
+  ],
+  "height": 0.4,
+  "weight": 5.8,
+  "gender_ratio": {
+    "M": 0.25,
+    "F": 0.75
+  },
+  "evos": [
+    "Gothorita"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/gothita.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\574_gothita.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 604,
+  "name": "Tart Apple",
+  "english": "tartapple",
+  "category": "道具",
+  "num": 604,
+  "spritenum": 712,
+  "desc": "Evolves Applin into Flapple when used.",
+  "shortDesc": "Evolves Applin into Flapple when used.",
+  "gen": 8,
+  "isPokeball": false
+}

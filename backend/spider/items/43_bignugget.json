@@ -1,0 +1,12 @@
+{
+  "id": 43,
+  "name": "Big Nugget",
+  "english": "bignugget",
+  "category": "道具",
+  "num": 43,
+  "spritenum": 27,
+  "desc": "A big nugget of pure gold that gives off a lustrous gleam.",
+  "shortDesc": "A big nugget of pure gold that gives off a lustrous gleam.",
+  "gen": 5,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 356,
+  "name": "Mail",
+  "english": "mail",
+  "category": "道具",
+  "num": 356,
+  "spritenum": 403,
+  "desc": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.",
+  "shortDesc": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.",
+  "gen": 2,
+  "isPokeball": false
+}

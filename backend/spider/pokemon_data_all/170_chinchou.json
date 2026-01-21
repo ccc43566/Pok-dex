@@ -1,0 +1,30 @@
+{
+  "id": 170,
+  "name": "Chinchou",
+  "type1": "Water",
+  "type2": "Electric",
+  "hp": 75,
+  "attack": 38,
+  "defense": 38,
+  "sp_atk": 56,
+  "sp_def": 56,
+  "speed": 67,
+  "total": 330,
+  "abilities": [
+    "Volt Absorb",
+    "Illuminate",
+    "Water Absorb"
+  ],
+  "height": 0.5,
+  "weight": 12.0,
+  "gender_ratio": {},
+  "evos": [
+    "Lanturn"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/chinchou.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\170_chinchou.gif"
+}

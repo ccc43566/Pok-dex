@@ -1,0 +1,12 @@
+{
+  "id": 527,
+  "name": "治愈球",
+  "english": "Heal Ball",
+  "category": "精灵球",
+  "num": 527,
+  "spritenum": 527,
+  "desc": "有点温柔的球。能回复捉到的宝可梦的ＨＰ并治愈异常状态。",
+  "shortDesc": "有点温柔的球。能回复捉到的宝可梦的ＨＰ并治愈异常状态。",
+  "gen": 1,
+  "isPokeball": false
+}

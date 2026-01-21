@@ -1,0 +1,12 @@
+{
+  "id": 311,
+  "name": "标靶",
+  "english": "Ring Target",
+  "category": "道具",
+  "num": 311,
+  "spritenum": 311,
+  "desc": "原本因宝可梦的属性相克关系而无效的招式现在会变得能够击中自己。",
+  "shortDesc": "原本因宝可梦的属性相克关系而无效的招式现在会变得能够击中自己。",
+  "gen": 1,
+  "isPokeball": false
+}

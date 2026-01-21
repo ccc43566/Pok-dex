@@ -1,100 +1,136 @@
 import requests
-from bs4 import BeautifulSoup
 import json
-import time
 import os
+import re
 
-# 目标网址
-url = "https://wiki.52poke.com/wiki/道具列表"
+def extract_item_data(js_content, item_key):
+    """从JavaScript内容中提取特定道具的数据"""
+    # 查找特定的道具数据，使用平衡大括号匹配
+    start_pattern = rf'{re.escape(item_key)}:\s*{{'
+    start_match = re.search(start_pattern, js_content)
 
-# 设置请求头（模拟浏览器）
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
-}
+    if not start_match:
+        return None
 
-try:
-    print("正在请求网页...")
-    response = requests.get(url, headers=headers, timeout=10)
-    response.raise_for_status()
-    response.encoding = 'utf-8'  # 确保正确解码中文
+    start_pos = start_match.end() - 1  # 包含开头的{
 
-    print("正在解析 HTML...")
-    soup = BeautifulSoup(response.text, 'html.parser')
+    # 从start_pos开始，计算大括号的平衡
+    brace_count = 0
+    end_pos = start_pos
 
-    # 找到所有道具表格（根据 class 定位，所有包含 hvlist 的表格）
-    tables = soup.find_all('table', class_=lambda x: x and 'hvlist' in x)
-    if not tables:
-        raise ValueError("未找到道具表格，请检查网页结构是否变化")
-
-    items = []
-    item_count = 0
-
-    for table in tables:
-        # 从表格类中提取类别
-        table_classes = table.get('class', [])
-        category = "道具"  # 默认
-        for cls in table_classes:
-            if cls.startswith('bgd-'):
-                category = cls[4:]  # 去掉'bgd-'
+    for i in range(start_pos, len(js_content)):
+        if js_content[i] == '{':
+            brace_count += 1
+        elif js_content[i] == '}':
+            brace_count -= 1
+            if brace_count == 0:
+                end_pos = i + 1  # 包含结尾的}
                 break
 
-        # 提取所有数据行（跳过表头）
-        rows = table.find_all('tr')[1:]  # 第一行是表头，跳过
+    if brace_count != 0:
+        return None
 
-        for row in rows:
-            cols = row.find_all('td')
-            if len(cols) >= 4:  # 确保至少有4列
-                # 提取第一列的链接（如果有）
-                image_link = None
-                if cols[0].find('a'):
-                    a_tag = cols[0].find('a')
-                    if a_tag and 'href' in a_tag.attrs:
-                        image_link = a_tag['href']
+    item_str = js_content[start_pos:end_pos]
 
-                item = {
-                    "中文": cols[1].get_text(strip=True),
-                    "日文": cols[2].get_text(strip=True),
-                    "英文": cols[3].get_text(strip=True),
-                    "说明": cols[4].get_text(strip=True) if len(cols) > 4 else "",
-                    "category": category,
-                    "image_link": image_link
-                }
-                items.append(item)
-                item_count += 1
-                print(f"[{item_count}] 已解析 [{category}]: {item['中文']}")
+    # 手动解析JavaScript对象格式
+    data = {}
 
-    # 创建items目录
-    items_dir = os.path.join(os.path.dirname(__file__), 'items')
-    os.makedirs(items_dir, exist_ok=True)
+    # 解析spritenum
+    spritenum_match = re.search(r'spritenum:\s*(\d+)', item_str)
+    if spritenum_match:
+        data['spritenum'] = int(spritenum_match.group(1))
 
-    # 保存每个道具为单独的JSON文件
-    for i, item in enumerate(items, start=0):
-        # 使用英文名作为文件名，去除空格和特殊字符
-        english_name = item['英文'].lower().replace(' ', '').replace('-', '').replace("'", "").replace('é', 'e')
-        filename = f"{i}_{english_name}.json"
+    # 解析name
+    name_match = re.search(r'name:\s*["\']([^"\']+)["\']', item_str)
+    if name_match:
+        data['name'] = name_match.group(1)
 
-        # 构造JSON数据，模拟现有格式
-        item_data = {
-            "id": i,
-            "name": item['中文'],  # 使用中文作为名称
-            "english": item['英文'],  # 添加英文名
-            "category": item['category'],  # 使用提取的类别
-            "num": i,
-            "spritenum": i,  # 暂时使用i作为spritenum
-            "desc": item['说明'],
-            "shortDesc": item['说明'],
-            "gen": 1,  # 默认世代
-            "isPokeball": False  # 默认不是精灵球
+    # 解析desc
+    desc_match = re.search(r'desc:\s*["\']([^"\']*)["\']', item_str)
+    if desc_match:
+        data['desc'] = desc_match.group(1)
+    else:
+        data['desc'] = ""
+
+    # 解析shortDesc
+    short_desc_match = re.search(r'shortDesc:\s*["\']([^"\']*)["\']', item_str)
+    if short_desc_match:
+        data['shortDesc'] = short_desc_match.group(1)
+    else:
+        data['shortDesc'] = data['desc']
+
+    # 解析gen
+    gen_match = re.search(r'gen:\s*(\d+)', item_str)
+    if gen_match:
+        data['gen'] = int(gen_match.group(1))
+    else:
+        data['gen'] = 1
+
+    # 解析isPokeball
+    if 'isPokeball' in item_str:
+        data['isPokeball'] = True
+    else:
+        data['isPokeball'] = False
+
+    return data
+
+def main():
+    # Pokemon Showdown道具数据URL
+    ITEMS_DATA_URL = "https://play.pokemonshowdown.com/data/items.js"
+
+    try:
+        print("正在从Pokemon Showdown获取道具数据...")
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
+        response = requests.get(ITEMS_DATA_URL, headers=headers, timeout=30)
+        response.raise_for_status()
+        js_content = response.text
 
-        filepath = os.path.join(items_dir, filename)
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(item_data, f, ensure_ascii=False, indent=2)
+        # 提取所有道具名称
+        item_names = []
+        matches = re.findall(r'(\w+):\s*{', js_content)
+        for match in matches:
+            if match.islower() or match in ['potion', 'superpotion', 'hyperpotion', 'maxpotion', 'fullrestore']:
+                item_names.append(match)
 
-        print(f"保存: {filename}")
+        print(f"找到 {len(item_names)} 个道具")
 
-    print(f"\n✅ 成功！共爬取 {len(items)} 个道具，已保存到 items/ 目录")
+        # 创建items目录
+        items_dir = os.path.join(os.path.dirname(__file__), 'items')
+        os.makedirs(items_dir, exist_ok=True)
 
-except Exception as e:
-    print(f"❌ 发生错误: {e}")
-    input("按回车键退出...")
+        item_count = 0
+        for item_name in item_names:
+            item_data = extract_item_data(js_content, item_name)
+            if item_data:
+                # 构造JSON数据
+                full_item_data = {
+                    "id": item_count,
+                    "name": item_data.get('name', item_name),
+                    "english": item_name,
+                    "category": "道具",  # 默认类别
+                    "num": item_count,
+                    "spritenum": item_data.get('spritenum', item_count),
+                    "desc": item_data.get('desc', ''),
+                    "shortDesc": item_data.get('shortDesc', ''),
+                    "gen": item_data.get('gen', 1),
+                    "isPokeball": item_data.get('isPokeball', False)
+                }
+
+                filename = f"{item_count}_{item_name}.json"
+                filepath = os.path.join(items_dir, filename)
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    json.dump(full_item_data, f, ensure_ascii=False, indent=2)
+
+                item_count += 1
+                print(f"[{item_count}] 保存: {item_name}")
+
+        print(f"\n✅ 成功！共获取 {item_count} 个道具，已保存到 items/ 目录")
+
+    except Exception as e:
+        print(f"❌ 发生错误: {e}")
+        input("按回车键退出...")
+
+if __name__ == "__main__":
+    main()

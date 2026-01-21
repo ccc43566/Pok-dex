@@ -1,0 +1,12 @@
+{
+  "id": 766,
+  "name": "TR73",
+  "english": "tr73",
+  "category": "道具",
+  "num": 766,
+  "spritenum": 724,
+  "desc": "Teaches certain Pokemon the move Gunk Shot. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Gunk Shot. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 586,
+  "name": "根状化石",
+  "english": "Root Fossil",
+  "category": "道具",
+  "num": 586,
+  "spritenum": 586,
+  "desc": "很久以前栖息在海里的古代宝可梦的化石。好像是根的一部分。",
+  "shortDesc": "很久以前栖息在海里的古代宝可梦的化石。好像是根的一部分。",
+  "gen": 1,
+  "isPokeball": false
+}

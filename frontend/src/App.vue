@@ -5,6 +5,8 @@
       <nav>
         <router-link to="/">首页</router-link>
         <router-link to="/pokemon">宝可梦列表</router-link>
+        <router-link to="/items">物品列表</router-link>
+        <router-link to="/moves">技能列表</router-link>
         <router-link to="/stats">统计信息</router-link>
       </nav>
     </header>

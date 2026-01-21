@@ -1,0 +1,12 @@
+{
+  "id": 302,
+  "name": "闪电卡带",
+  "english": "Shock Drive",
+  "category": "道具",
+  "num": 302,
+  "spritenum": 302,
+  "desc": "这是让盖诺赛克特携带的卡带。携带后，高科技光炮这招式就会变为电属性。",
+  "shortDesc": "这是让盖诺赛克特携带的卡带。携带后，高科技光炮这招式就会变为电属性。",
+  "gen": 1,
+  "isPokeball": false
+}

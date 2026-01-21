@@ -1,0 +1,12 @@
+{
+  "id": 266,
+  "name": "Hearthflame Mask",
+  "english": "hearthflamemask",
+  "category": "道具",
+  "num": 266,
+  "spritenum": 760,
+  "desc": "Ogerpon-Hearthflame: 1.2x power attacks; Terastallize to gain Embody Aspect.",
+  "shortDesc": "Ogerpon-Hearthflame: 1.2x power attacks; Terastallize to gain Embody Aspect.",
+  "gen": 9,
+  "isPokeball": false
+}

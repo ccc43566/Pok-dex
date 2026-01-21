@@ -1,0 +1,26 @@
+{
+  "id": 376,
+  "name": "Metagross-Mega",
+  "type1": "Steel",
+  "type2": "Psychic",
+  "hp": 80,
+  "attack": 145,
+  "defense": 150,
+  "sp_atk": 105,
+  "sp_def": 110,
+  "speed": 110,
+  "total": 700,
+  "abilities": [
+    "Tough Claws"
+  ],
+  "height": 2.5,
+  "weight": 942.9,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/metagross-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\376_metagross-mega.gif"
+}

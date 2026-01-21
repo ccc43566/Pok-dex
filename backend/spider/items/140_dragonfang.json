@@ -1,0 +1,12 @@
+{
+  "id": 140,
+  "name": "Dragon Fang",
+  "english": "dragonfang",
+  "category": "道具",
+  "num": 140,
+  "spritenum": 106,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 2,
+  "isPokeball": false
+}

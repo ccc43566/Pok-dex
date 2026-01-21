@@ -1,0 +1,28 @@
+{
+  "id": 282,
+  "name": "Gardevoir",
+  "type1": "Psychic",
+  "type2": "Fairy",
+  "hp": 68,
+  "attack": 65,
+  "defense": 65,
+  "sp_atk": 125,
+  "sp_def": 115,
+  "speed": 80,
+  "total": 518,
+  "abilities": [
+    "Synchronize",
+    "Trace",
+    "Telepathy"
+  ],
+  "height": 1.6,
+  "weight": 48.4,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Kirlia",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/gardevoir.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\282_gardevoir.gif"
+}

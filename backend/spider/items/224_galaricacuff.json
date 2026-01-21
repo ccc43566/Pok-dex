@@ -1,0 +1,12 @@
+{
+  "id": 224,
+  "name": "Galarica Cuff",
+  "english": "galaricacuff",
+  "category": "道具",
+  "num": 224,
+  "spritenum": 739,
+  "desc": "Evolves Galarian Slowpoke into Galarian Slowbro when used.",
+  "shortDesc": "Evolves Galarian Slowpoke into Galarian Slowbro when used.",
+  "gen": 8,
+  "isPokeball": false
+}

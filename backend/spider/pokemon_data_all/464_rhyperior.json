@@ -1,0 +1,28 @@
+{
+  "id": 464,
+  "name": "Rhyperior",
+  "type1": "Ground",
+  "type2": "Rock",
+  "hp": 115,
+  "attack": 140,
+  "defense": 130,
+  "sp_atk": 55,
+  "sp_def": 55,
+  "speed": 40,
+  "total": 535,
+  "abilities": [
+    "Lightning Rod",
+    "Solid Rock",
+    "Reckless"
+  ],
+  "height": 2.4,
+  "weight": 282.8,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Rhydon",
+  "evo_level": null,
+  "evo_type": "trade",
+  "evo_item": "Protector",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/rhyperior.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\464_rhyperior.gif"
+}

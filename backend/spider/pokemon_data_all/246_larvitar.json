@@ -1,0 +1,29 @@
+{
+  "id": 246,
+  "name": "Larvitar",
+  "type1": "Rock",
+  "type2": "Ground",
+  "hp": 50,
+  "attack": 64,
+  "defense": 50,
+  "sp_atk": 45,
+  "sp_def": 50,
+  "speed": 41,
+  "total": 300,
+  "abilities": [
+    "Guts",
+    "Sand Veil"
+  ],
+  "height": 0.6,
+  "weight": 72.0,
+  "gender_ratio": {},
+  "evos": [
+    "Pupitar"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/larvitar.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\246_larvitar.gif"
+}

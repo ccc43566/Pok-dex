@@ -1,0 +1,12 @@
+{
+  "id": 298,
+  "name": "力量负重",
+  "english": "Power Weight",
+  "category": "道具",
+  "num": 298,
+  "spritenum": 298,
+  "desc": "虽然携带后速度会降低，但宝可梦的ＨＰ会比平时成长得更高。",
+  "shortDesc": "虽然携带后速度会降低，但宝可梦的ＨＰ会比平时成长得更高。",
+  "gen": 1,
+  "isPokeball": false
+}

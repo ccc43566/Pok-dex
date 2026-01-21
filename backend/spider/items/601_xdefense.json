@@ -1,0 +1,12 @@
+{
+  "id": 601,
+  "name": "防御强化",
+  "english": "X Defense",
+  "category": "战斗道具",
+  "num": 601,
+  "spritenum": 601,
+  "desc": "大幅提高战斗中宝可梦防御的道具。离场后，效果便会消失。",
+  "shortDesc": "大幅提高战斗中宝可梦防御的道具。离场后，效果便会消失。",
+  "gen": 1,
+  "isPokeball": false
+}

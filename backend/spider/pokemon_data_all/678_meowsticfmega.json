@@ -1,0 +1,27 @@
+{
+  "id": 678,
+  "name": "Meowstic-F-Mega",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 74,
+  "attack": 48,
+  "defense": 76,
+  "sp_atk": 143,
+  "sp_def": 101,
+  "speed": 124,
+  "total": 566,
+  "abilities": [
+    "Keen Eye",
+    "Infiltrator",
+    "Competitive"
+  ],
+  "height": 0.8,
+  "weight": 10.1,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/meowsticf-mega.png"
+}

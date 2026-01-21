@@ -1,0 +1,12 @@
+{
+  "id": 530,
+  "name": "Sceptilite",
+  "english": "sceptilite",
+  "category": "道具",
+  "num": 530,
+  "spritenum": 613,
+  "desc": "If held by a Sceptile, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Sceptile, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

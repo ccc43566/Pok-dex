@@ -1,0 +1,12 @@
+{
+  "id": 256,
+  "name": "fling",
+  "english": "fling",
+  "category": "道具",
+  "num": 256,
+  "spritenum": 256,
+  "desc": "",
+  "shortDesc": "",
+  "gen": 1,
+  "isPokeball": false
+}

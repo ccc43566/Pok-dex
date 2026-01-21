@@ -1,0 +1,12 @@
+{
+  "id": 63,
+  "name": "Bottle Cap",
+  "english": "bottlecap",
+  "category": "道具",
+  "num": 63,
+  "spritenum": 696,
+  "desc": "Used for Hyper Training. One of a Pokemon",
+  "shortDesc": "Used for Hyper Training. One of a Pokemon",
+  "gen": 7,
+  "isPokeball": false
+}

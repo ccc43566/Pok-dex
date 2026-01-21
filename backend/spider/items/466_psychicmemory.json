@@ -1,0 +1,12 @@
+{
+  "id": 466,
+  "name": "Psychic Memory",
+  "english": "psychicmemory",
+  "category": "道具",
+  "num": 466,
+  "spritenum": 680,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

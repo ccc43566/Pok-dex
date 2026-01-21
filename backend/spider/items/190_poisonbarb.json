@@ -1,0 +1,12 @@
+{
+  "id": 190,
+  "name": "毒针",
+  "english": "Poison Barb",
+  "category": "道具",
+  "num": 190,
+  "spritenum": 190,
+  "desc": "有毒的小针。携带后，毒属性的招式威力就会提高。",
+  "shortDesc": "有毒的小针。携带后，毒属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

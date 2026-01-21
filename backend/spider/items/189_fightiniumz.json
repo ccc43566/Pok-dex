@@ -1,0 +1,12 @@
+{
+  "id": 189,
+  "name": "Fightinium Z",
+  "english": "fightiniumz",
+  "category": "道具",
+  "num": 189,
+  "spritenum": 637,
+  "desc": "If holder has a Fighting move, this item allows it to use a Fighting Z-Move.",
+  "shortDesc": "If holder has a Fighting move, this item allows it to use a Fighting Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

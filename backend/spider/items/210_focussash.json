@@ -1,0 +1,12 @@
+{
+  "id": 210,
+  "name": "Focus Sash",
+  "english": "focussash",
+  "category": "道具",
+  "num": 210,
+  "spritenum": 151,
+  "desc": "If holder",
+  "shortDesc": "If holder",
+  "gen": 4,
+  "isPokeball": false
+}

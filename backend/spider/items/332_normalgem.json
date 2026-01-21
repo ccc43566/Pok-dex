@@ -1,0 +1,12 @@
+{
+  "id": 332,
+  "name": "一般宝石",
+  "english": "Normal Gem",
+  "category": "道具",
+  "num": 332,
+  "spritenum": 332,
+  "desc": "一般属性的宝石。携带后，一般属性的招式威力仅会增强１次。",
+  "shortDesc": "一般属性的宝石。携带后，一般属性的招式威力仅会增强１次。",
+  "gen": 1,
+  "isPokeball": false
+}

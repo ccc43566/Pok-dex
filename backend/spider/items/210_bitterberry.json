@@ -1,0 +1,12 @@
+{
+  "id": 210,
+  "name": "苦涩的果实",
+  "english": "Bitter Berry",
+  "category": "道具",
+  "num": 210,
+  "spritenum": 210,
+  "desc": "携带后，可以治愈自己的混乱状态。",
+  "shortDesc": "携带后，可以治愈自己的混乱状态。",
+  "gen": 1,
+  "isPokeball": false
+}

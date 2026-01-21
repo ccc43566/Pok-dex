@@ -1,0 +1,12 @@
+{
+  "id": 205,
+  "name": "Flying Gem",
+  "english": "flyinggem",
+  "category": "道具",
+  "num": 205,
+  "spritenum": 149,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

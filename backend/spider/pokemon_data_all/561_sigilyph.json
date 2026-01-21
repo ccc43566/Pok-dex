@@ -1,0 +1,28 @@
+{
+  "id": 561,
+  "name": "Sigilyph",
+  "type1": "Psychic",
+  "type2": "Flying",
+  "hp": 72,
+  "attack": 58,
+  "defense": 80,
+  "sp_atk": 103,
+  "sp_def": 80,
+  "speed": 97,
+  "total": 490,
+  "abilities": [
+    "Wonder Skin",
+    "Magic Guard",
+    "Tinted Lens"
+  ],
+  "height": 1.4,
+  "weight": 14.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/sigilyph.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\561_sigilyph.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 419,
+  "name": "Pamtre Berry",
+  "english": "pamtreberry",
+  "category": "道具",
+  "num": 419,
+  "spritenum": 323,
+  "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "gen": 3,
+  "isPokeball": false
+}

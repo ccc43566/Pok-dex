@@ -1,0 +1,28 @@
+{
+  "id": 53,
+  "name": "Persian-Alola",
+  "type1": "Dark",
+  "type2": null,
+  "hp": 65,
+  "attack": 60,
+  "defense": 60,
+  "sp_atk": 75,
+  "sp_def": 65,
+  "speed": 115,
+  "total": 440,
+  "abilities": [
+    "Fur Coat",
+    "Technician",
+    "Rattled"
+  ],
+  "height": 1.1,
+  "weight": 33.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Meowth-Alola",
+  "evo_level": null,
+  "evo_type": "levelFriendship",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/persian-alola.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\53_persian-alola.gif"
+}

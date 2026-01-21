@@ -1,0 +1,12 @@
+{
+  "id": 281,
+  "name": "对焦镜",
+  "english": "Zoom Lens",
+  "category": "道具",
+  "num": 281,
+  "spritenum": 281,
+  "desc": "当携带它的宝可梦比对手行动迟缓时，招式会变得容易命中。",
+  "shortDesc": "当携带它的宝可梦比对手行动迟缓时，招式会变得容易命中。",
+  "gen": 1,
+  "isPokeball": false
+}

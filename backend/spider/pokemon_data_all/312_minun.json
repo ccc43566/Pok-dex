@@ -1,0 +1,27 @@
+{
+  "id": 312,
+  "name": "Minun",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 60,
+  "attack": 40,
+  "defense": 50,
+  "sp_atk": 75,
+  "sp_def": 85,
+  "speed": 95,
+  "total": 405,
+  "abilities": [
+    "Minus",
+    "Volt Absorb"
+  ],
+  "height": 0.4,
+  "weight": 4.2,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/minun.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\312_minun.gif"
+}

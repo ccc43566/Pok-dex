@@ -1,0 +1,27 @@
+{
+  "id": 319,
+  "name": "Sharpedo",
+  "type1": "Water",
+  "type2": "Dark",
+  "hp": 70,
+  "attack": 120,
+  "defense": 40,
+  "sp_atk": 95,
+  "sp_def": 40,
+  "speed": 95,
+  "total": 460,
+  "abilities": [
+    "Rough Skin",
+    "Speed Boost"
+  ],
+  "height": 1.8,
+  "weight": 88.8,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Carvanha",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/sharpedo.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\319_sharpedo.gif"
+}

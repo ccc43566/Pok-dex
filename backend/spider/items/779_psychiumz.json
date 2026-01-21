@@ -1,0 +1,12 @@
+{
+  "id": 779,
+  "name": "超能力Ｚ",
+  "english": "Psychium Z",
+  "category": "Ｚ纯晶",
+  "num": 779,
+  "spritenum": 779,
+  "desc": "Ｚ力量的结晶。会将超能力属性的招式升级成Ｚ招式。",
+  "shortDesc": "Ｚ力量的结晶。会将超能力属性的招式升级成Ｚ招式。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 521,
+  "name": "Unfezant",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 80,
+  "attack": 115,
+  "defense": 80,
+  "sp_atk": 65,
+  "sp_def": 55,
+  "speed": 93,
+  "total": 488,
+  "abilities": [
+    "Big Pecks",
+    "Super Luck",
+    "Rivalry"
+  ],
+  "height": 1.2,
+  "weight": 29.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Tranquill",
+  "evo_level": 32,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/unfezant.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\521_unfezant.gif"
+}

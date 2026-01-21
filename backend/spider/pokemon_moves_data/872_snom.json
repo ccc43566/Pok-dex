@@ -1,0 +1,36 @@
+{
+  "id": 872,
+  "name": "snom",
+  "level_up": [
+    "powdersnow",
+    "strugglebug"
+  ],
+  "egg_moves": [
+    "bugbite",
+    "fairywind",
+    "mirrorcoat"
+  ],
+  "tm_moves": [
+    "attract",
+    "bugbite",
+    "bugbuzz",
+    "endure",
+    "facade",
+    "iciclespear",
+    "icywind",
+    "lunge",
+    "pounce",
+    "protect",
+    "rest",
+    "round",
+    "skittersmack",
+    "sleeptalk",
+    "snore",
+    "strugglebug",
+    "substitute",
+    "terablast"
+  ],
+  "tutor_moves": [
+    "skittersmack"
+  ]
+}

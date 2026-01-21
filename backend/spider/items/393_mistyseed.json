@@ -1,0 +1,12 @@
+{
+  "id": 393,
+  "name": "Misty Seed",
+  "english": "mistyseed",
+  "category": "道具",
+  "num": 393,
+  "spritenum": 666,
+  "desc": "If the terrain is Misty Terrain, raises holder",
+  "shortDesc": "If the terrain is Misty Terrain, raises holder",
+  "gen": 7,
+  "isPokeball": false
+}

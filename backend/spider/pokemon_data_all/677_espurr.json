@@ -1,0 +1,31 @@
+{
+  "id": 677,
+  "name": "Espurr",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 62,
+  "attack": 48,
+  "defense": 54,
+  "sp_atk": 63,
+  "sp_def": 60,
+  "speed": 68,
+  "total": 355,
+  "abilities": [
+    "Keen Eye",
+    "Infiltrator",
+    "Own Tempo"
+  ],
+  "height": 0.3,
+  "weight": 3.5,
+  "gender_ratio": {},
+  "evos": [
+    "Meowstic",
+    "Meowstic-F"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/espurr.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\677_espurr.gif"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 740,
+  "name": "Crabominable",
+  "type1": "Fighting",
+  "type2": "Ice",
+  "hp": 97,
+  "attack": 132,
+  "defense": 77,
+  "sp_atk": 62,
+  "sp_def": 67,
+  "speed": 43,
+  "total": 478,
+  "abilities": [
+    "Hyper Cutter",
+    "Iron Fist",
+    "Anger Point"
+  ],
+  "height": 1.7,
+  "weight": 180.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Crabrawler",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Ice Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/crabominable.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\740_crabominable.gif"
+}

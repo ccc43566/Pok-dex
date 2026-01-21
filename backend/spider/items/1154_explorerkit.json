@@ -1,0 +1,12 @@
+{
+  "id": 1154,
+  "name": "探险套装",
+  "english": "Explorer Kit",
+  "category": "重要物品",
+  "num": 1154,
+  "spritenum": 1154,
+  "desc": "装着有助于探险且方便使用的道具的袋子。有了它就可以进入地下大洞窟。",
+  "shortDesc": "装着有助于探险且方便使用的道具的袋子。有了它就可以进入地下大洞窟。",
+  "gen": 1,
+  "isPokeball": false
+}

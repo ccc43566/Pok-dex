@@ -1,0 +1,12 @@
+{
+  "id": 688,
+  "name": "TR34",
+  "english": "tr34",
+  "category": "道具",
+  "num": 688,
+  "spritenum": 734,
+  "desc": "Teaches certain Pokemon the move Future Sight. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Future Sight. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

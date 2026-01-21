@@ -1,0 +1,12 @@
+{
+  "id": 89,
+  "name": "奋斗岩",
+  "english": "Grit Rock",
+  "category": "道具",
+  "num": 89,
+  "spritenum": 89,
+  "desc": "不可思议的岩石。能让宝可梦的奋斗等级提升。可用于奋斗等级９的宝可梦。",
+  "shortDesc": "不可思议的岩石。能让宝可梦的奋斗等级提升。可用于奋斗等级９的宝可梦。",
+  "gen": 1,
+  "isPokeball": false
+}

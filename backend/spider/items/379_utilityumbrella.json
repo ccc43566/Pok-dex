@@ -1,0 +1,12 @@
+{
+  "id": 379,
+  "name": "万能伞",
+  "english": "Utility Umbrella",
+  "category": "道具",
+  "num": 379,
+  "spritenum": 379,
+  "desc": "携带它的宝可梦将不受各种天气的影响。",
+  "shortDesc": "携带它的宝可梦将不受各种天气的影响。",
+  "gen": 1,
+  "isPokeball": false
+}

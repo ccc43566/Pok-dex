@@ -1,0 +1,12 @@
+{
+  "id": 321,
+  "name": "格斗宝石",
+  "english": "Fighting Gem",
+  "category": "道具",
+  "num": 321,
+  "spritenum": 321,
+  "desc": "格斗属性的宝石。携带后，格斗属性的招式威力仅会增强１次。",
+  "shortDesc": "格斗属性的宝石。携带后，格斗属性的招式威力仅会增强１次。",
+  "gen": 1,
+  "isPokeball": false
+}

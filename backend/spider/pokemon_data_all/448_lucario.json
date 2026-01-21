@@ -1,0 +1,31 @@
+{
+  "id": 448,
+  "name": "Lucario",
+  "type1": "Fighting",
+  "type2": "Steel",
+  "hp": 70,
+  "attack": 110,
+  "defense": 70,
+  "sp_atk": 115,
+  "sp_def": 70,
+  "speed": 90,
+  "total": 525,
+  "abilities": [
+    "Steadfast",
+    "Inner Focus",
+    "Justified"
+  ],
+  "height": 1.2,
+  "weight": 54.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Riolu",
+  "evo_level": null,
+  "evo_type": "levelFriendship",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/lucario.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\448_lucario.gif"
+}

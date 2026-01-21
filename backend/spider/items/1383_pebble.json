@@ -1,0 +1,12 @@
+{
+  "id": 1383,
+  "name": "小石头",
+  "english": "Pebble",
+  "category": "重要物品",
+  "num": 1383,
+  "spritenum": 1383,
+  "desc": "名为基格尔德的宝可梦托付的平平无奇的小石头。",
+  "shortDesc": "名为基格尔德的宝可梦托付的平平无奇的小石头。",
+  "gen": 1,
+  "isPokeball": false
+}

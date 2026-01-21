@@ -1,0 +1,30 @@
+{
+  "id": 19,
+  "name": "Rattata-Alola",
+  "type1": "Dark",
+  "type2": "Normal",
+  "hp": 30,
+  "attack": 56,
+  "defense": 35,
+  "sp_atk": 25,
+  "sp_def": 35,
+  "speed": 72,
+  "total": 253,
+  "abilities": [
+    "Gluttony",
+    "Hustle",
+    "Thick Fat"
+  ],
+  "height": 0.3,
+  "weight": 3.8,
+  "gender_ratio": {},
+  "evos": [
+    "Raticate-Alola"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/rattata-alola.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\19_rattata-alola.gif"
+}

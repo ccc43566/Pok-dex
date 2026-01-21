@@ -1,0 +1,28 @@
+{
+  "id": 212,
+  "name": "Scizor",
+  "type1": "Bug",
+  "type2": "Steel",
+  "hp": 70,
+  "attack": 130,
+  "defense": 100,
+  "sp_atk": 55,
+  "sp_def": 80,
+  "speed": 65,
+  "total": 500,
+  "abilities": [
+    "Swarm",
+    "Technician",
+    "Light Metal"
+  ],
+  "height": 1.8,
+  "weight": 118.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Scyther",
+  "evo_level": null,
+  "evo_type": "trade",
+  "evo_item": "Metal Coat",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/scizor.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\212_scizor.gif"
+}

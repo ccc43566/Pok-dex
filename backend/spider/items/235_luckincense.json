@@ -1,0 +1,12 @@
+{
+  "id": 235,
+  "name": "幸运薰香",
+  "english": "Luck Incense",
+  "category": "道具",
+  "num": 235,
+  "spritenum": 235,
+  "desc": "只要携带它的宝可梦在战斗时出场一次，就能获得２倍金钱。",
+  "shortDesc": "只要携带它的宝可梦在战斗时出场一次，就能获得２倍金钱。",
+  "gen": 1,
+  "isPokeball": false
+}

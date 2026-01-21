@@ -1,0 +1,12 @@
+{
+  "id": 171,
+  "name": "Electrium Z",
+  "english": "electriumz",
+  "category": "道具",
+  "num": 171,
+  "spritenum": 634,
+  "desc": "If holder has an Electric move, this item allows it to use an Electric Z-Move.",
+  "shortDesc": "If holder has an Electric move, this item allows it to use an Electric Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

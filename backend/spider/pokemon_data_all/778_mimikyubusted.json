@@ -1,0 +1,26 @@
+{
+  "id": 778,
+  "name": "Mimikyu-Busted",
+  "type1": "Ghost",
+  "type2": "Fairy",
+  "hp": 55,
+  "attack": 90,
+  "defense": 80,
+  "sp_atk": 50,
+  "sp_def": 105,
+  "speed": 96,
+  "total": 476,
+  "abilities": [
+    "Disguise"
+  ],
+  "height": 0.2,
+  "weight": 0.7,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/mimikyu-busted.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\778_mimikyu-busted.gif"
+}

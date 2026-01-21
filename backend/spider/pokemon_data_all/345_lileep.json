@@ -1,0 +1,32 @@
+{
+  "id": 345,
+  "name": "Lileep",
+  "type1": "Rock",
+  "type2": "Grass",
+  "hp": 66,
+  "attack": 41,
+  "defense": 77,
+  "sp_atk": 61,
+  "sp_def": 87,
+  "speed": 23,
+  "total": 355,
+  "abilities": [
+    "Suction Cups",
+    "Storm Drain"
+  ],
+  "height": 1.0,
+  "weight": 23.8,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Cradily"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/lileep.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\345_lileep.gif"
+}

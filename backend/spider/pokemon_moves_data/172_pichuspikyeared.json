@@ -1,0 +1,52 @@
+{
+  "id": 172,
+  "name": "pichuspikyeared",
+  "level_up": [
+    "charm",
+    "nastyplot",
+    "sweetkiss",
+    "tailwhip",
+    "thundershock",
+    "thunderwave"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "attract",
+    "captivate",
+    "chargebeam",
+    "doubleteam",
+    "endure",
+    "facade",
+    "flash",
+    "fling",
+    "frustration",
+    "grassknot",
+    "hiddenpower",
+    "irontail",
+    "lightscreen",
+    "naturalgift",
+    "protect",
+    "raindance",
+    "rest",
+    "secretpower",
+    "shockwave",
+    "sleeptalk",
+    "substitute",
+    "swagger",
+    "thunder",
+    "thunderbolt",
+    "thunderwave",
+    "toxic"
+  ],
+  "tutor_moves": [
+    "headbutt",
+    "helpinghand",
+    "magnetrise",
+    "mudslap",
+    "rollout",
+    "signalbeam",
+    "snore",
+    "swift",
+    "uproar"
+  ]
+}

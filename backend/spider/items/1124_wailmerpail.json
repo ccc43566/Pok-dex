@@ -1,0 +1,12 @@
+{
+  "id": 1124,
+  "name": "吼吼鲸喷壶",
+  "english": "Wailmer Pail",
+  "category": "重要物品",
+  "num": 1124,
+  "spritenum": 1124,
+  "desc": "浇水的道具。能让埋在土壤里的树果快快长大。",
+  "shortDesc": "浇水的道具。能让埋在土壤里的树果快快长大。",
+  "gen": 1,
+  "isPokeball": false
+}

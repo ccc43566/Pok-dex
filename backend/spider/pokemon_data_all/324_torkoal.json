@@ -1,0 +1,28 @@
+{
+  "id": 324,
+  "name": "Torkoal",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 70,
+  "attack": 85,
+  "defense": 140,
+  "sp_atk": 85,
+  "sp_def": 70,
+  "speed": 20,
+  "total": 470,
+  "abilities": [
+    "White Smoke",
+    "Drought",
+    "Shell Armor"
+  ],
+  "height": 0.5,
+  "weight": 80.4,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/torkoal.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\324_torkoal.gif"
+}

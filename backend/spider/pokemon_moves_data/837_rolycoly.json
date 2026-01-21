@@ -1,0 +1,61 @@
+{
+  "id": 837,
+  "name": "rolycoly",
+  "level_up": [
+    "ancientpower",
+    "heatcrash",
+    "incinerate",
+    "rapidspin",
+    "rockblast",
+    "rockpolish",
+    "smackdown",
+    "smokescreen",
+    "stealthrock",
+    "tackle"
+  ],
+  "egg_moves": [
+    "block",
+    "explosion",
+    "mudslap"
+  ],
+  "tm_moves": [
+    "attract",
+    "bodyslam",
+    "bulldoze",
+    "curse",
+    "dig",
+    "endure",
+    "facade",
+    "gyroball",
+    "heatcrash",
+    "irondefense",
+    "ironhead",
+    "meteorbeam",
+    "mudslap",
+    "powergem",
+    "protect",
+    "reflect",
+    "rest",
+    "rockblast",
+    "rockslide",
+    "rocktomb",
+    "round",
+    "sandstorm",
+    "sandtomb",
+    "selfdestruct",
+    "sleeptalk",
+    "smackdown",
+    "snore",
+    "spikes",
+    "stealthrock",
+    "stoneedge",
+    "substitute",
+    "takedown",
+    "temperflare",
+    "terablast",
+    "willowisp"
+  ],
+  "tutor_moves": [
+    "meteorbeam"
+  ]
+}

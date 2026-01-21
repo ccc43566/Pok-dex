@@ -1,0 +1,47 @@
+{
+  "id": 919,
+  "name": "nymble",
+  "level_up": [
+    "agility",
+    "assurance",
+    "astonish",
+    "bugbite",
+    "doublekick",
+    "endure",
+    "feint",
+    "firstimpression",
+    "leer",
+    "screech",
+    "strugglebug",
+    "suckerpunch",
+    "tackle"
+  ],
+  "egg_moves": [
+    "counter",
+    "skittersmack"
+  ],
+  "tm_moves": [
+    "agility",
+    "bugbite",
+    "bugbuzz",
+    "endure",
+    "facade",
+    "leechlife",
+    "pounce",
+    "protect",
+    "raindance",
+    "rest",
+    "skittersmack",
+    "sleeptalk",
+    "strugglebug",
+    "substitute",
+    "sunnyday",
+    "takedown",
+    "terablast",
+    "thief",
+    "trailblaze",
+    "uturn",
+    "xscissor"
+  ],
+  "tutor_moves": []
+}

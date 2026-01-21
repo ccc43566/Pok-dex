@@ -1,0 +1,30 @@
+{
+  "id": 95,
+  "name": "Onix",
+  "type1": "Rock",
+  "type2": "Ground",
+  "hp": 35,
+  "attack": 45,
+  "defense": 160,
+  "sp_atk": 30,
+  "sp_def": 45,
+  "speed": 70,
+  "total": 385,
+  "abilities": [
+    "Rock Head",
+    "Sturdy",
+    "Weak Armor"
+  ],
+  "height": 8.8,
+  "weight": 210.0,
+  "gender_ratio": {},
+  "evos": [
+    "Steelix"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/onix.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\95_onix.gif"
+}

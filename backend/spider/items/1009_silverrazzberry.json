@@ -1,0 +1,12 @@
+{
+  "id": 1009,
+  "name": "银色蔓莓果",
+  "english": "Silver Razz Berry",
+  "category": "树果",
+  "num": 1009,
+  "spritenum": 1009,
+  "desc": "把这树果交给宝可梦后，宝可梦就会变得容易捕捉。",
+  "shortDesc": "把这树果交给宝可梦后，宝可梦就会变得容易捕捉。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 65,
+  "name": "怕寂寞薄荷",
+  "english": "Lonely Mint",
+  "category": "道具",
+  "num": 65,
+  "spritenum": 65,
+  "desc": "宝可梦闻了这种薄荷之后，攻击会易于提高，而防御则难以提高。",
+  "shortDesc": "宝可梦闻了这种薄荷之后，攻击会易于提高，而防御则难以提高。",
+  "gen": 1,
+  "isPokeball": false
+}

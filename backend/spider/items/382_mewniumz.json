@@ -1,0 +1,12 @@
+{
+  "id": 382,
+  "name": "Mewnium Z",
+  "english": "mewniumz",
+  "category": "道具",
+  "num": 382,
+  "spritenum": 658,
+  "desc": "If held by a Mew with Psychic, it can use Genesis Supernova.",
+  "shortDesc": "If held by a Mew with Psychic, it can use Genesis Supernova.",
+  "gen": 7,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 364,
+  "name": "黑暗存储碟",
+  "english": "Dark Memory",
+  "category": "道具",
+  "num": 364,
+  "spritenum": 364,
+  "desc": "装有恶属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "shortDesc": "装有恶属性数据的存储碟。特定宝可梦携带后，属性就会发生变化。",
+  "gen": 1,
+  "isPokeball": false
+}

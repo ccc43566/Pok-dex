@@ -1,0 +1,30 @@
+{
+  "id": 833,
+  "name": "Chewtle",
+  "type1": "Water",
+  "type2": null,
+  "hp": 50,
+  "attack": 64,
+  "defense": 50,
+  "sp_atk": 38,
+  "sp_def": 38,
+  "speed": 44,
+  "total": 284,
+  "abilities": [
+    "Strong Jaw",
+    "Shell Armor",
+    "Swift Swim"
+  ],
+  "height": 0.3,
+  "weight": 8.5,
+  "gender_ratio": {},
+  "evos": [
+    "Drednaw"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/chewtle.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\833_chewtle.gif"
+}

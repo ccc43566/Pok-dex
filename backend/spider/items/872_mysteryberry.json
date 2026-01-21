@@ -1,0 +1,12 @@
+{
+  "id": 872,
+  "name": "Mystery Berry",
+  "english": "mysteryberry",
+  "category": "道具",
+  "num": 872,
+  "spritenum": 244,
+  "desc": "(Gen 2) Restores 5 PP to the first of the holder",
+  "shortDesc": "(Gen 2) Restores 5 PP to the first of the holder",
+  "gen": 2,
+  "isPokeball": false
+}

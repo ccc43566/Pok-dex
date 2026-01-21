@@ -1,0 +1,26 @@
+{
+  "id": 308,
+  "name": "Medicham-Mega",
+  "type1": "Fighting",
+  "type2": "Psychic",
+  "hp": 60,
+  "attack": 100,
+  "defense": 85,
+  "sp_atk": 80,
+  "sp_def": 85,
+  "speed": 100,
+  "total": 510,
+  "abilities": [
+    "Pure Power"
+  ],
+  "height": 1.3,
+  "weight": 31.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/medicham-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\308_medicham-mega.gif"
+}

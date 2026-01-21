@@ -1,0 +1,12 @@
+{
+  "id": 1186,
+  "name": "相册",
+  "english": "Photo Album",
+  "category": "重要物品",
+  "num": 1186,
+  "spritenum": 1186,
+  "desc": "用来摆放在冒险中拍摄的纪念相片的相册。",
+  "shortDesc": "用来摆放在冒险中拍摄的纪念相片的相册。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 90,
+  "name": "体力粘糕",
+  "english": "Health Mochi",
+  "category": "道具",
+  "num": 90,
+  "spritenum": 90,
+  "desc": "糅合树果的粘糕。能提高１只宝可梦的ＨＰ的基础点数。",
+  "shortDesc": "糅合树果的粘糕。能提高１只宝可梦的ＨＰ的基础点数。",
+  "gen": 1,
+  "isPokeball": false
+}

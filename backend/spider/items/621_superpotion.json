@@ -1,0 +1,12 @@
+{
+  "id": 621,
+  "name": "好伤药",
+  "english": "Super Potion",
+  "category": "回复",
+  "num": 621,
+  "spritenum": 621,
+  "desc": "喷雾式伤药。能让１只宝可梦回复６０ＨＰ。",
+  "shortDesc": "喷雾式伤药。能让１只宝可梦回复６０ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

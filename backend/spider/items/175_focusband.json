@@ -1,0 +1,12 @@
+{
+  "id": 175,
+  "name": "气势头带",
+  "english": "Focus Band",
+  "category": "道具",
+  "num": 175,
+  "spritenum": 175,
+  "desc": "携带后，即便受到可能会导致濒死的招式，有时也能仅以１ＨＰ撑过去。",
+  "shortDesc": "携带后，即便受到可能会导致濒死的招式，有时也能仅以１ＨＰ撑过去。",
+  "gen": 1,
+  "isPokeball": false
+}

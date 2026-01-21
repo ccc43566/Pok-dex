@@ -1,0 +1,12 @@
+{
+  "id": 160,
+  "name": "Eject Button",
+  "english": "ejectbutton",
+  "category": "道具",
+  "num": 160,
+  "spritenum": 118,
+  "desc": "If holder survives a hit, it immediately switches out to a chosen ally. Single use.",
+  "shortDesc": "If holder survives a hit, it immediately switches out to a chosen ally. Single use.",
+  "gen": 5,
+  "isPokeball": false
+}

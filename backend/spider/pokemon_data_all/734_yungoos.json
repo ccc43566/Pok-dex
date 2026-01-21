@@ -1,0 +1,30 @@
+{
+  "id": 734,
+  "name": "Yungoos",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 48,
+  "attack": 70,
+  "defense": 30,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "speed": 45,
+  "total": 253,
+  "abilities": [
+    "Stakeout",
+    "Strong Jaw",
+    "Adaptability"
+  ],
+  "height": 0.4,
+  "weight": 6.0,
+  "gender_ratio": {},
+  "evos": [
+    "Gumshoos"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/yungoos.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\734_yungoos.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1017,
+  "name": "银色凰梨果",
+  "english": "Silver Pinap Berry",
+  "category": "树果",
+  "num": 1017,
+  "spritenum": 1017,
+  "desc": "如果把这树果交给宝可梦，那么接下来捉住该宝可梦时，会更容易获得道具。",
+  "shortDesc": "如果把这树果交给宝可梦，那么接下来捉住该宝可梦时，会更容易获得道具。",
+  "gen": 1,
+  "isPokeball": false
+}

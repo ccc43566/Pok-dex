@@ -1,0 +1,12 @@
+{
+  "id": 418,
+  "name": "火焰邮件",
+  "english": "Flame Mail",
+  "category": "郵件",
+  "num": 418,
+  "spritenum": 418,
+  "desc": "印有红色火花的特殊信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "shortDesc": "印有红色火花的特殊信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "gen": 1,
+  "isPokeball": false
+}

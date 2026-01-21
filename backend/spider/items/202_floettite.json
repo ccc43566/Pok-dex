@@ -1,0 +1,12 @@
+{
+  "id": 202,
+  "name": "Floettite",
+  "english": "floettite",
+  "category": "道具",
+  "num": 202,
+  "spritenum": 562,
+  "desc": "If held by an Eternal Flower Floette, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by an Eternal Flower Floette, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

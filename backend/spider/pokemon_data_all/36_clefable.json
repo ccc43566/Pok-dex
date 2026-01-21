@@ -1,0 +1,31 @@
+{
+  "id": 36,
+  "name": "Clefable",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 95,
+  "attack": 70,
+  "defense": 73,
+  "sp_atk": 95,
+  "sp_def": 90,
+  "speed": 60,
+  "total": 483,
+  "abilities": [
+    "Cute Charm",
+    "Magic Guard",
+    "Unaware"
+  ],
+  "height": 1.3,
+  "weight": 40.0,
+  "gender_ratio": {
+    "M": 0.25,
+    "F": 0.75
+  },
+  "evos": [],
+  "prevo": "Clefairy",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Moon Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/clefable.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\36_clefable.gif"
+}

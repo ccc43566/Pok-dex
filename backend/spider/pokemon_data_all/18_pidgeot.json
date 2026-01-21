@@ -1,0 +1,28 @@
+{
+  "id": 18,
+  "name": "Pidgeot",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 83,
+  "attack": 80,
+  "defense": 75,
+  "sp_atk": 70,
+  "sp_def": 70,
+  "speed": 101,
+  "total": 479,
+  "abilities": [
+    "Keen Eye",
+    "Tangled Feet",
+    "Big Pecks"
+  ],
+  "height": 1.5,
+  "weight": 39.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Pidgeotto",
+  "evo_level": 36,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/pidgeot.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\18_pidgeot.gif"
+}

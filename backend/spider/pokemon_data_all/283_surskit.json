@@ -1,0 +1,29 @@
+{
+  "id": 283,
+  "name": "Surskit",
+  "type1": "Bug",
+  "type2": "Water",
+  "hp": 40,
+  "attack": 30,
+  "defense": 32,
+  "sp_atk": 50,
+  "sp_def": 52,
+  "speed": 65,
+  "total": 269,
+  "abilities": [
+    "Swift Swim",
+    "Rain Dish"
+  ],
+  "height": 0.5,
+  "weight": 1.7,
+  "gender_ratio": {},
+  "evos": [
+    "Masquerain"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/surskit.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\283_surskit.gif"
+}

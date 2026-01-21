@@ -1,0 +1,30 @@
+{
+  "id": 850,
+  "name": "Sizzlipede",
+  "type1": "Fire",
+  "type2": "Bug",
+  "hp": 50,
+  "attack": 65,
+  "defense": 45,
+  "sp_atk": 50,
+  "sp_def": 50,
+  "speed": 45,
+  "total": 305,
+  "abilities": [
+    "Flash Fire",
+    "White Smoke",
+    "Flame Body"
+  ],
+  "height": 0.7,
+  "weight": 1.0,
+  "gender_ratio": {},
+  "evos": [
+    "Centiskorch"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/sizzlipede.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\850_sizzlipede.gif"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 894,
+  "name": "Regieleki",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 80,
+  "attack": 100,
+  "defense": 50,
+  "sp_atk": 100,
+  "sp_def": 50,
+  "speed": 200,
+  "total": 580,
+  "abilities": [
+    "Transistor"
+  ],
+  "height": 1.2,
+  "weight": 145.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/regieleki.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\894_regieleki.gif"
+}

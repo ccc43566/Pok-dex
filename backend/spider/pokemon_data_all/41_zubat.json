@@ -1,0 +1,29 @@
+{
+  "id": 41,
+  "name": "Zubat",
+  "type1": "Poison",
+  "type2": "Flying",
+  "hp": 40,
+  "attack": 45,
+  "defense": 35,
+  "sp_atk": 30,
+  "sp_def": 40,
+  "speed": 55,
+  "total": 245,
+  "abilities": [
+    "Inner Focus",
+    "Infiltrator"
+  ],
+  "height": 0.8,
+  "weight": 7.5,
+  "gender_ratio": {},
+  "evos": [
+    "Golbat"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/zubat.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\41_zubat.gif"
+}

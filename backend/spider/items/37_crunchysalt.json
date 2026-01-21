@@ -1,0 +1,12 @@
+{
+  "id": 37,
+  "name": "坚坚矿",
+  "english": "Crunchy Salt",
+  "category": "道具",
+  "num": 37,
+  "spritenum": 37,
+  "desc": "晶莹剔透的矿物。是草类和岩石类宝可梦喜爱的食物，能吸引它们聚集到投向的地方。",
+  "shortDesc": "晶莹剔透的矿物。是草类和岩石类宝可梦喜爱的食物，能吸引它们聚集到投向的地方。",
+  "gen": 1,
+  "isPokeball": false
+}

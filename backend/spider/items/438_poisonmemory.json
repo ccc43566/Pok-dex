@@ -1,0 +1,12 @@
+{
+  "id": 438,
+  "name": "Poison Memory",
+  "english": "poisonmemory",
+  "category": "道具",
+  "num": 438,
+  "spritenum": 670,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 563,
+  "name": "Snowball",
+  "english": "snowball",
+  "category": "道具",
+  "num": 563,
+  "spritenum": 606,
+  "desc": "Raises holder",
+  "shortDesc": "Raises holder",
+  "gen": 6,
+  "isPokeball": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 920,
+  "name": "Lokix",
+  "type1": "Bug",
+  "type2": "Dark",
+  "hp": 71,
+  "attack": 102,
+  "defense": 78,
+  "sp_atk": 52,
+  "sp_def": 55,
+  "speed": 92,
+  "total": 450,
+  "abilities": [
+    "Swarm",
+    "Tinted Lens"
+  ],
+  "height": 1.0,
+  "weight": 17.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Nymble",
+  "evo_level": 24,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/lokix.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\920_lokix.gif"
+}

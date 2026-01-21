@@ -1,0 +1,30 @@
+{
+  "id": 731,
+  "name": "Pikipek",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 35,
+  "attack": 75,
+  "defense": 30,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "speed": 65,
+  "total": 265,
+  "abilities": [
+    "Keen Eye",
+    "Skill Link",
+    "Pickup"
+  ],
+  "height": 0.3,
+  "weight": 1.2,
+  "gender_ratio": {},
+  "evos": [
+    "Trumbeak"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/pikipek.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\731_pikipek.gif"
+}

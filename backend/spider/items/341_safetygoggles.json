@@ -1,0 +1,12 @@
+{
+  "id": 341,
+  "name": "防尘护目镜",
+  "english": "Safety Goggles",
+  "category": "道具",
+  "num": 341,
+  "spritenum": 341,
+  "desc": "不单是天气造成的伤害，就连粉末类招式的效果也能防御的护目镜。",
+  "shortDesc": "不单是天气造成的伤害，就连粉末类招式的效果也能防御的护目镜。",
+  "gen": 1,
+  "isPokeball": false
+}

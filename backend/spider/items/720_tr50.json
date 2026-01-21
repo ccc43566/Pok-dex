@@ -1,0 +1,12 @@
+{
+  "id": 720,
+  "name": "TR50",
+  "english": "tr50",
+  "category": "道具",
+  "num": 720,
+  "spritenum": 732,
+  "desc": "Teaches certain Pokemon the move Leaf Blade. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Leaf Blade. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

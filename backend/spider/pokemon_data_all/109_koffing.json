@@ -1,0 +1,31 @@
+{
+  "id": 109,
+  "name": "Koffing",
+  "type1": "Poison",
+  "type2": null,
+  "hp": 40,
+  "attack": 65,
+  "defense": 95,
+  "sp_atk": 60,
+  "sp_def": 45,
+  "speed": 35,
+  "total": 340,
+  "abilities": [
+    "Levitate",
+    "Neutralizing Gas",
+    "Stench"
+  ],
+  "height": 0.6,
+  "weight": 1.0,
+  "gender_ratio": {},
+  "evos": [
+    "Weezing",
+    "Weezing-Galar"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/koffing.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\109_koffing.gif"
+}

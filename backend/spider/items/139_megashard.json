@@ -1,0 +1,12 @@
+{
+  "id": 139,
+  "name": "超级碎片",
+  "english": "Mega Shard",
+  "category": "道具",
+  "num": 139,
+  "spritenum": 139,
+  "desc": "用宝可梦的招式破坏超级结晶就能获得的神奇碎片。据说有人在收集它。",
+  "shortDesc": "用宝可梦的招式破坏超级结晶就能获得的神奇碎片。据说有人在收集它。",
+  "gen": 1,
+  "isPokeball": false
+}

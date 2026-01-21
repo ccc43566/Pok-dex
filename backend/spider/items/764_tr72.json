@@ -1,0 +1,12 @@
+{
+  "id": 764,
+  "name": "TR72",
+  "english": "tr72",
+  "category": "道具",
+  "num": 764,
+  "spritenum": 732,
+  "desc": "Teaches certain Pokemon the move Power Whip. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Power Whip. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

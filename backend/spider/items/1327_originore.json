@@ -1,0 +1,12 @@
+{
+  "id": 1327,
+  "name": "起源矿石",
+  "english": "Origin Ore",
+  "category": "重要物品",
+  "num": 1327,
+  "spritenum": 1327,
+  "desc": "有着不可思议力量的矿石。世间流传着此物蕴含有神奥大尊之力的神话。",
+  "shortDesc": "有着不可思议力量的矿石。世间流传着此物蕴含有神奥大尊之力的神话。",
+  "gen": 1,
+  "isPokeball": false
+}

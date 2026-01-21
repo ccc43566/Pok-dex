@@ -1,0 +1,28 @@
+{
+  "id": 883,
+  "name": "Arctovish",
+  "type1": "Water",
+  "type2": "Ice",
+  "hp": 90,
+  "attack": 90,
+  "defense": 100,
+  "sp_atk": 80,
+  "sp_def": 90,
+  "speed": 55,
+  "total": 505,
+  "abilities": [
+    "Water Absorb",
+    "Ice Body",
+    "Slush Rush"
+  ],
+  "height": 2.0,
+  "weight": 175.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/arctovish.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\883_arctovish.gif"
+}

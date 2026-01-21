@@ -1,0 +1,12 @@
+{
+  "id": 209,
+  "name": "解毒的果实",
+  "english": "PSNCureBerry",
+  "category": "道具",
+  "num": 209,
+  "spritenum": 209,
+  "desc": "携带后，可以治愈自己的中毒状态。",
+  "shortDesc": "携带后，可以治愈自己的中毒状态。",
+  "gen": 1,
+  "isPokeball": false
+}

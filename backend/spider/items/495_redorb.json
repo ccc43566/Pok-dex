@@ -1,0 +1,12 @@
+{
+  "id": 495,
+  "name": "Red Orb",
+  "english": "redorb",
+  "category": "道具",
+  "num": 495,
+  "spritenum": 390,
+  "desc": "If held by a Groudon, this item triggers its Primal Reversion in battle.",
+  "shortDesc": "If held by a Groudon, this item triggers its Primal Reversion in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

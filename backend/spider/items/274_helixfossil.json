@@ -1,0 +1,12 @@
+{
+  "id": 274,
+  "name": "Helix Fossil",
+  "english": "helixfossil",
+  "category": "道具",
+  "num": 274,
+  "spritenum": 195,
+  "desc": "Can be revived into Omanyte.",
+  "shortDesc": "Can be revived into Omanyte.",
+  "gen": 3,
+  "isPokeball": false
+}

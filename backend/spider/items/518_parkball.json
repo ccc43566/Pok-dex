@@ -1,0 +1,12 @@
+{
+  "id": 518,
+  "name": "公园球",
+  "english": "Park Ball",
+  "category": "精灵球",
+  "num": 518,
+  "spritenum": 518,
+  "desc": "在伙伴公园里使用的特殊的球。",
+  "shortDesc": "在伙伴公园里使用的特殊的球。",
+  "gen": 1,
+  "isPokeball": false
+}

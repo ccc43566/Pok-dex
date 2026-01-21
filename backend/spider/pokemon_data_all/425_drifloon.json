@@ -1,0 +1,30 @@
+{
+  "id": 425,
+  "name": "Drifloon",
+  "type1": "Ghost",
+  "type2": "Flying",
+  "hp": 90,
+  "attack": 50,
+  "defense": 34,
+  "sp_atk": 60,
+  "sp_def": 44,
+  "speed": 70,
+  "total": 348,
+  "abilities": [
+    "Aftermath",
+    "Unburden",
+    "Flare Boost"
+  ],
+  "height": 0.4,
+  "weight": 1.2,
+  "gender_ratio": {},
+  "evos": [
+    "Drifblim"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/drifloon.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\425_drifloon.gif"
+}

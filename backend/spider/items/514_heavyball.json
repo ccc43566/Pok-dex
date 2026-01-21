@@ -1,0 +1,12 @@
+{
+  "id": 514,
+  "name": "沉重球",
+  "english": "Heavy Ball",
+  "category": "精灵球",
+  "num": 514,
+  "spritenum": 514,
+  "desc": "有点与众不同的球。越是身体沉重的宝可梦就越容易捕捉到。",
+  "shortDesc": "有点与众不同的球。越是身体沉重的宝可梦就越容易捕捉到。",
+  "gen": 1,
+  "isPokeball": false
+}

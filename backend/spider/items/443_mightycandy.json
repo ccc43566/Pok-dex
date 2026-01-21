@@ -1,0 +1,12 @@
+{
+  "id": 443,
+  "name": "力量糖果",
+  "english": "Mighty Candy",
+  "category": "阿罗拉",
+  "num": 443,
+  "spritenum": 443,
+  "desc": "充满能量的糖果。能提高宝可梦的攻击。",
+  "shortDesc": "充满能量的糖果。能提高宝可梦的攻击。",
+  "gen": 1,
+  "isPokeball": false
+}

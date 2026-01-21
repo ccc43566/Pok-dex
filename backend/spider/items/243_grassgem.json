@@ -1,0 +1,12 @@
+{
+  "id": 243,
+  "name": "Grass Gem",
+  "english": "grassgem",
+  "category": "道具",
+  "num": 243,
+  "spritenum": 172,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

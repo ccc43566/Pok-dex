@@ -1,0 +1,12 @@
+{
+  "id": 301,
+  "name": "水流卡带",
+  "english": "Douse Drive",
+  "category": "道具",
+  "num": 301,
+  "spritenum": 301,
+  "desc": "这是让盖诺赛克特携带的卡带。携带后，高科技光炮这招式就会变为水属性。",
+  "shortDesc": "这是让盖诺赛克特携带的卡带。携带后，高科技光炮这招式就会变为水属性。",
+  "gen": 1,
+  "isPokeball": false
+}

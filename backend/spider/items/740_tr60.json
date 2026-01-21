@@ -1,0 +1,12 @@
+{
+  "id": 740,
+  "name": "TR60",
+  "english": "tr60",
+  "category": "道具",
+  "num": 740,
+  "spritenum": 727,
+  "desc": "Teaches certain Pokemon the move X-Scissor. One use.",
+  "shortDesc": "Teaches certain Pokemon the move X-Scissor. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

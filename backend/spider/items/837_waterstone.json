@@ -1,0 +1,12 @@
+{
+  "id": 837,
+  "name": "Water Stone",
+  "english": "waterstone",
+  "category": "道具",
+  "num": 837,
+  "spritenum": 529,
+  "desc": "Evolves Poliwhirl into Poliwrath, Shellder into Cloyster, Staryu into Starmie, Eevee into Vaporeon, Lombre into Ludicolo, and Panpour into Simipour when used.",
+  "shortDesc": "Evolves certain species of Pokemon when used.",
+  "gen": 1,
+  "isPokeball": false
+}

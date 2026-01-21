@@ -1,0 +1,35 @@
+{
+  "id": 415,
+  "name": "combee",
+  "level_up": [
+    "bugbite",
+    "bugbuzz",
+    "gust",
+    "strugglebug",
+    "sweetscent"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "bugbite",
+    "bugbuzz",
+    "endeavor",
+    "lunge",
+    "skittersmack",
+    "sleeptalk",
+    "snore",
+    "strugglebug",
+    "terablast"
+  ],
+  "tutor_moves": [
+    "aircutter",
+    "bugbite",
+    "dualwingbeat",
+    "endeavor",
+    "mudslap",
+    "ominouswind",
+    "snore",
+    "stringshot",
+    "swift",
+    "tailwind"
+  ]
+}

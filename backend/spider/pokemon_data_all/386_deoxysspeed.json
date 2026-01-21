@@ -1,0 +1,26 @@
+{
+  "id": 386,
+  "name": "Deoxys-Speed",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 50,
+  "attack": 95,
+  "defense": 90,
+  "sp_atk": 95,
+  "sp_def": 90,
+  "speed": 180,
+  "total": 600,
+  "abilities": [
+    "Pressure"
+  ],
+  "height": 1.7,
+  "weight": 60.8,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/deoxys-speed.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\386_deoxys-speed.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1191,
+  "name": "谜之水晶",
+  "english": "Enigma Stone",
+  "category": "重要物品",
+  "num": 1191,
+  "spritenum": 1191,
+  "desc": "从地下挖出的水晶球。虽然表面覆盖着岩石和尘土，但非常漂亮。",
+  "shortDesc": "从地下挖出的水晶球。虽然表面覆盖着岩石和尘土，但非常漂亮。",
+  "gen": 1,
+  "isPokeball": false
+}

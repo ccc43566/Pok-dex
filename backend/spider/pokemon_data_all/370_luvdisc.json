@@ -1,0 +1,30 @@
+{
+  "id": 370,
+  "name": "Luvdisc",
+  "type1": "Water",
+  "type2": null,
+  "hp": 43,
+  "attack": 30,
+  "defense": 55,
+  "sp_atk": 40,
+  "sp_def": 65,
+  "speed": 97,
+  "total": 330,
+  "abilities": [
+    "Swift Swim",
+    "Hydration"
+  ],
+  "height": 0.6,
+  "weight": 8.7,
+  "gender_ratio": {
+    "M": 0.25,
+    "F": 0.75
+  },
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/luvdisc.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\370_luvdisc.gif"
+}

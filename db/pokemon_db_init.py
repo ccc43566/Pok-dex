@@ -39,6 +39,9 @@ class PokemonDB:
             sp_def INTEGER,
             speed INTEGER,
             total INTEGER,                   -- 种族值总和
+            height REAL,                     -- 身高（米）
+            weight REAL,                     -- 体重（公斤）
+            gender_ratio TEXT,               -- 雌雄比例（JSON格式）
             description TEXT,                -- 图鉴描述
             image_path TEXT                  -- 图片路径
         );
@@ -80,6 +83,22 @@ class PokemonDB:
             FOREIGN KEY(evolved_pokemon_id) REFERENCES pokemon(id)
         );
         """
+
+        # 5. 创建物品表
+        create_items_sql = """
+        CREATE TABLE IF NOT EXISTS items (
+            id INTEGER PRIMARY KEY,
+            name TEXT UNIQUE NOT NULL,
+            english TEXT,
+            category TEXT,
+            num INTEGER,
+            spritenum INTEGER,
+            desc TEXT,
+            shortDesc TEXT,
+            gen INTEGER,
+            isPokeball BOOLEAN
+        );
+        """
         
         # 执行所有建表语句
         try:
@@ -88,6 +107,7 @@ class PokemonDB:
             cursor.execute(create_moves_sql)
             cursor.execute(create_pokemon_moves_sql)
             cursor.execute(create_evolutions_sql)
+            cursor.execute(create_items_sql)
             self.conn.commit()
             print("所有表创建成功（或已存在）")
         except Error as e:

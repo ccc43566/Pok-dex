@@ -1,0 +1,28 @@
+{
+  "id": 539,
+  "name": "Sawk",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 75,
+  "attack": 125,
+  "defense": 75,
+  "sp_atk": 30,
+  "sp_def": 75,
+  "speed": 85,
+  "total": 465,
+  "abilities": [
+    "Sturdy",
+    "Inner Focus",
+    "Mold Breaker"
+  ],
+  "height": 1.4,
+  "weight": 51.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/sawk.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\539_sawk.gif"
+}

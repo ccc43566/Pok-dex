@@ -1,0 +1,30 @@
+{
+  "id": 843,
+  "name": "Silicobra",
+  "type1": "Ground",
+  "type2": null,
+  "hp": 52,
+  "attack": 57,
+  "defense": 75,
+  "sp_atk": 35,
+  "sp_def": 50,
+  "speed": 46,
+  "total": 315,
+  "abilities": [
+    "Sand Spit",
+    "Shed Skin",
+    "Sand Veil"
+  ],
+  "height": 2.2,
+  "weight": 7.6,
+  "gender_ratio": {},
+  "evos": [
+    "Sandaconda"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/silicobra.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\843_silicobra.gif"
+}

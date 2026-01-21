@@ -1,0 +1,28 @@
+{
+  "id": 882,
+  "name": "Dracovish",
+  "type1": "Water",
+  "type2": "Dragon",
+  "hp": 90,
+  "attack": 90,
+  "defense": 100,
+  "sp_atk": 70,
+  "sp_def": 80,
+  "speed": 75,
+  "total": 505,
+  "abilities": [
+    "Water Absorb",
+    "Strong Jaw",
+    "Sand Rush"
+  ],
+  "height": 2.3,
+  "weight": 215.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/dracovish.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\882_dracovish.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 582,
+  "name": "宝可梦木娃娃",
+  "english": "Pokéshi Doll",
+  "category": "宝物",
+  "num": 582,
+  "spritenum": 582,
+  "desc": "宝可梦造型的木制玩具。可以在杂货店出售。",
+  "shortDesc": "宝可梦造型的木制玩具。可以在杂货店出售。",
+  "gen": 1,
+  "isPokeball": false
+}

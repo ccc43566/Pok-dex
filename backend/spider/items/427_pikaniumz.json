@@ -1,0 +1,12 @@
+{
+  "id": 427,
+  "name": "Pikanium Z",
+  "english": "pikaniumz",
+  "category": "道具",
+  "num": 427,
+  "spritenum": 649,
+  "desc": "If held by a Pikachu with Volt Tackle, it can use Catastropika.",
+  "shortDesc": "If held by a Pikachu with Volt Tackle, it can use Catastropika.",
+  "gen": 7,
+  "isPokeball": false
+}

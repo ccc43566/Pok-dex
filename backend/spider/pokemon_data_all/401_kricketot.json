@@ -1,0 +1,29 @@
+{
+  "id": 401,
+  "name": "Kricketot",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 37,
+  "attack": 25,
+  "defense": 41,
+  "sp_atk": 25,
+  "sp_def": 41,
+  "speed": 25,
+  "total": 194,
+  "abilities": [
+    "Shed Skin",
+    "Run Away"
+  ],
+  "height": 0.3,
+  "weight": 2.2,
+  "gender_ratio": {},
+  "evos": [
+    "Kricketune"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/kricketot.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\401_kricketot.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 502,
+  "name": "Rock Gem",
+  "english": "rockgem",
+  "category": "道具",
+  "num": 502,
+  "spritenum": 415,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 426,
+  "name": "Pidgeotite",
+  "english": "pidgeotite",
+  "category": "道具",
+  "num": 426,
+  "spritenum": 622,
+  "desc": "If held by a Pidgeot, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Pidgeot, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 428,
+  "name": "砖块邮件",
+  "english": "Brick Mail",
+  "category": "郵件",
+  "num": 428,
+  "spritenum": 428,
+  "desc": "印有坚硬砖墙的特殊信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "shortDesc": "印有坚硬砖墙的特殊信纸。使用该道具时，需要让宝可梦携带着来用。",
+  "gen": 1,
+  "isPokeball": false
+}

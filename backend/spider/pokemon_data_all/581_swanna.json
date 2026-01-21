@@ -1,0 +1,28 @@
+{
+  "id": 581,
+  "name": "Swanna",
+  "type1": "Water",
+  "type2": "Flying",
+  "hp": 75,
+  "attack": 87,
+  "defense": 63,
+  "sp_atk": 87,
+  "sp_def": 63,
+  "speed": 98,
+  "total": 473,
+  "abilities": [
+    "Keen Eye",
+    "Big Pecks",
+    "Hydration"
+  ],
+  "height": 1.3,
+  "weight": 24.2,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Ducklett",
+  "evo_level": 35,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/swanna.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\581_swanna.gif"
+}

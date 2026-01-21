@@ -1,0 +1,12 @@
+{
+  "id": 659,
+  "name": "好中药",
+  "english": "Fine Remedy",
+  "category": "回复",
+  "num": 659,
+  "spritenum": 659,
+  "desc": "效果和好伤药一样，能让１只宝可梦回复１００ＨＰ，但味道很苦，友好度会降低。",
+  "shortDesc": "效果和好伤药一样，能让１只宝可梦回复１００ＨＰ，但味道很苦，友好度会降低。",
+  "gen": 1,
+  "isPokeball": false
+}

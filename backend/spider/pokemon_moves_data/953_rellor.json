@@ -1,0 +1,51 @@
+{
+  "id": 953,
+  "name": "rellor",
+  "level_up": [
+    "bugbite",
+    "defensecurl",
+    "dig",
+    "lunge",
+    "mudshot",
+    "rollout",
+    "sandattack",
+    "strugglebug",
+    "tackle",
+    "takedown"
+  ],
+  "egg_moves": [
+    "cosmicpower",
+    "memento",
+    "recover",
+    "weatherball"
+  ],
+  "tm_moves": [
+    "bugbite",
+    "bugbuzz",
+    "dig",
+    "endure",
+    "facade",
+    "fling",
+    "gunkshot",
+    "irondefense",
+    "leechlife",
+    "lunge",
+    "mudshot",
+    "mudslap",
+    "pounce",
+    "protect",
+    "rest",
+    "rocktomb",
+    "skittersmack",
+    "sleeptalk",
+    "sludgebomb",
+    "strugglebug",
+    "substitute",
+    "takedown",
+    "terablast",
+    "thief",
+    "weatherball",
+    "xscissor"
+  ],
+  "tutor_moves": []
+}

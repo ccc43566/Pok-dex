@@ -1,0 +1,12 @@
+{
+  "id": 14,
+  "name": "Aerodactylite",
+  "english": "aerodactylite",
+  "category": "道具",
+  "num": 14,
+  "spritenum": 577,
+  "desc": "If held by an Aerodactyl, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by an Aerodactyl, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

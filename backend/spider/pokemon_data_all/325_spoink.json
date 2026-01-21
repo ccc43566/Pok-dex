@@ -1,0 +1,30 @@
+{
+  "id": 325,
+  "name": "Spoink",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 60,
+  "attack": 25,
+  "defense": 35,
+  "sp_atk": 70,
+  "sp_def": 80,
+  "speed": 60,
+  "total": 330,
+  "abilities": [
+    "Thick Fat",
+    "Own Tempo",
+    "Gluttony"
+  ],
+  "height": 0.7,
+  "weight": 30.6,
+  "gender_ratio": {},
+  "evos": [
+    "Grumpig"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/spoink.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\325_spoink.gif"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 272,
+  "name": "Ludicolo",
+  "type1": "Water",
+  "type2": "Grass",
+  "hp": 80,
+  "attack": 70,
+  "defense": 70,
+  "sp_atk": 90,
+  "sp_def": 100,
+  "speed": 70,
+  "total": 480,
+  "abilities": [
+    "Swift Swim",
+    "Rain Dish",
+    "Own Tempo"
+  ],
+  "height": 1.5,
+  "weight": 55.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Lombre",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Water Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ludicolo.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\272_ludicolo.gif"
+}

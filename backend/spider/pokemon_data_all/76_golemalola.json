@@ -1,0 +1,28 @@
+{
+  "id": 76,
+  "name": "Golem-Alola",
+  "type1": "Rock",
+  "type2": "Electric",
+  "hp": 80,
+  "attack": 120,
+  "defense": 130,
+  "sp_atk": 55,
+  "sp_def": 65,
+  "speed": 45,
+  "total": 495,
+  "abilities": [
+    "Magnet Pull",
+    "Sturdy",
+    "Galvanize"
+  ],
+  "height": 1.7,
+  "weight": 316.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Graveler-Alola",
+  "evo_level": null,
+  "evo_type": "trade",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/golem-alola.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\76_golem-alola.gif"
+}

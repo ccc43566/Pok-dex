@@ -1,0 +1,12 @@
+{
+  "id": 555,
+  "name": "Skarmorite",
+  "english": "skarmorite",
+  "category": "道具",
+  "num": 555,
+  "spritenum": 550,
+  "desc": "If held by a Skarmory, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Skarmory, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

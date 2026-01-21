@@ -1,0 +1,26 @@
+{
+  "id": 18,
+  "name": "Pidgeot-Mega",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 83,
+  "attack": 80,
+  "defense": 80,
+  "sp_atk": 135,
+  "sp_def": 80,
+  "speed": 121,
+  "total": 579,
+  "abilities": [
+    "No Guard"
+  ],
+  "height": 2.2,
+  "weight": 50.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/pidgeot-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\18_pidgeot-mega.gif"
+}

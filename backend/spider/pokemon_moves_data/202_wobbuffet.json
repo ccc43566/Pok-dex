@@ -1,0 +1,22 @@
+{
+  "id": 202,
+  "name": "wobbuffet",
+  "level_up": [
+    "amnesia",
+    "charm",
+    "counter",
+    "destinybond",
+    "encore",
+    "mirrorcoat",
+    "safeguard",
+    "splash"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "amnesia",
+    "charm",
+    "encore",
+    "safeguard"
+  ],
+  "tutor_moves": []
+}

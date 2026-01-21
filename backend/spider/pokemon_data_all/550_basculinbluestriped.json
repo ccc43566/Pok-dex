@@ -1,0 +1,28 @@
+{
+  "id": 550,
+  "name": "Basculin-Blue-Striped",
+  "type1": "Water",
+  "type2": null,
+  "hp": 70,
+  "attack": 92,
+  "defense": 65,
+  "sp_atk": 80,
+  "sp_def": 55,
+  "speed": 98,
+  "total": 460,
+  "abilities": [
+    "Rock Head",
+    "Adaptability",
+    "Mold Breaker"
+  ],
+  "height": 1.0,
+  "weight": 18.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/basculin-bluestriped.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\550_basculin-bluestriped.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 99,
+  "name": "水之石",
+  "english": "Water Stone",
+  "category": "道具",
+  "num": 99,
+  "spritenum": 99,
+  "desc": "能让某些特定宝可梦进化的神奇石头。看上去是澄蓝色的。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇石头。看上去是澄蓝色的。",
+  "gen": 1,
+  "isPokeball": false
+}

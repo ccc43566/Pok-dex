@@ -1,0 +1,12 @@
+{
+  "id": 44,
+  "name": "蜜诱团",
+  "english": "Honey Cake",
+  "category": "道具",
+  "num": 44,
+  "spritenum": 44,
+  "desc": "由蜜与诱团原料糅合而成。对虫宝可梦和妖精类宝可梦有着很强的吸引力。",
+  "shortDesc": "由蜜与诱团原料糅合而成。对虫宝可梦和妖精类宝可梦有着很强的吸引力。",
+  "gen": 1,
+  "isPokeball": false
+}

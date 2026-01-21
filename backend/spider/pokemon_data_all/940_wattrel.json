@@ -1,0 +1,30 @@
+{
+  "id": 940,
+  "name": "Wattrel",
+  "type1": "Electric",
+  "type2": "Flying",
+  "hp": 40,
+  "attack": 40,
+  "defense": 35,
+  "sp_atk": 55,
+  "sp_def": 40,
+  "speed": 70,
+  "total": 280,
+  "abilities": [
+    "Wind Power",
+    "Volt Absorb",
+    "Competitive"
+  ],
+  "height": 0.4,
+  "weight": 3.6,
+  "gender_ratio": {},
+  "evos": [
+    "Kilowattrel"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/wattrel.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\940_wattrel.gif"
+}

@@ -46,6 +46,18 @@
               <span class="label">宝可梦编号:</span>
               <span class="value">#{{ pokemon.id }}</span>
             </div>
+            <div class="info-item" v-if="pokemon.height">
+              <span class="label">身高:</span>
+              <span class="value">{{ pokemon.height }} m</span>
+            </div>
+            <div class="info-item" v-if="pokemon.weight">
+              <span class="label">体重:</span>
+              <span class="value">{{ pokemon.weight }} kg</span>
+            </div>
+            <div class="info-item" v-if="genderRatioText">
+              <span class="label">雌雄比例:</span>
+              <span class="value">{{ genderRatioText }}</span>
+            </div>
           </div>
         </div>
 
@@ -105,6 +117,70 @@
           <h2>宝可梦介绍</h2>
           <p class="description">{{ pokemon.description }}</p>
         </div>
+
+        <!-- 进化链 -->
+        <div class="info-card" v-if="evolutionChain && evolutionChain.length > 0">
+          <h2>进化链</h2>
+          <div class="evolution-chain">
+            <div
+              v-for="(stage, index) in evolutionChain"
+              :key="stage.name"
+              class="evolution-item"
+            >
+              <div class="evolution-arrow" v-if="index > 0">
+                <div class="arrow-line">→</div>
+                <div class="evolution-condition" v-if="stage.condition">
+                  {{ stage.condition }}
+                </div>
+              </div>
+              <div class="evolution-pokemon">
+                <div class="evolution-image">
+                  <img
+                    :src="`/images/${stage.id}_${stage.name.toLowerCase()}.gif`"
+                    :alt="stage.name"
+                    @error="handleEvolutionImageError"
+                  >
+                </div>
+                <div class="evolution-name">{{ stage.name }}</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 可以学习的技能 -->
+        <div class="info-card" v-if="moves && moves.length > 0">
+          <h2>可以学习的技能</h2>
+          <div class="moves-list">
+            <div
+              v-for="move in moves.slice(0, showAllMoves ? moves.length : 10)"
+              :key="move.id"
+              class="move-item"
+            >
+              <div class="move-info">
+                <span class="move-name">{{ move.name }}</span>
+                <div class="move-details">
+                  <span v-if="move.type" class="move-type" :class="`type-${move.type.toLowerCase()}`">
+                    {{ move.type }}
+                  </span>
+                  <span v-if="move.category" class="move-category">
+                    {{ move.category }}
+                  </span>
+                  <span v-if="move.power" class="move-power">威力: {{ move.power }}</span>
+                  <span v-if="move.accuracy" class="move-accuracy">命中: {{ move.accuracy }}%</span>
+                  <span v-if="move.pp" class="move-pp">PP: {{ move.pp }}</span>
+                  <span v-if="move.level_learned" class="move-level">Lv.{{ move.level_learned }}</span>
+                </div>
+              </div>
+            </div>
+            <button
+              v-if="moves.length > 10"
+              @click="showAllMoves = !showAllMoves"
+              class="show-more-btn"
+            >
+              {{ showAllMoves ? '收起' : `显示更多 (${moves.length - 10} 个技能)` }}
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -133,6 +209,9 @@ export default {
   data() {
     return {
       pokemon: null,
+      evolutions: [],
+      moves: [],
+      showAllMoves: false,
       loading: true,
       error: null
     }
@@ -147,6 +226,52 @@ export default {
         this.pokemon.sp_def ||
         this.pokemon.speed
       )
+    },
+    evolutionChain() {
+      if (!this.pokemon || !this.evolutions || this.evolutions.length === 0) {
+        return []
+      }
+
+      // API直接返回完整的进化链，按顺序排列
+      return this.evolutions.map((evolution, index) => ({
+        id: evolution.id,
+        name: evolution.name,
+        condition: evolution.condition
+      }))
+    },
+    genderRatioText() {
+      if (!this.pokemon || !this.pokemon.gender_ratio) {
+        return null
+      }
+
+      try {
+        // 如果gender_ratio是字符串，尝试解析为JSON
+        let genderData = this.pokemon.gender_ratio
+        if (typeof genderData === 'string') {
+          genderData = JSON.parse(genderData)
+        }
+
+        if (typeof genderData === 'object' && genderData !== null) {
+          const maleRatio = genderData.M || genderData.male || 0
+          const femaleRatio = genderData.F || genderData.female || 0
+
+          if (maleRatio === 0 && femaleRatio === 0) {
+            return '无性别'
+          } else if (maleRatio === 0) {
+            return '仅雌性'
+          } else if (femaleRatio === 0) {
+            return '仅雄性'
+          } else {
+            const malePercent = Math.round(maleRatio * 100)
+            const femalePercent = Math.round(femaleRatio * 100)
+            return `雄性:${malePercent}% 雌性:${femalePercent}%`
+          }
+        }
+      } catch (error) {
+        console.error('解析雌雄比例失败:', error)
+      }
+
+      return null
     }
   },
   async mounted() {
@@ -164,12 +289,32 @@ export default {
       this.error = null
 
       try {
-        this.pokemon = await pokemonAPI.getPokemonById(this.id)
+        // 并行加载宝可梦详情、进化信息和技能信息
+        const [pokemon, evolutions, moves] = await Promise.all([
+          pokemonAPI.getPokemonById(this.id),
+          pokemonAPI.getPokemonEvolutions(this.id).catch(() => ({ evolutions: [] })),
+          this.loadPokemonMoves(this.id)
+        ])
+
+        this.pokemon = pokemon
+        this.evolutions = evolutions.evolutions || []
+        this.moves = moves || []
       } catch (error) {
         this.error = error.message
         console.error('加载宝可梦详情失败:', error)
       } finally {
         this.loading = false
+      }
+    },
+
+    async loadPokemonMoves(pokemonId) {
+      try {
+        // 由于数据库中没有宝可梦-技能关联表，我们暂时返回空数组
+        // 或者可以从moves表中获取所有技能作为示例
+        return []
+      } catch (error) {
+        console.error('加载宝可梦技能失败:', error)
+        return []
       }
     },
 
@@ -194,6 +339,20 @@ export default {
       if (src.endsWith('.gif')) {
         img.src = src.replace('.gif', '.png')
       }
+    },
+
+    handleEvolutionImageError(event) {
+      const img = event.target
+      const src = img.src
+      if (src.endsWith('.gif')) {
+        img.src = src.replace('.gif', '.png')
+      }
+    },
+
+    getEvolutionId(name) {
+      // 简化版本：假设进化后的宝可梦ID与当前宝可梦ID相同
+      // 在实际应用中，需要根据名称查找对应的ID
+      return this.pokemon.id
     },
 
     getStatPercentage(value) {
@@ -412,6 +571,149 @@ export default {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+}
+
+/* 进化链样式 */
+.evolution-chain {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.evolution-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.evolution-arrow {
+  font-size: 1.5rem;
+  color: #666;
+  font-weight: bold;
+}
+
+.evolution-pokemon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+  min-width: 100px;
+}
+
+.evolution-image {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: white;
+  border-radius: 8px;
+  border: 1px solid #e9ecef;
+}
+
+.evolution-image img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.evolution-name {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+}
+
+.evolution-condition {
+  font-size: 0.8rem;
+  color: #666;
+  text-align: center;
+  font-style: italic;
+}
+
+/* 技能列表样式 */
+.moves-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.move-item {
+  padding: 0.75rem;
+  background: #f8f9fa;
+  border-radius: 6px;
+  border: 1px solid #e9ecef;
+}
+
+.move-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.move-name {
+  font-weight: bold;
+  color: #333;
+  font-size: 1rem;
+}
+
+.move-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.move-type {
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: white;
+  text-transform: uppercase;
+}
+
+.move-category {
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  background: #6c757d;
+  color: white;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.move-power,
+.move-accuracy,
+.move-pp,
+.move-level {
+  font-size: 0.8rem;
+  color: #666;
+  background: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  border: 1px solid #e9ecef;
+}
+
+.show-more-btn {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #667eea;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.3s;
+  align-self: center;
+}
+
+.show-more-btn:hover {
+  background: #5a67d8;
 }
 
 @media (max-width: 768px) {

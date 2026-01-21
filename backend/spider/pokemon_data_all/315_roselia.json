@@ -1,0 +1,30 @@
+{
+  "id": 315,
+  "name": "Roselia",
+  "type1": "Grass",
+  "type2": "Poison",
+  "hp": 50,
+  "attack": 60,
+  "defense": 45,
+  "sp_atk": 100,
+  "sp_def": 80,
+  "speed": 65,
+  "total": 400,
+  "abilities": [
+    "Natural Cure",
+    "Poison Point",
+    "Leaf Guard"
+  ],
+  "height": 0.3,
+  "weight": 2.0,
+  "gender_ratio": {},
+  "evos": [
+    "Roserade"
+  ],
+  "prevo": "Budew",
+  "evo_level": null,
+  "evo_type": "levelFriendship",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/roselia.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\315_roselia.gif"
+}

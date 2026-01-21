@@ -1,0 +1,28 @@
+{
+  "id": 735,
+  "name": "Gumshoos",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 88,
+  "attack": 110,
+  "defense": 60,
+  "sp_atk": 55,
+  "sp_def": 60,
+  "speed": 45,
+  "total": 418,
+  "abilities": [
+    "Stakeout",
+    "Strong Jaw",
+    "Adaptability"
+  ],
+  "height": 0.7,
+  "weight": 14.2,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Yungoos",
+  "evo_level": 20,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/gumshoos.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\735_gumshoos.gif"
+}

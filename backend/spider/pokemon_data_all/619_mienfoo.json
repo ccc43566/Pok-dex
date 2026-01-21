@@ -1,0 +1,30 @@
+{
+  "id": 619,
+  "name": "Mienfoo",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 45,
+  "attack": 85,
+  "defense": 50,
+  "sp_atk": 55,
+  "sp_def": 50,
+  "speed": 65,
+  "total": 350,
+  "abilities": [
+    "Inner Focus",
+    "Regenerator",
+    "Reckless"
+  ],
+  "height": 0.9,
+  "weight": 20.0,
+  "gender_ratio": {},
+  "evos": [
+    "Mienshao"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/mienfoo.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\619_mienfoo.gif"
+}

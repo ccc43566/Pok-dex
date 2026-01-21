@@ -1,0 +1,26 @@
+{
+  "id": 800,
+  "name": "Necrozma-Ultra",
+  "type1": "Psychic",
+  "type2": "Dragon",
+  "hp": 97,
+  "attack": 167,
+  "defense": 97,
+  "sp_atk": 167,
+  "sp_def": 97,
+  "speed": 129,
+  "total": 754,
+  "abilities": [
+    "Neuroforce"
+  ],
+  "height": 7.5,
+  "weight": 230.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/necrozma-ultra.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\800_necrozma-ultra.gif"
+}

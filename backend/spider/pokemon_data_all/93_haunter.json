@@ -1,0 +1,28 @@
+{
+  "id": 93,
+  "name": "Haunter",
+  "type1": "Ghost",
+  "type2": "Poison",
+  "hp": 45,
+  "attack": 50,
+  "defense": 45,
+  "sp_atk": 115,
+  "sp_def": 55,
+  "speed": 95,
+  "total": 405,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 1.6,
+  "weight": 0.1,
+  "gender_ratio": {},
+  "evos": [
+    "Gengar"
+  ],
+  "prevo": "Gastly",
+  "evo_level": 25,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/haunter.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\93_haunter.gif"
+}

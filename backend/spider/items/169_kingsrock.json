@@ -1,0 +1,12 @@
+{
+  "id": 169,
+  "name": "王者之证",
+  "english": "King's Rock",
+  "category": "道具",
+  "num": 169,
+  "spritenum": 169,
+  "desc": "携带后进行攻击，在造成伤害时，有时会让对手畏缩。",
+  "shortDesc": "携带后进行攻击，在造成伤害时，有时会让对手畏缩。",
+  "gen": 1,
+  "isPokeball": false
+}

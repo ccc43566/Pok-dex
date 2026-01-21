@@ -1,0 +1,12 @@
+{
+  "id": 172,
+  "name": "Emboarite",
+  "english": "emboarite",
+  "category": "道具",
+  "num": 172,
+  "spritenum": 552,
+  "desc": "If held by an Emboar, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by an Emboar, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

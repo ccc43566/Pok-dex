@@ -1,0 +1,12 @@
+{
+  "id": 117,
+  "name": "咒术之铠",
+  "english": "Malicious Armor",
+  "category": "道具",
+  "num": 117,
+  "spritenum": 117,
+  "desc": "能让某些特定宝可梦进化的神奇铠甲。蕴含着诅咒的感情。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇铠甲。蕴含着诅咒的感情。",
+  "gen": 1,
+  "isPokeball": false
+}

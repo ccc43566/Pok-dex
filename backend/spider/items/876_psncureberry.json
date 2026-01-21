@@ -1,0 +1,12 @@
+{
+  "id": 876,
+  "name": "PSN Cure Berry",
+  "english": "psncureberry",
+  "category": "道具",
+  "num": 876,
+  "spritenum": 333,
+  "desc": "(Gen 2) Holder is cured if it is poisoned. Single use.",
+  "shortDesc": "(Gen 2) Holder is cured if it is poisoned. Single use.",
+  "gen": 2,
+  "isPokeball": false
+}

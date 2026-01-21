@@ -1,0 +1,12 @@
+{
+  "id": 92,
+  "name": "Choice Scarf",
+  "english": "choicescarf",
+  "category": "道具",
+  "num": 92,
+  "spritenum": 69,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

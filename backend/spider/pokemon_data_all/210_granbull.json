@@ -1,0 +1,31 @@
+{
+  "id": 210,
+  "name": "Granbull",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 90,
+  "attack": 120,
+  "defense": 75,
+  "sp_atk": 60,
+  "sp_def": 60,
+  "speed": 45,
+  "total": 450,
+  "abilities": [
+    "Intimidate",
+    "Quick Feet",
+    "Rattled"
+  ],
+  "height": 1.4,
+  "weight": 48.7,
+  "gender_ratio": {
+    "M": 0.25,
+    "F": 0.75
+  },
+  "evos": [],
+  "prevo": "Snubbull",
+  "evo_level": 23,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/granbull.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\210_granbull.gif"
+}

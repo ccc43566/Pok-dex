@@ -1,0 +1,12 @@
+{
+  "id": 405,
+  "name": "Net Ball",
+  "english": "netball",
+  "category": "道具",
+  "num": 405,
+  "spritenum": 304,
+  "desc": "A Poke Ball that works especially well on Water- and Bug-type Pokemon.",
+  "shortDesc": "A Poke Ball that works especially well on Water- and Bug-type Pokemon.",
+  "gen": 3,
+  "isPokeball": true
+}

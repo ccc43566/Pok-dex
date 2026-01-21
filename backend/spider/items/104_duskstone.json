@@ -1,0 +1,12 @@
+{
+  "id": 104,
+  "name": "暗之石",
+  "english": "Dusk Stone",
+  "category": "道具",
+  "num": 104,
+  "spritenum": 104,
+  "desc": "能让某些特定宝可梦进化的神奇石头。像黑夜一般漆黑。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇石头。像黑夜一般漆黑。",
+  "gen": 1,
+  "isPokeball": false
+}

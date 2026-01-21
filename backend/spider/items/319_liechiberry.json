@@ -1,0 +1,12 @@
+{
+  "id": 319,
+  "name": "Liechi Berry",
+  "english": "liechiberry",
+  "category": "道具",
+  "num": 319,
+  "spritenum": 248,
+  "desc": "Raises holder",
+  "shortDesc": "Raises holder",
+  "gen": 3,
+  "isPokeball": false
+}

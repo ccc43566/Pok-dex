@@ -1,0 +1,12 @@
+{
+  "id": 171,
+  "name": "护符金币",
+  "english": "Amulet Coin",
+  "category": "道具",
+  "num": 171,
+  "spritenum": 171,
+  "desc": "只要携带它的宝可梦在战斗时出场一次，就能获得２倍金钱。",
+  "shortDesc": "只要携带它的宝可梦在战斗时出场一次，就能获得２倍金钱。",
+  "gen": 1,
+  "isPokeball": false
+}

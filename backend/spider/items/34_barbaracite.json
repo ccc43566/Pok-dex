@@ -1,0 +1,12 @@
+{
+  "id": 34,
+  "name": "Barbaracite",
+  "english": "barbaracite",
+  "category": "道具",
+  "num": 34,
+  "spritenum": 564,
+  "desc": "If held by a Barbaracle, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Barbaracle, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

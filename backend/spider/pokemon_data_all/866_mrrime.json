@@ -1,0 +1,28 @@
+{
+  "id": 866,
+  "name": "Mr. Rime",
+  "type1": "Ice",
+  "type2": "Psychic",
+  "hp": 80,
+  "attack": 85,
+  "defense": 75,
+  "sp_atk": 110,
+  "sp_def": 100,
+  "speed": 70,
+  "total": 520,
+  "abilities": [
+    "Tangled Feet",
+    "Screen Cleaner",
+    "Ice Body"
+  ],
+  "height": 1.5,
+  "weight": 58.2,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Mr. Mime-Galar",
+  "evo_level": 42,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/mrrime.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\866_mrrime.gif"
+}

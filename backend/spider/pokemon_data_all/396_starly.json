@@ -1,0 +1,29 @@
+{
+  "id": 396,
+  "name": "Starly",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 40,
+  "attack": 55,
+  "defense": 30,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "speed": 60,
+  "total": 245,
+  "abilities": [
+    "Keen Eye",
+    "Reckless"
+  ],
+  "height": 0.3,
+  "weight": 2.0,
+  "gender_ratio": {},
+  "evos": [
+    "Staravia"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/starly.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\396_starly.gif"
+}

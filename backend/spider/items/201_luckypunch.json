@@ -1,0 +1,12 @@
+{
+  "id": 201,
+  "name": "吉利拳",
+  "english": "Lucky Punch",
+  "category": "道具",
+  "num": 201,
+  "spritenum": 201,
+  "desc": "能带来幸运的拳套。让吉利蛋携带后，招式会变得容易击中要害。",
+  "shortDesc": "能带来幸运的拳套。让吉利蛋携带后，招式会变得容易击中要害。",
+  "gen": 1,
+  "isPokeball": false
+}

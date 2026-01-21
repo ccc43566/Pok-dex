@@ -1,0 +1,27 @@
+{
+  "id": 376,
+  "name": "Metagross",
+  "type1": "Steel",
+  "type2": "Psychic",
+  "hp": 80,
+  "attack": 135,
+  "defense": 130,
+  "sp_atk": 95,
+  "sp_def": 90,
+  "speed": 70,
+  "total": 600,
+  "abilities": [
+    "Clear Body",
+    "Light Metal"
+  ],
+  "height": 1.6,
+  "weight": 550.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Metang",
+  "evo_level": 45,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/metagross.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\376_metagross.gif"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 861,
+  "name": "Grimmsnarl-Gmax",
+  "type1": "Dark",
+  "type2": "Fairy",
+  "hp": 95,
+  "attack": 120,
+  "defense": 65,
+  "sp_atk": 95,
+  "sp_def": 75,
+  "speed": 60,
+  "total": 510,
+  "abilities": [
+    "Prankster",
+    "Frisk",
+    "Pickpocket"
+  ],
+  "height": 32.0,
+  "weight": 0.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/grimmsnarl-gmax.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\861_grimmsnarl-gmax.gif"
+}

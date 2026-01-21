@@ -1,0 +1,12 @@
+{
+  "id": 520,
+  "name": "Sablenite",
+  "english": "sablenite",
+  "category": "道具",
+  "num": 520,
+  "spritenum": 614,
+  "desc": "If held by a Sableye, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Sableye, this item allows it to Mega Evolve in battle.",
+  "gen": 6,
+  "isPokeball": false
+}

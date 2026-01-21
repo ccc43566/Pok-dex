@@ -1,0 +1,26 @@
+{
+  "id": 1022,
+  "name": "Iron Boulder",
+  "type1": "Rock",
+  "type2": "Psychic",
+  "hp": 90,
+  "attack": 120,
+  "defense": 80,
+  "sp_atk": 68,
+  "sp_def": 108,
+  "speed": 124,
+  "total": 590,
+  "abilities": [
+    "Quark Drive"
+  ],
+  "height": 1.5,
+  "weight": 162.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/ironboulder.png",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\1022_ironboulder.png"
+}

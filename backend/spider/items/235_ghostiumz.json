@@ -1,0 +1,12 @@
+{
+  "id": 235,
+  "name": "Ghostium Z",
+  "english": "ghostiumz",
+  "category": "道具",
+  "num": 235,
+  "spritenum": 644,
+  "desc": "If holder has a Ghost move, this item allows it to use a Ghost Z-Move.",
+  "shortDesc": "If holder has a Ghost move, this item allows it to use a Ghost Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

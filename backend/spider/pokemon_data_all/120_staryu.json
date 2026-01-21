@@ -1,0 +1,30 @@
+{
+  "id": 120,
+  "name": "Staryu",
+  "type1": "Water",
+  "type2": null,
+  "hp": 30,
+  "attack": 45,
+  "defense": 55,
+  "sp_atk": 70,
+  "sp_def": 55,
+  "speed": 85,
+  "total": 340,
+  "abilities": [
+    "Illuminate",
+    "Natural Cure",
+    "Analytic"
+  ],
+  "height": 0.8,
+  "weight": 34.5,
+  "gender_ratio": {},
+  "evos": [
+    "Starmie"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/staryu.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\120_staryu.gif"
+}

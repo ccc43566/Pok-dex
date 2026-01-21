@@ -1,0 +1,12 @@
+{
+  "id": 566,
+  "name": "古代石像",
+  "english": "Relic Statue",
+  "category": "宝物",
+  "num": 566,
+  "spritenum": 566,
+  "desc": "约３０００年前的文明制造的石像。",
+  "shortDesc": "约３０００年前的文明制造的石像。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 895,
+  "name": "Regidrago",
+  "type1": "Dragon",
+  "type2": null,
+  "hp": 200,
+  "attack": 100,
+  "defense": 50,
+  "sp_atk": 100,
+  "sp_def": 50,
+  "speed": 80,
+  "total": 580,
+  "abilities": [
+    "Dragon"
+  ],
+  "height": 2.1,
+  "weight": 200.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/regidrago.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\895_regidrago.gif"
+}

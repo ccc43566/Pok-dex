@@ -1,0 +1,12 @@
+{
+  "id": 614,
+  "name": "Thunder Stone",
+  "english": "thunderstone",
+  "category": "道具",
+  "num": 614,
+  "spritenum": 492,
+  "desc": "Evolves Pikachu into Raichu or Alolan Raichu, Eevee into Jolteon, Eelektrik into Eelektross, and Charjabug into Vikavolt when used.",
+  "shortDesc": "Evolves certain species of Pokemon when used.",
+  "gen": 1,
+  "isPokeball": false
+}

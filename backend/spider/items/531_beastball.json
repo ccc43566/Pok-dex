@@ -1,0 +1,12 @@
+{
+  "id": 531,
+  "name": "究极球",
+  "english": "Beast Ball",
+  "category": "精灵球",
+  "num": 531,
+  "spritenum": 531,
+  "desc": "有点与众不同的球。很难捕捉宝可梦。",
+  "shortDesc": "有点与众不同的球。很难捕捉宝可梦。",
+  "gen": 1,
+  "isPokeball": false
+}

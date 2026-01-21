@@ -1,0 +1,32 @@
+{
+  "id": 37,
+  "name": "Vulpix-Alola",
+  "type1": "Ice",
+  "type2": null,
+  "hp": 38,
+  "attack": 41,
+  "defense": 40,
+  "sp_atk": 50,
+  "sp_def": 65,
+  "speed": 65,
+  "total": 299,
+  "abilities": [
+    "Snow Cloak",
+    "Snow Warning"
+  ],
+  "height": 0.6,
+  "weight": 9.9,
+  "gender_ratio": {
+    "M": 0.25,
+    "F": 0.75
+  },
+  "evos": [
+    "Ninetales-Alola"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/vulpix-alola.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\37_vulpix-alola.gif"
+}

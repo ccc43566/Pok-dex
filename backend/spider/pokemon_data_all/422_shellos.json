@@ -1,0 +1,30 @@
+{
+  "id": 422,
+  "name": "Shellos",
+  "type1": "Water",
+  "type2": null,
+  "hp": 76,
+  "attack": 48,
+  "defense": 48,
+  "sp_atk": 57,
+  "sp_def": 62,
+  "speed": 34,
+  "total": 325,
+  "abilities": [
+    "Sticky Hold",
+    "Storm Drain",
+    "Sand Force"
+  ],
+  "height": 0.3,
+  "weight": 6.3,
+  "gender_ratio": {},
+  "evos": [
+    "Gastrodon"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/shellos.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\422_shellos.gif"
+}

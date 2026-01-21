@@ -1,0 +1,59 @@
+{
+  "id": 852,
+  "name": "clobbopus",
+  "level_up": [
+    "bind",
+    "brickbreak",
+    "bulkup",
+    "detect",
+    "feint",
+    "leer",
+    "reversal",
+    "rocksmash",
+    "submission",
+    "superpower",
+    "taunt"
+  ],
+  "egg_moves": [
+    "circlethrow",
+    "painsplit",
+    "poweruppunch",
+    "seismictoss",
+    "soak",
+    "suckerpunch"
+  ],
+  "tm_moves": [
+    "attract",
+    "bodyslam",
+    "brickbreak",
+    "brine",
+    "bulkup",
+    "closecombat",
+    "dive",
+    "endure",
+    "facade",
+    "focusblast",
+    "icepunch",
+    "liquidation",
+    "megapunch",
+    "muddywater",
+    "mudshot",
+    "payback",
+    "protect",
+    "rest",
+    "retaliate",
+    "revenge",
+    "reversal",
+    "round",
+    "sleeptalk",
+    "snore",
+    "substitute",
+    "superpower",
+    "taunt",
+    "waterfall",
+    "workup"
+  ],
+  "tutor_moves": [
+    "coaching"
+  ]
+}

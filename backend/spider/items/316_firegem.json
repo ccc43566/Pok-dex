@@ -1,0 +1,12 @@
+{
+  "id": 316,
+  "name": "火之宝石",
+  "english": "Fire Gem",
+  "category": "道具",
+  "num": 316,
+  "spritenum": 316,
+  "desc": "火属性的宝石。携带后，火属性的招式威力仅会增强１次。",
+  "shortDesc": "火属性的宝石。携带后，火属性的招式威力仅会增强１次。",
+  "gen": 1,
+  "isPokeball": false
+}

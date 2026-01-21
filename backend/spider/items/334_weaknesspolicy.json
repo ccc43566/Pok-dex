@@ -1,0 +1,12 @@
+{
+  "id": 334,
+  "name": "弱点保险",
+  "english": "Weakness Policy",
+  "category": "道具",
+  "num": 334,
+  "spritenum": 334,
+  "desc": "被针对弱点时，攻击和特攻就会大幅提高。",
+  "shortDesc": "被针对弱点时，攻击和特攻就会大幅提高。",
+  "gen": 1,
+  "isPokeball": false
+}

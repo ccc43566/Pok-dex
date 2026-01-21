@@ -1,0 +1,12 @@
+{
+  "id": 768,
+  "name": "TR74",
+  "english": "tr74",
+  "category": "道具",
+  "num": 768,
+  "spritenum": 729,
+  "desc": "Teaches certain Pokemon the move Iron Head. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Iron Head. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

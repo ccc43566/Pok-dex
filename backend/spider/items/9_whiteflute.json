@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "name": "白色玻璃哨",
+  "english": "White Flute",
+  "category": "道具",
+  "num": 9,
+  "spritenum": 9,
+  "desc": "以白色玻璃制成的哨子。在使用的地方更容易遇到弱小的宝可梦。",
+  "shortDesc": "以白色玻璃制成的哨子。在使用的地方更容易遇到弱小的宝可梦。",
+  "gen": 1,
+  "isPokeball": false
+}

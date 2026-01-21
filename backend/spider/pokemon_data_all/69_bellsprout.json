@@ -1,0 +1,29 @@
+{
+  "id": 69,
+  "name": "Bellsprout",
+  "type1": "Grass",
+  "type2": "Poison",
+  "hp": 50,
+  "attack": 75,
+  "defense": 35,
+  "sp_atk": 70,
+  "sp_def": 30,
+  "speed": 40,
+  "total": 300,
+  "abilities": [
+    "Chlorophyll",
+    "Gluttony"
+  ],
+  "height": 0.7,
+  "weight": 4.0,
+  "gender_ratio": {},
+  "evos": [
+    "Weepinbell"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/bellsprout.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\69_bellsprout.gif"
+}

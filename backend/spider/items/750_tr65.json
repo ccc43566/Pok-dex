@@ -1,0 +1,12 @@
+{
+  "id": 750,
+  "name": "TR65",
+  "english": "tr65",
+  "category": "道具",
+  "num": 750,
+  "spritenum": 732,
+  "desc": "Teaches certain Pokemon the move Energy Ball. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Energy Ball. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

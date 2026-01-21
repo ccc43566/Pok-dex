@@ -1,0 +1,12 @@
+{
+  "id": 999,
+  "name": "橙橙果",
+  "english": "Oran Berry",
+  "category": "树果",
+  "num": 999,
+  "spritenum": 999,
+  "desc": "让宝可梦携带后，可以回复１０ＨＰ。",
+  "shortDesc": "让宝可梦携带后，可以回复１０ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 409,
+  "name": "Rampardos",
+  "type1": "Rock",
+  "type2": null,
+  "hp": 97,
+  "attack": 165,
+  "defense": 60,
+  "sp_atk": 65,
+  "sp_def": 50,
+  "speed": 58,
+  "total": 495,
+  "abilities": [
+    "Mold Breaker",
+    "Sheer Force"
+  ],
+  "height": 1.6,
+  "weight": 102.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Cranidos",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/rampardos.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\409_rampardos.gif"
+}

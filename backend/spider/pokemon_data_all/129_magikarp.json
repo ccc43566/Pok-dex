@@ -1,0 +1,29 @@
+{
+  "id": 129,
+  "name": "Magikarp",
+  "type1": "Water",
+  "type2": null,
+  "hp": 20,
+  "attack": 10,
+  "defense": 55,
+  "sp_atk": 15,
+  "sp_def": 20,
+  "speed": 80,
+  "total": 200,
+  "abilities": [
+    "Swift Swim",
+    "Rattled"
+  ],
+  "height": 0.9,
+  "weight": 10.0,
+  "gender_ratio": {},
+  "evos": [
+    "Gyarados"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/magikarp.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\129_magikarp.gif"
+}

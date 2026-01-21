@@ -1,0 +1,32 @@
+{
+  "id": 256,
+  "name": "Combusken",
+  "type1": "Fire",
+  "type2": "Fighting",
+  "hp": 60,
+  "attack": 85,
+  "defense": 60,
+  "sp_atk": 85,
+  "sp_def": 60,
+  "speed": 55,
+  "total": 405,
+  "abilities": [
+    "Blaze",
+    "Speed Boost"
+  ],
+  "height": 0.9,
+  "weight": 19.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Blaziken"
+  ],
+  "prevo": "Torchic",
+  "evo_level": 16,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/combusken.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\256_combusken.gif"
+}

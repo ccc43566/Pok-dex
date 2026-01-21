@@ -1,0 +1,12 @@
+{
+  "id": 292,
+  "name": "附着针",
+  "english": "Sticky Barb",
+  "category": "道具",
+  "num": 292,
+  "spritenum": 292,
+  "desc": "携带后，每回合都会受到伤害。有时也会附着到碰到自己的对手身上。",
+  "shortDesc": "携带后，每回合都会受到伤害。有时也会附着到碰到自己的对手身上。",
+  "gen": 1,
+  "isPokeball": false
+}

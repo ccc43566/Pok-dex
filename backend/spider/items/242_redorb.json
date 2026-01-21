@@ -1,0 +1,12 @@
+{
+  "id": 242,
+  "name": "朱红色宝珠",
+  "english": "Red Orb",
+  "category": "道具",
+  "num": 242,
+  "spritenum": 242,
+  "desc": "散发着红色光辉的宝珠。据说和丰缘地区的传说渊源颇深。",
+  "shortDesc": "散发着红色光辉的宝珠。据说和丰缘地区的传说渊源颇深。",
+  "gen": 1,
+  "isPokeball": false
+}

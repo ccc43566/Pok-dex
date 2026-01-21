@@ -1,0 +1,26 @@
+{
+  "id": 889,
+  "name": "Zamazenta",
+  "type1": "Fighting",
+  "type2": null,
+  "hp": 92,
+  "attack": 120,
+  "defense": 115,
+  "sp_atk": 80,
+  "sp_def": 115,
+  "speed": 138,
+  "total": 660,
+  "abilities": [
+    "Dauntless Shield"
+  ],
+  "height": 2.9,
+  "weight": 210.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/zamazenta.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\889_zamazenta.gif"
+}

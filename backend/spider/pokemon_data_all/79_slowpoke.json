@@ -1,0 +1,31 @@
+{
+  "id": 79,
+  "name": "Slowpoke",
+  "type1": "Water",
+  "type2": "Psychic",
+  "hp": 90,
+  "attack": 65,
+  "defense": 65,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "speed": 15,
+  "total": 315,
+  "abilities": [
+    "Oblivious",
+    "Own Tempo",
+    "Regenerator"
+  ],
+  "height": 1.2,
+  "weight": 36.0,
+  "gender_ratio": {},
+  "evos": [
+    "Slowbro",
+    "Slowking"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/slowpoke.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\79_slowpoke.gif"
+}

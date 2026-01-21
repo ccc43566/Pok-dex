@@ -1,0 +1,12 @@
+{
+  "id": 268,
+  "name": "可疑补丁",
+  "english": "Dubious Disc",
+  "category": "道具",
+  "num": 268,
+  "spritenum": 268,
+  "desc": "内部储存了奇怪信息的透明机器。制造者不明。",
+  "shortDesc": "内部储存了奇怪信息的透明机器。制造者不明。",
+  "gen": 1,
+  "isPokeball": false
+}

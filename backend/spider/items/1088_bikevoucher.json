@@ -1,0 +1,12 @@
+{
+  "id": 1088,
+  "name": "兌換券",
+  "english": "Bike Voucher",
+  "category": "重要物品",
+  "num": 1088,
+  "spritenum": 1088,
+  "desc": "给华蓝市的奇迹自行车店就能交换得到自行车。",
+  "shortDesc": "给华蓝市的奇迹自行车店就能交换得到自行车。",
+  "gen": 1,
+  "isPokeball": false
+}

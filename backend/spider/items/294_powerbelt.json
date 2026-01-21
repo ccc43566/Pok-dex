@@ -1,0 +1,12 @@
+{
+  "id": 294,
+  "name": "力量腰带",
+  "english": "Power Belt",
+  "category": "道具",
+  "num": 294,
+  "spritenum": 294,
+  "desc": "虽然携带后速度会降低，但宝可梦的防御会比平时成长得更高。",
+  "shortDesc": "虽然携带后速度会降低，但宝可梦的防御会比平时成长得更高。",
+  "gen": 1,
+  "isPokeball": false
+}

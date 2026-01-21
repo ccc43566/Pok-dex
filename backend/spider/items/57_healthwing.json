@@ -1,0 +1,12 @@
+{
+  "id": 57,
+  "name": "体力之羽",
+  "english": "Health Wing",
+  "category": "道具",
+  "num": 57,
+  "spritenum": 57,
+  "desc": "用于宝可梦的道具。能稍微提高１只宝可梦的ＨＰ的基础点数。",
+  "shortDesc": "用于宝可梦的道具。能稍微提高１只宝可梦的ＨＰ的基础点数。",
+  "gen": 1,
+  "isPokeball": false
+}

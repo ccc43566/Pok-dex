@@ -14,11 +14,11 @@ export default defineConfig({
     port: 5173,
     proxy: {
       '/api': {
-        target: 'http://localhost:8000',
+        target: 'http://localhost:8001',
         changeOrigin: true
       },
       '/images': {
-        target: 'http://localhost:8000',
+        target: 'http://localhost:8001',
         changeOrigin: true
       }
     }

@@ -1,0 +1,27 @@
+{
+  "id": 871,
+  "name": "Pincurchin",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 48,
+  "attack": 101,
+  "defense": 95,
+  "sp_atk": 91,
+  "sp_def": 85,
+  "speed": 15,
+  "total": 435,
+  "abilities": [
+    "Lightning Rod",
+    "Electric Surge"
+  ],
+  "height": 0.3,
+  "weight": 1.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/pincurchin.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\871_pincurchin.gif"
+}

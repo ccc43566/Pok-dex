@@ -1,0 +1,12 @@
+{
+  "id": 548,
+  "name": "Shock Drive",
+  "english": "shockdrive",
+  "category": "道具",
+  "num": 548,
+  "spritenum": 442,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 5,
+  "isPokeball": false
+}

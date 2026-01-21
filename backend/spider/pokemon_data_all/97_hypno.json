@@ -1,0 +1,28 @@
+{
+  "id": 97,
+  "name": "Hypno",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 85,
+  "attack": 73,
+  "defense": 70,
+  "sp_atk": 73,
+  "sp_def": 115,
+  "speed": 67,
+  "total": 483,
+  "abilities": [
+    "Insomnia",
+    "Forewarn",
+    "Inner Focus"
+  ],
+  "height": 1.6,
+  "weight": 75.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Drowzee",
+  "evo_level": 26,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/hypno.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\97_hypno.gif"
+}

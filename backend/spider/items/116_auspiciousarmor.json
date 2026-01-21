@@ -1,0 +1,12 @@
+{
+  "id": 116,
+  "name": "庆祝之铠",
+  "english": "Auspicious Armor",
+  "category": "道具",
+  "num": 116,
+  "spritenum": 116,
+  "desc": "能让某些特定宝可梦进化的神奇铠甲。蕴含着祝贺的感情。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇铠甲。蕴含着祝贺的感情。",
+  "gen": 1,
+  "isPokeball": false
+}

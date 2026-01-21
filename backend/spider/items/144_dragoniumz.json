@@ -1,0 +1,12 @@
+{
+  "id": 144,
+  "name": "Dragonium Z",
+  "english": "dragoniumz",
+  "category": "道具",
+  "num": 144,
+  "spritenum": 645,
+  "desc": "If holder has a Dragon move, this item allows it to use a Dragon Z-Move.",
+  "shortDesc": "If holder has a Dragon move, this item allows it to use a Dragon Z-Move.",
+  "gen": 7,
+  "isPokeball": false
+}

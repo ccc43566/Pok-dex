@@ -1,0 +1,12 @@
+{
+  "id": 265,
+  "name": "护具",
+  "english": "Protector",
+  "category": "道具",
+  "num": 265,
+  "spritenum": 265,
+  "desc": "某种护具。非常坚硬而且沉重。某种宝可梦很喜欢它。",
+  "shortDesc": "某种护具。非常坚硬而且沉重。某种宝可梦很喜欢它。",
+  "gen": 1,
+  "isPokeball": false
+}

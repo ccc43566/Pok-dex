@@ -1,0 +1,12 @@
+{
+  "id": 216,
+  "name": "Fossilized Drake",
+  "english": "fossilizeddrake",
+  "category": "道具",
+  "num": 216,
+  "spritenum": 702,
+  "desc": "Can revive into Dracozolt with Fossilized Bird or Dracovish with Fossilized Fish.",
+  "shortDesc": "Can revive into Dracozolt with Fossilized Bird or Dracovish with Fossilized Fish.",
+  "gen": 8,
+  "isPokeball": false
+}

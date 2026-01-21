@@ -1,0 +1,26 @@
+{
+  "id": 994,
+  "name": "Iron Moth",
+  "type1": "Fire",
+  "type2": "Poison",
+  "hp": 80,
+  "attack": 70,
+  "defense": 60,
+  "sp_atk": 140,
+  "sp_def": 110,
+  "speed": 110,
+  "total": 570,
+  "abilities": [
+    "Quark Drive"
+  ],
+  "height": 1.2,
+  "weight": 36.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ironmoth.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\994_ironmoth.gif"
+}

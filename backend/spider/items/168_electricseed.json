@@ -1,0 +1,12 @@
+{
+  "id": 168,
+  "name": "Electric Seed",
+  "english": "electricseed",
+  "category": "道具",
+  "num": 168,
+  "spritenum": 664,
+  "desc": "If the terrain is Electric Terrain, raises holder",
+  "shortDesc": "If the terrain is Electric Terrain, raises holder",
+  "gen": 7,
+  "isPokeball": false
+}

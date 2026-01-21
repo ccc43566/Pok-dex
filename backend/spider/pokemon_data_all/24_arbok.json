@@ -1,0 +1,28 @@
+{
+  "id": 24,
+  "name": "Arbok",
+  "type1": "Poison",
+  "type2": null,
+  "hp": 60,
+  "attack": 95,
+  "defense": 69,
+  "sp_atk": 65,
+  "sp_def": 79,
+  "speed": 80,
+  "total": 448,
+  "abilities": [
+    "Intimidate",
+    "Shed Skin",
+    "Unnerve"
+  ],
+  "height": 3.5,
+  "weight": 65.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Ekans",
+  "evo_level": 22,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/arbok.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\24_arbok.gif"
+}

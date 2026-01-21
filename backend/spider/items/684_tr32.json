@@ -1,0 +1,12 @@
+{
+  "id": 684,
+  "name": "TR32",
+  "english": "tr32",
+  "category": "道具",
+  "num": 684,
+  "spritenum": 737,
+  "desc": "Teaches certain Pokemon the move Crunch. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Crunch. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

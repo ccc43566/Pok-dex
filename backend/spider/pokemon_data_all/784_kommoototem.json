@@ -1,0 +1,26 @@
+{
+  "id": 784,
+  "name": "Kommo-o-Totem",
+  "type1": "Dragon",
+  "type2": "Fighting",
+  "hp": 75,
+  "attack": 110,
+  "defense": 125,
+  "sp_atk": 100,
+  "sp_def": 105,
+  "speed": 85,
+  "total": 600,
+  "abilities": [
+    "Overcoat"
+  ],
+  "height": 2.4,
+  "weight": 207.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/kommoo-totem.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\784_kommoo-totem.gif"
+}

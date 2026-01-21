@@ -1,0 +1,29 @@
+{
+  "id": 449,
+  "name": "Hippopotas",
+  "type1": "Ground",
+  "type2": null,
+  "hp": 68,
+  "attack": 72,
+  "defense": 78,
+  "sp_atk": 38,
+  "sp_def": 42,
+  "speed": 32,
+  "total": 330,
+  "abilities": [
+    "Sand Stream",
+    "Sand Force"
+  ],
+  "height": 0.8,
+  "weight": 49.5,
+  "gender_ratio": {},
+  "evos": [
+    "Hippowdon"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/hippopotas.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\449_hippopotas.gif"
+}

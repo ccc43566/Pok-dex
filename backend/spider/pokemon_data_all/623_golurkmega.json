@@ -1,0 +1,27 @@
+{
+  "id": 623,
+  "name": "Golurk-Mega",
+  "type1": "Ground",
+  "type2": "Ghost",
+  "hp": 89,
+  "attack": 159,
+  "defense": 105,
+  "sp_atk": 70,
+  "sp_def": 105,
+  "speed": 55,
+  "total": 583,
+  "abilities": [
+    "Iron Fist",
+    "Klutz",
+    "No Guard"
+  ],
+  "height": 4.0,
+  "weight": 330.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/golurk-mega.png"
+}

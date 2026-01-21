@@ -1,0 +1,12 @@
+{
+  "id": 577,
+  "name": "弹珠",
+  "english": "Marble",
+  "category": "宝物",
+  "num": 577,
+  "spritenum": 577,
+  "desc": "非常圆润的玻璃球。能在透明的球体中看见彩色玻璃的花纹。",
+  "shortDesc": "非常圆润的玻璃球。能在透明的球体中看见彩色玻璃的花纹。",
+  "gen": 1,
+  "isPokeball": false
+}

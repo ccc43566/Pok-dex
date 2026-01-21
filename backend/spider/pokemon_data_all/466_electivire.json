@@ -1,0 +1,30 @@
+{
+  "id": 466,
+  "name": "Electivire",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 75,
+  "attack": 123,
+  "defense": 67,
+  "sp_atk": 95,
+  "sp_def": 85,
+  "speed": 95,
+  "total": 540,
+  "abilities": [
+    "Motor Drive",
+    "Vital Spirit"
+  ],
+  "height": 1.8,
+  "weight": 138.6,
+  "gender_ratio": {
+    "M": 0.75,
+    "F": 0.25
+  },
+  "evos": [],
+  "prevo": "Electabuzz",
+  "evo_level": null,
+  "evo_type": "trade",
+  "evo_item": "Electirizer",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/electivire.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\466_electivire.gif"
+}

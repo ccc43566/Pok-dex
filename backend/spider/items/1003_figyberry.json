@@ -1,0 +1,12 @@
+{
+  "id": 1003,
+  "name": "勿花果",
+  "english": "Figy Berry",
+  "category": "树果",
+  "num": 1003,
+  "spritenum": 1003,
+  "desc": "让宝可梦携带后，危机时可以回复ＨＰ。如果讨厌这味道就会混乱。",
+  "shortDesc": "让宝可梦携带后，危机时可以回复ＨＰ。如果讨厌这味道就会混乱。",
+  "gen": 1,
+  "isPokeball": false
+}

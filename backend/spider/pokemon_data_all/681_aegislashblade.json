@@ -1,0 +1,26 @@
+{
+  "id": 681,
+  "name": "Aegislash-Blade",
+  "type1": "Steel",
+  "type2": "Ghost",
+  "hp": 60,
+  "attack": 140,
+  "defense": 50,
+  "sp_atk": 140,
+  "sp_def": 50,
+  "speed": 60,
+  "total": 500,
+  "abilities": [
+    "Stance Change"
+  ],
+  "height": 1.7,
+  "weight": 53.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/aegislash-blade.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\681_aegislash-blade.gif"
+}

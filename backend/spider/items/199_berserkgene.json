@@ -1,0 +1,12 @@
+{
+  "id": 199,
+  "name": "破坏基因",
+  "english": "Berserk Gene",
+  "category": "道具",
+  "num": 199,
+  "spritenum": 199,
+  "desc": "攻击的威力就会提高，但会造成混乱。",
+  "shortDesc": "攻击的威力就会提高，但会造成混乱。",
+  "gen": 1,
+  "isPokeball": false
+}

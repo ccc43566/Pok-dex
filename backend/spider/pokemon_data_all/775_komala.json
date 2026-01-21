@@ -1,0 +1,26 @@
+{
+  "id": 775,
+  "name": "Komala",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 65,
+  "attack": 115,
+  "defense": 65,
+  "sp_atk": 75,
+  "sp_def": 95,
+  "speed": 65,
+  "total": 480,
+  "abilities": [
+    "Comatose"
+  ],
+  "height": 0.4,
+  "weight": 19.9,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/komala.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\775_komala.gif"
+}

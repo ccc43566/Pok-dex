@@ -1,0 +1,31 @@
+{
+  "id": 123,
+  "name": "Scyther",
+  "type1": "Bug",
+  "type2": "Flying",
+  "hp": 70,
+  "attack": 110,
+  "defense": 80,
+  "sp_atk": 55,
+  "sp_def": 80,
+  "speed": 105,
+  "total": 500,
+  "abilities": [
+    "Swarm",
+    "Technician",
+    "Steadfast"
+  ],
+  "height": 1.5,
+  "weight": 56.0,
+  "gender_ratio": {},
+  "evos": [
+    "Scizor",
+    "Kleavor"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/scyther.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\123_scyther.gif"
+}

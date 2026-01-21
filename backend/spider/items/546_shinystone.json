@@ -1,0 +1,12 @@
+{
+  "id": 546,
+  "name": "Shiny Stone",
+  "english": "shinystone",
+  "category": "道具",
+  "num": 546,
+  "spritenum": 439,
+  "desc": "Evolves Togetic into Togekiss, Roselia into Roserade, Minccino into Cinccino, and Floette into Florges when used.",
+  "shortDesc": "Evolves certain species of Pokemon when used.",
+  "gen": 4,
+  "isPokeball": false
+}

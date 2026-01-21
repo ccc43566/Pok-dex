@@ -1,0 +1,12 @@
+{
+  "id": 184,
+  "name": "奇迹种子",
+  "english": "Miracle Seed",
+  "category": "道具",
+  "num": 184,
+  "spritenum": 184,
+  "desc": "孕育生命的种子。携带后，草属性的招式威力就会提高。",
+  "shortDesc": "孕育生命的种子。携带后，草属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

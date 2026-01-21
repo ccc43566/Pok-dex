@@ -1,0 +1,12 @@
+{
+  "id": 19,
+  "name": "金黄色花蜜",
+  "english": "Yellow Nectar",
+  "category": "道具",
+  "num": 19,
+  "spritenum": 19,
+  "desc": "金黄色花的花蜜。可以改变特定宝可梦的样子。",
+  "shortDesc": "金黄色花的花蜜。可以改变特定宝可梦的样子。",
+  "gen": 1,
+  "isPokeball": false
+}

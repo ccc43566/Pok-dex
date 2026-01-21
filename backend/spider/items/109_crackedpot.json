@@ -1,0 +1,12 @@
+{
+  "id": 109,
+  "name": "破裂的茶壶",
+  "english": "Cracked Pot",
+  "category": "道具",
+  "num": 109,
+  "spritenum": 109,
+  "desc": "这个神奇的茶壶可以使特定的宝可梦进化。虽然有破损，但泡出来的茶依旧清香。",
+  "shortDesc": "这个神奇的茶壶可以使特定的宝可梦进化。虽然有破损，但泡出来的茶依旧清香。",
+  "gen": 1,
+  "isPokeball": false
+}

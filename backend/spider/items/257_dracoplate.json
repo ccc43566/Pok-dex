@@ -1,0 +1,12 @@
+{
+  "id": 257,
+  "name": "龙之石板",
+  "english": "Draco Plate",
+  "category": "道具",
+  "num": 257,
+  "spritenum": 257,
+  "desc": "龙属性的石板。携带后，龙属性的招式威力就会增强。",
+  "shortDesc": "龙属性的石板。携带后，龙属性的招式威力就会增强。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 167,
+  "name": "Spinarak",
+  "type1": "Bug",
+  "type2": "Poison",
+  "hp": 40,
+  "attack": 60,
+  "defense": 40,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "speed": 30,
+  "total": 250,
+  "abilities": [
+    "Swarm",
+    "Insomnia",
+    "Sniper"
+  ],
+  "height": 0.5,
+  "weight": 8.5,
+  "gender_ratio": {},
+  "evos": [
+    "Ariados"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/spinarak.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\167_spinarak.gif"
+}

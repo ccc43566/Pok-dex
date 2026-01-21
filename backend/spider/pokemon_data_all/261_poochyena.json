@@ -1,0 +1,30 @@
+{
+  "id": 261,
+  "name": "Poochyena",
+  "type1": "Dark",
+  "type2": null,
+  "hp": 35,
+  "attack": 55,
+  "defense": 35,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "speed": 35,
+  "total": 220,
+  "abilities": [
+    "Run Away",
+    "Quick Feet",
+    "Rattled"
+  ],
+  "height": 0.5,
+  "weight": 13.6,
+  "gender_ratio": {},
+  "evos": [
+    "Mightyena"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/poochyena.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\261_poochyena.gif"
+}

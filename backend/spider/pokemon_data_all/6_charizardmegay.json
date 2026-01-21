@@ -1,0 +1,29 @@
+{
+  "id": 6,
+  "name": "Charizard-Mega-Y",
+  "type1": "Fire",
+  "type2": "Flying",
+  "hp": 78,
+  "attack": 104,
+  "defense": 78,
+  "sp_atk": 159,
+  "sp_def": 115,
+  "speed": 100,
+  "total": 634,
+  "abilities": [
+    "Drought"
+  ],
+  "height": 1.7,
+  "weight": 100.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/charizard-megay.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\6_charizard-megay.gif"
+}

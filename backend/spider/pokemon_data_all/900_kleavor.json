@@ -1,0 +1,28 @@
+{
+  "id": 900,
+  "name": "Kleavor",
+  "type1": "Bug",
+  "type2": "Rock",
+  "hp": 70,
+  "attack": 135,
+  "defense": 95,
+  "sp_atk": 45,
+  "sp_def": 70,
+  "speed": 85,
+  "total": 500,
+  "abilities": [
+    "Swarm",
+    "Sheer Force",
+    "Sharpness"
+  ],
+  "height": 1.8,
+  "weight": 89.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Scyther",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/kleavor.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\900_kleavor.gif"
+}

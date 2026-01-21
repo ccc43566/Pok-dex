@@ -1,0 +1,12 @@
+{
+  "id": 444,
+  "name": "守护糖果",
+  "english": "Tough Candy",
+  "category": "阿罗拉",
+  "num": 444,
+  "spritenum": 444,
+  "desc": "充满能量的糖果。能提高宝可梦的防御。",
+  "shortDesc": "充满能量的糖果。能提高宝可梦的防御。",
+  "gen": 1,
+  "isPokeball": false
+}

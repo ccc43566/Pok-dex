@@ -1,0 +1,12 @@
+{
+  "id": 245,
+  "name": "Grass Memory",
+  "english": "grassmemory",
+  "category": "道具",
+  "num": 245,
+  "spritenum": 678,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

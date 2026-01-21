@@ -1,0 +1,12 @@
+{
+  "id": 108,
+  "name": "酸酸苹果",
+  "english": "Tart Apple",
+  "category": "道具",
+  "num": 108,
+  "spritenum": 108,
+  "desc": "这种神奇的苹果可以使特定的宝可梦进化。吃起来酸酸的。",
+  "shortDesc": "这种神奇的苹果可以使特定的宝可梦进化。吃起来酸酸的。",
+  "gen": 1,
+  "isPokeball": false
+}

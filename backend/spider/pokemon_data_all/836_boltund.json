@@ -1,0 +1,27 @@
+{
+  "id": 836,
+  "name": "Boltund",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 69,
+  "attack": 90,
+  "defense": 60,
+  "sp_atk": 90,
+  "sp_def": 60,
+  "speed": 121,
+  "total": 490,
+  "abilities": [
+    "Strong Jaw",
+    "Competitive"
+  ],
+  "height": 1.0,
+  "weight": 34.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Yamper",
+  "evo_level": 25,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/boltund.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\836_boltund.gif"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 616,
+  "name": "Timer Ball",
+  "english": "timerball",
+  "category": "道具",
+  "num": 616,
+  "spritenum": 494,
+  "desc": "A Poke Ball that becomes better the more turns there are in a battle.",
+  "shortDesc": "A Poke Ball that becomes better the more turns there are in a battle.",
+  "gen": 3,
+  "isPokeball": true
+}

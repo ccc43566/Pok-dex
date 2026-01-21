@@ -1,0 +1,27 @@
+{
+  "id": 45,
+  "name": "Vileplume",
+  "type1": "Grass",
+  "type2": "Poison",
+  "hp": 75,
+  "attack": 80,
+  "defense": 85,
+  "sp_atk": 110,
+  "sp_def": 90,
+  "speed": 50,
+  "total": 490,
+  "abilities": [
+    "Chlorophyll",
+    "Effect Spore"
+  ],
+  "height": 1.2,
+  "weight": 18.6,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Gloom",
+  "evo_level": null,
+  "evo_type": "useItem",
+  "evo_item": "Leaf Stone",
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/vileplume.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\45_vileplume.gif"
+}

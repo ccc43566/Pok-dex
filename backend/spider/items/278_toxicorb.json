@@ -1,0 +1,12 @@
+{
+  "id": 278,
+  "name": "剧毒宝珠",
+  "english": "Toxic Orb",
+  "category": "道具",
+  "num": 278,
+  "spritenum": 278,
+  "desc": "触碰后会放出毒的神奇宝珠。携带后，在战斗时会变成剧毒状态。",
+  "shortDesc": "触碰后会放出毒的神奇宝珠。携带后，在战斗时会变成剧毒状态。",
+  "gen": 1,
+  "isPokeball": false
+}

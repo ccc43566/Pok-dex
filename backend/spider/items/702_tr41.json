@@ -1,0 +1,12 @@
+{
+  "id": 702,
+  "name": "TR41",
+  "english": "tr41",
+  "category": "道具",
+  "num": 702,
+  "spritenum": 730,
+  "desc": "Teaches certain Pokemon the move Blaze Kick. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Blaze Kick. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

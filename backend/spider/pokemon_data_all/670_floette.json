@@ -1,0 +1,29 @@
+{
+  "id": 670,
+  "name": "Floette",
+  "type1": "Fairy",
+  "type2": null,
+  "hp": 54,
+  "attack": 45,
+  "defense": 47,
+  "sp_atk": 75,
+  "sp_def": 98,
+  "speed": 52,
+  "total": 371,
+  "abilities": [
+    "Flower Veil",
+    "Symbiosis"
+  ],
+  "height": 0.2,
+  "weight": 0.9,
+  "gender_ratio": {},
+  "evos": [
+    "Florges"
+  ],
+  "prevo": "Flabébé",
+  "evo_level": 19,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/floette.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\670_floette.gif"
+}

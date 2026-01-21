@@ -1,0 +1,12 @@
+{
+  "id": 164,
+  "name": "Electirizer",
+  "english": "electirizer",
+  "category": "道具",
+  "num": 164,
+  "spritenum": 119,
+  "desc": "Evolves Electabuzz into Electivire when traded.",
+  "shortDesc": "Evolves Electabuzz into Electivire when traded.",
+  "gen": 4,
+  "isPokeball": false
+}

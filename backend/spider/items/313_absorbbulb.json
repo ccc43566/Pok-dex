@@ -1,0 +1,12 @@
+{
+  "id": 313,
+  "name": "球根",
+  "english": "Absorb Bulb",
+  "category": "道具",
+  "num": 313,
+  "spritenum": 313,
+  "desc": "一次性使用的球根。携带它的宝可梦如果受到水属性招式的攻击，特攻就会提高。",
+  "shortDesc": "一次性使用的球根。携带它的宝可梦如果受到水属性招式的攻击，特攻就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

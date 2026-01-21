@@ -1,0 +1,12 @@
+{
+  "id": 150,
+  "name": "Dream Ball",
+  "english": "dreamball",
+  "category": "道具",
+  "num": 150,
+  "spritenum": 111,
+  "desc": "A Poke Ball that makes it easier to catch wild PokÃ©mon while they",
+  "shortDesc": "A Poke Ball that makes it easier to catch wild PokÃ©mon while they",
+  "gen": 5,
+  "isPokeball": true
+}

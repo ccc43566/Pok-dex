@@ -1,0 +1,12 @@
+{
+  "id": 313,
+  "name": "Leek",
+  "english": "leek",
+  "category": "道具",
+  "num": 313,
+  "spritenum": 475,
+  "desc": "If held by a Farfetchâd or Sirfetchâd, its critical hit ratio is raised by 2 stages.",
+  "shortDesc": "If held by a Farfetchâd or Sirfetchâd, its critical hit ratio is raised by 2 stages.",
+  "gen": 8,
+  "isPokeball": false
+}

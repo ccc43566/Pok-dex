@@ -1,0 +1,31 @@
+{
+  "id": 548,
+  "name": "Petilil",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 45,
+  "attack": 35,
+  "defense": 50,
+  "sp_atk": 70,
+  "sp_def": 50,
+  "speed": 30,
+  "total": 280,
+  "abilities": [
+    "Chlorophyll",
+    "Own Tempo",
+    "Leaf Guard"
+  ],
+  "height": 0.5,
+  "weight": 6.6,
+  "gender_ratio": {},
+  "evos": [
+    "Lilligant",
+    "Lilligant-Hisui"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/petilil.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\548_petilil.gif"
+}

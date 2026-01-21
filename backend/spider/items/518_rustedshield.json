@@ -1,0 +1,12 @@
+{
+  "id": 518,
+  "name": "Rusted Shield",
+  "english": "rustedshield",
+  "category": "道具",
+  "num": 518,
+  "spritenum": 699,
+  "desc": "If held by a Zamazenta, this item changes its forme to Crowned Shield.",
+  "shortDesc": "If held by a Zamazenta, this item changes its forme to Crowned Shield.",
+  "gen": 8,
+  "isPokeball": false
+}

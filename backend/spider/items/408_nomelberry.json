@@ -1,0 +1,12 @@
+{
+  "id": 408,
+  "name": "Nomel Berry",
+  "english": "nomelberry",
+  "category": "道具",
+  "num": 408,
+  "spritenum": 306,
+  "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "gen": 3,
+  "isPokeball": false
+}

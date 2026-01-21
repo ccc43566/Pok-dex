@@ -1,0 +1,12 @@
+{
+  "id": 770,
+  "name": "TR75",
+  "english": "tr75",
+  "category": "道具",
+  "num": 770,
+  "spritenum": 726,
+  "desc": "Teaches certain Pokemon the move Stone Edge. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Stone Edge. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

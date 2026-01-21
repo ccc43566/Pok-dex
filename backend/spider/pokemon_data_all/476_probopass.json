@@ -1,0 +1,28 @@
+{
+  "id": 476,
+  "name": "Probopass",
+  "type1": "Rock",
+  "type2": "Steel",
+  "hp": 60,
+  "attack": 55,
+  "defense": 145,
+  "sp_atk": 75,
+  "sp_def": 150,
+  "speed": 40,
+  "total": 525,
+  "abilities": [
+    "Sturdy",
+    "Magnet Pull",
+    "Sand Force"
+  ],
+  "height": 1.4,
+  "weight": 340.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Nosepass",
+  "evo_level": null,
+  "evo_type": "levelExtra",
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/probopass.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\476_probopass.gif"
+}

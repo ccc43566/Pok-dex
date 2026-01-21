@@ -1,0 +1,12 @@
+{
+  "id": 414,
+  "name": "梦境邮件",
+  "english": "Dream Mail",
+  "category": "道具",
+  "num": 414,
+  "spritenum": 414,
+  "desc": "一张能显示持有者的图像的信纸，可以讓宝可梦携带。",
+  "shortDesc": "一张能显示持有者的图像的信纸，可以讓宝可梦携带。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 381,
+  "name": "Latios",
+  "type1": "Dragon",
+  "type2": "Psychic",
+  "hp": 80,
+  "attack": 90,
+  "defense": 80,
+  "sp_atk": 130,
+  "sp_def": 110,
+  "speed": 110,
+  "total": 600,
+  "abilities": [
+    "Levitate"
+  ],
+  "height": 2.0,
+  "weight": 60.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/latios.png",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\381_latios.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 347,
+  "name": "薄雾种子",
+  "english": "Misty Seed",
+  "category": "道具",
+  "num": 347,
+  "spritenum": 347,
+  "desc": "让宝可梦携带后，在薄雾场地上使用，特防就会提高。",
+  "shortDesc": "让宝可梦携带后，在薄雾场地上使用，特防就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

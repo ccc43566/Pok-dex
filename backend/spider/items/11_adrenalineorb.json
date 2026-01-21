@@ -1,0 +1,12 @@
+{
+  "id": 11,
+  "name": "Adrenaline Orb",
+  "english": "adrenalineorb",
+  "category": "道具",
+  "num": 11,
+  "spritenum": 660,
+  "desc": "Raises holder",
+  "shortDesc": "Raises holder",
+  "gen": 7,
+  "isPokeball": false
+}

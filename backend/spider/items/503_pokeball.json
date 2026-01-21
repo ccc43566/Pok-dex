@@ -1,0 +1,12 @@
+{
+  "id": 503,
+  "name": "精灵球",
+  "english": "Poké Ball",
+  "category": "精灵球",
+  "num": 503,
+  "spritenum": 503,
+  "desc": "用于投向野生宝可梦并将其捕捉的球。它是胶囊样式的。",
+  "shortDesc": "用于投向野生宝可梦并将其捕捉的球。它是胶囊样式的。",
+  "gen": 1,
+  "isPokeball": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 80,
+  "name": "Slowbro-Mega",
+  "type1": "Water",
+  "type2": "Psychic",
+  "hp": 95,
+  "attack": 75,
+  "defense": 180,
+  "sp_atk": 130,
+  "sp_def": 80,
+  "speed": 30,
+  "total": 590,
+  "abilities": [
+    "Shell Armor"
+  ],
+  "height": 2.0,
+  "weight": 120.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/slowbro-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\80_slowbro-mega.gif"
+}

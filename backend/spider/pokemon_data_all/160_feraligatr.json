@@ -1,0 +1,30 @@
+{
+  "id": 160,
+  "name": "Feraligatr",
+  "type1": "Water",
+  "type2": null,
+  "hp": 85,
+  "attack": 105,
+  "defense": 100,
+  "sp_atk": 79,
+  "sp_def": 83,
+  "speed": 78,
+  "total": 530,
+  "abilities": [
+    "Torrent",
+    "Sheer Force"
+  ],
+  "height": 2.3,
+  "weight": 88.8,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Croconaw",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/feraligatr.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\160_feraligatr.gif"
+}

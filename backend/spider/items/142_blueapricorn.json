@@ -1,0 +1,12 @@
+{
+  "id": 142,
+  "name": "蓝球果",
+  "english": "Blue Apricorn",
+  "category": "球果",
+  "num": 142,
+  "spritenum": 142,
+  "desc": "蓝色的球果。略有一股青草的香味。",
+  "shortDesc": "蓝色的球果。略有一股青草的香味。",
+  "gen": 1,
+  "isPokeball": false
+}

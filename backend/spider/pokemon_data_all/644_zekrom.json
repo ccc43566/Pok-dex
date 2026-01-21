@@ -1,0 +1,26 @@
+{
+  "id": 644,
+  "name": "Zekrom",
+  "type1": "Dragon",
+  "type2": "Electric",
+  "hp": 100,
+  "attack": 150,
+  "defense": 120,
+  "sp_atk": 120,
+  "sp_def": 100,
+  "speed": 90,
+  "total": 680,
+  "abilities": [
+    "Teravolt"
+  ],
+  "height": 2.9,
+  "weight": 345.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/zekrom.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\644_zekrom.gif"
+}

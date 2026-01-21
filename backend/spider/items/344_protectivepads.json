@@ -1,0 +1,12 @@
+{
+  "id": 344,
+  "name": "部位护具",
+  "english": "Protective Pads",
+  "category": "道具",
+  "num": 344,
+  "spritenum": 344,
+  "desc": "不会受到触碰攻击对手时本应受到的效果。",
+  "shortDesc": "不会受到触碰攻击对手时本应受到的效果。",
+  "gen": 1,
+  "isPokeball": false
+}

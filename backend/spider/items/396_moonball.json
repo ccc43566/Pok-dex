@@ -1,0 +1,12 @@
+{
+  "id": 396,
+  "name": "Moon Ball",
+  "english": "moonball",
+  "category": "道具",
+  "num": 396,
+  "spritenum": 294,
+  "desc": "A Poke Ball for catching Pokemon that evolve using the Moon Stone.",
+  "shortDesc": "A Poke Ball for catching Pokemon that evolve using the Moon Stone.",
+  "gen": 2,
+  "isPokeball": true
+}

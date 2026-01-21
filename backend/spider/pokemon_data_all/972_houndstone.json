@@ -1,0 +1,27 @@
+{
+  "id": 972,
+  "name": "Houndstone",
+  "type1": "Ghost",
+  "type2": null,
+  "hp": 72,
+  "attack": 101,
+  "defense": 100,
+  "sp_atk": 50,
+  "sp_def": 97,
+  "speed": 68,
+  "total": 488,
+  "abilities": [
+    "Sand Rush",
+    "Fluffy"
+  ],
+  "height": 2.0,
+  "weight": 15.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Greavard",
+  "evo_level": 30,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/houndstone.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\972_houndstone.gif"
+}

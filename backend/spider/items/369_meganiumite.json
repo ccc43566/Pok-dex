@@ -1,0 +1,12 @@
+{
+  "id": 369,
+  "name": "Meganiumite",
+  "english": "meganiumite",
+  "category": "道具",
+  "num": 369,
+  "spritenum": 548,
+  "desc": "If held by a Meganium, this item allows it to Mega Evolve in battle.",
+  "shortDesc": "If held by a Meganium, this item allows it to Mega Evolve in battle.",
+  "gen": 9,
+  "isPokeball": false
+}

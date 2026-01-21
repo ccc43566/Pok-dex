@@ -1,0 +1,30 @@
+{
+  "id": 9,
+  "name": "Blastoise-Gmax",
+  "type1": "Water",
+  "type2": null,
+  "hp": 79,
+  "attack": 83,
+  "defense": 100,
+  "sp_atk": 85,
+  "sp_def": 105,
+  "speed": 78,
+  "total": 530,
+  "abilities": [
+    "Torrent",
+    "Rain Dish"
+  ],
+  "height": 25.0,
+  "weight": 0.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/blastoise-gmax.png",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\9_blastoise-gmax.png"
+}

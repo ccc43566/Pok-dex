@@ -1,0 +1,30 @@
+{
+  "id": 658,
+  "name": "Greninja",
+  "type1": "Water",
+  "type2": "Dark",
+  "hp": 72,
+  "attack": 95,
+  "defense": 67,
+  "sp_atk": 103,
+  "sp_def": 71,
+  "speed": 122,
+  "total": 530,
+  "abilities": [
+    "Torrent",
+    "Protean"
+  ],
+  "height": 1.5,
+  "weight": 40.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [],
+  "prevo": "Frogadier",
+  "evo_level": 36,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/greninja.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\658_greninja.gif"
+}

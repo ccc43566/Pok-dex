@@ -1,0 +1,12 @@
+{
+  "id": 1185,
+  "name": "磁浮列车自由票",
+  "english": "Pass",
+  "category": "重要物品",
+  "num": 1185,
+  "spritenum": 1185,
+  "desc": "乘坐磁浮列车时所需的车票。可以随时自由乘坐。",
+  "shortDesc": "乘坐磁浮列车时所需的车票。可以随时自由乘坐。",
+  "gen": 1,
+  "isPokeball": false
+}

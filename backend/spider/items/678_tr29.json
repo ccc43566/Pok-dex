@@ -1,0 +1,12 @@
+{
+  "id": 678,
+  "name": "TR29",
+  "english": "tr29",
+  "category": "道具",
+  "num": 678,
+  "spritenum": 721,
+  "desc": "Teaches certain Pokemon the move Baton Pass. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Baton Pass. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

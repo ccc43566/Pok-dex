@@ -1,0 +1,12 @@
+{
+  "id": 172,
+  "name": "洁净之符",
+  "english": "Cleanse Tag",
+  "category": "道具",
+  "num": 172,
+  "spritenum": 172,
+  "desc": "让排在最前面的宝可梦携带后，野生宝可梦就会不容易出现。",
+  "shortDesc": "让排在最前面的宝可梦携带后，野生宝可梦就会不容易出现。",
+  "gen": 1,
+  "isPokeball": false
+}

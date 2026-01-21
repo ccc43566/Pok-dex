@@ -1,0 +1,26 @@
+{
+  "id": 993,
+  "name": "Iron Jugulis",
+  "type1": "Dark",
+  "type2": "Flying",
+  "hp": 94,
+  "attack": 80,
+  "defense": 86,
+  "sp_atk": 122,
+  "sp_def": 80,
+  "speed": 108,
+  "total": 570,
+  "abilities": [
+    "Quark Drive"
+  ],
+  "height": 1.3,
+  "weight": 111.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/ironjugulis.png",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\993_ironjugulis.png"
+}

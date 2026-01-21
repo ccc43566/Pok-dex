@@ -1,0 +1,12 @@
+{
+  "id": 1006,
+  "name": "乐芭果",
+  "english": "Aguav Berry",
+  "category": "树果",
+  "num": 1006,
+  "spritenum": 1006,
+  "desc": "让宝可梦携带后，危机时可以回复ＨＰ。如果讨厌这味道就会混乱。",
+  "shortDesc": "让宝可梦携带后，危机时可以回复ＨＰ。如果讨厌这味道就会混乱。",
+  "gen": 1,
+  "isPokeball": false
+}

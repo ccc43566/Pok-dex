@@ -1,0 +1,12 @@
+{
+  "id": 648,
+  "name": "TR14",
+  "english": "tr14",
+  "category": "道具",
+  "num": 648,
+  "spritenum": 721,
+  "desc": "Teaches certain Pokemon the move Metronome. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Metronome. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

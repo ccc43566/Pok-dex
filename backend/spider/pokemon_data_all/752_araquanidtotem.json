@@ -1,0 +1,26 @@
+{
+  "id": 752,
+  "name": "Araquanid-Totem",
+  "type1": "Water",
+  "type2": "Bug",
+  "hp": 68,
+  "attack": 70,
+  "defense": 92,
+  "sp_atk": 50,
+  "sp_def": 132,
+  "speed": 42,
+  "total": 454,
+  "abilities": [
+    "Water Bubble"
+  ],
+  "height": 3.1,
+  "weight": 217.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/araquanid-totem.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\752_araquanid-totem.gif"
+}

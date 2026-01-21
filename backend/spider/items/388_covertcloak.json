@@ -1,0 +1,12 @@
+{
+  "id": 388,
+  "name": "密探斗篷",
+  "english": "Covert Cloak",
+  "category": "道具",
+  "num": 388,
+  "spritenum": 388,
+  "desc": "能骗过敌人眼睛的带帽披风。携带后，能够隐藏身体，变得不会受到招式的追加效果影响。",
+  "shortDesc": "能骗过敌人眼睛的带帽披风。携带后，能够隐藏身体，变得不会受到招式的追加效果影响。",
+  "gen": 1,
+  "isPokeball": false
+}

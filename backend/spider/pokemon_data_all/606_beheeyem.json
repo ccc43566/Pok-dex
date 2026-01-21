@@ -1,0 +1,28 @@
+{
+  "id": 606,
+  "name": "Beheeyem",
+  "type1": "Psychic",
+  "type2": null,
+  "hp": 75,
+  "attack": 75,
+  "defense": 75,
+  "sp_atk": 125,
+  "sp_def": 95,
+  "speed": 40,
+  "total": 485,
+  "abilities": [
+    "Telepathy",
+    "Synchronize",
+    "Analytic"
+  ],
+  "height": 1.0,
+  "weight": 34.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Elgyem",
+  "evo_level": 42,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/beheeyem.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\606_beheeyem.gif"
+}

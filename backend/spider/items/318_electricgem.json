@@ -1,0 +1,12 @@
+{
+  "id": 318,
+  "name": "电之宝石",
+  "english": "Electric Gem",
+  "category": "道具",
+  "num": 318,
+  "spritenum": 318,
+  "desc": "电属性的宝石。携带后，电属性的招式威力仅会增强１次。",
+  "shortDesc": "电属性的宝石。携带后，电属性的招式威力仅会增强１次。",
+  "gen": 1,
+  "isPokeball": false
+}

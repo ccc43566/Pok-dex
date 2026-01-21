@@ -1,0 +1,30 @@
+{
+  "id": 228,
+  "name": "Houndour",
+  "type1": "Dark",
+  "type2": "Fire",
+  "hp": 45,
+  "attack": 60,
+  "defense": 30,
+  "sp_atk": 80,
+  "sp_def": 50,
+  "speed": 65,
+  "total": 330,
+  "abilities": [
+    "Early Bird",
+    "Flash Fire",
+    "Unnerve"
+  ],
+  "height": 0.6,
+  "weight": 10.8,
+  "gender_ratio": {},
+  "evos": [
+    "Houndoom"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/houndour.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\228_houndour.gif"
+}

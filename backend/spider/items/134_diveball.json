@@ -1,0 +1,12 @@
+{
+  "id": 134,
+  "name": "Dive Ball",
+  "english": "diveball",
+  "category": "道具",
+  "num": 134,
+  "spritenum": 101,
+  "desc": "A Poke Ball that works especially well on Pokemon that live underwater.",
+  "shortDesc": "A Poke Ball that works especially well on Pokemon that live underwater.",
+  "gen": 3,
+  "isPokeball": true
+}

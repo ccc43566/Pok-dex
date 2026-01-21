@@ -1,0 +1,29 @@
+{
+  "id": 293,
+  "name": "Whismur",
+  "type1": "Normal",
+  "type2": null,
+  "hp": 64,
+  "attack": 51,
+  "defense": 23,
+  "sp_atk": 51,
+  "sp_def": 23,
+  "speed": 28,
+  "total": 240,
+  "abilities": [
+    "Soundproof",
+    "Rattled"
+  ],
+  "height": 0.6,
+  "weight": 16.3,
+  "gender_ratio": {},
+  "evos": [
+    "Loudred"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/whismur.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\293_whismur.gif"
+}

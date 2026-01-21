@@ -1,0 +1,12 @@
+{
+  "id": 461,
+  "name": "Protective Pads",
+  "english": "protectivepads",
+  "category": "道具",
+  "num": 461,
+  "spritenum": 663,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 7,
+  "isPokeball": false
+}

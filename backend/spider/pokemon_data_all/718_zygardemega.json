@@ -1,0 +1,25 @@
+{
+  "id": 718,
+  "name": "Zygarde-Mega",
+  "type1": "Dragon",
+  "type2": "Ground",
+  "hp": 216,
+  "attack": 70,
+  "defense": 91,
+  "sp_atk": 216,
+  "sp_def": 85,
+  "speed": 100,
+  "total": 778,
+  "abilities": [
+    "Aura Break"
+  ],
+  "height": 7.7,
+  "weight": 610.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/zygarde-mega.png"
+}

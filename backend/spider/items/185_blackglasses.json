@@ -1,0 +1,12 @@
+{
+  "id": 185,
+  "name": "黑色眼镜",
+  "english": "Black Glasses",
+  "category": "道具",
+  "num": 185,
+  "spritenum": 185,
+  "desc": "看上去很奇怪的眼镜。携带后，恶属性的招式威力就会提高。",
+  "shortDesc": "看上去很奇怪的眼镜。携带后，恶属性的招式威力就会提高。",
+  "gen": 1,
+  "isPokeball": false
+}

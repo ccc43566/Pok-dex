@@ -1,0 +1,26 @@
+{
+  "id": 1002,
+  "name": "Chien-Pao",
+  "type1": "Dark",
+  "type2": "Ice",
+  "hp": 80,
+  "attack": 120,
+  "defense": 80,
+  "sp_atk": 90,
+  "sp_def": 65,
+  "speed": 135,
+  "total": 570,
+  "abilities": [
+    "Sword of Ruin"
+  ],
+  "height": 1.9,
+  "weight": 152.2,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/chienpao.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\1002_chienpao.gif"
+}

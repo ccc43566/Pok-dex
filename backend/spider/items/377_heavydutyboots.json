@@ -1,0 +1,12 @@
+{
+  "id": 377,
+  "name": "厚底靴",
+  "english": "Heavy-Duty Boots",
+  "category": "道具",
+  "num": 377,
+  "spritenum": 377,
+  "desc": "不受脚下陷阱等的影响。",
+  "shortDesc": "不受脚下陷阱等的影响。",
+  "gen": 1,
+  "isPokeball": false
+}

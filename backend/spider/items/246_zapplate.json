@@ -1,0 +1,12 @@
+{
+  "id": 246,
+  "name": "雷电石板",
+  "english": "Zap Plate",
+  "category": "道具",
+  "num": 246,
+  "spritenum": 246,
+  "desc": "电属性的石板。携带后，电属性的招式威力就会增强。",
+  "shortDesc": "电属性的石板。携带后，电属性的招式威力就会增强。",
+  "gen": 1,
+  "isPokeball": false
+}

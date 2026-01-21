@@ -1,0 +1,12 @@
+{
+  "id": 800,
+  "name": "TR90",
+  "english": "tr90",
+  "category": "道具",
+  "num": 800,
+  "spritenum": 738,
+  "desc": "Teaches certain Pokemon the move Play Rough. One use.",
+  "shortDesc": "Teaches certain Pokemon the move Play Rough. One use.",
+  "gen": 8,
+  "isPokeball": false
+}

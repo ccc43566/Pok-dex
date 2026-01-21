@@ -1,0 +1,12 @@
+{
+  "id": 1275,
+  "name": "换装箱",
+  "english": "Clothing Trunk",
+  "category": "重要物品",
+  "num": 1275,
+  "spritenum": 1275,
+  "desc": "非常轻的箱子。能塞入宝可梦或训练家的替换衣物。",
+  "shortDesc": "非常轻的箱子。能塞入宝可梦或训练家的替换衣物。",
+  "gen": 1,
+  "isPokeball": false
+}

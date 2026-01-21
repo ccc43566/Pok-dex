@@ -1,0 +1,12 @@
+{
+  "id": 217,
+  "name": "心灵香草",
+  "english": "Mental Herb",
+  "category": "道具",
+  "num": 217,
+  "spritenum": 217,
+  "desc": "当携带它的宝可梦无法自由使出招式时，仅会回复１次。",
+  "shortDesc": "当携带它的宝可梦无法自由使出招式时，仅会回复１次。",
+  "gen": 1,
+  "isPokeball": false
+}

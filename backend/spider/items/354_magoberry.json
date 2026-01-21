@@ -1,0 +1,12 @@
+{
+  "id": 354,
+  "name": "Mago Berry",
+  "english": "magoberry",
+  "category": "道具",
+  "num": 354,
+  "spritenum": 274,
+  "desc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use.",
+  "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use.",
+  "gen": 3,
+  "isPokeball": false
+}

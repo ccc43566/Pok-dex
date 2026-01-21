@@ -1,0 +1,25 @@
+{
+  "id": 26,
+  "name": "Raichu-Mega-Y",
+  "type1": "Electric",
+  "type2": null,
+  "hp": 60,
+  "attack": 100,
+  "defense": 55,
+  "sp_atk": 160,
+  "sp_def": 80,
+  "speed": 130,
+  "total": 585,
+  "abilities": [
+    "Surge Surfer"
+  ],
+  "height": 1.0,
+  "weight": 26.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5/raichu-megay.png"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 743,
+  "name": "Ribombee",
+  "type1": "Bug",
+  "type2": "Fairy",
+  "hp": 60,
+  "attack": 55,
+  "defense": 60,
+  "sp_atk": 95,
+  "sp_def": 70,
+  "speed": 124,
+  "total": 464,
+  "abilities": [
+    "Honey Gather",
+    "Shield Dust",
+    "Sweet Veil"
+  ],
+  "height": 0.2,
+  "weight": 0.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Cutiefly",
+  "evo_level": 25,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ribombee.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\743_ribombee.gif"
+}

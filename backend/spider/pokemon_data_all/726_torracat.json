@@ -1,0 +1,32 @@
+{
+  "id": 726,
+  "name": "Torracat",
+  "type1": "Fire",
+  "type2": null,
+  "hp": 65,
+  "attack": 85,
+  "defense": 50,
+  "sp_atk": 80,
+  "sp_def": 50,
+  "speed": 90,
+  "total": 420,
+  "abilities": [
+    "Blaze",
+    "Intimidate"
+  ],
+  "height": 0.7,
+  "weight": 25.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Incineroar"
+  ],
+  "prevo": "Litten",
+  "evo_level": 17,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/torracat.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\726_torracat.gif"
+}

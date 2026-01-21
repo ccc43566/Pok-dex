@@ -1,0 +1,32 @@
+{
+  "id": 408,
+  "name": "Cranidos",
+  "type1": "Rock",
+  "type2": null,
+  "hp": 67,
+  "attack": 125,
+  "defense": 40,
+  "sp_atk": 30,
+  "sp_def": 30,
+  "speed": 58,
+  "total": 350,
+  "abilities": [
+    "Mold Breaker",
+    "Sheer Force"
+  ],
+  "height": 0.9,
+  "weight": 31.5,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Rampardos"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/cranidos.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\408_cranidos.gif"
+}

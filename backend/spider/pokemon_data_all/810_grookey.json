@@ -1,0 +1,32 @@
+{
+  "id": 810,
+  "name": "Grookey",
+  "type1": "Grass",
+  "type2": null,
+  "hp": 50,
+  "attack": 65,
+  "defense": 50,
+  "sp_atk": 40,
+  "sp_def": 40,
+  "speed": 65,
+  "total": 310,
+  "abilities": [
+    "Overgrow",
+    "Grassy Surge"
+  ],
+  "height": 0.3,
+  "weight": 5.0,
+  "gender_ratio": {
+    "M": 0.875,
+    "F": 0.125
+  },
+  "evos": [
+    "Thwackey"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/grookey.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\810_grookey.gif"
+}

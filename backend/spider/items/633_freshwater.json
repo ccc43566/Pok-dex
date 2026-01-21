@@ -1,0 +1,12 @@
+{
+  "id": 633,
+  "name": "美味之水",
+  "english": "Fresh Water",
+  "category": "回复",
+  "num": 633,
+  "spritenum": 633,
+  "desc": "富含矿物质的水。能让１只宝可梦回复３０ＨＰ。",
+  "shortDesc": "富含矿物质的水。能让１只宝可梦回复３０ＨＰ。",
+  "gen": 1,
+  "isPokeball": false
+}

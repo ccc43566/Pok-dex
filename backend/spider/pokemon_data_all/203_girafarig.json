@@ -1,0 +1,30 @@
+{
+  "id": 203,
+  "name": "Girafarig",
+  "type1": "Normal",
+  "type2": "Psychic",
+  "hp": 70,
+  "attack": 80,
+  "defense": 65,
+  "sp_atk": 90,
+  "sp_def": 65,
+  "speed": 85,
+  "total": 455,
+  "abilities": [
+    "Inner Focus",
+    "Early Bird",
+    "Sap Sipper"
+  ],
+  "height": 1.5,
+  "weight": 41.5,
+  "gender_ratio": {},
+  "evos": [
+    "Farigiraf"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/girafarig.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\203_girafarig.gif"
+}

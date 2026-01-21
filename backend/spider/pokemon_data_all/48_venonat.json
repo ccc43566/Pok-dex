@@ -1,0 +1,30 @@
+{
+  "id": 48,
+  "name": "Venonat",
+  "type1": "Bug",
+  "type2": "Poison",
+  "hp": 60,
+  "attack": 55,
+  "defense": 50,
+  "sp_atk": 40,
+  "sp_def": 55,
+  "speed": 45,
+  "total": 305,
+  "abilities": [
+    "Compound Eyes",
+    "Tinted Lens",
+    "Run Away"
+  ],
+  "height": 1.0,
+  "weight": 30.0,
+  "gender_ratio": {},
+  "evos": [
+    "Venomoth"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/venonat.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\48_venonat.gif"
+}

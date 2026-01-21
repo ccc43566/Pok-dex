@@ -1,0 +1,24 @@
+{
+  "id": 664,
+  "name": "scatterbug",
+  "level_up": [
+    "bugbite",
+    "stringshot",
+    "stunspore",
+    "tackle"
+  ],
+  "egg_moves": [
+    "poisonpowder",
+    "ragepowder",
+    "stunspore"
+  ],
+  "tm_moves": [
+    "bugbite",
+    "pounce",
+    "strugglebug",
+    "terablast"
+  ],
+  "tutor_moves": [
+    "bugbite"
+  ]
+}

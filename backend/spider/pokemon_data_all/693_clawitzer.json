@@ -1,0 +1,26 @@
+{
+  "id": 693,
+  "name": "Clawitzer",
+  "type1": "Water",
+  "type2": null,
+  "hp": 71,
+  "attack": 73,
+  "defense": 88,
+  "sp_atk": 120,
+  "sp_def": 89,
+  "speed": 59,
+  "total": 500,
+  "abilities": [
+    "Mega Launcher"
+  ],
+  "height": 1.3,
+  "weight": 35.3,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Clauncher",
+  "evo_level": 37,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/clawitzer.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\693_clawitzer.gif"
+}

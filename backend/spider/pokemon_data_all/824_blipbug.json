@@ -1,0 +1,30 @@
+{
+  "id": 824,
+  "name": "Blipbug",
+  "type1": "Bug",
+  "type2": null,
+  "hp": 25,
+  "attack": 20,
+  "defense": 20,
+  "sp_atk": 25,
+  "sp_def": 45,
+  "speed": 45,
+  "total": 180,
+  "abilities": [
+    "Swarm",
+    "Compound Eyes",
+    "Telepathy"
+  ],
+  "height": 0.4,
+  "weight": 8.0,
+  "gender_ratio": {},
+  "evos": [
+    "Dottler"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/blipbug.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\824_blipbug.gif"
+}

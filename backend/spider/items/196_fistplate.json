@@ -1,0 +1,12 @@
+{
+  "id": 196,
+  "name": "Fist Plate",
+  "english": "fistplate",
+  "category": "道具",
+  "num": 196,
+  "spritenum": 143,
+  "desc": "Holder",
+  "shortDesc": "Holder",
+  "gen": 4,
+  "isPokeball": false
+}

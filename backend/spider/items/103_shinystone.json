@@ -1,0 +1,12 @@
+{
+  "id": 103,
+  "name": "光之石",
+  "english": "Shiny Stone",
+  "category": "道具",
+  "num": 103,
+  "spritenum": 103,
+  "desc": "能让某些特定宝可梦进化的神奇石头。像光芒一样耀眼。",
+  "shortDesc": "能让某些特定宝可梦进化的神奇石头。像光芒一样耀眼。",
+  "gen": 1,
+  "isPokeball": false
+}

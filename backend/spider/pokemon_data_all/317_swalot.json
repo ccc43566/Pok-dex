@@ -1,0 +1,28 @@
+{
+  "id": 317,
+  "name": "Swalot",
+  "type1": "Poison",
+  "type2": null,
+  "hp": 100,
+  "attack": 73,
+  "defense": 83,
+  "sp_atk": 73,
+  "sp_def": 83,
+  "speed": 55,
+  "total": 467,
+  "abilities": [
+    "Liquid Ooze",
+    "Sticky Hold",
+    "Gluttony"
+  ],
+  "height": 1.7,
+  "weight": 80.0,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Gulpin",
+  "evo_level": 26,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/swalot.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\317_swalot.gif"
+}

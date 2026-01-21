@@ -1,0 +1,28 @@
+{
+  "id": 168,
+  "name": "Ariados",
+  "type1": "Bug",
+  "type2": "Poison",
+  "hp": 70,
+  "attack": 90,
+  "defense": 70,
+  "sp_atk": 60,
+  "sp_def": 70,
+  "speed": 40,
+  "total": 400,
+  "abilities": [
+    "Swarm",
+    "Insomnia",
+    "Sniper"
+  ],
+  "height": 1.1,
+  "weight": 33.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Spinarak",
+  "evo_level": 22,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/ariados.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\168_ariados.gif"
+}

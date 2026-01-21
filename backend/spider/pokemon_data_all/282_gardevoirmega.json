@@ -1,0 +1,26 @@
+{
+  "id": 282,
+  "name": "Gardevoir-Mega",
+  "type1": "Psychic",
+  "type2": "Fairy",
+  "hp": 68,
+  "attack": 85,
+  "defense": 65,
+  "sp_atk": 165,
+  "sp_def": 135,
+  "speed": 100,
+  "total": 618,
+  "abilities": [
+    "Pixilate"
+  ],
+  "height": 1.6,
+  "weight": 48.4,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/gardevoir-mega.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\282_gardevoir-mega.gif"
+}

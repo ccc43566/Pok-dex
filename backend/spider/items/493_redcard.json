@@ -1,0 +1,12 @@
+{
+  "id": 493,
+  "name": "Red Card",
+  "english": "redcard",
+  "category": "道具",
+  "num": 493,
+  "spritenum": 387,
+  "desc": "If holder survives a hit, attacker is forced to switch to a random ally. Single use.",
+  "shortDesc": "If holder survives a hit, attacker is forced to switch to a random ally. Single use.",
+  "gen": 5,
+  "isPokeball": false
+}

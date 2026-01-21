@@ -1,0 +1,12 @@
+{
+  "id": 147,
+  "name": "黑球果",
+  "english": "Black Apricorn",
+  "category": "球果",
+  "num": 147,
+  "spritenum": 147,
+  "desc": "黑色的球果。有种无法形容的气味。",
+  "shortDesc": "黑色的球果。有种无法形容的气味。",
+  "gen": 1,
+  "isPokeball": false
+}

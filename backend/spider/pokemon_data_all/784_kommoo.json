@@ -1,0 +1,28 @@
+{
+  "id": 784,
+  "name": "Kommo-o",
+  "type1": "Dragon",
+  "type2": "Fighting",
+  "hp": 75,
+  "attack": 110,
+  "defense": 125,
+  "sp_atk": 100,
+  "sp_def": 105,
+  "speed": 85,
+  "total": 600,
+  "abilities": [
+    "Bulletproof",
+    "Soundproof",
+    "Overcoat"
+  ],
+  "height": 1.6,
+  "weight": 78.2,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Hakamo-o",
+  "evo_level": 45,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/kommoo.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\784_kommoo.gif"
+}

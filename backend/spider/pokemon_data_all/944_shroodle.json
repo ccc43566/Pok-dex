@@ -1,0 +1,30 @@
+{
+  "id": 944,
+  "name": "Shroodle",
+  "type1": "Poison",
+  "type2": "Normal",
+  "hp": 40,
+  "attack": 65,
+  "defense": 35,
+  "sp_atk": 40,
+  "sp_def": 35,
+  "speed": 75,
+  "total": 290,
+  "abilities": [
+    "Unburden",
+    "Pickpocket",
+    "Prankster"
+  ],
+  "height": 0.2,
+  "weight": 0.7,
+  "gender_ratio": {},
+  "evos": [
+    "Grafaiai"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/ani/shroodle.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\944_shroodle.gif"
+}

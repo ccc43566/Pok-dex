@@ -1,0 +1,30 @@
+{
+  "id": 16,
+  "name": "Pidgey",
+  "type1": "Normal",
+  "type2": "Flying",
+  "hp": 40,
+  "attack": 45,
+  "defense": 40,
+  "sp_atk": 35,
+  "sp_def": 35,
+  "speed": 56,
+  "total": 251,
+  "abilities": [
+    "Keen Eye",
+    "Tangled Feet",
+    "Big Pecks"
+  ],
+  "height": 0.3,
+  "weight": 1.8,
+  "gender_ratio": {},
+  "evos": [
+    "Pidgeotto"
+  ],
+  "prevo": null,
+  "evo_level": null,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/pidgey.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\16_pidgey.gif"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 834,
+  "name": "Drednaw",
+  "type1": "Water",
+  "type2": "Rock",
+  "hp": 90,
+  "attack": 115,
+  "defense": 90,
+  "sp_atk": 48,
+  "sp_def": 68,
+  "speed": 74,
+  "total": 485,
+  "abilities": [
+    "Strong Jaw",
+    "Shell Armor",
+    "Swift Swim"
+  ],
+  "height": 1.0,
+  "weight": 115.5,
+  "gender_ratio": {},
+  "evos": [],
+  "prevo": "Chewtle",
+  "evo_level": 22,
+  "evo_type": null,
+  "evo_item": null,
+  "image_url": "https://play.pokemonshowdown.com/sprites/gen5ani/drednaw.gif",
+  "image_path": "D:\\baizhan_program\\my_pokedex\\Pok-dex\\backend\\spider\\pokemon_images\\834_drednaw.gif"
+}

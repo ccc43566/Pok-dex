@@ -1,0 +1,12 @@
+{
+  "id": 1056,
+  "name": "兰萨果",
+  "english": "Lansat Berry",
+  "category": "树果",
+  "num": 1056,
+  "spritenum": 1056,
+  "desc": "让宝可梦携带后，危机时，攻击会变得容易击中要害。",
+  "shortDesc": "让宝可梦携带后，危机时，攻击会变得容易击中要害。",
+  "gen": 1,
+  "isPokeball": false
+}

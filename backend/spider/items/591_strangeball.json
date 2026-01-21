@@ -1,0 +1,12 @@
+{
+  "id": 591,
+  "name": "Strange Ball",
+  "english": "strangeball",
+  "category": "道具",
+  "num": 591,
+  "spritenum": 308,
+  "desc": "Placeholder if caught in Poke Ball not in current game.",
+  "shortDesc": "Placeholder if caught in Poke Ball not in current game.",
+  "gen": 8,
+  "isPokeball": true
+}

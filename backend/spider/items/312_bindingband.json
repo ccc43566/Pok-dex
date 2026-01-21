@@ -1,0 +1,12 @@
+{
+  "id": 312,
+  "name": "紧绑束带",
+  "english": "Binding Band",
+  "category": "道具",
+  "num": 312,
+  "spritenum": 312,
+  "desc": "能增强绑紧招式的束带。携带后，绑紧招式的威力会变强。",
+  "shortDesc": "能增强绑紧招式的束带。携带后，绑紧招式的威力会变强。",
+  "gen": 1,
+  "isPokeball": false
+}

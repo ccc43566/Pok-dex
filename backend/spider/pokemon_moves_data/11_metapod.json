@@ -1,0 +1,18 @@
+{
+  "id": 11,
+  "name": "metapod",
+  "level_up": [
+    "harden"
+  ],
+  "egg_moves": [],
+  "tm_moves": [
+    "electroweb",
+    "irondefense"
+  ],
+  "tutor_moves": [
+    "bugbite",
+    "electroweb",
+    "irondefense",
+    "stringshot"
+  ]
+}

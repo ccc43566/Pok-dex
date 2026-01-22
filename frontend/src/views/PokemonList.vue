@@ -281,7 +281,9 @@ export default {
     },
 
     toggleGenerationDropdown() {
+      console.log('toggleGenerationDropdown called, current isDropdownOpen:', this.isDropdownOpen)
       this.isDropdownOpen = !this.isDropdownOpen
+      console.log('After toggle, isDropdownOpen:', this.isDropdownOpen)
     },
 
     handleGenerationFilter(generationId) {
@@ -307,15 +309,22 @@ export default {
         .replace(/[^a-z0-9]/g, '') // 只保留字母和数字
         .replace(/\s+/g, '') // 移除空格
 
-      // 检查是否是世代御三家
-      const starterIds = [1, 4, 7, 152, 155, 158, 252, 255, 258, 387, 390, 393, 495, 498, 501, 650, 653, 656, 722, 725, 728, 810, 813, 816, 906, 909, 912]
+      console.log('getPokemonImage called with:', {
+        pokemon: pokemon,
+        isGenerationSelector: isGenerationSelector,
+        safeName: safeName
+      })
 
-      if (isGenerationSelector && starterIds.includes(pokemon.id)) {
-        // 世代选择器中的御三家使用PNG
-        return `/png-images/${pokemon.id}_${safeName}.png`
+      if (isGenerationSelector) {
+        // 世代选择器中的宝可梦使用PNG
+        const pngPath = `/png-images/${pokemon.id}_${safeName}.png`
+        console.log('Generation selector PNG path:', pngPath)
+        return pngPath
       } else {
         // 所有展示页面都使用GIF（如果有的话）
-        return `/images/${pokemon.id}_${safeName}.gif`
+        const gifPath = `/images/${pokemon.id}_${safeName}.gif`
+        console.log('Regular GIF path:', gifPath)
+        return gifPath
       }
     },
 
@@ -501,20 +510,22 @@ export default {
   justify-content: center;
   flex-grow: 1;
   align-items: center;
-  height: 44px;
-  min-height: 44px;
+  height: 114px;
+  min-height: 114px;
 }
 
 .generation-sprite {
-  width: 40px;
-  height: 40px;
-  min-width: 40px;
-  min-height: 40px;
-  background-size: 85%;
+  width: 110px;
+  height: 110px;
+  min-width: 110px;
+  min-height: 110px;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   display: inline-block;
   transition: all 0.3s ease;
+  border-radius: 5px;
+  background-color: rgba(240, 240, 240, 0.5);
 }
 
 .generation-range {

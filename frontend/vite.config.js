@@ -14,16 +14,16 @@ export default defineConfig({
     port: 5173,
     proxy: {
       '/api': {
-        target: 'http://localhost:8001',
-        changeOrigin: true
+        target: 'http://localhost:8003',
+        changeOrigin: true,
       },
       '/images': {
-        target: 'http://localhost:8001',
-        changeOrigin: true
+        target: 'http://localhost:8003',
+        changeOrigin: true,
       },
       '/png-images': {
-        target: 'http://localhost:8001',
-        changeOrigin: true
+        target: 'http://localhost:8003',
+        changeOrigin: true,
       }
     }
   }

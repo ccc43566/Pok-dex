@@ -120,8 +120,8 @@ class PokemonDB:
         if self.conn:
             self.conn.close()
             print("数据库连接已关闭")
-
-def insert_pokemon(self, pokemon_data):
+    
+    def insert_pokemon(self, pokemon_data):
         """
         插入单条宝可梦数据         ===========格式
         :param pokemon_data: 字典格式的宝可梦数据，示例：
@@ -139,22 +139,30 @@ def insert_pokemon(self, pokemon_data):
             "sp_def": 50,
             "speed": 90,
             "total": 320,
+            "height": 0.4,
+            "weight": 6.0,
+            "gender_ratio": '{"M": 0.5, "F": 0.5}',
             "description": "脸颊两边有着小小的电力袋。遇到危险时就会放电。"
         }
         """
+        import json
         sql = """
         INSERT OR IGNORE INTO pokemon 
-        (id, name, jp_name, en_name, type1, type2, hp, attack, defense, sp_atk, sp_def, speed, total, description)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        (id, name, jp_name, en_name, type1, type2, hp, attack, defense, sp_atk, sp_def, speed, total, height, weight, gender_ratio, description, image_path)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """
         try:
             cursor = self.conn.cursor()
+            # 将gender_ratio转换为JSON字符串
+            gender_ratio = pokemon_data.get("gender_ratio")
+            gender_ratio_json = json.dumps(gender_ratio) if gender_ratio is not None else None
             cursor.execute(sql, (
-                pokemon_data["id"], pokemon_data["name"], pokemon_data["jp_name"],
-                pokemon_data["en_name"], pokemon_data["type1"], pokemon_data["type2"],
+                pokemon_data["id"], pokemon_data["name"], pokemon_data.get("jp_name"),
+                pokemon_data.get("en_name"), pokemon_data["type1"], pokemon_data.get("type2"),
                 pokemon_data["hp"], pokemon_data["attack"], pokemon_data["defense"],
                 pokemon_data["sp_atk"], pokemon_data["sp_def"], pokemon_data["speed"],
-                pokemon_data["total"], pokemon_data["description"]
+                pokemon_data["total"], pokemon_data.get("height"), pokemon_data.get("weight"),
+                gender_ratio_json, pokemon_data.get("description"), pokemon_data.get("image_path")
             ))
             self.conn.commit()
             print(f"成功插入宝可梦: {pokemon_data['name']}")

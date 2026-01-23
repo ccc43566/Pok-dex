@@ -153,31 +153,13 @@ export default {
 
         // 收集所有类型和类别用于过滤器
         if (!this.moveTypes.length || !this.moveCategories.length) {
-          // 获取所有数据用于构建过滤器（分页获取）
-          let allMoves = []
-          let skip = 0
-          const batchSize = 100
-
-          while (true) {
-            const response = await pokemonAPI.getMoves({ skip, limit: batchSize })
-            allMoves = allMoves.concat(response.moves)
-            skip += batchSize
-
-            if (response.moves.length < batchSize) break
+          try {
+            const response = await pokemonAPI.getMoveFilters()
+            this.moveTypes = response.types || []
+            this.moveCategories = response.categories || []
+          } catch (err) {
+            console.error('获取技能过滤选项失败:', err)
           }
-
-          const typeSet = new Set()
-          const categorySet = new Set()
-          allMoves.forEach(move => {
-            if (move.type) {
-              typeSet.add(move.type)
-            }
-            if (move.category) {
-              categorySet.add(move.category)
-            }
-          })
-          this.moveTypes = Array.from(typeSet).sort()
-          this.moveCategories = Array.from(categorySet).sort()
         }
       } catch (err) {
         this.error = '获取技能列表失败: ' + err.message

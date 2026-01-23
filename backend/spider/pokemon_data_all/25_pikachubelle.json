@@ -15,7 +15,10 @@
   ],
   "height": 0.4,
   "weight": 6.0,
-  "gender_ratio": {},
+  "gender_ratio": {
+    "M": 0.5,
+    "F": 0.5
+  },
   "evos": [],
   "prevo": null,
   "evo_level": null,

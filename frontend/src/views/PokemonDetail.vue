@@ -121,27 +121,87 @@
         <!-- 进化链 -->
         <div class="info-card" v-if="evolutionChain && evolutionChain.length > 0">
           <h2>进化链</h2>
-          <div class="evolution-chain">
+          <div class="evolution-chains">
             <div
-              v-for="(stage, index) in evolutionChain"
-              :key="stage.name"
-              class="evolution-item"
+              v-for="(chain, chainIndex) in evolutionChain"
+              :key="chainIndex"
+              class="evolution-chain"
             >
-              <div class="evolution-arrow" v-if="index > 0">
-                <div class="arrow-line">→</div>
-                <div class="evolution-condition" v-if="stage.condition">
-                  {{ stage.condition }}
+              <div
+                v-for="(stage, index) in chain"
+                :key="`${chainIndex}-${stage.name}`"
+                class="evolution-item"
+              >
+                <div class="evolution-arrow" v-if="index > 0">
+                  <div class="arrow-line">→</div>
+                  <div class="evolution-condition" v-if="stage.condition">
+                    {{ stage.condition }}
+                  </div>
+                </div>
+                <div class="evolution-pokemon">
+                  <div class="evolution-image">
+                    <img
+                      :src="`/images/${stage.id}_${stage.name.toLowerCase()}.gif`"
+                      :alt="stage.name"
+                      @error="handleEvolutionImageError"
+                    >
+                  </div>
+                  <div class="evolution-name">{{ stage.name }}</div>
                 </div>
               </div>
-              <div class="evolution-pokemon">
-                <div class="evolution-image">
-                  <img
-                    :src="`/images/${stage.id}_${stage.name.toLowerCase()}.gif`"
-                    :alt="stage.name"
-                    @error="handleEvolutionImageError"
+            </div>
+          </div>
+        </div>
+
+        <!-- Mega和Gmax形态 -->
+        <div class="info-card" v-if="pokemon.mega_gmax_forms && pokemon.mega_gmax_forms.length > 0">
+          <h2>Mega/Gmax形态</h2>
+          <div class="mega-gmax-forms">
+            <div
+              v-for="form in pokemon.mega_gmax_forms"
+              :key="form.name"
+              class="mega-gmax-item"
+            >
+              <div class="mega-gmax-image">
+                <img 
+                  :src="`/images/${form.id}_${formatFormName(form.form_name)}.gif`" 
+                  :alt="form.name"
+                  @error="(event) => handleMegaGmaxImageError(event, form)"
+                >
+              </div>
+              <div class="mega-gmax-name">{{ form.name }}</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 变种形态 -->
+        <div class="info-card" v-if="pokemon.variants && pokemon.variants.length > 0">
+          <h2>变种形态</h2>
+          <div class="variants-list">
+            <div
+              v-for="variant in pokemon.variants"
+              :key="variant.name"
+              class="variant-item"
+            >
+              <div class="variant-image">
+                <img 
+                  :src="getPokemonImage(variant)"
+                  :alt="variant.name"
+                  @error="handleImageError"
+                >
+              </div>
+              <div class="variant-info">
+                <div class="variant-name">{{ variant.name }}</div>
+                <div class="variant-types">
+                  <span
+                    v-for="type in getPokemonTypes(variant)"
+                    :key="type"
+                    class="type-badge small"
+                    :class="`type-${type.toLowerCase()}`"
                   >
+                    {{ type }}
+                  </span>
                 </div>
-                <div class="evolution-name">{{ stage.name }}</div>
               </div>
             </div>
           </div>
@@ -232,12 +292,8 @@ export default {
         return []
       }
 
-      // API直接返回完整的进化链，按顺序排列
-      return this.evolutions.map((evolution, index) => ({
-        id: evolution.id,
-        name: evolution.name,
-        condition: evolution.condition
-      }))
+      // API返回嵌套数组，每个子数组代表一条进化链路径
+      return this.evolutions
     },
     genderRatioText() {
       if (!this.pokemon || !this.pokemon.gender_ratio) {
@@ -262,8 +318,8 @@ export default {
           } else if (femaleRatio === 0) {
             return '仅雄性'
           } else {
-            const malePercent = Math.round(maleRatio * 100)
-            const femalePercent = Math.round(femaleRatio * 100)
+            const malePercent = (maleRatio * 100).toFixed(1)
+            const femalePercent = (femaleRatio * 100).toFixed(1)
             return `雄性:${malePercent}% 雌性:${femalePercent}%`
           }
         }
@@ -349,6 +405,32 @@ export default {
       }
     },
 
+    // 处理Mega/Gmax形态图片加载失败
+    handleMegaGmaxImageError(event, form) {
+      // 构建正确格式的文件名（带连字符）
+      let formattedName = this.formatFormName(form.form_name);
+      // 尝试加载PNG格式
+      event.target.src = `/png-images/${form.id}_${formattedName}.png`;
+    },
+    formatFormName(formName) {
+      // 转换所有宝可梦的Mega和Gmax形态文件名格式
+      let formattedName = formName.toLowerCase();
+      
+      // 在宝可梦名称和形态之间添加连字符
+      if (formattedName.includes('megax')) {
+        formattedName = formattedName.replace('megax', '-megax');
+      } else if (formattedName.includes('megay')) {
+        formattedName = formattedName.replace('megay', '-megay');
+      } else if (formattedName.includes('mega')) {
+        formattedName = formattedName.replace('mega', '-mega');
+      } else if (formattedName.includes('gmax')) {
+        formattedName = formattedName.replace('gmax', '-gmax');
+      }
+      
+      console.log(`Form name conversion: ${formName} -> ${formattedName}`);
+      return formattedName;
+    },
+
     getEvolutionId(name) {
       // 简化版本：假设进化后的宝可梦ID与当前宝可梦ID相同
       // 在实际应用中，需要根据名称查找对应的ID
@@ -359,6 +441,16 @@ export default {
       if (!value) return '0%'
       // 最大种族值通常是255，转换为百分比
       return Math.min((value / 255) * 100, 100) + '%'
+    },
+
+    genderRatioText() {
+      if (this.pokemon && this.pokemon.gender_ratio) {
+        const ratio = this.pokemon.gender_ratio
+        const male = ratio.M ? (ratio.M * 100).toFixed(1) : '0'
+        const female = ratio.F ? (ratio.F * 100).toFixed(1) : '0'
+        return `${male}% 雄性, ${female}% 雌性`
+      }
+      return null
     }
   }
 }
@@ -499,6 +591,43 @@ export default {
   color: #666;
 }
 
+/* Mega和Gmax形态样式 */
+.mega-gmax-forms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.mega-gmax-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.mega-gmax-image {
+  width: 120px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f8f9fa;
+  border-radius: 10px;
+  border: 2px solid #e9ecef;
+}
+
+.mega-gmax-image img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.mega-gmax-name {
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+}
+
 .value {
   color: #333;
 }
@@ -574,12 +703,22 @@ export default {
 }
 
 /* 进化链样式 */
+.evolution-chains {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
 .evolution-chain {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
   align-items: center;
   justify-content: center;
+  padding: 1rem;
+  background: #f0f0f0;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
 }
 
 .evolution-item {
@@ -714,6 +853,73 @@ export default {
 
 .show-more-btn:hover {
   background: #5a67d8;
+}
+
+/* 变种形态样式 */
+.variants-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.variant-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border: 1px solid #e9ecef;
+  min-width: 120px;
+  transition: transform 0.2s ease;
+}
+
+.variant-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.variant-image {
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: white;
+  border-radius: 8px;
+  border: 1px solid #e9ecef;
+}
+
+.variant-image img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.variant-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.variant-name {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+}
+
+.variant-types {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.type-badge.small {
+  font-size: 0.7rem;
+  padding: 0.2rem 0.4rem;
 }
 
 @media (max-width: 768px) {

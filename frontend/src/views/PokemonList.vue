@@ -5,7 +5,7 @@
         <input
           v-model="searchQuery"
           type="text"
-          placeholder="搜索宝可梦名称..."
+          placeholder="搜索宝可梦名称或序号..."
           @keyup.enter="handleSearch"
         >
         <button @click="handleSearch" :disabled="loading">搜索</button>

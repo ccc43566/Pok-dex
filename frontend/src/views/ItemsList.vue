@@ -122,26 +122,12 @@ export default {
 
         // 收集所有类别用于过滤器
         if (!this.categories.length) {
-          // 获取所有数据用于构建过滤器（分页获取）
-          let allItems = []
-          let skip = 0
-          const batchSize = 100
-
-          while (true) {
-            const response = await pokemonAPI.getItems({ skip, limit: batchSize })
-            allItems = allItems.concat(response.items)
-            skip += batchSize
-
-            if (response.items.length < batchSize) break
+          try {
+            const response = await pokemonAPI.getItemCategories()
+            this.categories = response.categories || []
+          } catch (err) {
+            console.error('获取物品类别失败:', err)
           }
-
-          const categorySet = new Set()
-          allItems.forEach(item => {
-            if (item.category) {
-              categorySet.add(item.category)
-            }
-          })
-          this.categories = Array.from(categorySet).sort()
         }
       } catch (err) {
         this.error = '获取物品列表失败: ' + err.message

@@ -73,6 +73,16 @@ export const pokemonAPI = {
     return api.get('/moves', { params })
   },
 
+  // 获取物品类别
+  getItemCategories() {
+    return api.get('/items/categories')
+  },
+
+  // 获取技能过滤选项
+  getMoveFilters() {
+    return api.get('/moves/filters')
+  },
+
   // 获取统计信息
   getStats() {
     return api.get('/stats')

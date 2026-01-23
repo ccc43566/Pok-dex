@@ -339,6 +339,9 @@ async def get_pokemon_data(pokemon_name, js_content, session, semaphore, correct
 
         # 6. 获取雌雄比例（从JS数据）
         data['gender_ratio'] = pokemon.get('genderRatio', {})
+        # 如果没有性别比例信息，默认设置为50%雄性和50%雌性
+        if not data['gender_ratio']:
+            data['gender_ratio'] = {'M': 0.5, 'F': 0.5}
 
         # 7. 获取进化信息（从JS数据）
         data['evos'] = pokemon.get('evos', [])

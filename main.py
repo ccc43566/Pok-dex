@@ -61,8 +61,15 @@ class Pokemon(BaseModel):
     sp_def: Optional[int] = None
     speed: Optional[int] = None
     total: Optional[int] = None
+    height: Optional[float] = None
+    weight: Optional[float] = None
+    gender_ratio: Optional[dict] = None
     description: Optional[str] = None
     image_path: Optional[str] = None
+    variants: Optional[List['Pokemon']] = []
+
+# 更新forward references
+Pokemon.model_rebuild()
 
 # 初始化数据库
 init_db()
@@ -111,12 +118,23 @@ async def get_pokemon(
     # 搜索过滤
     if search:
         search_lower = search.lower()
-        all_pokemon = [
-            p for p in all_pokemon
-            if search_lower in p['name'].lower() or
-               (p.get('en_name') and search_lower in p['en_name'].lower()) or
-               (p.get('jp_name') and search_lower in p['jp_name'].lower())
-        ]
+        # 检查是否为数字，用于按序号搜索
+        if search.isdigit():
+            search_id = int(search)
+            all_pokemon = [
+                p for p in all_pokemon
+                if p['id'] == search_id or
+                   search_lower in p['name'].lower() or
+                   (p.get('en_name') and search_lower in p['en_name'].lower()) or
+                   (p.get('jp_name') and search_lower in p['jp_name'].lower())
+            ]
+        else:
+            all_pokemon = [
+                p for p in all_pokemon
+                if search_lower in p['name'].lower() or
+                   (p.get('en_name') and search_lower in p['en_name'].lower()) or
+                   (p.get('jp_name') and search_lower in p['jp_name'].lower())
+            ]
 
     # 属性过滤
     if type_filter:
@@ -150,6 +168,11 @@ async def get_single_pokemon(pokemon_id: int):
             print(f"宝可梦 {pokemon_id} 未找到")
             raise HTTPException(status_code=404, detail="宝可梦未找到")
 
+        # 查找mega和gmax形态
+        base_name = pokemon['name']
+        mega_gmax_forms = find_mega_gmax_forms(pokemon_id, base_name)
+        pokemon['mega_gmax_forms'] = mega_gmax_forms
+
         print(f"返回宝可梦数据: {pokemon.get('name', 'Unknown') if isinstance(pokemon, dict) else 'Not dict'}")
         return pokemon
     except HTTPException:
@@ -164,17 +187,26 @@ async def get_single_pokemon(pokemon_id: int):
 @app.get("/api/pokemon/search/{name}")
 async def search_pokemon_by_name(name: str):
     """
-    根据名称搜索宝可梦
+    根据名称或序号搜索宝可梦
     """
     all_pokemon = get_all_pokemon()
     name_lower = name.lower()
 
     results = []
     for p in all_pokemon:
-        if (name_lower in p['name'].lower() or
-            (p.get('en_name') and name_lower in p['en_name'].lower()) or
-            (p.get('jp_name') and name_lower in p['jp_name'].lower())):
-            results.append(p)
+        # 检查是否为数字，用于按序号搜索
+        if name.isdigit():
+            search_id = int(name)
+            if (p['id'] == search_id or
+                name_lower in p['name'].lower() or
+                (p.get('en_name') and name_lower in p['en_name'].lower()) or
+                (p.get('jp_name') and name_lower in p['jp_name'].lower())):
+                results.append(p)
+        else:
+            if (name_lower in p['name'].lower() or
+                (p.get('en_name') and name_lower in p['en_name'].lower()) or
+                (p.get('jp_name') and name_lower in p['jp_name'].lower())):
+                results.append(p)
 
     if not results:
         raise HTTPException(status_code=404, detail="未找到匹配的宝可梦")
@@ -259,6 +291,37 @@ async def get_moves(
 
     return {"moves": moves_list, "total": total, "skip": skip, "limit": limit}
 
+@app.get("/api/items/categories")
+async def get_item_categories():
+    """
+    获取所有物品类别
+    """
+    all_items = get_all_items()
+    categories = set()
+    
+    for item in all_items:
+        if item.get('category'):
+            categories.add(item['category'])
+    
+    return {"categories": sorted(list(categories))}
+
+@app.get("/api/moves/filters")
+async def get_move_filters():
+    """
+    获取技能过滤选项（属性和类别）
+    """
+    all_moves = get_all_moves()
+    types = set()
+    categories = set()
+    
+    for move in all_moves:
+        if move.get('type'):
+            types.add(move['type'])
+        if move.get('category'):
+            categories.add(move['category'])
+    
+    return {"types": sorted(list(types)), "categories": sorted(list(categories))}
+
 @app.get("/api/pokemon/{pokemon_id}/evolutions")
 async def get_pokemon_evolutions(pokemon_id: int):
     """
@@ -328,46 +391,62 @@ def build_full_evolution_chain(start_name):
             print(f"读取数据文件失败 {name}: {e}")
             return None
 
-    def build_chain_from_base(base_name):
-        """从基础形态开始构建完整进化链"""
-        current_name = base_name
-        step_count = 0
+    def build_chain_with_branches(current_name, current_chain, step_count):
+        """递归构建带分支的进化链"""
+        if current_name in visited or step_count >= 10:  # 防止无限循环
+            return
 
-        while current_name and step_count < 10:  # 防止无限循环
-            if current_name in visited:
-                break
+        # 查找这个宝可梦的数据
+        pokemon_id = find_pokemon_id_by_name(current_name)
+        if not pokemon_id:
+            return
+
+        data_file = f"backend/spider/pokemon_data_all/{pokemon_id}_{current_name.lower()}.json"
+        if not os.path.exists(data_file):
+            return
+
+        try:
+            with open(data_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+
+            # 创建当前宝可梦的进化信息
+            current_pokemon = {
+                "id": pokemon_id,
+                "name": current_name,
+                "condition": format_evolution_condition(data) if step_count > 0 else None
+            }
+
+            # 添加到当前链
+            new_chain = current_chain + [current_pokemon]
+
+            # 如果没有更多进化形态，将当前链添加到结果中
+            if not data.get('evos') or len(data['evos']) == 0:
+                # 检查是否已经添加过相同的链
+                chain_exists = False
+                for existing_chain in chain:
+                    if len(existing_chain) == len(new_chain):
+                        match = True
+                        for i in range(len(existing_chain)):
+                            if existing_chain[i]['name'] != new_chain[i]['name']:
+                                match = False
+                                break
+                        if match:
+                            chain_exists = True
+                            break
+                if not chain_exists:
+                    chain.append(new_chain)
+                return
+
+            # 标记当前宝可梦为已访问
             visited.add(current_name)
 
-            # 查找这个宝可梦的数据
-            pokemon_id = find_pokemon_id_by_name(current_name)
-            if not pokemon_id:
-                break
+            # 处理每个进化形态（分支进化）
+            for i, evo_name in enumerate(data['evos']):
+                # 对于非第一个进化形态，创建新的分支链
+                build_chain_with_branches(evo_name, new_chain, step_count + 1)
 
-            data_file = f"backend/spider/pokemon_data_all/{pokemon_id}_{current_name.lower()}.json"
-            if not os.path.exists(data_file):
-                break
-
-            try:
-                with open(data_file, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-
-                # 添加到进化链
-                chain.append({
-                    "id": pokemon_id,
-                    "name": current_name,
-                    "condition": format_evolution_condition(data) if step_count > 0 else None
-                })
-
-                # 如果有进化形态，继续
-                if data.get('evos') and len(data['evos']) > 0:
-                    current_name = data['evos'][0]  # 取第一个进化形态
-                    step_count += 1
-                else:
-                    break
-
-            except Exception as e:
-                print(f"读取数据文件失败 {current_name}: {e}")
-                break
+        except Exception as e:
+            print(f"读取数据文件失败 {current_name}: {e}")
 
     # 找到基础形态
     base_form = find_base_form(start_name)
@@ -375,9 +454,46 @@ def build_full_evolution_chain(start_name):
         # 清空visited集合，为构建链做准备
         visited.clear()
         # 从基础形态开始构建完整链
-        build_chain_from_base(base_form)
+        build_chain_with_branches(base_form, [], 0)
 
     return chain
+
+def find_mega_gmax_forms(pokemon_id, base_name):
+    """
+    查找宝可梦的mega和gmax形态
+    """
+    mega_gmax_forms = []
+    
+    # 遍历宝可梦数据目录，查找包含mega或gmax的文件
+    data_dir = "backend/spider/pokemon_data_all"
+    if os.path.exists(data_dir):
+        for filename in os.listdir(data_dir):
+            if filename.startswith(f"{pokemon_id}_"):
+                # 提取文件名中的宝可梦名称（不含id和扩展名）
+                name_part = filename[len(f"{pokemon_id}_"):-5]  # 移除id_前缀和.json后缀
+                
+                # 只检查mega和gmax形态
+                if any(keyword in name_part.lower() for keyword in ['mega', 'gmax']):
+                    # 构建完整的宝可梦名称
+                    full_name = base_name
+                    
+                    # 处理mega和gmax形态
+                    if 'megax' in name_part.lower():
+                        full_name = base_name + '-Mega-X'
+                    elif 'megay' in name_part.lower():
+                        full_name = base_name + '-Mega-Y'
+                    elif 'mega' in name_part.lower():
+                        full_name = base_name + '-Mega'
+                    elif 'gmax' in name_part.lower():
+                        full_name = base_name + '-Gmax'
+                    
+                    mega_gmax_forms.append({
+                        "id": pokemon_id,
+                        "name": full_name,
+                        "form_name": name_part
+                    })
+    
+    return mega_gmax_forms
 
 def format_evolution_condition(pokemon_data):
     """根据宝可梦数据格式化进化条件"""
@@ -587,7 +703,7 @@ async def root():
 
 if __name__ == "__main__":
     print("启动宝可梦图鉴 API 服务器...")
-    print("访问 http://localhost:8001 查看 API 文档")
-    print("访问 http://localhost:8001/docs 查看交互式文档")
-    print("访问 http://127.0.0.1:8001 查看 API 文档")
-    uvicorn.run(app, host="127.0.0.1", port=8001)
+    print("访问 http://localhost:8003 查看 API 文档")
+    print("访问 http://localhost:8003/docs 查看交互式文档")
+    print("访问 http://127.0.0.1:8003 查看 API 文档")
+    uvicorn.run(app, host="0.0.0.0", port=8003)

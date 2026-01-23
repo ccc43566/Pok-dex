@@ -20,9 +20,13 @@ def insert_all_pokemon():
     # 初始化数据库
     init_db()
 
+    # 获取项目根目录
+    import os
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    
     # 路径
-    data_dir = "backend/spider/pokemon_data_all"
-    desc_dir = "backend/spider/pokemon_descrptions"
+    data_dir = os.path.join(project_root, "backend/spider/pokemon_data_all")
+    desc_dir = os.path.join(project_root, "backend/spider/pokemon_descrptions")
 
     # 获取所有数据文件
     if not os.path.exists(data_dir):
@@ -67,6 +71,13 @@ def insert_all_pokemon():
             "image_path": data.get("image_path")
         }
 
+        # 添加调试信息
+        if data["id"] == 25:  # 只调试皮卡丘
+            print(f"\n调试皮卡丘数据:")
+            print(f"数据文件中的gender_ratio: {data.get('gender_ratio')}")
+            print(f"pokemon_data中的gender_ratio: {pokemon_data.get('gender_ratio')}")
+            print(f"gender_ratio类型: {type(pokemon_data.get('gender_ratio'))}")
+
         # 插入数据库
         try:
             insert_pokemon(pokemon_data)
@@ -80,7 +91,11 @@ def insert_all_moves():
     """插入所有技能数据"""
     init_db()
 
-    moves_dir = "backend/spider/moves"
+    # 获取项目根目录
+    import os
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    
+    moves_dir = os.path.join(project_root, "backend/spider/moves")
     if not os.path.exists(moves_dir):
         print(f"技能数据目录不存在: {moves_dir}")
         return
@@ -117,7 +132,11 @@ def insert_all_items():
     """插入所有物品数据"""
     init_db()
 
-    items_dir = "backend/spider/items"
+    # 获取项目根目录
+    import os
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    
+    items_dir = os.path.join(project_root, "backend/spider/items")
     if not os.path.exists(items_dir):
         print(f"物品数据目录不存在: {items_dir}")
         return
@@ -336,10 +355,14 @@ def get_evolution_condition(base_name, evolved_name):
     return evolution_conditions.get((base_name.lower(), evolved_name.lower()), "进化条件未知")
 
 def insert_all_evolutions():
-    """插入所有进化数据"""
+    """插入所有进化链数据"""
     init_db()
 
-    evolutions_dir = "backend/spider/pokemon_evolutions"
+    # 获取项目根目录
+    import os
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    
+    evolutions_dir = os.path.join(project_root, "backend/spider/pokemon_evolutions")
     if not os.path.exists(evolutions_dir):
         print(f"进化数据目录不存在: {evolutions_dir}")
         return

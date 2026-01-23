@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gender Ratio 测试</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f0f0f0;
+        }
+        .test-case {
+            background-color: white;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .test-case h3 {
+            margin-top: 0;
+            color: #333;
+        }
+        .result {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-radius: 3px;
+        }
+        .expected {
+            color: #666;
+            font-style: italic;
+        }
+        .actual {
+            color: #333;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Gender Ratio 处理逻辑测试</h1>
+    
+    <div class="test-case">
+        <h3>测试用例 1: 正常性别比例 (妙蛙种子)</h3>
+        <div class="expected">预期结果: 雄性:87.5% 雌性:12.5%</div>
+        <div class="result">
+            <div class="actual" id="result1"></div>
+        </div>
+    </div>
+    
+    <div class="test-case">
+        <h3>测试用例 2: 空性别比例对象 (皮卡丘)</h3>
+        <div class="expected">预期结果: 无性别</div>
+        <div class="result">
+            <div class="actual" id="result2"></div>
+        </div>
+    </div>
+    
+    <div class="test-case">
+        <h3>测试用例 3: 无性别比例字段</h3>
+        <div class="expected">预期结果: 不显示</div>
+        <div class="result">
+            <div class="actual" id="result3"></div>
+        </div>
+    </div>
+    
+    <div class="test-case">
+        <h3>测试用例 4: 仅雄性</h3>
+        <div class="expected">预期结果: 仅雄性</div>
+        <div class="result">
+            <div class="actual" id="result4"></div>
+        </div>
+    </div>
+    
+    <div class="test-case">
+        <h3>测试用例 5: 仅雌性</h3>
+        <div class="expected">预期结果: 仅雌性</div>
+        <div class="result">
+            <div class="actual" id="result5"></div>
+        </div>
+    </div>
+
+    <script>
+        // 模拟前端的genderRatioText计算属性逻辑
+        function getGenderRatioText(pokemon) {
+            if (!pokemon || !pokemon.gender_ratio) {
+                return null;
+            }
+
+            try {
+                // 如果gender_ratio是字符串，尝试解析为JSON
+                let genderData = pokemon.gender_ratio;
+                if (typeof genderData === 'string') {
+                    genderData = JSON.parse(genderData);
+                }
+
+                if (typeof genderData === 'object' && genderData !== null) {
+                    const maleRatio = genderData.M || genderData.male || 0;
+                    const femaleRatio = genderData.F || genderData.female || 0;
+
+                    if (maleRatio === 0 && femaleRatio === 0) {
+                        return '无性别';
+                    } else if (maleRatio === 0) {
+                        return '仅雌性';
+                    } else if (femaleRatio === 0) {
+                        return '仅雄性';
+                    } else {
+                        const malePercent = (maleRatio * 100).toFixed(1);
+                        const femalePercent = (femaleRatio * 100).toFixed(1);
+                        return `雄性:${malePercent}% 雌性:${femalePercent}%`;
+                    }
+                }
+            } catch (error) {
+                console.error('解析雌雄比例失败:', error);
+            }
+
+            return null;
+        }
+
+        // 测试用例数据
+        const testCases = [
+            {
+                id: 1,
+                name: 'Bulbasaur',
+                gender_ratio: { M: 0.875, F: 0.125 }
+            },
+            {
+                id: 25,
+                name: 'Pikachu',
+                gender_ratio: {}
+            },
+            {
+                id: 150,
+                name: 'Mewtwo',
+                // 无gender_ratio字段
+            },
+            {
+                id: 6,
+                name: 'Charizard',
+                gender_ratio: { M: 1, F: 0 }
+            },
+            {
+                id: 7,
+                name: 'Squirtle',
+                gender_ratio: { M: 0, F: 1 }
+            }
+        ];
+
+        // 运行测试
+        testCases.forEach((testCase, index) => {
+            const result = getGenderRatioText(testCase);
+            document.getElementById(`result${index + 1}`).textContent = result || '不显示';
+        });
+    </script>
+</body>
+</html>

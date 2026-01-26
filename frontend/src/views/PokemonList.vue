@@ -63,7 +63,7 @@
       </div>
     </div>
 
-    <div v-if="!loading && !error && pokemonList.length > 0" class="pagination">
+    <div v-if="!loading && !error && pokemonList.length > 0 && hasMore" class="pagination">
       <button
         @click="loadMore"
         :disabled="loadingMore"

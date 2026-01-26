@@ -217,6 +217,8 @@ async def search_pokemon_by_name(name: str):
     name_lower = name.lower()
 
     results = []
+    seen_ids = set()  # 用于跟踪已添加的宝可梦ID，避免重复
+    
     for p in all_pokemon:
         # 检查是否为数字，用于按序号搜索
         if name.isdigit():
@@ -224,13 +226,17 @@ async def search_pokemon_by_name(name: str):
             if (p['id'] == search_id or
                 name_lower in p['name'].lower() or
                 (p.get('en_name') and name_lower in p['en_name'].lower()) or
-                (p.get('jp_name') and name_lower in p['jp_name'].lower())):
+                (p.get('jp_name') and name_lower in p['jp_name'].lower())) and \
+               p['id'] not in seen_ids:
                 results.append(p)
+                seen_ids.add(p['id'])
         else:
             if (name_lower in p['name'].lower() or
                 (p.get('en_name') and name_lower in p['en_name'].lower()) or
-                (p.get('jp_name') and name_lower in p['jp_name'].lower())):
+                (p.get('jp_name') and name_lower in p['jp_name'].lower())) and \
+               p['id'] not in seen_ids:
                 results.append(p)
+                seen_ids.add(p['id'])
 
     if not results:
         raise HTTPException(status_code=404, detail="未找到匹配的宝可梦")

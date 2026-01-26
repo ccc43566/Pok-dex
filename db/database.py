@@ -273,8 +273,21 @@ def get_all_pokemon():
         else:
             print("使用缓存的变种宝可梦数据")
         
-        # 合并基础宝可梦和变种宝可梦
-        all_pokemon = pokemon_list + _variant_pokemon_cache
+        # 合并基础宝可梦和变种宝可梦，并去重
+        all_pokemon = []
+        seen_ids = set()  # 用于跟踪已添加的宝可梦ID
+        
+        # 先添加基础宝可梦
+        for pokemon in pokemon_list:
+            all_pokemon.append(pokemon)
+            seen_ids.add(pokemon['id'])
+        
+        # 添加变种宝可梦（只添加ID未出现过的）
+        for pokemon in _variant_pokemon_cache:
+            if pokemon['id'] not in seen_ids:
+                all_pokemon.append(pokemon)
+                seen_ids.add(pokemon['id'])
+        
         return all_pokemon
     except Exception as e:
         print(f"查询所有宝可梦失败: {e}")

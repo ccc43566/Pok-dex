@@ -3,74 +3,20 @@
     <div class="controls">
       <div class="search-bar">
         <input
-          v-model="searchQuery"
           type="text"
+          v-model="searchQuery"
           placeholder="搜索宝可梦名称或序号..."
           @keyup.enter="handleSearch"
         >
-        <button @click="handleSearch" :disabled="loading">搜索</button>
+        <button @click="handleSearch" class="search-btn">搜索</button>
       </div>
-
       <div class="filters">
-        <select v-model="selectedType" @change="handleTypeFilter">
+        <select v-model="selectedType" @change="handleTypeFilter" class="type-filter">
           <option value="">所有属性</option>
           <option v-for="type in availableTypes" :key="type" :value="type">
             {{ type }}
           </option>
         </select>
-      </div>
-    </div>
-
-    <div class="generation-filter">
-      <div class="generation-dropdown">
-        <div
-          class="generation-dropdown-header"
-          @click="toggleGenerationDropdown"
-        >
-          <div class="generation-name">
-            {{ selectedGeneration ? `第${selectedGeneration}世代` : '选择世代' }}
-          </div>
-          <div v-if="selectedGeneration" class="generation-sprites">
-            <div
-              v-for="example in generations.find(gen => gen.id === selectedGeneration).examples"
-              :key="example.id"
-              class="generation-sprite"
-              :style="{ backgroundImage: `url(${getPokemonImage(example, true)})` }"
-              :title="example.name"
-            ></div>
-          </div>
-          <div v-if="selectedGeneration" class="generation-range">
-            #{{ generations.find(gen => gen.id === selectedGeneration).startId }}-
-            {{ generations.find(gen => gen.id === selectedGeneration).endId }}
-          </div>
-          <div class="dropdown-arrow" :class="{ open: isDropdownOpen }">▼</div>
-        </div>
-        <div
-          class="generation-dropdown-menu"
-          :class="{ open: isDropdownOpen }"
-        >
-          <div
-            v-for="gen in generations"
-            :key="gen.id"
-            class="generation-tab"
-            :class="{ active: selectedGeneration === gen.id }"
-            @click="handleGenerationFilter(gen.id)"
-          >
-            <div class="generation-header">
-              <div class="generation-name">第{{ gen.id }}世代</div>
-              <div class="generation-sprites">
-                <div
-                  v-for="example in gen.examples"
-                  :key="example.id"
-                  class="generation-sprite"
-                  :style="{ backgroundImage: `url(${getPokemonImage(example, true)})` }"
-                  :title="example.name"
-                ></div>
-              </div>
-              <div class="generation-range">#{{ gen.startId }}-{{ gen.endId }}</div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
 
@@ -95,6 +41,7 @@
             :src="getPokemonImage(pokemon)"
             :alt="pokemon.name"
             @error="handleImageError"
+            loading="lazy"
           >
         </div>
         <div class="pokemon-info">
@@ -145,26 +92,17 @@ export default {
       error: null,
       searchQuery: '',
       selectedType: '',
-      selectedGeneration: null,
       skip: 0,
       limit: 50,
-      hasMore: true,
-      isDropdownOpen: false,
-      availableTypes: [
+      hasMore: true
+    }
+  },
+  computed: {
+    availableTypes() {
+      return [
         'Normal', 'Fire', 'Water', 'Grass', 'Electric', 'Ice', 'Fighting',
         'Poison', 'Ground', 'Flying', 'Psychic', 'Bug', 'Rock', 'Ghost',
         'Dragon', 'Dark', 'Steel', 'Fairy'
-      ],
-      generations: [
-        { id: 1, startId: 1, endId: 151, examples: [{ id: 1, name: 'Bulbasaur' }, { id: 4, name: 'Charmander' }, { id: 7, name: 'Squirtle' }] },
-        { id: 2, startId: 152, endId: 251, examples: [{ id: 152, name: 'Chikorita' }, { id: 155, name: 'Cyndaquil' }, { id: 158, name: 'Totodile' }] },
-        { id: 3, startId: 252, endId: 386, examples: [{ id: 252, name: 'Treecko' }, { id: 255, name: 'Torchic' }, { id: 258, name: 'Mudkip' }] },
-        { id: 4, startId: 387, endId: 493, examples: [{ id: 387, name: 'Turtwig' }, { id: 390, name: 'Chimchar' }, { id: 393, name: 'Piplup' }] },
-        { id: 5, startId: 494, endId: 649, examples: [{ id: 495, name: 'Snivy' }, { id: 498, name: 'Tepig' }, { id: 501, name: 'Oshawott' }] },
-        { id: 6, startId: 650, endId: 721, examples: [{ id: 650, name: 'Chespin' }, { id: 653, name: 'Fennekin' }, { id: 656, name: 'Froakie' }] },
-        { id: 7, startId: 722, endId: 809, examples: [{ id: 722, name: 'Rowlet' }, { id: 725, name: 'Litten' }, { id: 728, name: 'Popplio' }] },
-        { id: 8, startId: 810, endId: 905, examples: [{ id: 810, name: 'Grookey' }, { id: 813, name: 'Scorbunny' }, { id: 816, name: 'Sobble' }] },
-        { id: 9, startId: 906, endId: 1025, examples: [{ id: 906, name: 'Sprigatito' }, { id: 909, name: 'Fuecoco' }, { id: 912, name: 'Quaxly' }] }
       ]
     }
   },
@@ -172,6 +110,37 @@ export default {
     this.loadPokemon()
   },
   methods: {
+    // 处理类型过滤
+    handleTypeFilter() {
+      this.loadPokemon(true)
+    },
+    
+    // 处理搜索
+    handleSearch() {
+      if (this.searchQuery.trim()) {
+        this.searchPokemon()
+      } else {
+        this.loadPokemon(true)
+      }
+    },
+    
+    // 搜索宝可梦
+    async searchPokemon() {
+      this.loading = true
+      this.error = null
+
+      try {
+        const result = await pokemonAPI.searchPokemon(this.searchQuery.trim())
+        this.pokemonList = result.results || []
+        this.hasMore = false
+      } catch (error) {
+        this.error = error.message
+        console.error('搜索宝可梦失败:', error)
+      } finally {
+        this.loading = false
+      }
+    },
+    
     async loadPokemon(reset = false) {
       if (reset) {
         this.skip = 0
@@ -192,18 +161,6 @@ export default {
           params.type_filter = this.selectedType
         }
 
-        if (this.selectedGeneration) {
-          params.generation = this.selectedGeneration
-        }
-
-        if (this.selectedGeneration) {
-          params.generation = this.selectedGeneration
-        }
-
-        if (this.selectedGeneration) {
-          params.generation = this.selectedGeneration
-        }
-
         const data = await pokemonAPI.getPokemon(params)
         this.pokemonList = reset ? data : [...this.pokemonList, ...data]
 
@@ -219,7 +176,7 @@ export default {
     },
 
     async loadMore() {
-      if (!this.hasMore || this.loadingMore) return
+      if (!this.hasMore || this.loading || this.loadingMore) return
 
       this.loadingMore = true
       this.skip += this.limit
@@ -234,10 +191,6 @@ export default {
           params.type_filter = this.selectedType
         }
 
-        if (this.selectedGeneration) {
-          params.generation = this.selectedGeneration
-        }
-
         const data = await pokemonAPI.getPokemon(params)
         this.pokemonList = [...this.pokemonList, ...data]
 
@@ -245,51 +198,11 @@ export default {
           this.hasMore = false
         }
       } catch (error) {
+        this.error = error.message
         console.error('加载更多宝可梦失败:', error)
-        this.skip -= this.limit // 回滚skip
       } finally {
         this.loadingMore = false
       }
-    },
-
-    handleSearch() {
-      if (this.searchQuery.trim()) {
-        this.searchPokemon()
-      } else {
-        this.loadPokemon(true)
-      }
-    },
-
-    async searchPokemon() {
-      this.loading = true
-      this.error = null
-
-      try {
-        const result = await pokemonAPI.searchPokemon(this.searchQuery.trim())
-        this.pokemonList = result.results || []
-        this.hasMore = false
-      } catch (error) {
-        this.error = error.message
-        console.error('搜索宝可梦失败:', error)
-      } finally {
-        this.loading = false
-      }
-    },
-
-    handleTypeFilter() {
-      this.loadPokemon(true)
-    },
-
-    toggleGenerationDropdown() {
-      console.log('toggleGenerationDropdown called, current isDropdownOpen:', this.isDropdownOpen)
-      this.isDropdownOpen = !this.isDropdownOpen
-      console.log('After toggle, isDropdownOpen:', this.isDropdownOpen)
-    },
-
-    handleGenerationFilter(generationId) {
-      this.selectedGeneration = this.selectedGeneration === generationId ? null : generationId
-      this.isDropdownOpen = false // 选择后关闭下拉框
-      this.loadPokemon(true)
     },
 
     goToDetail(id) {
@@ -303,42 +216,21 @@ export default {
       return types
     },
 
-    getPokemonImage(pokemon, isGenerationSelector = false) {
-      // 世代选择器中的御三家使用PNG，其他都使用GIF
+    getPokemonImage(pokemon) {
       const safeName = pokemon.name.toLowerCase()
-        .replace(/[^a-z0-9]/g, '') // 只保留字母和数字
-        .replace(/\s+/g, '') // 移除空格
-
-      console.log('getPokemonImage called with:', {
-        pokemon: pokemon,
-        isGenerationSelector: isGenerationSelector,
-        safeName: safeName
-      })
-
-      if (isGenerationSelector) {
-        // 世代选择器中的宝可梦使用PNG
-        const pngPath = `/png-images/${pokemon.id}_${safeName}.png`
-        console.log('Generation selector PNG path:', pngPath)
-        return pngPath
-      } else {
-        // 所有展示页面都使用GIF（如果有的话）
-        const gifPath = `/images/${pokemon.id}_${safeName}.gif`
-        console.log('Regular GIF path:', gifPath)
-        return gifPath
-      }
+        .replace(/[^a-z0-9]/g, '')
+        .replace(/\s+/g, '')
+      return `/images/${pokemon.id}_${safeName}.gif`
     },
 
     handleImageError(event) {
-      // 首先尝试加载PNG版本，如果失败则显示默认图片
       const img = event.target
       const src = img.src
       if (src.endsWith('.gif')) {
-        // 如果是GIF图片加载失败，尝试加载PNG版本
         img.src = src.replace('.gif', '.png')
       } else if (!img.src.includes('25_pikachu.gif')) {
-        // 如果已经是PNG或其他格式，且不是默认图片，则显示默认图片
         img.src = '/images/25_pikachu.gif'
-        img.onerror = null // 防止无限循环
+        img.onerror = null
       }
     }
   }
@@ -368,202 +260,98 @@ export default {
 .search-bar input {
   flex: 1;
   padding: 0.75rem;
-  border: 2px solid #ddd;
-  border-radius: 5px 0 0 5px;
+  border: 1px solid #ddd;
+  border-radius: 4px 0 0 4px;
   font-size: 1rem;
 }
 
-.search-bar button {
+.search-btn {
   padding: 0.75rem 1.5rem;
-  background: #667eea;
+  background-color: #4CAF50;
   color: white;
   border: none;
-  border-radius: 0 5px 5px 0;
+  border-radius: 0 4px 4px 0;
   cursor: pointer;
   font-size: 1rem;
 }
 
-.search-bar button:hover:not(:disabled) {
-  background: #5a67d8;
+.search-btn:hover {
+  background-color: #45a049;
 }
 
-.search-bar button:disabled {
-  background: #ccc;
-  cursor: not-allowed;
+.filters {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
 }
 
-.filters select {
+.type-filter {
   padding: 0.75rem;
-  border: 2px solid #ddd;
-  border-radius: 5px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
   font-size: 1rem;
-  min-width: 150px;
+  min-width: 120px;
 }
 
-.generation-filter {
-  margin-bottom: 2rem;
-}
-
-.generation-dropdown {
-  position: relative;
-  max-width: 100%;
-}
-
-.generation-dropdown-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 1rem;
-  border: 2px solid #ddd;
-  border-radius: 10px;
-  cursor: pointer;
-  background: white;
-  transition: all 0.3s ease;
-}
-
-.generation-dropdown-header:hover {
-  border-color: #667eea;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.generation-dropdown-menu {
-  position: absolute;
-  top: calc(100% + 5px);
-  left: 0;
-  right: 0;
-  background: white;
-  border: 2px solid #ddd;
-  border-radius: 10px;
-  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
-  z-index: 100;
-  max-height: 400px;
-  overflow-y: auto;
-  opacity: 0;
-  visibility: hidden;
-  transform: translateY(-10px);
-  transition: all 0.3s ease;
-}
-
-.generation-dropdown-menu.open {
-  opacity: 1;
-  visibility: visible;
-  transform: translateY(0);
-}
-
-.dropdown-arrow {
-  margin-left: 1rem;
-  transition: transform 0.3s ease;
-  color: #667eea;
-  font-size: 0.8rem;
-}
-
-.dropdown-arrow.open {
-  transform: rotate(180deg);
-}
-
-.generation-tab {
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
-  padding: 1rem;
-  border-bottom: 1px solid #eee;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  background: white;
-}
-
-.generation-tab:last-child {
-  border-bottom: none;
-  border-radius: 0 0 8px 8px;
-}
-
-.generation-tab:first-child {
-  border-radius: 8px 8px 0 0;
-}
-
-.generation-tab:hover {
-  background: #f0f2ff;
-}
-
-.generation-tab.active {
-  background: #e8ecff;
-  border-left: 4px solid #667eea;
-}
-
-.generation-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 100%;
-}
-
-.generation-name {
-  font-weight: bold;
-  font-size: 1rem;
-  color: #333;
-  min-width: 80px;
-}
-
-.generation-sprites {
-  display: flex;
-  gap: 0.5rem;
-  justify-content: center;
-  flex-grow: 1;
-  align-items: center;
-  height: 114px;
-  min-height: 114px;
-}
-
-.generation-sprite {
-  width: 110px;
-  height: 110px;
-  min-width: 110px;
-  min-height: 110px;
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  display: inline-block;
-  transition: all 0.3s ease;
-  border-radius: 5px;
-  background-color: rgba(240, 240, 240, 0.5);
-}
-
-.generation-range {
-  font-size: 0.9rem;
+.loading, .error, .no-results {
+  text-align: center;
+  padding: 4rem 2rem;
   color: #666;
-  font-weight: normal;
-  min-width: 100px;
-  text-align: right;
+}
+
+.error {
+  color: #d32f2f;
+}
+
+.error button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.error button:hover {
+  background-color: #45a049;
 }
 
 .pokemon-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-  gap: 1.5rem;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 1rem;
   margin-bottom: 2rem;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .pokemon-card {
-  background: white;
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-  overflow: hidden;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
   cursor: pointer;
-  transition: transform 0.3s, box-shadow 0.3s;
+  transition: transform 0.2s, box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 200px;
+  justify-content: space-between;
 }
 
 .pokemon-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .pokemon-image {
-  height: 100px;
+  width: 80px;
+  height: 80px;
+  margin-bottom: 0.75rem;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #f8f9fa;
-  border-bottom: 1px solid #eee;
 }
 
 .pokemon-image img {
@@ -573,116 +361,127 @@ export default {
 }
 
 .pokemon-info {
-  padding: 0.5rem;
+  text-align: center;
+  width: 100%;
 }
 
 .pokemon-info h3 {
   margin: 0 0 0.5rem 0;
+  font-size: 0.875rem;
   color: #333;
-  font-size: 0.9rem;
-  text-align: center;
+  word-wrap: break-word;
 }
 
 .types {
   display: flex;
-  gap: 0.3rem;
-  margin-bottom: 0.5rem;
   justify-content: center;
+  gap: 0.25rem;
+  margin-bottom: 0.5rem;
   flex-wrap: wrap;
 }
 
 .type-badge {
-  padding: 0.15rem 0.35rem;
+  padding: 0.125rem 0.5rem;
   border-radius: 10px;
-  font-size: 0.65rem;
+  font-size: 0.625rem;
   font-weight: bold;
   color: white;
-  text-transform: uppercase;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
 }
-
-/* 属性颜色 */
-.type-normal { background: #A8A878; }
-.type-fire { background: #F08030; }
-.type-water { background: #6890F0; }
-.type-grass { background: #78C850; }
-.type-electric { background: #F8D030; }
-.type-ice { background: #98D8D8; }
-.type-fighting { background: #C03028; }
-.type-poison { background: #A040A0; }
-.type-ground { background: #E0C068; }
-.type-flying { background: #A890F0; }
-.type-psychic { background: #F85888; }
-.type-bug { background: #A8B820; }
-.type-rock { background: #B8A038; }
-.type-ghost { background: #705898; }
-.type-dragon { background: #7038F8; }
-.type-dark { background: #705848; }
-.type-steel { background: #B8B8D0; }
-.type-fairy { background: #EE99AC; }
 
 .stats {
-  font-size: 0.7rem;
+  font-size: 0.75rem;
   color: #666;
-  text-align: center;
-}
-
-.loading, .error, .no-results {
-  text-align: center;
-  padding: 3rem;
-  font-size: 1.2rem;
-}
-
-.error {
-  color: #e74c3c;
-}
-
-.error button {
-  margin-top: 1rem;
-  padding: 0.5rem 1rem;
-  background: #e74c3c;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
 }
 
 .pagination {
   text-align: center;
-  margin-top: 2rem;
+  margin: 2rem 0;
 }
 
 .load-more-btn {
-  padding: 1rem 2rem;
-  background: #667eea;
+  padding: 0.75rem 2rem;
+  background-color: #2196f3;
   color: white;
   border: none;
-  border-radius: 5px;
-  font-size: 1rem;
+  border-radius: 4px;
   cursor: pointer;
-  transition: background-color 0.3s;
+  font-size: 1rem;
+  transition: background-color 0.2s;
 }
 
 .load-more-btn:hover:not(:disabled) {
-  background: #5a67d8;
+  background-color: #1976d2;
 }
 
 .load-more-btn:disabled {
-  background: #ccc;
+  background-color: #bdbdbd;
   cursor: not-allowed;
+}
+
+/* 属性颜色 */
+.type-normal { background-color: #A8A77A; }
+.type-fire { background-color: #EE8130; }
+.type-water { background-color: #6390F0; }
+.type-electric { background-color: #F7D02C; }
+.type-grass { background-color: #7AC74C; }
+.type-ice { background-color: #96D9D6; }
+.type-fighting { background-color: #C22E28; }
+.type-poison { background-color: #A33EA1; }
+.type-ground { background-color: #E2BF65; }
+.type-flying { background-color: #A98FF3; }
+.type-psychic { background-color: #F95587; }
+.type-bug { background-color: #A6B91A; }
+.type-rock { background-color: #B6A136; }
+.type-ghost { background-color: #735797; }
+.type-dragon { background-color: #6F35FC; }
+.type-dark { background-color: #705746; }
+.type-steel { background-color: #B7B7CE; }
+.type-fairy { background-color: #D685AD; }
+
+@media (max-width: 1400px) {
+  .pokemon-grid {
+    grid-template-columns: repeat(6, 1fr);
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .pokemon-grid {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+  }
 }
 
 @media (max-width: 768px) {
   .controls {
     flex-direction: column;
     align-items: stretch;
+    gap: 1rem;
   }
 
   .search-bar {
     max-width: none;
   }
 
+  .filters {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .type-filter {
+    width: 100%;
+  }
+
   .pokemon-grid {
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .pokemon-grid {
+    grid-template-columns: 1fr;
     gap: 1rem;
   }
 }

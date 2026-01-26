@@ -186,8 +186,16 @@ def get_pokemon_by_id(pokemon_id):
         print(f"查询宝可梦失败: {e}")
         return None
 
+# 缓存变种宝可梦数据
+_variant_pokemon_cache = None
+_cache_timestamp = 0
+CACHE_DURATION = 3600  # 缓存1小时
+
 def get_all_pokemon():
     """获取所有宝可梦信息，包括变种形态"""
+    global _variant_pokemon_cache, _cache_timestamp
+    import time
+    
     if db_instance is None:
         init_db()
 
@@ -207,59 +215,67 @@ def get_all_pokemon():
                     pokemon_data['gender_ratio'] = {}
             pokemon_list.append(pokemon_data)
 
-        # 从pokemon_data_all目录中读取变种形态的数据
-        data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "backend/spider/pokemon_data_all")
-        print(f"变种宝可梦数据目录: {data_dir}")
-        print(f"目录是否存在: {os.path.exists(data_dir)}")
-        if os.path.exists(data_dir):
-            variant_count = 0
-            for filename in os.listdir(data_dir):
-                if filename.endswith('.json'):
-                    try:
-                        # 解析文件名获取id和名称
-                        parts = filename[:-5].split('_')  # 移除.json后缀
-                        if len(parts) >= 2:
-                            pokemon_id = int(parts[0])
-                            form_name = '_'.join(parts[1:])
-                            
-                            # 读取变种数据
-                            with open(os.path.join(data_dir, filename), 'r', encoding='utf-8') as f:
-                                form_data = json.load(f)
-                            
-                            # 构建变种宝可梦数据
-                            variant_pokemon = {
-                                'id': pokemon_id,
-                                'name': form_data.get('name', ''),
-                                'jp_name': form_data.get('jp_name'),
-                                'en_name': form_data.get('en_name'),
-                                'type1': form_data.get('type1', 'Normal'),
-                                'type2': form_data.get('type2'),
-                                'hp': form_data.get('hp'),
-                                'attack': form_data.get('attack'),
-                                'defense': form_data.get('defense'),
-                                'sp_atk': form_data.get('sp_atk'),
-                                'sp_def': form_data.get('sp_def'),
-                                'speed': form_data.get('speed'),
-                                'total': form_data.get('total', 0),
-                                'height': form_data.get('height'),
-                                'weight': form_data.get('weight'),
-                                'gender_ratio': form_data.get('gender_ratio'),
-                                'description': form_data.get('description'),
-                                'image_path': form_data.get('image_path')
-                            }
-                            
-                            # 检查是否已经存在相同名称的宝可梦
-                            if not any(p['name'] == variant_pokemon['name'] for p in pokemon_list):
-                                pokemon_list.append(variant_pokemon)
+        # 检查缓存是否有效
+        current_time = time.time()
+        if _variant_pokemon_cache is None or current_time - _cache_timestamp > CACHE_DURATION:
+            # 从pokemon_data_all目录中读取变种形态的数据
+            data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "backend/spider/pokemon_data_all")
+            variant_pokemon_list = []
+            if os.path.exists(data_dir):
+                variant_count = 0
+                for filename in os.listdir(data_dir):
+                    if filename.endswith('.json'):
+                        try:
+                            # 解析文件名获取id和名称
+                            parts = filename[:-5].split('_')  # 移除.json后缀
+                            if len(parts) >= 2:
+                                pokemon_id = int(parts[0])
+                                form_name = '_'.join(parts[1:])
+                                
+                                # 读取变种数据
+                                with open(os.path.join(data_dir, filename), 'r', encoding='utf-8') as f:
+                                    form_data = json.load(f)
+                                
+                                # 构建变种宝可梦数据
+                                variant_pokemon = {
+                                    'id': pokemon_id,
+                                    'name': form_data.get('name', ''),
+                                    'jp_name': form_data.get('jp_name'),
+                                    'en_name': form_data.get('en_name'),
+                                    'type1': form_data.get('type1', 'Normal'),
+                                    'type2': form_data.get('type2'),
+                                    'hp': form_data.get('hp'),
+                                    'attack': form_data.get('attack'),
+                                    'defense': form_data.get('defense'),
+                                    'sp_atk': form_data.get('sp_atk'),
+                                    'sp_def': form_data.get('sp_def'),
+                                    'speed': form_data.get('speed'),
+                                    'total': form_data.get('total', 0),
+                                    'height': form_data.get('height'),
+                                    'weight': form_data.get('weight'),
+                                    'gender_ratio': form_data.get('gender_ratio'),
+                                    'description': form_data.get('description'),
+                                    'image_path': form_data.get('image_path')
+                                }
+                                
+                                variant_pokemon_list.append(variant_pokemon)
                                 variant_count += 1
                                 if variant_count <= 10:  # 只显示前10个变种宝可梦
                                     print(f"添加变种宝可梦: {variant_pokemon['name']} (#{variant_pokemon['id']})")
-                    except Exception as e:
-                        print(f"处理变种宝可梦数据失败 {filename}: {e}")
-            print(f"总共添加了 {variant_count} 个变种宝可梦")
-            print(f"宝可梦总数: {len(pokemon_list)}")
+                        except Exception as e:
+                            print(f"处理变种宝可梦数据失败 {filename}: {e}")
+                print(f"总共添加了 {variant_count} 个变种宝可梦")
+                print(f"宝可梦总数: {len(pokemon_list) + len(variant_pokemon_list)}")
+            
+            # 更新缓存
+            _variant_pokemon_cache = variant_pokemon_list
+            _cache_timestamp = current_time
+        else:
+            print("使用缓存的变种宝可梦数据")
         
-        return pokemon_list
+        # 合并基础宝可梦和变种宝可梦
+        all_pokemon = pokemon_list + _variant_pokemon_cache
+        return all_pokemon
     except Exception as e:
         print(f"查询所有宝可梦失败: {e}")
         return []

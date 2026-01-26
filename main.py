@@ -1,5 +1,6 @@
 import json
 import os
+import time
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.staticfiles import StaticFiles
 import uvicorn
@@ -74,6 +75,22 @@ Pokemon.model_rebuild()
 # 初始化数据库
 init_db()
 
+# 缓存宝可梦数据
+_pokemon_cache = None
+_cache_timestamp = 0
+CACHE_DURATION = 3600  # 缓存1小时
+
+# 加载宝可梦数据到缓存
+def load_pokemon_cache():
+    global _pokemon_cache, _cache_timestamp
+    print("加载宝可梦数据到缓存...")
+    _pokemon_cache = get_all_pokemon()
+    _cache_timestamp = time.time()
+    print(f"宝可梦数据加载完成，共 {len(_pokemon_cache)} 个宝可梦")
+
+# 初始化时加载缓存
+load_pokemon_cache()
+
 @app.get("/api/pokemon", response_model=List[Pokemon])
 async def get_pokemon(
     skip: int = Query(0, ge=0, description="跳过的记录数"),
@@ -91,7 +108,14 @@ async def get_pokemon(
     - **search**: 搜索宝可梦名称
     - **generation**: 按世代过滤（1-9）
     """
-    all_pokemon = get_all_pokemon()
+    global _pokemon_cache, _cache_timestamp
+    
+    # 检查缓存是否过期
+    current_time = time.time()
+    if _pokemon_cache is None or current_time - _cache_timestamp > CACHE_DURATION:
+        load_pokemon_cache()
+    
+    all_pokemon = _pokemon_cache
 
     # 世代过滤
     if generation:

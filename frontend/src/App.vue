@@ -12,11 +12,13 @@
     </header>
 
     <main class="main-content">
-      <router-view />
+      <keep-alive include="PokemonList,ItemsList,MovesList,Stats">
+        <router-view />
+      </keep-alive>
     </main>
 
     <footer class="footer">
-      <p>&copy; 2024 宝可梦图鉴. 基于 Vue 3 & FastAPI</p>
+      <p>&copy; 2026 宝可梦图鉴. 基于 Vue 3 & FastAPI</p>
     </footer>
   </div>
 </template>

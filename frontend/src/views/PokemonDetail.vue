@@ -375,7 +375,17 @@ export default {
     },
 
     goBack() {
-      this.$router.go(-1)
+      // 检查是否从列表页跳转过来
+      if (this.$route.query.fromList === 'true') {
+        // 使用replace到列表页，并添加keepState参数来保持状态
+        this.$router.replace({
+          path: '/pokemon',
+          query: { keepState: 'true' }
+        })
+      } else {
+        // 如果不是从列表页跳转，则使用push到列表页
+        this.$router.push('/pokemon')
+      }
     },
 
     getPokemonTypes(pokemon) {
